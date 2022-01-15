@@ -207,11 +207,15 @@ if __name__ == "__main__":
 
     keywords = dict()
     keywords["NLP"] = "NLP" + "OR" + "\"Natural Language Processing\""
-    keywords["Sequence Annotation"] = "\"Sequence Annotation\"OR\"Sequence Marking\"OR\"Named Entity Recognition\""
-    keywords["Text Classification"] = "\"Text Classification\"OR\"Sentiment Analysis\"OR\"Topic Labeling\"OR\"News Classification\"OR\"Question Answering\"OR\"Dialog Act Classification\"OR\"Natural Language Inference\"OR\"Relation Classification\"OR\"Event Prediction\""
+    keywords["Sequence Annotation"] = "\"Sequence Annotation\"OR\"Sequence Marking\""
+    keywords["Named Entity Recognition"] = "\"Named Entity Recognition\""
+    keywords["Text Classification"] = "\"Text Classification\"OR\"Topic Labeling\"OR\"News Classification\"OR\"Dialog Act Classification\"OR\"Natural Language Inference\"OR\"Relation Classification\"OR\"Event Prediction\""
+    keywords["Sentiment Analysis"] = "\"Sentiment Analysis\""
+    keywords["Question Answering"] = "\"QA\"OR\"Question Answering\""
     keywords["Information Extraction"] = "\"Information Extraction\"OR\"Automatic Summary\"OR\"Title Generation\"OR\"Event Extraction\""
-    keywords["Recommendation System"] = "\"Recommendation System\"OR\"Semantic Matching\"OR\"Chatbots\"OR\"Knowledge Graph\"OR\"Knowledge Graphs\""
-    keywords["GNN"] = "GNN" + "OR" + "\"Recommendation System\"OR\"Graph Neural Network\""
+    keywords["Recommendation System"] = "\"Recommendation System\"OR\"Semantic Matching\"OR\"Chatbots\""
+    keywords["Knowledge Graph"] = "\"Knowledge Graph\"OR\"Knowledge Graphs\""
+    keywords["GNN"] = "GNN" + "OR" + "\"Graph Neural Network\""
 
     for topic, keyword in keywords.items():
         # topic = keyword.replace("\"","")
