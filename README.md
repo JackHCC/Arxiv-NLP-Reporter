@@ -4,6 +4,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-01-14**|**Multilingual Open Text 1.0: Public Domain News in 44 Languages**|Chester Palen-Michel et.al.|[2201.05609v1](http://arxiv.org/abs/2201.05609v1)|null|
+|**2022-01-13**|**Making a (Counterfactual) Difference One Rationale at a Time**|Mitchell Plyler et.al.|[2201.05177v1](http://arxiv.org/abs/2201.05177v1)|**[link](https://github.com/mlplyler/cfs_for_rationales)**|
+|**2022-01-13**|**Neural Approaches to Conversational Information Retrieval**|Jianfeng Gao et.al.|[2201.05176v1](http://arxiv.org/abs/2201.05176v1)|null|
 |**2022-01-13**|**Feature-rich multiplex lexical networks reveal mental strategies of early language learning**|Salvatore Citraro et.al.|[2201.05061v1](http://arxiv.org/abs/2201.05061v1)|null|
 |**2022-01-11**|**A Feature Extraction based Model for Hate Speech Identification**|Salar Mohtaj et.al.|[2201.04227v1](http://arxiv.org/abs/2201.04227v1)|null|
 |**2022-01-11**|**Deep Learning-Aided 6G Wireless Networks: A Comprehensive Survey of Revolutionary PHY Architectures**|Burak Ozpoyraz et.al.|[2201.03866v1](http://arxiv.org/abs/2201.03866v1)|null|
@@ -34,6 +37,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-01-14**|**A Warm Start and a Clean Crawled Corpus -- A Recipe for Good Language Models**|Vésteinn Snæbjarnarson et.al.|[2201.05601v1](http://arxiv.org/abs/2201.05601v1)|null|
 |**2022-01-10**|**DeepKE: A Deep Learning Based Knowledge Extraction Toolkit for Knowledge Base Population**|Ningyu Zhang et.al.|[2201.03335v1](http://arxiv.org/abs/2201.03335v1)|**[link](https://github.com/zjunlp/deepke)**|
 |**2021-12-31**|**A Deep Learning Approach to Integrate Human-Level Understanding in a Chatbot**|Afia Fairoose Abedin et.al.|[2201.02735v1](http://arxiv.org/abs/2201.02735v1)|null|
 |**2022-01-10**|**BERN2: an advanced neural biomedical named entity recognition and normalization tool**|Mujeen Sung et.al.|[2201.02080v2](http://arxiv.org/abs/2201.02080v2)|**[link](https://github.com/dmis-lab/bern2)**|
@@ -49,6 +53,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-01-08**|**Impact of Stop Sets on Stopping Active Learning for Text Classification**|Luke Kurlandski et.al.|[2201.05460v1](http://arxiv.org/abs/2201.05460v1)|null|
+|**2022-01-14**|**Eliciting Knowledge from Pretrained Language Models for Prototypical Prompt Verbalizer**|Yinyi Wei et.al.|[2201.05411v1](http://arxiv.org/abs/2201.05411v1)|**[link](https://github.com/ydongd/prototypical-prompt-verbalizer)**|
 |**2022-01-12**|**Computational analyses of the topics, sentiments, literariness, creativity and beauty of texts in a large Corpus of English Literature**|Arthur M. Jacobs et.al.|[2201.04356v1](http://arxiv.org/abs/2201.04356v1)|null|
 |**2022-01-11**|**Explaining Prediction Uncertainty of Pre-trained Language Models by Detecting Uncertain Words in Inputs**|Hanjie Chen et.al.|[2201.03742v1](http://arxiv.org/abs/2201.03742v1)|null|
 |**2022-01-11**|**Pavlovian Signalling with General Value Functions in Agent-Agent Temporal Decision Making**|Andrew Butcher et.al.|[2201.03709v1](http://arxiv.org/abs/2201.03709v1)|null|
@@ -79,6 +85,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-01-14**|**A Thousand Words Are Worth More Than a Picture: Natural Language-Centric Outside-Knowledge Visual Question Answering**|Feng Gao et.al.|[2201.05299v1](http://arxiv.org/abs/2201.05299v1)|null|
 |**2022-01-14**|**Grow-and-Clip: Informative-yet-Concise Evidence Distillation for Answer Explanation**|Yuyan Chen et.al.|[2201.05088v2](http://arxiv.org/abs/2201.05088v2)|null|
 |**2022-01-14**|**Towards Automated Error Analysis: Learning to Characterize Errors**|Tong Gao et.al.|[2201.05017v2](http://arxiv.org/abs/2201.05017v2)|null|
 |**2022-01-11**|**Uni-EDEN: Universal Encoder-Decoder Network by Multi-Granular Vision-Language Pre-training**|Yehao Li et.al.|[2201.04026v1](http://arxiv.org/abs/2201.04026v1)|null|
@@ -109,6 +116,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-01-14**|**Mental Health Assessment for the Chatbots**|Yong Shan et.al.|[2201.05382v1](http://arxiv.org/abs/2201.05382v1)|null|
+|**2022-01-12**|**Proceedings of the 4th Workshop on Online Recommender Systems and User Modeling -- ORSUM 2021**|João Vinagre et.al.|[2201.05156v1](http://arxiv.org/abs/2201.05156v1)|null|
 |**2022-01-13**|**REST: Debiased Social Recommendation via Reconstructing Exposure Strategies**|Ruichu Cai et.al.|[2201.04952v1](http://arxiv.org/abs/2201.04952v1)|**[link](https://github.com/dmirlab-group/rest)**|
 |**2022-01-13**|**On Sampling Collaborative Filtering Datasets**|Noveen Sachdeva et.al.|[2201.04768v1](http://arxiv.org/abs/2201.04768v1)|**[link](https://github.com/noveens/sampling_cf)**|
 |**2022-01-12**|**RGRecSys: A Toolkit for Robustness Evaluation of Recommender Systems**|Zohreh Ovaisi et.al.|[2201.04399v1](http://arxiv.org/abs/2201.04399v1)|**[link](https://github.com/salesforce/rgrecsys)**|
@@ -124,6 +133,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-01-14**|**Reasoning Through Memorization: Nearest Neighbor Knowledge Graph Embeddings**|Ningyu Zhang et.al.|[2201.05575v1](http://arxiv.org/abs/2201.05575v1)|null|
+|**2022-01-14**|**Training Free Graph Neural Networks for Graph Matching**|Zhiyuan Liu et.al.|[2201.05349v1](http://arxiv.org/abs/2201.05349v1)|**[link](https://github.com/acharkq/training-free-graph-matching)**|
+|**2022-01-13**|**NLP in Human Rights Research -- Extracting Knowledge Graphs About Police and Army Units and Their Commanders**|Daniel Bauer et.al.|[2201.05230v1](http://arxiv.org/abs/2201.05230v1)|**[link](https://github.com/security-force-monitor/sfm-graph-extractor)**|
 |**2022-01-11**|**Stock Movement Prediction Based on Bi-typed and Hybrid-relational Market Knowledge Graph via Dual Attention Networks**|Yu Zhao et.al.|[2201.04965v1](http://arxiv.org/abs/2201.04965v1)|null|
 |**2022-01-13**|**Ontological model identification based on data from heterogeneous sources**|A. Kalinin et.al.|[2201.04883v1](http://arxiv.org/abs/2201.04883v1)|null|
 |**2022-01-14**|**Towards a Reference Software Architecture for Human-AI Teaming in Smart Manufacturing**|Philipp Haindl et.al.|[2201.04876v2](http://arxiv.org/abs/2201.04876v2)|null|
@@ -139,6 +151,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-01-14**|**Compact Graph Structure Learning via Mutual Information Compression**|Nian Liu et.al.|[2201.05540v1](http://arxiv.org/abs/2201.05540v1)|**[link](https://github.com/liun-online/cogsl)**|
+|**2022-01-14**|**Collaborative learning of images and geometrics for predicting isocitrate dehydrogenase status of glioma**|Yiran Wei et.al.|[2201.05530v1](http://arxiv.org/abs/2201.05530v1)|null|
+|**2022-01-14**|**Training Free Graph Neural Networks for Graph Matching**|Zhiyuan Liu et.al.|[2201.05349v1](http://arxiv.org/abs/2201.05349v1)|**[link](https://github.com/acharkq/training-free-graph-matching)**|
+|**2022-01-14**|**Structure Enhanced Graph Neural Networks for Link Prediction**|Baole Ai et.al.|[2201.05293v1](http://arxiv.org/abs/2201.05293v1)|null|
+|**2022-01-13**|**Decompositional Quantum Graph Neural Network**|Xing Ai et.al.|[2201.05158v1](http://arxiv.org/abs/2201.05158v1)|null|
 |**2022-01-13**|**Multi-Scale Adaptive Graph Neural Network for Multivariate Time Series Forecasting**|Ling Chen et.al.|[2201.04828v1](http://arxiv.org/abs/2201.04828v1)|**[link](https://github.com/shangzongjiang/magnn)**|
 |**2022-01-11**|**Quasi-Framelets: Another Improvement to GraphNeural Networks**|Mengxi Yang et.al.|[2201.04728v1](http://arxiv.org/abs/2201.04728v1)|null|
 |**2022-01-12**|**How Can Graph Neural Networks Help Document Retrieval: A Case Study on CORD19 with Concept Map Generation**|Hejie Cui et.al.|[2201.04672v1](http://arxiv.org/abs/2201.04672v1)|null|
