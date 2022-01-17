@@ -66,10 +66,10 @@
 |---|---|---|---|---|
 |**2022-01-13**|**Knowledge Graph Augmented Network Towards Multiview Representation Learning for Aspect-based Sentiment Analysis**|Qihuang Zhong et.al.|[2201.04831v1](http://arxiv.org/abs/2201.04831v1)|null|
 |**2022-01-10**|**Multimodal Representations Learning Based on Mutual Information Maximization and Minimization and Identity Embedding for Multimodal Sentiment Analysis**|Jiahao Zheng et.al.|[2201.03969v1](http://arxiv.org/abs/2201.03969v1)|null|
-|**2022-01-11**|**Sentiment Analysis with Deep Learning Models: A Comparative Study on a Decade of Sinhala Language Facebook Data**|Gihan Weeraprameshwara et.al.|[2201.03941v1](http://arxiv.org/abs/2201.03941v1)|null|
+|**2022-01-14**|**Sentiment Analysis with Deep Learning Models: A Comparative Study on a Decade of Sinhala Language Facebook Data**|Gihan Weeraprameshwara et.al.|[2201.03941v2](http://arxiv.org/abs/2201.03941v2)|null|
 |**2022-01-11**|**Turkish Sentiment Analysis Using Machine Learning Methods: Application on Online Food Order Site Reviews**|Özlem Aktaş et.al.|[2201.03848v1](http://arxiv.org/abs/2201.03848v1)|null|
 |**2022-01-10**|**BERT for Sentiment Analysis: Pre-trained and Fine-Tuned Alternatives**|Frederico Souza et.al.|[2201.03382v1](http://arxiv.org/abs/2201.03382v1)|null|
-|**2022-01-10**|**TiltedBERT: Resource Adjustable Version of BERT**|Sajjad Kachuee et.al.|[2201.03327v1](http://arxiv.org/abs/2201.03327v1)|null|
+|**2022-01-14**|**TiltedBERT: Resource Adjustable Version of BERT**|Sajjad Kachuee et.al.|[2201.03327v2](http://arxiv.org/abs/2201.03327v2)|null|
 |**2022-01-09**|**Semantic and sentiment analysis of selected Bhagavad Gita translations using BERT-based language framework**|Rohitash Chandra et.al.|[2201.03115v1](http://arxiv.org/abs/2201.03115v1)|**[link](https://github.com/sydney-machine-learning/sentimentanalysis_bhagavadgita)**|
 |**2022-01-06**|**Fortunately, Discourse Markers Can Enhance Language Models for Sentiment Analysis**|Liat Ein-Dor et.al.|[2201.02026v1](http://arxiv.org/abs/2201.02026v1)|**[link](https://github.com/ibm/tslm-discourse-markers)**|
 |**2022-01-05**|**Monitoring Energy Trends through Automatic Information Extraction**|Dilek Küçük et.al.|[2201.01559v1](http://arxiv.org/abs/2201.01559v1)|null|
@@ -79,8 +79,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2022-01-13**|**Grow-and-Clip: Informative-yet-Concise Evidence Distillation for Answer Explanation**|Yuyan Chen et.al.|[2201.05088v1](http://arxiv.org/abs/2201.05088v1)|null|
-|**2022-01-13**|**Towards Automated Error Analysis: Learning to Characterize Errors**|Tong Gao et.al.|[2201.05017v1](http://arxiv.org/abs/2201.05017v1)|null|
+|**2022-01-14**|**Grow-and-Clip: Informative-yet-Concise Evidence Distillation for Answer Explanation**|Yuyan Chen et.al.|[2201.05088v2](http://arxiv.org/abs/2201.05088v2)|null|
+|**2022-01-14**|**Towards Automated Error Analysis: Learning to Characterize Errors**|Tong Gao et.al.|[2201.05017v2](http://arxiv.org/abs/2201.05017v2)|null|
 |**2022-01-11**|**Uni-EDEN: Universal Encoder-Decoder Network by Multi-Granular Vision-Language Pre-training**|Yehao Li et.al.|[2201.04026v1](http://arxiv.org/abs/2201.04026v1)|null|
 |**2022-01-11**|**On the Efficacy of Co-Attention Transformer Layers in Visual Question Answering**|Ankur Sikarwar et.al.|[2201.03965v1](http://arxiv.org/abs/2201.03965v1)|null|
 |**2022-01-10**|**SCROLLS: Standardized CompaRison Over Long Language Sequences**|Uri Shaham et.al.|[2201.03533v1](http://arxiv.org/abs/2201.03533v1)|**[link](https://github.com/tau-nlp/scrolls)**|
@@ -126,7 +126,7 @@
 |---|---|---|---|---|
 |**2022-01-11**|**Stock Movement Prediction Based on Bi-typed and Hybrid-relational Market Knowledge Graph via Dual Attention Networks**|Yu Zhao et.al.|[2201.04965v1](http://arxiv.org/abs/2201.04965v1)|null|
 |**2022-01-13**|**Ontological model identification based on data from heterogeneous sources**|A. Kalinin et.al.|[2201.04883v1](http://arxiv.org/abs/2201.04883v1)|null|
-|**2022-01-13**|**Towards a Reference Software Architecture for Human-AI Teaming in Smart Manufacturing**|Philipp Haindl et.al.|[2201.04876v1](http://arxiv.org/abs/2201.04876v1)|null|
+|**2022-01-14**|**Towards a Reference Software Architecture for Human-AI Teaming in Smart Manufacturing**|Philipp Haindl et.al.|[2201.04876v2](http://arxiv.org/abs/2201.04876v2)|null|
 |**2022-01-13**|**LP-BERT: Multi-task Pre-training Knowledge Graph BERT for Link Prediction**|Da Li et.al.|[2201.04843v1](http://arxiv.org/abs/2201.04843v1)|null|
 |**2022-01-13**|**Knowledge Graph Augmented Network Towards Multiview Representation Learning for Aspect-based Sentiment Analysis**|Qihuang Zhong et.al.|[2201.04831v1](http://arxiv.org/abs/2201.04831v1)|null|
 |**2022-01-11**|**Demystifying the Vulnerability Propagation and Its Evolution via Dependency Trees in the NPM Ecosystem**|Chengwei Liu et.al.|[2201.03981v1](http://arxiv.org/abs/2201.03981v1)|null|
