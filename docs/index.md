@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.01.17
+## Updated on 2022.01.18
 
 ## NLP
 
@@ -139,7 +139,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2022-01-14**|**Reasoning Through Memorization: Nearest Neighbor Knowledge Graph Embeddings**|Ningyu Zhang et.al.|[2201.05575v1](http://arxiv.org/abs/2201.05575v1)|null|
 |**2022-01-14**|**Training Free Graph Neural Networks for Graph Matching**|Zhiyuan Liu et.al.|[2201.05349v1](http://arxiv.org/abs/2201.05349v1)|**[link](https://github.com/acharkq/training-free-graph-matching)**|
-|**2022-01-13**|**NLP in Human Rights Research -- Extracting Knowledge Graphs About Police and Army Units and Their Commanders**|Daniel Bauer et.al.|[2201.05230v1](http://arxiv.org/abs/2201.05230v1)|**[link](https://github.com/security-force-monitor/sfm-graph-extractor)**|
+|**2022-01-13**|**NLP in Human Rights Research -- Extracting Knowledge Graphs About Police and Army Units and Their Commanders**|Daniel Bauer et.al.|[2201.05230v1](http://arxiv.org/abs/2201.05230v1)|null|
 |**2022-01-11**|**Stock Movement Prediction Based on Bi-typed and Hybrid-relational Market Knowledge Graph via Dual Attention Networks**|Yu Zhao et.al.|[2201.04965v1](http://arxiv.org/abs/2201.04965v1)|null|
 |**2022-01-13**|**Ontological model identification based on data from heterogeneous sources**|A. Kalinin et.al.|[2201.04883v1](http://arxiv.org/abs/2201.04883v1)|null|
 |**2022-01-14**|**Towards a Reference Software Architecture for Human-AI Teaming in Smart Manufacturing**|Philipp Haindl et.al.|[2201.04876v2](http://arxiv.org/abs/2201.04876v2)|null|
