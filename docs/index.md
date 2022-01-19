@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-01-18**|**Benchmark datasets driving artificial intelligence development fail to capture the needs of medical professionals**|Kathrin Blagec et.al.|[2201.07040v1](http://arxiv.org/abs/2201.07040v1)|null|
+|**2022-01-18**|**Hierarchical Neural Network Approaches for Long Document Classification**|Snehal Khandve et.al.|[2201.06774v1](http://arxiv.org/abs/2201.06774v1)|null|
+|**2022-01-18**|**DEFER: Distributed Edge Inference for Deep Neural Networks**|Arjun Parthasarathy et.al.|[2201.06769v1](http://arxiv.org/abs/2201.06769v1)|null|
+|**2022-01-17**|**A Literature Survey of Recent Advances in Chatbots**|Guendalina Caldarini et.al.|[2201.06657v1](http://arxiv.org/abs/2201.06657v1)|null|
+|**2022-01-17**|**Towards a Cleaner Document-Oriented Multilingual Crawled Corpus**|Julien Abadji et.al.|[2201.06642v1](http://arxiv.org/abs/2201.06642v1)|null|
+|**2022-01-17**|**VAQF: Fully Automatic Software-hardware Co-design Framework for Low-bit Vision Transformer**|Mengshu Sun et.al.|[2201.06618v1](http://arxiv.org/abs/2201.06618v1)|null|
+|**2022-01-17**|**Chatbot System Architecture**|Moataz Mohammed et.al.|[2201.06348v1](http://arxiv.org/abs/2201.06348v1)|null|
+|**2022-01-17**|**Continual Transformers: Redundancy-Free Attention for Online Inference**|Lukas Hedegaard et.al.|[2201.06268v1](http://arxiv.org/abs/2201.06268v1)|**[link](https://github.com/lukashedegaard/continual-transformers)**|
+|**2022-01-17**|**Using Machine Learning Based Models for Personality Recognition**|Fatemeh Mohades Deilami et.al.|[2201.06248v1](http://arxiv.org/abs/2201.06248v1)|null|
+|**2022-01-17**|**MT-GBM: A Multi-Task Gradient Boosting Machine with Shared Decision Trees**|ZhenZhe Ying et.al.|[2201.06239v1](http://arxiv.org/abs/2201.06239v1)|**[link](https://github.com/mtgbmcode/mtgbmcode)**|
 |**2022-01-14**|**Multilingual Open Text 1.0: Public Domain News in 44 Languages**|Chester Palen-Michel et.al.|[2201.05609v1](http://arxiv.org/abs/2201.05609v1)|null|
 |**2022-01-13**|**Making a (Counterfactual) Difference One Rationale at a Time**|Mitchell Plyler et.al.|[2201.05177v1](http://arxiv.org/abs/2201.05177v1)|**[link](https://github.com/mlplyler/cfs_for_rationales)**|
 |**2022-01-13**|**Neural Approaches to Conversational Information Retrieval**|Jianfeng Gao et.al.|[2201.05176v1](http://arxiv.org/abs/2201.05176v1)|null|
@@ -41,7 +51,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2022-01-14**|**A Warm Start and a Clean Crawled Corpus -- A Recipe for Good Language Models**|Vésteinn Snæbjarnarson et.al.|[2201.05601v1](http://arxiv.org/abs/2201.05601v1)|null|
+|**2022-01-17**|**RuMedBench: A Russian Medical Language Understanding Benchmark**|Pavel Blinov et.al.|[2201.06499v1](http://arxiv.org/abs/2201.06499v1)|null|
+|**2022-01-18**|**A Warm Start and a Clean Crawled Corpus -- A Recipe for Good Language Models**|Vésteinn Snæbjarnarson et.al.|[2201.05601v2](http://arxiv.org/abs/2201.05601v2)|null|
 |**2022-01-10**|**DeepKE: A Deep Learning Based Knowledge Extraction Toolkit for Knowledge Base Population**|Ningyu Zhang et.al.|[2201.03335v1](http://arxiv.org/abs/2201.03335v1)|**[link](https://github.com/zjunlp/deepke)**|
 |**2021-12-31**|**A Deep Learning Approach to Integrate Human-Level Understanding in a Chatbot**|Afia Fairoose Abedin et.al.|[2201.02735v1](http://arxiv.org/abs/2201.02735v1)|null|
 |**2022-01-10**|**BERN2: an advanced neural biomedical named entity recognition and normalization tool**|Mujeen Sung et.al.|[2201.02080v2](http://arxiv.org/abs/2201.02080v2)|**[link](https://github.com/dmis-lab/bern2)**|
@@ -57,6 +68,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-01-18**|**Hierarchical Neural Network Approaches for Long Document Classification**|Snehal Khandve et.al.|[2201.06774v1](http://arxiv.org/abs/2201.06774v1)|null|
+|**2022-01-17**|**Accessibility and Trajectory-Based Text Characterization**|Bárbara C. e Souza et.al.|[2201.06665v1](http://arxiv.org/abs/2201.06665v1)|null|
+|**2022-01-17**|**RuMedBench: A Russian Medical Language Understanding Benchmark**|Pavel Blinov et.al.|[2201.06499v1](http://arxiv.org/abs/2201.06499v1)|null|
+|**2022-01-16**|**WANLI: Worker and AI Collaboration for Natural Language Inference Dataset Creation**|Alisa Liu et.al.|[2201.05955v1](http://arxiv.org/abs/2201.05955v1)|null|
+|**2022-01-14**|**Model Stability with Continuous Data Updates**|Huiting Liu et.al.|[2201.05692v1](http://arxiv.org/abs/2201.05692v1)|null|
 |**2022-01-08**|**Impact of Stop Sets on Stopping Active Learning for Text Classification**|Luke Kurlandski et.al.|[2201.05460v1](http://arxiv.org/abs/2201.05460v1)|null|
 |**2022-01-14**|**Eliciting Knowledge from Pretrained Language Models for Prototypical Prompt Verbalizer**|Yinyi Wei et.al.|[2201.05411v1](http://arxiv.org/abs/2201.05411v1)|**[link](https://github.com/ydongd/prototypical-prompt-verbalizer)**|
 |**2022-01-12**|**Computational analyses of the topics, sentiments, literariness, creativity and beauty of texts in a large Corpus of English Literature**|Arthur M. Jacobs et.al.|[2201.04356v1](http://arxiv.org/abs/2201.04356v1)|null|
@@ -74,6 +90,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-01-14**|**What is the mission of innovation?**|Julian D. Cortes et.al.|[2201.07170v1](http://arxiv.org/abs/2201.07170v1)|null|
+|**2022-01-11**|**Large Scale Analysis of Open MOOC Reviews to Support Learners' Course Selection**|Manuel J. Gomez et.al.|[2201.06967v1](http://arxiv.org/abs/2201.06967v1)|null|
+|**2022-01-18**|**A Study on the Ambiguity in Human Annotation of German Oral History Interviews for Perceived Emotion Recognition and Sentiment Analysis**|Michael Gref et.al.|[2201.06868v1](http://arxiv.org/abs/2201.06868v1)|null|
+|**2022-01-17**|**Joint Learning for Aspect and Polarity Classification in Persian Reviews Using Multi-Task Deep Learning**|Milad Vazan et.al.|[2201.06313v1](http://arxiv.org/abs/2201.06313v1)|**[link](https://github.com/miladvazan/Joint_Learning_Classification_Persian_Reviews-)**|
+|**2022-01-16**|**PolicyCLOUD: A prototype of a Cloud Serverless Ecosystem for Policy Analytics**|Ofer Biran et.al.|[2201.06077v1](http://arxiv.org/abs/2201.06077v1)|null|
+|**2022-01-16**|**Taking sides: Public Opinion over the Israel-Palestine Conflict in 2021**|Arsal Imtiaz et.al.|[2201.05961v1](http://arxiv.org/abs/2201.05961v1)|null|
 |**2022-01-13**|**Knowledge Graph Augmented Network Towards Multiview Representation Learning for Aspect-based Sentiment Analysis**|Qihuang Zhong et.al.|[2201.04831v1](http://arxiv.org/abs/2201.04831v1)|null|
 |**2022-01-10**|**Multimodal Representations Learning Based on Mutual Information Maximization and Minimization and Identity Embedding for Multimodal Sentiment Analysis**|Jiahao Zheng et.al.|[2201.03969v1](http://arxiv.org/abs/2201.03969v1)|null|
 |**2022-01-14**|**Sentiment Analysis with Deep Learning Models: A Comparative Study on a Decade of Sinhala Language Facebook Data**|Gihan Weeraprameshwara et.al.|[2201.03941v2](http://arxiv.org/abs/2201.03941v2)|null|
@@ -89,6 +111,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-01-17**|**RuMedBench: A Russian Medical Language Understanding Benchmark**|Pavel Blinov et.al.|[2201.06499v1](http://arxiv.org/abs/2201.06499v1)|null|
+|**2022-01-17**|**Generalizable Neuro-symbolic Systems for Commonsense Question Answering**|Alessandro Oltramari et.al.|[2201.06230v1](http://arxiv.org/abs/2201.06230v1)|null|
+|**2022-01-17**|**Korean-Specific Dataset for Table Question Answering**|Changwook Jun et.al.|[2201.06223v1](http://arxiv.org/abs/2201.06223v1)|null|
+|**2022-01-16**|**Natural Language Deduction through Search over Statement Compositions**|Kaj Bostrom et.al.|[2201.06028v1](http://arxiv.org/abs/2201.06028v1)|null|
+|**2022-01-16**|**In Situ Answer Sentence Selection at Web-scale**|Zeyu Zhang et.al.|[2201.05984v1](http://arxiv.org/abs/2201.05984v1)|null|
+|**2022-01-16**|**Double Retrieval and Ranking for Accurate Question Answering**|Zeyu Zhang et.al.|[2201.05981v1](http://arxiv.org/abs/2201.05981v1)|null|
+|**2022-01-16**|**UnifiedSKG: Unifying and Multi-Tasking Structured Knowledge Grounding with Text-to-Text Language Models**|Tianbao Xie et.al.|[2201.05966v1](http://arxiv.org/abs/2201.05966v1)|**[link](https://github.com/hkunlp/unifiedskg)**|
+|**2022-01-15**|**Reasoning over Hybrid Chain for Table-and-Text Open Domain QA**|Wanjun Zhong et.al.|[2201.05880v1](http://arxiv.org/abs/2201.05880v1)|null|
+|**2022-01-15**|**A Benchmark for Generalizable and Interpretable Temporal Question Answering over Knowledge Bases**|Sumit Neelam et.al.|[2201.05793v1](http://arxiv.org/abs/2201.05793v1)|null|
+|**2022-01-15**|**Ensemble Transformer for Efficient and Accurate Ranking Tasks: an Application to Question Answering Systems**|Yoshitomo Matsubara et.al.|[2201.05767v1](http://arxiv.org/abs/2201.05767v1)|null|
 |**2022-01-14**|**A Thousand Words Are Worth More Than a Picture: Natural Language-Centric Outside-Knowledge Visual Question Answering**|Feng Gao et.al.|[2201.05299v1](http://arxiv.org/abs/2201.05299v1)|null|
 |**2022-01-14**|**Grow-and-Clip: Informative-yet-Concise Evidence Distillation for Answer Explanation**|Yuyan Chen et.al.|[2201.05088v2](http://arxiv.org/abs/2201.05088v2)|null|
 |**2022-01-14**|**Towards Automated Error Analysis: Learning to Characterize Errors**|Tong Gao et.al.|[2201.05017v2](http://arxiv.org/abs/2201.05017v2)|null|
@@ -105,6 +137,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-01-18**|**Cross-modal Contrastive Distillation for Instructional Activity Anticipation**|Zhengyuan Yang et.al.|[2201.06734v1](http://arxiv.org/abs/2201.06734v1)|null|
+|**2022-01-16**|**Temporal Relation Extraction with a Graph-Based Deep Biaffine Attention Model**|Bo-Ying Su et.al.|[2201.06125v1](http://arxiv.org/abs/2201.06125v1)|null|
+|**2022-01-16**|**PolicyCLOUD: A prototype of a Cloud Serverless Ecosystem for Policy Analytics**|Ofer Biran et.al.|[2201.06077v1](http://arxiv.org/abs/2201.06077v1)|null|
+|**2022-01-15**|**Extracting Space Situational Awareness Events from News Text**|Zhengnan Xie et.al.|[2201.05721v1](http://arxiv.org/abs/2201.05721v1)|**[link](https://github.com/cognitiveailab/ssa-corpus)**|
+|**2022-01-14**|**Sequence-to-Sequence Models for Extracting Information from Registration and Legal Documents**|Ramon Pires et.al.|[2201.05658v1](http://arxiv.org/abs/2201.05658v1)|null|
 |**2022-01-13**|**CLIP-Event: Connecting Text and Images with Event Structures**|Manling Li et.al.|[2201.05078v1](http://arxiv.org/abs/2201.05078v1)|null|
 |**2022-01-10**|**DeepKE: A Deep Learning Based Knowledge Extraction Toolkit for Knowledge Base Population**|Ningyu Zhang et.al.|[2201.03335v1](http://arxiv.org/abs/2201.03335v1)|**[link](https://github.com/zjunlp/deepke)**|
 |**2022-01-10**|**Writing Style Aware Document-level Event Extraction**|Zhuo Xu et.al.|[2201.03188v1](http://arxiv.org/abs/2201.03188v1)|null|
@@ -120,6 +157,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-01-18**|**Emergent Instabilities in Algorithmic Feedback Loops**|Keith Burghardt et.al.|[2201.07203v1](http://arxiv.org/abs/2201.07203v1)|**[link](https://github.com/KeithBurghardt/RecSim)**|
+|**2022-01-18**|**Recommendation Unlearning**|Chong Chen et.al.|[2201.06820v1](http://arxiv.org/abs/2201.06820v1)|null|
+|**2022-01-18**|**Dialog Intent Induction via Density-based Deep Clustering Ensemble**|Jiashu Pu et.al.|[2201.06731v1](http://arxiv.org/abs/2201.06731v1)|null|
+|**2022-01-18**|**Causal Analysis Framework for Recommendation**|Peng Wu et.al.|[2201.06716v1](http://arxiv.org/abs/2201.06716v1)|null|
+|**2022-01-17**|**A Literature Survey of Recent Advances in Chatbots**|Guendalina Caldarini et.al.|[2201.06657v1](http://arxiv.org/abs/2201.06657v1)|null|
+|**2022-01-17**|**Chatbot System Architecture**|Moataz Mohammed et.al.|[2201.06348v1](http://arxiv.org/abs/2201.06348v1)|null|
+|**2022-01-17**|**Exploit Customer Life-time Value with Memoryless Experiments**|Zizhao Zhang et.al.|[2201.06254v1](http://arxiv.org/abs/2201.06254v1)|null|
+|**2022-01-17**|**Unintended Bias in Language Model-drivenConversational Recommendation**|Tianshu Shen et.al.|[2201.06224v1](http://arxiv.org/abs/2201.06224v1)|null|
+|**2022-01-16**|**Doing More with Less: Overcoming Data Scarcity for POI Recommendation via Cross-Region Transfer**|Vinayak Gupta et.al.|[2201.06095v1](http://arxiv.org/abs/2201.06095v1)|null|
+|**2022-01-16**|**Debiased Recommendation with User Feature Balancing**|Mengyue Yang et.al.|[2201.06056v1](http://arxiv.org/abs/2201.06056v1)|null|
 |**2022-01-14**|**Mental Health Assessment for the Chatbots**|Yong Shan et.al.|[2201.05382v1](http://arxiv.org/abs/2201.05382v1)|null|
 |**2022-01-12**|**Proceedings of the 4th Workshop on Online Recommender Systems and User Modeling -- ORSUM 2021**|João Vinagre et.al.|[2201.05156v1](http://arxiv.org/abs/2201.05156v1)|null|
 |**2022-01-13**|**REST: Debiased Social Recommendation via Reconstructing Exposure Strategies**|Ruichu Cai et.al.|[2201.04952v1](http://arxiv.org/abs/2201.04952v1)|**[link](https://github.com/dmirlab-group/rest)**|
@@ -137,6 +184,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-01-18**|**Inferring Commonsense Explanations as Prompts for Future Event Generation**|Li Lin et.al.|[2201.07099v1](http://arxiv.org/abs/2201.07099v1)|null|
+|**2022-01-18**|**Conflict-aware Inference of Python Compatible Runtime Environments with Domain Knowledge Graph**|Wei Cheng et.al.|[2201.07029v1](http://arxiv.org/abs/2201.07029v1)|null|
+|**2022-01-18**|**COPA-SSE: Semi-structured Explanations for Commonsense Reasoning**|Ana Brassard et.al.|[2201.06777v1](http://arxiv.org/abs/2201.06777v1)|**[link](https://github.com/a-brassard/copa-sse)**|
+|**2022-01-17**|**Generalizable Neuro-symbolic Systems for Commonsense Question Answering**|Alessandro Oltramari et.al.|[2201.06230v1](http://arxiv.org/abs/2201.06230v1)|null|
+|**2022-01-17**|**ICLEA: Interactive Contrastive Learning for Self-supervised Entity Alignment**|Kaisheng Zeng et.al.|[2201.06225v1](http://arxiv.org/abs/2201.06225v1)|null|
+|**2022-01-17**|**SQUIRE: A Sequence-to-sequence Framework for Multi-hop Knowledge Graph Reasoning**|Yushi Bai et.al.|[2201.06206v1](http://arxiv.org/abs/2201.06206v1)|**[link](https://github.com/bys0318/squire)**|
+|**2022-01-15**|**An Automatic Ontology Generation Framework with An Organizational Perspective**|Samaa Elnagar et.al.|[2201.05910v1](http://arxiv.org/abs/2201.05910v1)|null|
+|**2022-01-15**|**AI-Assisted Design Concept Exploration Through Character Space Construction**|Shin Sano et.al.|[2201.05798v1](http://arxiv.org/abs/2201.05798v1)|null|
 |**2022-01-14**|**Reasoning Through Memorization: Nearest Neighbor Knowledge Graph Embeddings**|Ningyu Zhang et.al.|[2201.05575v1](http://arxiv.org/abs/2201.05575v1)|null|
 |**2022-01-14**|**Training Free Graph Neural Networks for Graph Matching**|Zhiyuan Liu et.al.|[2201.05349v1](http://arxiv.org/abs/2201.05349v1)|**[link](https://github.com/acharkq/training-free-graph-matching)**|
 |**2022-01-13**|**NLP in Human Rights Research -- Extracting Knowledge Graphs About Police and Army Units and Their Commanders**|Daniel Bauer et.al.|[2201.05230v1](http://arxiv.org/abs/2201.05230v1)|null|
@@ -155,6 +210,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-01-18**|**A Short Tutorial on The Weisfeiler-Lehman Test And Its Variants**|Ningyuan Huang et.al.|[2201.07083v1](http://arxiv.org/abs/2201.07083v1)|null|
+|**2022-01-18**|**Mining Fine-grained Semantics via Graph Neural Networks for Evidence-based Fake News Detection**|Weizhi Xu et.al.|[2201.06885v1](http://arxiv.org/abs/2201.06885v1)|null|
+|**2022-01-18**|**High-Level Synthesis Performance Prediction using GNNs: Benchmarking, Modeling, and Advancing**|Nan Wu et.al.|[2201.06848v1](http://arxiv.org/abs/2201.06848v1)|null|
+|**2022-01-17**|**Longitudinal Spin Transfer to $Λ$ Hyperons in CLAS12**|Matthew McEneaney et.al.|[2201.06480v1](http://arxiv.org/abs/2201.06480v1)|null|
+|**2022-01-17**|**Towards Unsupervised Deep Graph Structure Learning**|Yixin Liu et.al.|[2201.06367v1](http://arxiv.org/abs/2201.06367v1)|**[link](https://github.com/grand-lab/sublime)**|
+|**2022-01-17**|**Graph Neural Networks for Cross-Camera Data Association**|Elena Luna et.al.|[2201.06311v1](http://arxiv.org/abs/2201.06311v1)|null|
+|**2022-01-15**|**Edge-based Tensor prediction via graph neural networks**|Yang Zhong et.al.|[2201.05770v1](http://arxiv.org/abs/2201.05770v1)|null|
+|**2022-01-15**|**Predicting Research Trends in Artificial Intelligence with Gradient Boosting Decision Trees and Time-aware Graph Neural Networks**|Yichao Lu et.al.|[2201.05743v1](http://arxiv.org/abs/2201.05743v1)|null|
+|**2022-01-14**|**Formula graph self-attention network for representation-domain independent materials discovery**|Achintha Ihalage et.al.|[2201.05649v1](http://arxiv.org/abs/2201.05649v1)|null|
 |**2022-01-14**|**Compact Graph Structure Learning via Mutual Information Compression**|Nian Liu et.al.|[2201.05540v1](http://arxiv.org/abs/2201.05540v1)|**[link](https://github.com/liun-online/cogsl)**|
 |**2022-01-14**|**Collaborative learning of images and geometrics for predicting isocitrate dehydrogenase status of glioma**|Yiran Wei et.al.|[2201.05530v1](http://arxiv.org/abs/2201.05530v1)|null|
 |**2022-01-14**|**Training Free Graph Neural Networks for Graph Matching**|Zhiyuan Liu et.al.|[2201.05349v1](http://arxiv.org/abs/2201.05349v1)|**[link](https://github.com/acharkq/training-free-graph-matching)**|
