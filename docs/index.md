@@ -8,6 +8,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-01-19**|**Improving Biomedical Information Retrieval with Neural Retrievers**|Man Luo et.al.|[2201.07745v1](http://arxiv.org/abs/2201.07745v1)|null|
+|**2022-01-19**|**Data-to-Value: An Evaluation-First Methodology for Natural Language Projects**|Jochen L. Leidner et.al.|[2201.07725v1](http://arxiv.org/abs/2201.07725v1)|null|
+|**2022-01-19**|**Writing about COVID-19 vaccines: Emotional profiling unravels how mainstream and alternative press framed AstraZeneca, Pfizer and vaccination campaigns**|Alfonso Semeraro et.al.|[2201.07538v1](http://arxiv.org/abs/2201.07538v1)|null|
+|**2022-01-19**|**Development of Fake News Model using Machine Learning through Natural Language Processing**|Sajjad Ahmed et.al.|[2201.07489v1](http://arxiv.org/abs/2201.07489v1)|null|
+|**2022-01-18**|**Learning grammar with a divide-and-concur neural network**|Sean Deyo et.al.|[2201.07341v1](http://arxiv.org/abs/2201.07341v1)|null|
+|**2022-01-18**|**Towards Controllable Protein design with Conditional Transformers**|Noelia Ferruz et.al.|[2201.07338v1](http://arxiv.org/abs/2201.07338v1)|null|
 |**2022-01-18**|**Benchmark datasets driving artificial intelligence development fail to capture the needs of medical professionals**|Kathrin Blagec et.al.|[2201.07040v1](http://arxiv.org/abs/2201.07040v1)|null|
 |**2022-01-18**|**Hierarchical Neural Network Approaches for Long Document Classification**|Snehal Khandve et.al.|[2201.06774v1](http://arxiv.org/abs/2201.06774v1)|null|
 |**2022-01-18**|**DEFER: Distributed Edge Inference for Deep Neural Networks**|Arjun Parthasarathy et.al.|[2201.06769v1](http://arxiv.org/abs/2201.06769v1)|null|
@@ -51,6 +57,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-01-18**|**Annotating the Tweebank Corpus on Named Entity Recognition and Building NLP Models for Social Media Analysis**|Hang Jiang et.al.|[2201.07281v1](http://arxiv.org/abs/2201.07281v1)|**[link](https://github.com/social-machines/tweebanknlp)**|
 |**2022-01-17**|**RuMedBench: A Russian Medical Language Understanding Benchmark**|Pavel Blinov et.al.|[2201.06499v1](http://arxiv.org/abs/2201.06499v1)|null|
 |**2022-01-18**|**A Warm Start and a Clean Crawled Corpus -- A Recipe for Good Language Models**|Vésteinn Snæbjarnarson et.al.|[2201.05601v2](http://arxiv.org/abs/2201.05601v2)|null|
 |**2022-01-10**|**DeepKE: A Deep Learning Based Knowledge Extraction Toolkit for Knowledge Base Population**|Ningyu Zhang et.al.|[2201.03335v1](http://arxiv.org/abs/2201.03335v1)|**[link](https://github.com/zjunlp/deepke)**|
@@ -68,6 +75,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-01-19**|**Problem examination for AI methods in product design**|Philipp Rosenthal et.al.|[2201.07642v1](http://arxiv.org/abs/2201.07642v1)|null|
+|**2022-01-19**|**Uncovering More Shallow Heuristics: Probing the Natural Language Inference Capacities of Transformer-Based Pre-Trained Language Models Using Syllogistic Patterns**|Reto Gubelmann et.al.|[2201.07614v1](http://arxiv.org/abs/2201.07614v1)|null|
+|**2022-01-19**|**Development of Fake News Model using Machine Learning through Natural Language Processing**|Sajjad Ahmed et.al.|[2201.07489v1](http://arxiv.org/abs/2201.07489v1)|null|
+|**2022-01-18**|**A Privacy-Preserving Unsupervised Domain Adaptation Framework for Clinical Text Analysis**|Qiyuan An et.al.|[2201.07317v1](http://arxiv.org/abs/2201.07317v1)|null|
 |**2022-01-18**|**Hierarchical Neural Network Approaches for Long Document Classification**|Snehal Khandve et.al.|[2201.06774v1](http://arxiv.org/abs/2201.06774v1)|null|
 |**2022-01-17**|**Accessibility and Trajectory-Based Text Characterization**|Bárbara C. e Souza et.al.|[2201.06665v1](http://arxiv.org/abs/2201.06665v1)|null|
 |**2022-01-17**|**RuMedBench: A Russian Medical Language Understanding Benchmark**|Pavel Blinov et.al.|[2201.06499v1](http://arxiv.org/abs/2201.06499v1)|null|
@@ -90,6 +101,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-01-19**|**Small Cohort of Epilepsy Patients Showed Increased Activity on Facebook before Sudden Unexpected Death**|Ian B. Wood et.al.|[2201.07552v1](http://arxiv.org/abs/2201.07552v1)|null|
 |**2022-01-14**|**What is the mission of innovation?**|Julian D. Cortes et.al.|[2201.07170v1](http://arxiv.org/abs/2201.07170v1)|null|
 |**2022-01-11**|**Large Scale Analysis of Open MOOC Reviews to Support Learners' Course Selection**|Manuel J. Gomez et.al.|[2201.06967v1](http://arxiv.org/abs/2201.06967v1)|null|
 |**2022-01-18**|**A Study on the Ambiguity in Human Annotation of German Oral History Interviews for Perceived Emotion Recognition and Sentiment Analysis**|Michael Gref et.al.|[2201.06868v1](http://arxiv.org/abs/2201.06868v1)|null|
@@ -111,6 +123,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-01-19**|**Improving Biomedical Information Retrieval with Neural Retrievers**|Man Luo et.al.|[2201.07745v1](http://arxiv.org/abs/2201.07745v1)|null|
+|**2022-01-19**|**Evaluating and predicting the Efficiency Index for Stereotactic Radiosurgery Plans using RapidMiner GO(JAVA) Based Artificial Intelligence Algorithms**|Hossam Donya et.al.|[2201.07718v1](http://arxiv.org/abs/2201.07718v1)|null|
+|**2022-01-19**|**Expert Finding in Legal Community Question Answering**|Arian Askari et.al.|[2201.07667v1](http://arxiv.org/abs/2201.07667v1)|**[link](https://github.com/arian-askari/ef_in_legal_cqa)**|
 |**2022-01-17**|**RuMedBench: A Russian Medical Language Understanding Benchmark**|Pavel Blinov et.al.|[2201.06499v1](http://arxiv.org/abs/2201.06499v1)|null|
 |**2022-01-17**|**Generalizable Neuro-symbolic Systems for Commonsense Question Answering**|Alessandro Oltramari et.al.|[2201.06230v1](http://arxiv.org/abs/2201.06230v1)|null|
 |**2022-01-17**|**Korean-Specific Dataset for Table Question Answering**|Changwook Jun et.al.|[2201.06223v1](http://arxiv.org/abs/2201.06223v1)|null|
@@ -157,6 +172,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-01-19**|**Learning to Rank For Push Notifications Using Pairwise Expected Regret**|Yuguang Yue et.al.|[2201.07681v1](http://arxiv.org/abs/2201.07681v1)|null|
+|**2022-01-19**|**Batch versus Sequential Active Learning for Recommender Systems**|Toon De Pessemier et.al.|[2201.07571v1](http://arxiv.org/abs/2201.07571v1)|null|
+|**2022-01-19**|**Multiway Spherical Clustering via Degree-Corrected Tensor Block Models**|Jiaxin Hu et.al.|[2201.07401v1](http://arxiv.org/abs/2201.07401v1)|null|
 |**2022-01-18**|**Emergent Instabilities in Algorithmic Feedback Loops**|Keith Burghardt et.al.|[2201.07203v1](http://arxiv.org/abs/2201.07203v1)|**[link](https://github.com/KeithBurghardt/RecSim)**|
 |**2022-01-18**|**Recommendation Unlearning**|Chong Chen et.al.|[2201.06820v1](http://arxiv.org/abs/2201.06820v1)|null|
 |**2022-01-18**|**Dialog Intent Induction via Density-based Deep Clustering Ensemble**|Jiashu Pu et.al.|[2201.06731v1](http://arxiv.org/abs/2201.06731v1)|null|
@@ -185,8 +203,8 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2022-01-18**|**Inferring Commonsense Explanations as Prompts for Future Event Generation**|Li Lin et.al.|[2201.07099v1](http://arxiv.org/abs/2201.07099v1)|null|
-|**2022-01-18**|**Conflict-aware Inference of Python Compatible Runtime Environments with Domain Knowledge Graph**|Wei Cheng et.al.|[2201.07029v1](http://arxiv.org/abs/2201.07029v1)|null|
-|**2022-01-18**|**COPA-SSE: Semi-structured Explanations for Commonsense Reasoning**|Ana Brassard et.al.|[2201.06777v1](http://arxiv.org/abs/2201.06777v1)|**[link](https://github.com/a-brassard/copa-sse)**|
+|**2022-01-18**|**Conflict-aware Inference of Python Compatible Runtime Environments with Domain Knowledge Graph**|Wei Cheng et.al.|[2201.07029v1](http://arxiv.org/abs/2201.07029v1)|**[link](https://github.com/nju-websoft/pycre)**|
+|**2022-01-19**|**COPA-SSE: Semi-structured Explanations for Commonsense Reasoning**|Ana Brassard et.al.|[2201.06777v2](http://arxiv.org/abs/2201.06777v2)|**[link](https://github.com/a-brassard/copa-sse)**|
 |**2022-01-17**|**Generalizable Neuro-symbolic Systems for Commonsense Question Answering**|Alessandro Oltramari et.al.|[2201.06230v1](http://arxiv.org/abs/2201.06230v1)|null|
 |**2022-01-17**|**ICLEA: Interactive Contrastive Learning for Self-supervised Entity Alignment**|Kaisheng Zeng et.al.|[2201.06225v1](http://arxiv.org/abs/2201.06225v1)|null|
 |**2022-01-17**|**SQUIRE: A Sequence-to-sequence Framework for Multi-hop Knowledge Graph Reasoning**|Yushi Bai et.al.|[2201.06206v1](http://arxiv.org/abs/2201.06206v1)|**[link](https://github.com/bys0318/squire)**|
@@ -210,6 +228,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-01-19**|**Debiased Graph Neural Networks with Agnostic Label Selection Bias**|Shaohua Fan et.al.|[2201.07708v1](http://arxiv.org/abs/2201.07708v1)|null|
+|**2022-01-19**|**GNN-based Android Malware Detection with Jumping Knowledge**|Wai Weng Lo et.al.|[2201.07537v1](http://arxiv.org/abs/2201.07537v1)|null|
 |**2022-01-18**|**A Short Tutorial on The Weisfeiler-Lehman Test And Its Variants**|Ningyuan Huang et.al.|[2201.07083v1](http://arxiv.org/abs/2201.07083v1)|null|
 |**2022-01-18**|**Mining Fine-grained Semantics via Graph Neural Networks for Evidence-based Fake News Detection**|Weizhi Xu et.al.|[2201.06885v1](http://arxiv.org/abs/2201.06885v1)|null|
 |**2022-01-18**|**High-Level Synthesis Performance Prediction using GNNs: Benchmarking, Modeling, and Advancing**|Nan Wu et.al.|[2201.06848v1](http://arxiv.org/abs/2201.06848v1)|null|
@@ -217,7 +237,7 @@ layout: default
 |**2022-01-17**|**Towards Unsupervised Deep Graph Structure Learning**|Yixin Liu et.al.|[2201.06367v1](http://arxiv.org/abs/2201.06367v1)|**[link](https://github.com/grand-lab/sublime)**|
 |**2022-01-17**|**Graph Neural Networks for Cross-Camera Data Association**|Elena Luna et.al.|[2201.06311v1](http://arxiv.org/abs/2201.06311v1)|null|
 |**2022-01-15**|**Edge-based Tensor prediction via graph neural networks**|Yang Zhong et.al.|[2201.05770v1](http://arxiv.org/abs/2201.05770v1)|null|
-|**2022-01-15**|**Predicting Research Trends in Artificial Intelligence with Gradient Boosting Decision Trees and Time-aware Graph Neural Networks**|Yichao Lu et.al.|[2201.05743v1](http://arxiv.org/abs/2201.05743v1)|null|
+|**2022-01-15**|**Predicting Research Trends in Artificial Intelligence with Gradient Boosting Decision Trees and Time-aware Graph Neural Networks**|Yichao Lu et.al.|[2201.05743v1](http://arxiv.org/abs/2201.05743v1)|**[link](https://github.com/yichaolu/science4cast2021)**|
 |**2022-01-14**|**Formula graph self-attention network for representation-domain independent materials discovery**|Achintha Ihalage et.al.|[2201.05649v1](http://arxiv.org/abs/2201.05649v1)|null|
 |**2022-01-14**|**Compact Graph Structure Learning via Mutual Information Compression**|Nian Liu et.al.|[2201.05540v1](http://arxiv.org/abs/2201.05540v1)|**[link](https://github.com/liun-online/cogsl)**|
 |**2022-01-14**|**Collaborative learning of images and geometrics for predicting isocitrate dehydrogenase status of glioma**|Yiran Wei et.al.|[2201.05530v1](http://arxiv.org/abs/2201.05530v1)|null|
