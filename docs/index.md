@@ -132,7 +132,7 @@ layout: default
 |**2022-01-16**|**Natural Language Deduction through Search over Statement Compositions**|Kaj Bostrom et.al.|[2201.06028v1](http://arxiv.org/abs/2201.06028v1)|null|
 |**2022-01-16**|**In Situ Answer Sentence Selection at Web-scale**|Zeyu Zhang et.al.|[2201.05984v1](http://arxiv.org/abs/2201.05984v1)|null|
 |**2022-01-16**|**Double Retrieval and Ranking for Accurate Question Answering**|Zeyu Zhang et.al.|[2201.05981v1](http://arxiv.org/abs/2201.05981v1)|null|
-|**2022-01-16**|**UnifiedSKG: Unifying and Multi-Tasking Structured Knowledge Grounding with Text-to-Text Language Models**|Tianbao Xie et.al.|[2201.05966v1](http://arxiv.org/abs/2201.05966v1)|**[link](https://github.com/hkunlp/unifiedskg)**|
+|**2022-01-20**|**UnifiedSKG: Unifying and Multi-Tasking Structured Knowledge Grounding with Text-to-Text Language Models**|Tianbao Xie et.al.|[2201.05966v2](http://arxiv.org/abs/2201.05966v2)|**[link](https://github.com/hkunlp/unifiedskg)**|
 |**2022-01-15**|**Reasoning over Hybrid Chain for Table-and-Text Open Domain QA**|Wanjun Zhong et.al.|[2201.05880v1](http://arxiv.org/abs/2201.05880v1)|null|
 |**2022-01-15**|**A Benchmark for Generalizable and Interpretable Temporal Question Answering over Knowledge Bases**|Sumit Neelam et.al.|[2201.05793v1](http://arxiv.org/abs/2201.05793v1)|null|
 |**2022-01-15**|**Ensemble Transformer for Efficient and Accurate Ranking Tasks: an Application to Question Answering Systems**|Yoshitomo Matsubara et.al.|[2201.05767v1](http://arxiv.org/abs/2201.05767v1)|null|
@@ -229,7 +229,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2022-01-19**|**Debiased Graph Neural Networks with Agnostic Label Selection Bias**|Shaohua Fan et.al.|[2201.07708v1](http://arxiv.org/abs/2201.07708v1)|null|
-|**2022-01-19**|**GNN-based Android Malware Detection with Jumping Knowledge**|Wai Weng Lo et.al.|[2201.07537v1](http://arxiv.org/abs/2201.07537v1)|null|
+|**2022-01-20**|**Graph Neural Network-based Android Malware Classification with Jumping Knowledge**|Wai Weng Lo et.al.|[2201.07537v2](http://arxiv.org/abs/2201.07537v2)|null|
 |**2022-01-18**|**A Short Tutorial on The Weisfeiler-Lehman Test And Its Variants**|Ningyuan Huang et.al.|[2201.07083v1](http://arxiv.org/abs/2201.07083v1)|null|
 |**2022-01-18**|**Mining Fine-grained Semantics via Graph Neural Networks for Evidence-based Fake News Detection**|Weizhi Xu et.al.|[2201.06885v1](http://arxiv.org/abs/2201.06885v1)|null|
 |**2022-01-18**|**High-Level Synthesis Performance Prediction using GNNs: Benchmarking, Modeling, and Advancing**|Nan Wu et.al.|[2201.06848v1](http://arxiv.org/abs/2201.06848v1)|null|
