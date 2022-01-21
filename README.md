@@ -4,6 +4,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-01-20**|**Learning-based Hybrid Local Search for the Hard-label Textual Attack**|Zhen Yu et.al.|[2201.08193v1](http://arxiv.org/abs/2201.08193v1)|null|
+|**2022-01-20**|**NLP Methods in Host-based Intrusion Detection Systems: A Systematic Review and Future Directions**|Zarrin Tasnim Sworna et.al.|[2201.08066v1](http://arxiv.org/abs/2201.08066v1)|null|
+|**2022-01-20**|**AstBERT: Enabling Language Model for Code Understanding with Abstract Syntax Tree**|Rong Liang et.al.|[2201.07984v1](http://arxiv.org/abs/2201.07984v1)|null|
+|**2022-01-19**|**CPTAM: Constituency Parse Tree Aggregation Method**|Adithya Kulkarni et.al.|[2201.07905v1](http://arxiv.org/abs/2201.07905v1)|null|
 |**2022-01-19**|**Improving Biomedical Information Retrieval with Neural Retrievers**|Man Luo et.al.|[2201.07745v1](http://arxiv.org/abs/2201.07745v1)|null|
 |**2022-01-19**|**Data-to-Value: An Evaluation-First Methodology for Natural Language Projects**|Jochen L. Leidner et.al.|[2201.07725v1](http://arxiv.org/abs/2201.07725v1)|null|
 |**2022-01-19**|**Writing about COVID-19 vaccines: Emotional profiling unravels how mainstream and alternative press framed AstraZeneca, Pfizer and vaccination campaigns**|Alfonso Semeraro et.al.|[2201.07538v1](http://arxiv.org/abs/2201.07538v1)|null|
@@ -71,6 +75,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-01-20**|**Learning-based Hybrid Local Search for the Hard-label Textual Attack**|Zhen Yu et.al.|[2201.08193v1](http://arxiv.org/abs/2201.08193v1)|null|
 |**2022-01-19**|**Problem examination for AI methods in product design**|Philipp Rosenthal et.al.|[2201.07642v1](http://arxiv.org/abs/2201.07642v1)|null|
 |**2022-01-19**|**Uncovering More Shallow Heuristics: Probing the Natural Language Inference Capacities of Transformer-Based Pre-Trained Language Models Using Syllogistic Patterns**|Reto Gubelmann et.al.|[2201.07614v1](http://arxiv.org/abs/2201.07614v1)|null|
 |**2022-01-19**|**Development of Fake News Model using Machine Learning through Natural Language Processing**|Sajjad Ahmed et.al.|[2201.07489v1](http://arxiv.org/abs/2201.07489v1)|null|
@@ -97,6 +102,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-01-20**|**NaijaSenti: A Nigerian Twitter Sentiment Corpus for Multilingual Sentiment Analysis**|Shamsuddeen Hassan Muhammad et.al.|[2201.08277v1](http://arxiv.org/abs/2201.08277v1)|null|
+|**2022-01-20**|**Sentiment Analysis: Predicting Yelp Scores**|Bhanu Prakash Reddy Guda et.al.|[2201.07999v1](http://arxiv.org/abs/2201.07999v1)|null|
 |**2022-01-19**|**Small Cohort of Epilepsy Patients Showed Increased Activity on Facebook before Sudden Unexpected Death**|Ian B. Wood et.al.|[2201.07552v1](http://arxiv.org/abs/2201.07552v1)|null|
 |**2022-01-14**|**What is the mission of innovation?**|Julian D. Cortes et.al.|[2201.07170v1](http://arxiv.org/abs/2201.07170v1)|null|
 |**2022-01-11**|**Large Scale Analysis of Open MOOC Reviews to Support Learners' Course Selection**|Manuel J. Gomez et.al.|[2201.06967v1](http://arxiv.org/abs/2201.06967v1)|null|
@@ -119,6 +126,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-01-20**|**Knowledge Graph Question Answering Leaderboard: A Community Resource to Prevent a Replication Crisis**|Aleksandr Perevalov et.al.|[2201.08174v1](http://arxiv.org/abs/2201.08174v1)|null|
+|**2022-01-19**|**Evaluating Machine Common Sense via Cloze Testing**|Ehsan Qasemi et.al.|[2201.07902v1](http://arxiv.org/abs/2201.07902v1)|null|
 |**2022-01-19**|**Improving Biomedical Information Retrieval with Neural Retrievers**|Man Luo et.al.|[2201.07745v1](http://arxiv.org/abs/2201.07745v1)|null|
 |**2022-01-19**|**Evaluating and predicting the Efficiency Index for Stereotactic Radiosurgery Plans using RapidMiner GO(JAVA) Based Artificial Intelligence Algorithms**|Hossam Donya et.al.|[2201.07718v1](http://arxiv.org/abs/2201.07718v1)|null|
 |**2022-01-19**|**Expert Finding in Legal Community Question Answering**|Arian Askari et.al.|[2201.07667v1](http://arxiv.org/abs/2201.07667v1)|**[link](https://github.com/arian-askari/ef_in_legal_cqa)**|
@@ -148,6 +157,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-01-20**|**AstBERT: Enabling Language Model for Code Understanding with Abstract Syntax Tree**|Rong Liang et.al.|[2201.07984v1](http://arxiv.org/abs/2201.07984v1)|null|
 |**2022-01-18**|**Cross-modal Contrastive Distillation for Instructional Activity Anticipation**|Zhengyuan Yang et.al.|[2201.06734v1](http://arxiv.org/abs/2201.06734v1)|null|
 |**2022-01-16**|**Temporal Relation Extraction with a Graph-Based Deep Biaffine Attention Model**|Bo-Ying Su et.al.|[2201.06125v1](http://arxiv.org/abs/2201.06125v1)|null|
 |**2022-01-16**|**PolicyCLOUD: A prototype of a Cloud Serverless Ecosystem for Policy Analytics**|Ofer Biran et.al.|[2201.06077v1](http://arxiv.org/abs/2201.06077v1)|null|
@@ -168,6 +178,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-01-20**|**k-Pareto Optimality-Based Sorting with Maximization of Choice**|Jean Ruppert et.al.|[2201.08206v1](http://arxiv.org/abs/2201.08206v1)|null|
+|**2022-01-20**|**Providing Upgrade Plans for Third-party Libraries: A Recommender System using Migration Graphs**|Riccardo Rubei et.al.|[2201.08201v1](http://arxiv.org/abs/2201.08201v1)|null|
+|**2022-01-20**|**GAN-based Matrix Factorization for Recommender Systems**|Ervin Dervishaj et.al.|[2201.08042v1](http://arxiv.org/abs/2201.08042v1)|null|
 |**2022-01-19**|**Learning to Rank For Push Notifications Using Pairwise Expected Regret**|Yuguang Yue et.al.|[2201.07681v1](http://arxiv.org/abs/2201.07681v1)|null|
 |**2022-01-19**|**Batch versus Sequential Active Learning for Recommender Systems**|Toon De Pessemier et.al.|[2201.07571v1](http://arxiv.org/abs/2201.07571v1)|null|
 |**2022-01-19**|**Multiway Spherical Clustering via Degree-Corrected Tensor Block Models**|Jiaxin Hu et.al.|[2201.07401v1](http://arxiv.org/abs/2201.07401v1)|null|
@@ -198,6 +211,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-01-16**|**Temporal Knowledge Graph Completion: A Survey**|Borui Cai et.al.|[2201.08236v1](http://arxiv.org/abs/2201.08236v1)|null|
+|**2022-01-20**|**Knowledge Graph Question Answering Leaderboard: A Community Resource to Prevent a Replication Crisis**|Aleksandr Perevalov et.al.|[2201.08174v1](http://arxiv.org/abs/2201.08174v1)|null|
 |**2022-01-18**|**Inferring Commonsense Explanations as Prompts for Future Event Generation**|Li Lin et.al.|[2201.07099v1](http://arxiv.org/abs/2201.07099v1)|null|
 |**2022-01-18**|**Conflict-aware Inference of Python Compatible Runtime Environments with Domain Knowledge Graph**|Wei Cheng et.al.|[2201.07029v1](http://arxiv.org/abs/2201.07029v1)|**[link](https://github.com/nju-websoft/pycre)**|
 |**2022-01-19**|**COPA-SSE: Semi-structured Explanations for Commonsense Reasoning**|Ana Brassard et.al.|[2201.06777v2](http://arxiv.org/abs/2201.06777v2)|**[link](https://github.com/a-brassard/copa-sse)**|
@@ -224,6 +239,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-01-20**|**Prediction of the electron density of states for crystalline compounds with Atomistic Line Graph Neural Networks (ALIGNN)**|Prathik R Kaundinya et.al.|[2201.08348v1](http://arxiv.org/abs/2201.08348v1)|null|
+|**2022-01-20**|**An Efficient Lorentz Equivariant Graph Neural Network for Jet Tagging**|Shiqi Gong et.al.|[2201.08187v1](http://arxiv.org/abs/2201.08187v1)|null|
+|**2022-01-20**|**Informative Pseudo-Labeling for Graph Neural Networks with Few Labels**|Yayong Li et.al.|[2201.07951v1](http://arxiv.org/abs/2201.07951v1)|null|
+|**2022-01-19**|**Decoupling the Depth and Scope of Graph Neural Networks**|Hanqing Zeng et.al.|[2201.07858v1](http://arxiv.org/abs/2201.07858v1)|**[link](https://github.com/facebookresearch/shaDow_GNN)**|
+|**2022-01-19**|**Cognitive Explainers of Graph Neural Networks Based on Medical Concepts**|Yingni Wang et.al.|[2201.07798v1](http://arxiv.org/abs/2201.07798v1)|null|
 |**2022-01-19**|**Debiased Graph Neural Networks with Agnostic Label Selection Bias**|Shaohua Fan et.al.|[2201.07708v1](http://arxiv.org/abs/2201.07708v1)|null|
 |**2022-01-20**|**Graph Neural Network-based Android Malware Classification with Jumping Knowledge**|Wai Weng Lo et.al.|[2201.07537v2](http://arxiv.org/abs/2201.07537v2)|null|
 |**2022-01-18**|**A Short Tutorial on The Weisfeiler-Lehman Test And Its Variants**|Ningyuan Huang et.al.|[2201.07083v1](http://arxiv.org/abs/2201.07083v1)|null|
