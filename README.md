@@ -12,7 +12,7 @@
 |**2022-01-19**|**Data-to-Value: An Evaluation-First Methodology for Natural Language Projects**|Jochen L. Leidner et.al.|[2201.07725v1](http://arxiv.org/abs/2201.07725v1)|null|
 |**2022-01-19**|**Writing about COVID-19 vaccines: Emotional profiling unravels how mainstream and alternative press framed AstraZeneca, Pfizer and vaccination campaigns**|Alfonso Semeraro et.al.|[2201.07538v1](http://arxiv.org/abs/2201.07538v1)|null|
 |**2022-01-19**|**Development of Fake News Model using Machine Learning through Natural Language Processing**|Sajjad Ahmed et.al.|[2201.07489v1](http://arxiv.org/abs/2201.07489v1)|null|
-|**2022-01-18**|**Learning grammar with a divide-and-concur neural network**|Sean Deyo et.al.|[2201.07341v1](http://arxiv.org/abs/2201.07341v1)|null|
+|**2022-01-21**|**Learning grammar with a divide-and-concur neural network**|Sean Deyo et.al.|[2201.07341v2](http://arxiv.org/abs/2201.07341v2)|null|
 |**2022-01-18**|**Towards Controllable Protein design with Conditional Transformers**|Noelia Ferruz et.al.|[2201.07338v1](http://arxiv.org/abs/2201.07338v1)|null|
 |**2022-01-18**|**Benchmark datasets driving artificial intelligence development fail to capture the needs of medical professionals**|Kathrin Blagec et.al.|[2201.07040v1](http://arxiv.org/abs/2201.07040v1)|null|
 |**2022-01-18**|**Hierarchical Neural Network Approaches for Long Document Classification**|Snehal Khandve et.al.|[2201.06774v1](http://arxiv.org/abs/2201.06774v1)|null|
@@ -240,7 +240,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2022-01-20**|**Prediction of the electron density of states for crystalline compounds with Atomistic Line Graph Neural Networks (ALIGNN)**|Prathik R Kaundinya et.al.|[2201.08348v1](http://arxiv.org/abs/2201.08348v1)|null|
-|**2022-01-20**|**An Efficient Lorentz Equivariant Graph Neural Network for Jet Tagging**|Shiqi Gong et.al.|[2201.08187v1](http://arxiv.org/abs/2201.08187v1)|null|
+|**2022-01-21**|**An Efficient Lorentz Equivariant Graph Neural Network for Jet Tagging**|Shiqi Gong et.al.|[2201.08187v2](http://arxiv.org/abs/2201.08187v2)|null|
 |**2022-01-20**|**Informative Pseudo-Labeling for Graph Neural Networks with Few Labels**|Yayong Li et.al.|[2201.07951v1](http://arxiv.org/abs/2201.07951v1)|null|
 |**2022-01-19**|**Decoupling the Depth and Scope of Graph Neural Networks**|Hanqing Zeng et.al.|[2201.07858v1](http://arxiv.org/abs/2201.07858v1)|**[link](https://github.com/facebookresearch/shaDow_GNN)**|
 |**2022-01-19**|**Cognitive Explainers of Graph Neural Networks Based on Medical Concepts**|Yingni Wang et.al.|[2201.07798v1](http://arxiv.org/abs/2201.07798v1)|null|
