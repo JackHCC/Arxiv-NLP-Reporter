@@ -8,6 +8,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-01-21**|**Privacy Policies Across the Ages: Content and Readability of Privacy Policies 1996--2021**|Isabel Wagner et.al.|[2201.08739v1](http://arxiv.org/abs/2201.08739v1)|null|
+|**2022-01-21**|**Improved Random Features for Dot Product Kernels**|Jonas Wacker et.al.|[2201.08712v1](http://arxiv.org/abs/2201.08712v1)|null|
+|**2022-01-21**|**Gender Bias in Text: Labeled Datasets and Lexicons**|Jad Doughman et.al.|[2201.08675v1](http://arxiv.org/abs/2201.08675v1)|null|
 |**2022-01-20**|**Learning-based Hybrid Local Search for the Hard-label Textual Attack**|Zhen Yu et.al.|[2201.08193v1](http://arxiv.org/abs/2201.08193v1)|null|
 |**2022-01-20**|**NLP Methods in Host-based Intrusion Detection Systems: A Systematic Review and Future Directions**|Zarrin Tasnim Sworna et.al.|[2201.08066v1](http://arxiv.org/abs/2201.08066v1)|null|
 |**2022-01-20**|**AstBERT: Enabling Language Model for Code Understanding with Abstract Syntax Tree**|Rong Liang et.al.|[2201.07984v1](http://arxiv.org/abs/2201.07984v1)|null|
@@ -79,6 +82,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-01-21**|**Dual Contrastive Learning: Text Classification via Label-Aware Data Augmentation**|Qianben Chen et.al.|[2201.08702v1](http://arxiv.org/abs/2201.08702v1)|**[link](https://github.com/hiyouga/dual-contrastive-learning)**|
+|**2022-01-21**|**Black-box Prompt Learning for Pre-trained Language Models**|Shizhe Diao et.al.|[2201.08531v1](http://arxiv.org/abs/2201.08531v1)|null|
 |**2022-01-20**|**Learning-based Hybrid Local Search for the Hard-label Textual Attack**|Zhen Yu et.al.|[2201.08193v1](http://arxiv.org/abs/2201.08193v1)|null|
 |**2022-01-19**|**Problem examination for AI methods in product design**|Philipp Rosenthal et.al.|[2201.07642v1](http://arxiv.org/abs/2201.07642v1)|null|
 |**2022-01-19**|**Uncovering More Shallow Heuristics: Probing the Natural Language Inference Capacities of Transformer-Based Pre-Trained Language Models Using Syllogistic Patterns**|Reto Gubelmann et.al.|[2201.07614v1](http://arxiv.org/abs/2201.07614v1)|null|
@@ -106,6 +111,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-01-21**|**Identifying Adversarial Attacks on Text Classifiers**|Zhouhang Xie et.al.|[2201.08555v1](http://arxiv.org/abs/2201.08555v1)|null|
 |**2022-01-20**|**NaijaSenti: A Nigerian Twitter Sentiment Corpus for Multilingual Sentiment Analysis**|Shamsuddeen Hassan Muhammad et.al.|[2201.08277v1](http://arxiv.org/abs/2201.08277v1)|**[link](https://github.com/hausanlp/naijasenti)**|
 |**2022-01-20**|**Sentiment Analysis: Predicting Yelp Scores**|Bhanu Prakash Reddy Guda et.al.|[2201.07999v1](http://arxiv.org/abs/2201.07999v1)|null|
 |**2022-01-19**|**Small Cohort of Epilepsy Patients Showed Increased Activity on Facebook before Sudden Unexpected Death**|Ian B. Wood et.al.|[2201.07552v1](http://arxiv.org/abs/2201.07552v1)|null|
@@ -130,6 +136,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-01-21**|**Conversational Information Seeking**|Hamed Zamani et.al.|[2201.08808v1](http://arxiv.org/abs/2201.08808v1)|null|
 |**2022-01-20**|**Knowledge Graph Question Answering Leaderboard: A Community Resource to Prevent a Replication Crisis**|Aleksandr Perevalov et.al.|[2201.08174v1](http://arxiv.org/abs/2201.08174v1)|null|
 |**2022-01-19**|**Evaluating Machine Common Sense via Cloze Testing**|Ehsan Qasemi et.al.|[2201.07902v1](http://arxiv.org/abs/2201.07902v1)|null|
 |**2022-01-19**|**Improving Biomedical Information Retrieval with Neural Retrievers**|Man Luo et.al.|[2201.07745v1](http://arxiv.org/abs/2201.07745v1)|null|
@@ -182,6 +189,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-01-21**|**Improved Random Features for Dot Product Kernels**|Jonas Wacker et.al.|[2201.08712v1](http://arxiv.org/abs/2201.08712v1)|null|
+|**2022-01-21**|**Text Style Transfer for Bias Mitigation using Masked Language Modeling**|Ewoenam Kwaku Tokpo et.al.|[2201.08643v1](http://arxiv.org/abs/2201.08643v1)|null|
+|**2022-01-21**|**Consumer Fairness in Recommender Systems: Contextualizing Definitions and Mitigations**|Ludovico Boratto et.al.|[2201.08614v1](http://arxiv.org/abs/2201.08614v1)|**[link](https://github.com/jackmedda/c-fairness-recsys)**|
+|**2022-01-21**|**LRSVRG-IMC: An SVRG-Based Algorithm for LowRank Inductive Matrix Completion**|Shangrong Yu et.al.|[2201.08516v1](http://arxiv.org/abs/2201.08516v1)|null|
 |**2022-01-20**|**k-Pareto Optimality-Based Sorting with Maximization of Choice**|Jean Ruppert et.al.|[2201.08206v1](http://arxiv.org/abs/2201.08206v1)|null|
 |**2022-01-20**|**Providing Upgrade Plans for Third-party Libraries: A Recommender System using Migration Graphs**|Riccardo Rubei et.al.|[2201.08201v1](http://arxiv.org/abs/2201.08201v1)|null|
 |**2022-01-20**|**GAN-based Matrix Factorization for Recommender Systems**|Ervin Dervishaj et.al.|[2201.08042v1](http://arxiv.org/abs/2201.08042v1)|**[link](https://github.com/edervishaj/ganmf)**|
@@ -215,6 +226,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-01-21**|**Taxonomy Enrichment with Text and Graph Vector Representations**|Irina Nikishina et.al.|[2201.08598v1](http://arxiv.org/abs/2201.08598v1)|null|
+|**2022-01-21**|**Trustworthy Knowledge Graph Completion Based on Multi-sourced Noisy Data**|Jiacheng Huang et.al.|[2201.08580v1](http://arxiv.org/abs/2201.08580v1)|**[link](https://github.com/nju-websoft/tkgc)**|
 |**2022-01-16**|**Temporal Knowledge Graph Completion: A Survey**|Borui Cai et.al.|[2201.08236v1](http://arxiv.org/abs/2201.08236v1)|null|
 |**2022-01-20**|**Knowledge Graph Question Answering Leaderboard: A Community Resource to Prevent a Replication Crisis**|Aleksandr Perevalov et.al.|[2201.08174v1](http://arxiv.org/abs/2201.08174v1)|null|
 |**2022-01-18**|**Inferring Commonsense Explanations as Prompts for Future Event Generation**|Li Lin et.al.|[2201.07099v1](http://arxiv.org/abs/2201.07099v1)|null|
@@ -243,6 +256,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-01-21**|**Representing Long-Range Context for Graph Neural Networks with Global Attention**|Zhanghao Wu et.al.|[2201.08821v1](http://arxiv.org/abs/2201.08821v1)|**[link](https://github.com/ucbrise/graphtrans)**|
+|**2022-01-21**|**Deconfounding to Explanation Evaluation in Graph Neural Networks**|Ying-Xin et.al.|[2201.08802v1](http://arxiv.org/abs/2201.08802v1)|null|
+|**2022-01-21**|**Trustworthy Knowledge Graph Completion Based on Multi-sourced Noisy Data**|Jiacheng Huang et.al.|[2201.08580v1](http://arxiv.org/abs/2201.08580v1)|**[link](https://github.com/nju-websoft/tkgc)**|
+|**2022-01-21**|**Fair Node Representation Learning via Adaptive Data Augmentation**|O. Deniz Kose et.al.|[2201.08549v1](http://arxiv.org/abs/2201.08549v1)|null|
+|**2022-01-21**|**Learning Two-Step Hybrid Policy for Graph-Based Interpretable Reinforcement Learning**|Tongzhou Mu et.al.|[2201.08520v1](http://arxiv.org/abs/2201.08520v1)|null|
+|**2022-01-20**|**GenGNN: A Generic FPGA Framework for Graph Neural Network Acceleration**|Stefan Abi-Karam et.al.|[2201.08475v1](http://arxiv.org/abs/2201.08475v1)|**[link](https://github.com/sharc-lab/gengnn)**|
+|**2022-01-20**|**Hybrid Graph Models for Logic Optimization via Spatio-Temporal Information**|Nan Wu et.al.|[2201.08455v1](http://arxiv.org/abs/2201.08455v1)|null|
 |**2022-01-20**|**Prediction of the electron density of states for crystalline compounds with Atomistic Line Graph Neural Networks (ALIGNN)**|Prathik R Kaundinya et.al.|[2201.08348v1](http://arxiv.org/abs/2201.08348v1)|null|
 |**2022-01-21**|**An Efficient Lorentz Equivariant Graph Neural Network for Jet Tagging**|Shiqi Gong et.al.|[2201.08187v2](http://arxiv.org/abs/2201.08187v2)|null|
 |**2022-01-20**|**Informative Pseudo-Labeling for Graph Neural Networks with Few Labels**|Yayong Li et.al.|[2201.07951v1](http://arxiv.org/abs/2201.07951v1)|null|
