@@ -63,7 +63,7 @@
 |**2022-01-18**|**Annotating the Tweebank Corpus on Named Entity Recognition and Building NLP Models for Social Media Analysis**|Hang Jiang et.al.|[2201.07281v1](http://arxiv.org/abs/2201.07281v1)|**[link](https://github.com/social-machines/tweebanknlp)**|
 |**2022-01-17**|**RuMedBench: A Russian Medical Language Understanding Benchmark**|Pavel Blinov et.al.|[2201.06499v1](http://arxiv.org/abs/2201.06499v1)|null|
 |**2022-01-18**|**A Warm Start and a Clean Crawled Corpus -- A Recipe for Good Language Models**|Vésteinn Snæbjarnarson et.al.|[2201.05601v2](http://arxiv.org/abs/2201.05601v2)|null|
-|**2022-01-10**|**DeepKE: A Deep Learning Based Knowledge Extraction Toolkit for Knowledge Base Population**|Ningyu Zhang et.al.|[2201.03335v1](http://arxiv.org/abs/2201.03335v1)|**[link](https://github.com/zjunlp/deepke)**|
+|**2022-01-24**|**DeepKE: A Deep Learning Based Knowledge Extraction Toolkit for Knowledge Base Population**|Ningyu Zhang et.al.|[2201.03335v2](http://arxiv.org/abs/2201.03335v2)|**[link](https://github.com/zjunlp/deepke)**|
 |**2021-12-31**|**A Deep Learning Approach to Integrate Human-Level Understanding in a Chatbot**|Afia Fairoose Abedin et.al.|[2201.02735v1](http://arxiv.org/abs/2201.02735v1)|null|
 |**2022-01-10**|**BERN2: an advanced neural biomedical named entity recognition and normalization tool**|Mujeen Sung et.al.|[2201.02080v2](http://arxiv.org/abs/2201.02080v2)|**[link](https://github.com/dmis-lab/bern2)**|
 |**2022-01-05**|**Monitoring Energy Trends through Automatic Information Extraction**|Dilek Küçük et.al.|[2201.01559v1](http://arxiv.org/abs/2201.01559v1)|null|
@@ -171,7 +171,7 @@
 |**2022-01-15**|**Extracting Space Situational Awareness Events from News Text**|Zhengnan Xie et.al.|[2201.05721v1](http://arxiv.org/abs/2201.05721v1)|**[link](https://github.com/cognitiveailab/ssa-corpus)**|
 |**2022-01-14**|**Sequence-to-Sequence Models for Extracting Information from Registration and Legal Documents**|Ramon Pires et.al.|[2201.05658v1](http://arxiv.org/abs/2201.05658v1)|null|
 |**2022-01-13**|**CLIP-Event: Connecting Text and Images with Event Structures**|Manling Li et.al.|[2201.05078v1](http://arxiv.org/abs/2201.05078v1)|null|
-|**2022-01-10**|**DeepKE: A Deep Learning Based Knowledge Extraction Toolkit for Knowledge Base Population**|Ningyu Zhang et.al.|[2201.03335v1](http://arxiv.org/abs/2201.03335v1)|**[link](https://github.com/zjunlp/deepke)**|
+|**2022-01-24**|**DeepKE: A Deep Learning Based Knowledge Extraction Toolkit for Knowledge Base Population**|Ningyu Zhang et.al.|[2201.03335v2](http://arxiv.org/abs/2201.03335v2)|**[link](https://github.com/zjunlp/deepke)**|
 |**2022-01-10**|**Writing Style Aware Document-level Event Extraction**|Zhuo Xu et.al.|[2201.03188v1](http://arxiv.org/abs/2201.03188v1)|null|
 |**2022-01-07**|**Data-Efficient Information Extraction from Form-Like Documents**|Beliz Gunel et.al.|[2201.02647v1](http://arxiv.org/abs/2201.02647v1)|null|
 |**2022-01-05**|**Monitoring Energy Trends through Automatic Information Extraction**|Dilek Küçük et.al.|[2201.01559v1](http://arxiv.org/abs/2201.01559v1)|null|
