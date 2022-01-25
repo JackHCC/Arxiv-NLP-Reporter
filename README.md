@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-01-24**|**Using Computational Grounded Theory to Understand Tutors' Experiences in the Gig Economy**|Lama Alqazlan et.al.|[2201.09787v1](http://arxiv.org/abs/2201.09787v1)|null|
+|**2022-01-24**|**Unified Question Generation with Continual Lifelong Learning**|Wei Yuan et.al.|[2201.09696v1](http://arxiv.org/abs/2201.09696v1)|null|
+|**2022-01-24**|**BTPK-based learning: An Interpretable Method for Named Entity Recognition**|Yulin Chen et.al.|[2201.09523v1](http://arxiv.org/abs/2201.09523v1)|null|
+|**2022-01-24**|**Bias in Automated Speaker Recognition**|Wiebke Toussaint et.al.|[2201.09486v1](http://arxiv.org/abs/2201.09486v1)|null|
+|**2022-01-24**|**Cobol2Vec: Learning Representations of Cobol code**|Ankit Kulshrestha et.al.|[2201.09448v1](http://arxiv.org/abs/2201.09448v1)|null|
+|**2022-01-24**|**Improving Chest X-Ray Report Generation by Leveraging Warm-Starting**|Aaron Nicolson et.al.|[2201.09405v1](http://arxiv.org/abs/2201.09405v1)|**[link](https://github.com/aehrc/cvt2distilgpt2)**|
+|**2022-01-23**|**Efficient and Robust Classification for Sparse Attacks**|Mark Beliaev et.al.|[2201.09369v1](http://arxiv.org/abs/2201.09369v1)|null|
+|**2022-01-23**|**A Large and Diverse Arabic Corpus for Language Modeling**|Abbas Raza Ali et.al.|[2201.09227v1](http://arxiv.org/abs/2201.09227v1)|null|
+|**2022-01-22**|**Visual Representation Learning with Self-Supervised Attention for Low-Label High-data Regime**|Prarthana Bhattacharyya et.al.|[2201.08951v1](http://arxiv.org/abs/2201.08951v1)|**[link](https://github.com/AutoVision-cloud/SSL-ViT-lowlabel-highdata)**|
+|**2022-01-21**|**Recurrent Neural Networks with Mixed Hierarchical Structures and EM Algorithm for Natural Language Processing**|Zhaoxin Luo et.al.|[2201.08919v1](http://arxiv.org/abs/2201.08919v1)|null|
 |**2022-01-21**|**Privacy Policies Across the Ages: Content and Readability of Privacy Policies 1996--2021**|Isabel Wagner et.al.|[2201.08739v1](http://arxiv.org/abs/2201.08739v1)|null|
 |**2022-01-21**|**Improved Random Features for Dot Product Kernels**|Jonas Wacker et.al.|[2201.08712v1](http://arxiv.org/abs/2201.08712v1)|null|
 |**2022-01-21**|**Gender Bias in Text: Labeled Datasets and Lexicons**|Jad Doughman et.al.|[2201.08675v1](http://arxiv.org/abs/2201.08675v1)|null|
@@ -60,6 +70,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-01-24**|**BTPK-based learning: An Interpretable Method for Named Entity Recognition**|Yulin Chen et.al.|[2201.09523v1](http://arxiv.org/abs/2201.09523v1)|null|
 |**2022-01-18**|**Annotating the Tweebank Corpus on Named Entity Recognition and Building NLP Models for Social Media Analysis**|Hang Jiang et.al.|[2201.07281v1](http://arxiv.org/abs/2201.07281v1)|**[link](https://github.com/social-machines/tweebanknlp)**|
 |**2022-01-17**|**RuMedBench: A Russian Medical Language Understanding Benchmark**|Pavel Blinov et.al.|[2201.06499v1](http://arxiv.org/abs/2201.06499v1)|null|
 |**2022-01-18**|**A Warm Start and a Clean Crawled Corpus -- A Recipe for Good Language Models**|Vésteinn Snæbjarnarson et.al.|[2201.05601v2](http://arxiv.org/abs/2201.05601v2)|null|
@@ -78,6 +89,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-01-24**|**Table Pretraining: A Survey on Model Architectures, Pretraining Objectives, and Downstream Tasks**|Haoyu Dong et.al.|[2201.09745v1](http://arxiv.org/abs/2201.09745v1)|null|
 |**2022-01-21**|**Dual Contrastive Learning: Text Classification via Label-Aware Data Augmentation**|Qianben Chen et.al.|[2201.08702v1](http://arxiv.org/abs/2201.08702v1)|**[link](https://github.com/hiyouga/dual-contrastive-learning)**|
 |**2022-01-21**|**Black-box Prompt Learning for Pre-trained Language Models**|Shizhe Diao et.al.|[2201.08531v1](http://arxiv.org/abs/2201.08531v1)|null|
 |**2022-01-20**|**Learning-based Hybrid Local Search for the Hard-label Textual Attack**|Zhen Yu et.al.|[2201.08193v1](http://arxiv.org/abs/2201.08193v1)|null|
@@ -107,6 +119,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-01-24**|**MMLatch: Bottom-up Top-down Fusion for Multimodal Sentiment Analysis**|Georgios Paraskevopoulos et.al.|[2201.09828v1](http://arxiv.org/abs/2201.09828v1)|null|
 |**2022-01-21**|**Identifying Adversarial Attacks on Text Classifiers**|Zhouhang Xie et.al.|[2201.08555v1](http://arxiv.org/abs/2201.08555v1)|null|
 |**2022-01-20**|**NaijaSenti: A Nigerian Twitter Sentiment Corpus for Multilingual Sentiment Analysis**|Shamsuddeen Hassan Muhammad et.al.|[2201.08277v1](http://arxiv.org/abs/2201.08277v1)|**[link](https://github.com/hausanlp/naijasenti)**|
 |**2022-01-20**|**Sentiment Analysis: Predicting Yelp Scores**|Bhanu Prakash Reddy Guda et.al.|[2201.07999v1](http://arxiv.org/abs/2201.07999v1)|null|
@@ -132,6 +145,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-01-24**|**Table Pretraining: A Survey on Model Architectures, Pretraining Objectives, and Downstream Tasks**|Haoyu Dong et.al.|[2201.09745v1](http://arxiv.org/abs/2201.09745v1)|null|
+|**2022-01-24**|**Towards Collaborative Question Answering: A Preliminary Study**|Xiangkun Hu et.al.|[2201.09708v1](http://arxiv.org/abs/2201.09708v1)|null|
+|**2022-01-24**|**Unified Question Generation with Continual Lifelong Learning**|Wei Yuan et.al.|[2201.09696v1](http://arxiv.org/abs/2201.09696v1)|null|
+|**2022-01-24**|**Artefact Retrieval: Overview of NLP Models with Knowledge Base Access**|Vilém Zouhar et.al.|[2201.09651v1](http://arxiv.org/abs/2201.09651v1)|null|
+|**2022-01-24**|**Question Generation for Evaluating Cross-Dataset Shifts in Multi-modal Grounding**|Arjun R. Akula et.al.|[2201.09639v1](http://arxiv.org/abs/2201.09639v1)|null|
+|**2022-01-22**|**Question rewriting? Assessing its importance for conversational question answering**|Gonçalo Raposo et.al.|[2201.09146v1](http://arxiv.org/abs/2201.09146v1)|null|
+|**2022-01-22**|**Leaf: Multiple-Choice Question Generation**|Kristiyan Vachev et.al.|[2201.09012v1](http://arxiv.org/abs/2201.09012v1)|**[link](https://github.com/kristiyanvachev/leaf-question-generation)**|
+|**2022-01-21**|**GreaseLM: Graph REASoning Enhanced Language Models for Question Answering**|Xikun Zhang et.al.|[2201.08860v1](http://arxiv.org/abs/2201.08860v1)|**[link](https://github.com/snap-stanford/greaselm)**|
 |**2022-01-21**|**Conversational Information Seeking**|Hamed Zamani et.al.|[2201.08808v1](http://arxiv.org/abs/2201.08808v1)|null|
 |**2022-01-20**|**Knowledge Graph Question Answering Leaderboard: A Community Resource to Prevent a Replication Crisis**|Aleksandr Perevalov et.al.|[2201.08174v1](http://arxiv.org/abs/2201.08174v1)|null|
 |**2022-01-19**|**Evaluating Machine Common Sense via Cloze Testing**|Ehsan Qasemi et.al.|[2201.07902v1](http://arxiv.org/abs/2201.07902v1)|null|
@@ -185,6 +206,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-01-24**|**Dual Preference Distribution Learning for Item Recommendation**|Xue Dong et.al.|[2201.09490v1](http://arxiv.org/abs/2201.09490v1)|null|
+|**2022-01-23**|**An integrated recurrent neural network and regression model with spatial and climatic couplings for vector-borne disease dynamics**|Zhijian Li et.al.|[2201.09394v1](http://arxiv.org/abs/2201.09394v1)|null|
+|**2022-01-23**|**Reinforcement Routing on Proximity Graph for Efficient Recommendation**|Chao Feng et.al.|[2201.09290v1](http://arxiv.org/abs/2201.09290v1)|null|
+|**2022-01-23**|**Learning to Minimize the Remainder in Supervised Learning**|Yan Luo et.al.|[2201.09193v1](http://arxiv.org/abs/2201.09193v1)|**[link](https://github.com/luoyan407/gradient_adjustment)**|
+|**2022-01-22**|**Leaf: Multiple-Choice Question Generation**|Kristiyan Vachev et.al.|[2201.09012v1](http://arxiv.org/abs/2201.09012v1)|**[link](https://github.com/kristiyanvachev/leaf-question-generation)**|
 |**2022-01-21**|**Improved Random Features for Dot Product Kernels**|Jonas Wacker et.al.|[2201.08712v1](http://arxiv.org/abs/2201.08712v1)|null|
 |**2022-01-21**|**Text Style Transfer for Bias Mitigation using Masked Language Modeling**|Ewoenam Kwaku Tokpo et.al.|[2201.08643v1](http://arxiv.org/abs/2201.08643v1)|null|
 |**2022-01-21**|**Consumer Fairness in Recommender Systems: Contextualizing Definitions and Mitigations**|Ludovico Boratto et.al.|[2201.08614v1](http://arxiv.org/abs/2201.08614v1)|**[link](https://github.com/jackmedda/c-fairness-recsys)**|
@@ -222,6 +248,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-01-24**|**Towards Collaborative Question Answering: A Preliminary Study**|Xiangkun Hu et.al.|[2201.09708v1](http://arxiv.org/abs/2201.09708v1)|null|
+|**2022-01-24**|**Scaling Up Knowledge Graph Creation to Large and Heterogeneous Data Sources**|Enrique Iglesias et.al.|[2201.09694v1](http://arxiv.org/abs/2201.09694v1)|null|
+|**2022-01-24**|**Relational Memory Augmented Language Models**|Qi Liu et.al.|[2201.09680v1](http://arxiv.org/abs/2201.09680v1)|null|
+|**2022-01-24**|**A Knowledge Graph Embeddings based Approach for Author Name Disambiguation using Literals**|Cristian Santini et.al.|[2201.09555v1](http://arxiv.org/abs/2201.09555v1)|**[link](https://github.com/sntcristian/and-kge)**|
+|**2022-01-21**|**GreaseLM: Graph REASoning Enhanced Language Models for Question Answering**|Xikun Zhang et.al.|[2201.08860v1](http://arxiv.org/abs/2201.08860v1)|**[link](https://github.com/snap-stanford/greaselm)**|
 |**2022-01-21**|**Taxonomy Enrichment with Text and Graph Vector Representations**|Irina Nikishina et.al.|[2201.08598v1](http://arxiv.org/abs/2201.08598v1)|null|
 |**2022-01-21**|**Trustworthy Knowledge Graph Completion Based on Multi-sourced Noisy Data**|Jiacheng Huang et.al.|[2201.08580v1](http://arxiv.org/abs/2201.08580v1)|**[link](https://github.com/nju-websoft/tkgc)**|
 |**2022-01-16**|**Temporal Knowledge Graph Completion: A Survey**|Borui Cai et.al.|[2201.08236v1](http://arxiv.org/abs/2201.08236v1)|null|
@@ -252,6 +283,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-01-24**|**On Evaluation Metrics for Graph Generative Models**|Rylee Thompson et.al.|[2201.09871v1](http://arxiv.org/abs/2201.09871v1)|**[link](https://github.com/uoguelph-mlrg/ggm-metrics)**|
+|**2022-01-24**|**Graph Reinforcement Learning for Wireless Control Systems: Large-Scale Resource Allocation over Interference Channels**|Vinicius Lima et.al.|[2201.09859v1](http://arxiv.org/abs/2201.09859v1)|null|
+|**2022-01-24**|**Neural Architecture Searching for Facial Attributes-based Depression Recognition**|Mingzhe Chen et.al.|[2201.09799v1](http://arxiv.org/abs/2201.09799v1)|null|
+|**2022-01-24**|**Graph Neural Diffusion Networks for Semi-supervised Learning**|Wei Ye et.al.|[2201.09698v1](http://arxiv.org/abs/2201.09698v1)|null|
+|**2022-01-24**|**DrugOOD: Out-of-Distribution (OOD) Dataset Curator and Benchmark for AI-aided Drug Discovery -- A Focus on Affinity Prediction Problems with Noise Annotations**|Yuanfeng Ji et.al.|[2201.09637v1](http://arxiv.org/abs/2201.09637v1)|null|
+|**2022-01-23**|**Towards Private Learning on Decentralized Graphs with Local Differential Privacy**|Wanyu Lin et.al.|[2201.09398v1](http://arxiv.org/abs/2201.09398v1)|null|
+|**2022-01-23**|**Partition-Based Active Learning for Graph Neural Networks**|Jiaqi Ma et.al.|[2201.09391v1](http://arxiv.org/abs/2201.09391v1)|null|
+|**2022-01-23**|**Investigating Expressiveness of Transformer in Spectral Domain for Graphs**|Anson Bastos et.al.|[2201.09332v1](http://arxiv.org/abs/2201.09332v1)|null|
+|**2022-01-23**|**Hardware/Software Co-Programmable Framework for Computational SSDs to Accelerate Deep Learning Service on Large-Scale Graphs**|Miryeong Kwon et.al.|[2201.09189v1](http://arxiv.org/abs/2201.09189v1)|null|
+|**2022-01-22**|**HiSTGNN: Hierarchical Spatio-temporal Graph Neural Networks for Weather Forecasting**|Minbo Ma et.al.|[2201.09101v1](http://arxiv.org/abs/2201.09101v1)|null|
 |**2022-01-21**|**Representing Long-Range Context for Graph Neural Networks with Global Attention**|Zhanghao Wu et.al.|[2201.08821v1](http://arxiv.org/abs/2201.08821v1)|**[link](https://github.com/ucbrise/graphtrans)**|
 |**2022-01-21**|**Deconfounding to Explanation Evaluation in Graph Neural Networks**|Ying-Xin et.al.|[2201.08802v1](http://arxiv.org/abs/2201.08802v1)|null|
 |**2022-01-21**|**Trustworthy Knowledge Graph Completion Based on Multi-sourced Noisy Data**|Jiacheng Huang et.al.|[2201.08580v1](http://arxiv.org/abs/2201.08580v1)|**[link](https://github.com/nju-websoft/tkgc)**|
