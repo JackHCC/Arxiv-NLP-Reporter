@@ -1,4 +1,4 @@
-## Updated on 2022.01.25
+## Updated on 2022.01.26
 
 ## NLP
 
@@ -286,7 +286,7 @@
 |**2022-01-24**|**On Evaluation Metrics for Graph Generative Models**|Rylee Thompson et.al.|[2201.09871v1](http://arxiv.org/abs/2201.09871v1)|**[link](https://github.com/uoguelph-mlrg/ggm-metrics)**|
 |**2022-01-24**|**Graph Reinforcement Learning for Wireless Control Systems: Large-Scale Resource Allocation over Interference Channels**|Vinicius Lima et.al.|[2201.09859v1](http://arxiv.org/abs/2201.09859v1)|null|
 |**2022-01-24**|**Neural Architecture Searching for Facial Attributes-based Depression Recognition**|Mingzhe Chen et.al.|[2201.09799v1](http://arxiv.org/abs/2201.09799v1)|null|
-|**2022-01-24**|**Graph Neural Diffusion Networks for Semi-supervised Learning**|Wei Ye et.al.|[2201.09698v1](http://arxiv.org/abs/2201.09698v1)|null|
+|**2022-01-24**|**Graph Neural Diffusion Networks for Semi-supervised Learning**|Wei Ye et.al.|[2201.09698v1](http://arxiv.org/abs/2201.09698v1)|**[link](https://github.com/yeweiysh/gnd-nets)**|
 |**2022-01-24**|**DrugOOD: Out-of-Distribution (OOD) Dataset Curator and Benchmark for AI-aided Drug Discovery -- A Focus on Affinity Prediction Problems with Noise Annotations**|Yuanfeng Ji et.al.|[2201.09637v1](http://arxiv.org/abs/2201.09637v1)|null|
 |**2022-01-23**|**Towards Private Learning on Decentralized Graphs with Local Differential Privacy**|Wanyu Lin et.al.|[2201.09398v1](http://arxiv.org/abs/2201.09398v1)|null|
 |**2022-01-23**|**Partition-Based Active Learning for Graph Neural Networks**|Jiaqi Ma et.al.|[2201.09391v1](http://arxiv.org/abs/2201.09391v1)|null|
