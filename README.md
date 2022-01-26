@@ -4,6 +4,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-01-25**|**LP-UIT: A Multimodal Framework for Link Prediction in Social Networks**|Huizi Wu et.al.|[2201.10108v1](http://arxiv.org/abs/2201.10108v1)|null|
+|**2022-01-24**|**Classification Of Fake News Headline Based On Neural Networks**|Ke Yahan et.al.|[2201.09966v1](http://arxiv.org/abs/2201.09966v1)|null|
 |**2022-01-24**|**Using Computational Grounded Theory to Understand Tutors' Experiences in the Gig Economy**|Lama Alqazlan et.al.|[2201.09787v1](http://arxiv.org/abs/2201.09787v1)|null|
 |**2022-01-24**|**Unified Question Generation with Continual Lifelong Learning**|Wei Yuan et.al.|[2201.09696v1](http://arxiv.org/abs/2201.09696v1)|null|
 |**2022-01-24**|**BTPK-based learning: An Interpretable Method for Named Entity Recognition**|Yulin Chen et.al.|[2201.09523v1](http://arxiv.org/abs/2201.09523v1)|null|
@@ -70,6 +72,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-01-25**|**Distantly supervised end-to-end medical entity extraction from electronic health records with human-level quality**|Alexander Nesterov et.al.|[2201.10463v1](http://arxiv.org/abs/2201.10463v1)|null|
+|**2022-01-24**|**Razmecheno: Named Entity Recognition from Digital Archive of Diaries "Prozhito"**|Timofey Atnashev et.al.|[2201.09997v1](http://arxiv.org/abs/2201.09997v1)|null|
 |**2022-01-24**|**BTPK-based learning: An Interpretable Method for Named Entity Recognition**|Yulin Chen et.al.|[2201.09523v1](http://arxiv.org/abs/2201.09523v1)|null|
 |**2022-01-18**|**Annotating the Tweebank Corpus on Named Entity Recognition and Building NLP Models for Social Media Analysis**|Hang Jiang et.al.|[2201.07281v1](http://arxiv.org/abs/2201.07281v1)|**[link](https://github.com/social-machines/tweebanknlp)**|
 |**2022-01-17**|**RuMedBench: A Russian Medical Language Understanding Benchmark**|Pavel Blinov et.al.|[2201.06499v1](http://arxiv.org/abs/2201.06499v1)|null|
@@ -89,6 +93,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-01-25**|**Suicidal Ideation Detection on Social Media: A Review of Machine Learning Methods**|Asma Abdulsalam et.al.|[2201.10515v1](http://arxiv.org/abs/2201.10515v1)|null|
+|**2022-01-24**|**Classification Of Fake News Headline Based On Neural Networks**|Ke Yahan et.al.|[2201.09966v1](http://arxiv.org/abs/2201.09966v1)|null|
 |**2022-01-24**|**Table Pretraining: A Survey on Model Architectures, Pretraining Objectives, and Downstream Tasks**|Haoyu Dong et.al.|[2201.09745v1](http://arxiv.org/abs/2201.09745v1)|null|
 |**2022-01-21**|**Dual Contrastive Learning: Text Classification via Label-Aware Data Augmentation**|Qianben Chen et.al.|[2201.08702v1](http://arxiv.org/abs/2201.08702v1)|**[link](https://github.com/hiyouga/dual-contrastive-learning)**|
 |**2022-01-21**|**Black-box Prompt Learning for Pre-trained Language Models**|Shizhe Diao et.al.|[2201.08531v1](http://arxiv.org/abs/2201.08531v1)|null|
@@ -119,6 +125,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-01-25**|**Multi-channel Attentive Graph Convolutional Network With Sentiment Fusion For Multimodal Sentiment Analysis**|Luwei Xiao et.al.|[2201.10274v1](http://arxiv.org/abs/2201.10274v1)|null|
 |**2022-01-24**|**MMLatch: Bottom-up Top-down Fusion for Multimodal Sentiment Analysis**|Georgios Paraskevopoulos et.al.|[2201.09828v1](http://arxiv.org/abs/2201.09828v1)|null|
 |**2022-01-21**|**Identifying Adversarial Attacks on Text Classifiers**|Zhouhang Xie et.al.|[2201.08555v1](http://arxiv.org/abs/2201.08555v1)|null|
 |**2022-01-20**|**NaijaSenti: A Nigerian Twitter Sentiment Corpus for Multilingual Sentiment Analysis**|Shamsuddeen Hassan Muhammad et.al.|[2201.08277v1](http://arxiv.org/abs/2201.08277v1)|**[link](https://github.com/hausanlp/naijasenti)**|
@@ -185,6 +192,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-01-25**|**Cold Start Active Learning Strategies in the Context of Imbalanced Classification**|Etienne Brangbour et.al.|[2201.10227v1](http://arxiv.org/abs/2201.10227v1)|null|
+|**2022-01-24**|**Generating Clarifying Questions for Query Refinement in Source Code Search**|Zachary Eberhart et.al.|[2201.09974v1](http://arxiv.org/abs/2201.09974v1)|null|
 |**2022-01-20**|**AstBERT: Enabling Language Model for Code Understanding with Abstract Syntax Tree**|Rong Liang et.al.|[2201.07984v1](http://arxiv.org/abs/2201.07984v1)|null|
 |**2022-01-18**|**Cross-modal Contrastive Distillation for Instructional Activity Anticipation**|Zhengyuan Yang et.al.|[2201.06734v1](http://arxiv.org/abs/2201.06734v1)|null|
 |**2022-01-16**|**Temporal Relation Extraction with a Graph-Based Deep Biaffine Attention Model**|Bo-Ying Su et.al.|[2201.06125v1](http://arxiv.org/abs/2201.06125v1)|null|
@@ -206,6 +215,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-01-25**|**Explainability in Music Recommender Systems**|Darius Afchar et.al.|[2201.10528v1](http://arxiv.org/abs/2201.10528v1)|null|
+|**2022-01-24**|**On-Device Learning with Cloud-Coordinated Data Augmentation for Extreme Model Personalization in Recommender Systems**|Renjie Gu et.al.|[2201.10382v1](http://arxiv.org/abs/2201.10382v1)|null|
+|**2022-01-25**|**Chatbots and messaging platforms in the classroom: an analysis from the teacher's perspective**|J. J. Merelo et.al.|[2201.10289v1](http://arxiv.org/abs/2201.10289v1)|**[link](https://github.com/JJ/edubots-paper)**|
+|**2022-01-25**|**Diversity in the Music Listening Experience: Insights from Focus Group Interviews**|Lorenzo Porcaro et.al.|[2201.10249v1](http://arxiv.org/abs/2201.10249v1)|null|
 |**2022-01-24**|**Dual Preference Distribution Learning for Item Recommendation**|Xue Dong et.al.|[2201.09490v1](http://arxiv.org/abs/2201.09490v1)|null|
 |**2022-01-23**|**An integrated recurrent neural network and regression model with spatial and climatic couplings for vector-borne disease dynamics**|Zhijian Li et.al.|[2201.09394v1](http://arxiv.org/abs/2201.09394v1)|null|
 |**2022-01-23**|**Reinforcement Routing on Proximity Graph for Efficient Recommendation**|Chao Feng et.al.|[2201.09290v1](http://arxiv.org/abs/2201.09290v1)|null|
@@ -248,6 +261,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-01-24**|**Box Embeddings for the Description Logic EL++**|Bo Xiong et.al.|[2201.09919v1](http://arxiv.org/abs/2201.09919v1)|null|
 |**2022-01-24**|**Towards Collaborative Question Answering: A Preliminary Study**|Xiangkun Hu et.al.|[2201.09708v1](http://arxiv.org/abs/2201.09708v1)|null|
 |**2022-01-24**|**Scaling Up Knowledge Graph Creation to Large and Heterogeneous Data Sources**|Enrique Iglesias et.al.|[2201.09694v1](http://arxiv.org/abs/2201.09694v1)|null|
 |**2022-01-24**|**Relational Memory Augmented Language Models**|Qi Liu et.al.|[2201.09680v1](http://arxiv.org/abs/2201.09680v1)|null|
@@ -283,6 +297,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-01-24**|**A Method to Predict Semantic Relations on Artificial Intelligence Papers**|Francisco Andrades et.al.|[2201.10518v1](http://arxiv.org/abs/2201.10518v1)|null|
+|**2022-01-25**|**What's Wrong with Deep Learning in Tree Search for Combinatorial Optimization**|Maximilian Böther et.al.|[2201.10494v1](http://arxiv.org/abs/2201.10494v1)|**[link](https://github.com/maxiboether/mis-benchmark-framework)**|
+|**2022-01-25**|**ML4CO-KIDA: Knowledge Inheritance in Data Aggregation**|Zixuan Cao et.al.|[2201.10328v1](http://arxiv.org/abs/2201.10328v1)|null|
+|**2022-01-25**|**Unboxing the graph: Neural Relational Inference for Mobility Prediction**|Mathias Niemann Tygesen et.al.|[2201.10307v1](http://arxiv.org/abs/2201.10307v1)|null|
+|**2022-01-25**|**Convergence of Invariant Graph Networks**|Chen Cai et.al.|[2201.10129v1](http://arxiv.org/abs/2201.10129v1)|null|
+|**2022-01-25**|**PowerGear: Early-Stage Power Estimation in FPGA HLS via Heterogeneous Edge-Centric GNNs**|Zhe Lin et.al.|[2201.10114v1](http://arxiv.org/abs/2201.10114v1)|null|
 |**2022-01-24**|**On Evaluation Metrics for Graph Generative Models**|Rylee Thompson et.al.|[2201.09871v1](http://arxiv.org/abs/2201.09871v1)|**[link](https://github.com/uoguelph-mlrg/ggm-metrics)**|
 |**2022-01-24**|**Graph Reinforcement Learning for Wireless Control Systems: Large-Scale Resource Allocation over Interference Channels**|Vinicius Lima et.al.|[2201.09859v1](http://arxiv.org/abs/2201.09859v1)|null|
 |**2022-01-24**|**Neural Architecture Searching for Facial Attributes-based Depression Recognition**|Mingzhe Chen et.al.|[2201.09799v1](http://arxiv.org/abs/2201.09799v1)|null|
