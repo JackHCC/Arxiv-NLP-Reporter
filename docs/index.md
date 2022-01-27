@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.01.26
+## Updated on 2022.01.27
 
 ## NLP
 
@@ -165,7 +165,7 @@ layout: default
 |**2022-01-22**|**Leaf: Multiple-Choice Question Generation**|Kristiyan Vachev et.al.|[2201.09012v1](http://arxiv.org/abs/2201.09012v1)|**[link](https://github.com/kristiyanvachev/leaf-question-generation)**|
 |**2022-01-21**|**GreaseLM: Graph REASoning Enhanced Language Models for Question Answering**|Xikun Zhang et.al.|[2201.08860v1](http://arxiv.org/abs/2201.08860v1)|**[link](https://github.com/snap-stanford/greaselm)**|
 |**2022-01-21**|**Conversational Information Seeking**|Hamed Zamani et.al.|[2201.08808v1](http://arxiv.org/abs/2201.08808v1)|null|
-|**2022-01-20**|**Knowledge Graph Question Answering Leaderboard: A Community Resource to Prevent a Replication Crisis**|Aleksandr Perevalov et.al.|[2201.08174v1](http://arxiv.org/abs/2201.08174v1)|null|
+|**2022-01-20**|**Knowledge Graph Question Answering Leaderboard: A Community Resource to Prevent a Replication Crisis**|Aleksandr Perevalov et.al.|[2201.08174v1](http://arxiv.org/abs/2201.08174v1)|**[link](https://github.com/kgqa/leaderboard)**|
 |**2022-01-19**|**Evaluating Machine Common Sense via Cloze Testing**|Ehsan Qasemi et.al.|[2201.07902v1](http://arxiv.org/abs/2201.07902v1)|null|
 |**2022-01-19**|**Improving Biomedical Information Retrieval with Neural Retrievers**|Man Luo et.al.|[2201.07745v1](http://arxiv.org/abs/2201.07745v1)|null|
 |**2022-01-19**|**Evaluating and predicting the Efficiency Index for Stereotactic Radiosurgery Plans using RapidMiner GO(JAVA) Based Artificial Intelligence Algorithms**|Hossam Donya et.al.|[2201.07718v1](http://arxiv.org/abs/2201.07718v1)|null|
@@ -197,7 +197,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2022-01-25**|**Cold Start Active Learning Strategies in the Context of Imbalanced Classification**|Etienne Brangbour et.al.|[2201.10227v1](http://arxiv.org/abs/2201.10227v1)|null|
-|**2022-01-24**|**Generating Clarifying Questions for Query Refinement in Source Code Search**|Zachary Eberhart et.al.|[2201.09974v1](http://arxiv.org/abs/2201.09974v1)|null|
+|**2022-01-24**|**Generating Clarifying Questions for Query Refinement in Source Code Search**|Zachary Eberhart et.al.|[2201.09974v1](http://arxiv.org/abs/2201.09974v1)|**[link](https://github.com/zeberhart/zacq)**|
 |**2022-01-20**|**AstBERT: Enabling Language Model for Code Understanding with Abstract Syntax Tree**|Rong Liang et.al.|[2201.07984v1](http://arxiv.org/abs/2201.07984v1)|null|
 |**2022-01-18**|**Cross-modal Contrastive Distillation for Instructional Activity Anticipation**|Zhengyuan Yang et.al.|[2201.06734v1](http://arxiv.org/abs/2201.06734v1)|null|
 |**2022-01-16**|**Temporal Relation Extraction with a Graph-Based Deep Biaffine Attention Model**|Bo-Ying Su et.al.|[2201.06125v1](http://arxiv.org/abs/2201.06125v1)|null|
@@ -265,7 +265,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2022-01-24**|**Box Embeddings for the Description Logic EL++**|Bo Xiong et.al.|[2201.09919v1](http://arxiv.org/abs/2201.09919v1)|null|
+|**2022-01-24**|**Box Embeddings for the Description Logic EL++**|Bo Xiong et.al.|[2201.09919v1](http://arxiv.org/abs/2201.09919v1)|**[link](https://github.com/box-el/boxel)**|
 |**2022-01-24**|**Towards Collaborative Question Answering: A Preliminary Study**|Xiangkun Hu et.al.|[2201.09708v1](http://arxiv.org/abs/2201.09708v1)|null|
 |**2022-01-24**|**Scaling Up Knowledge Graph Creation to Large and Heterogeneous Data Sources**|Enrique Iglesias et.al.|[2201.09694v1](http://arxiv.org/abs/2201.09694v1)|null|
 |**2022-01-24**|**Relational Memory Augmented Language Models**|Qi Liu et.al.|[2201.09680v1](http://arxiv.org/abs/2201.09680v1)|null|
@@ -274,7 +274,7 @@ layout: default
 |**2022-01-21**|**Taxonomy Enrichment with Text and Graph Vector Representations**|Irina Nikishina et.al.|[2201.08598v1](http://arxiv.org/abs/2201.08598v1)|null|
 |**2022-01-21**|**Trustworthy Knowledge Graph Completion Based on Multi-sourced Noisy Data**|Jiacheng Huang et.al.|[2201.08580v1](http://arxiv.org/abs/2201.08580v1)|**[link](https://github.com/nju-websoft/tkgc)**|
 |**2022-01-16**|**Temporal Knowledge Graph Completion: A Survey**|Borui Cai et.al.|[2201.08236v1](http://arxiv.org/abs/2201.08236v1)|null|
-|**2022-01-20**|**Knowledge Graph Question Answering Leaderboard: A Community Resource to Prevent a Replication Crisis**|Aleksandr Perevalov et.al.|[2201.08174v1](http://arxiv.org/abs/2201.08174v1)|null|
+|**2022-01-20**|**Knowledge Graph Question Answering Leaderboard: A Community Resource to Prevent a Replication Crisis**|Aleksandr Perevalov et.al.|[2201.08174v1](http://arxiv.org/abs/2201.08174v1)|**[link](https://github.com/kgqa/leaderboard)**|
 |**2022-01-18**|**Inferring Commonsense Explanations as Prompts for Future Event Generation**|Li Lin et.al.|[2201.07099v1](http://arxiv.org/abs/2201.07099v1)|null|
 |**2022-01-18**|**Conflict-aware Inference of Python Compatible Runtime Environments with Domain Knowledge Graph**|Wei Cheng et.al.|[2201.07029v1](http://arxiv.org/abs/2201.07029v1)|**[link](https://github.com/nju-websoft/pycre)**|
 |**2022-01-19**|**COPA-SSE: Semi-structured Explanations for Commonsense Reasoning**|Ana Brassard et.al.|[2201.06777v2](http://arxiv.org/abs/2201.06777v2)|**[link](https://github.com/a-brassard/copa-sse)**|
@@ -303,7 +303,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2022-01-24**|**A Method to Predict Semantic Relations on Artificial Intelligence Papers**|Francisco Andrades et.al.|[2201.10518v1](http://arxiv.org/abs/2201.10518v1)|null|
 |**2022-01-25**|**What's Wrong with Deep Learning in Tree Search for Combinatorial Optimization**|Maximilian Böther et.al.|[2201.10494v1](http://arxiv.org/abs/2201.10494v1)|**[link](https://github.com/maxiboether/mis-benchmark-framework)**|
-|**2022-01-25**|**ML4CO-KIDA: Knowledge Inheritance in Data Aggregation**|Zixuan Cao et.al.|[2201.10328v1](http://arxiv.org/abs/2201.10328v1)|null|
+|**2022-01-25**|**ML4CO-KIDA: Knowledge Inheritance in Data Aggregation**|Zixuan Cao et.al.|[2201.10328v1](http://arxiv.org/abs/2201.10328v1)|**[link](https://github.com/megvii-research/neurips2021-ml4co-kida)**|
 |**2022-01-25**|**Unboxing the graph: Neural Relational Inference for Mobility Prediction**|Mathias Niemann Tygesen et.al.|[2201.10307v1](http://arxiv.org/abs/2201.10307v1)|null|
 |**2022-01-25**|**Convergence of Invariant Graph Networks**|Chen Cai et.al.|[2201.10129v1](http://arxiv.org/abs/2201.10129v1)|null|
 |**2022-01-25**|**PowerGear: Early-Stage Power Estimation in FPGA HLS via Heterogeneous Edge-Centric GNNs**|Zhe Lin et.al.|[2201.10114v1](http://arxiv.org/abs/2201.10114v1)|null|
