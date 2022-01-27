@@ -8,6 +8,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-01-26**|**Twitter-Demographer: A Flow-based Tool to Enrich Twitter Data**|Federico Bianchi et.al.|[2201.10986v1](http://arxiv.org/abs/2201.10986v1)|null|
+|**2022-01-26**|**Dual-Tasks Siamese Transformer Framework for Building Damage Assessment**|Hongruixuan Chen et.al.|[2201.10953v1](http://arxiv.org/abs/2201.10953v1)|null|
+|**2022-01-26**|**One Student Knows All Experts Know: From Sparse to Dense**|Fuzhao Xue et.al.|[2201.10890v1](http://arxiv.org/abs/2201.10890v1)|null|
 |**2022-01-25**|**LP-UIT: A Multimodal Framework for Link Prediction in Social Networks**|Huizi Wu et.al.|[2201.10108v1](http://arxiv.org/abs/2201.10108v1)|null|
 |**2022-01-24**|**Classification Of Fake News Headline Based On Neural Networks**|Ke Yahan et.al.|[2201.09966v1](http://arxiv.org/abs/2201.09966v1)|null|
 |**2022-01-24**|**Using Computational Grounded Theory to Understand Tutors' Experiences in the Gig Economy**|Lama Alqazlan et.al.|[2201.09787v1](http://arxiv.org/abs/2201.09787v1)|null|
@@ -97,6 +100,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-01-26**|**Toward a More Populous Online Platform: The Economic Impacts of Compensated Reviews**|Peng Li et.al.|[2201.11051v1](http://arxiv.org/abs/2201.11051v1)|null|
+|**2022-01-26**|**Pair-Level Supervised Contrastive Learning for Natural Language Inference**|Shu'ang Li et.al.|[2201.10927v1](http://arxiv.org/abs/2201.10927v1)|**[link](https://github.com/thu-bpm/pairscl)**|
+|**2022-01-26**|**A Tight Three-parameter Correlation and Related Classification on Gamma-Ray Bursts**|Shuai Zhang et.al.|[2201.10861v1](http://arxiv.org/abs/2201.10861v1)|null|
 |**2022-01-25**|**Suicidal Ideation Detection on Social Media: A Review of Machine Learning Methods**|Asma Abdulsalam et.al.|[2201.10515v1](http://arxiv.org/abs/2201.10515v1)|null|
 |**2022-01-24**|**Classification Of Fake News Headline Based On Neural Networks**|Ke Yahan et.al.|[2201.09966v1](http://arxiv.org/abs/2201.09966v1)|null|
 |**2022-01-24**|**Table Pretraining: A Survey on Model Architectures, Pretraining Objectives, and Downstream Tasks**|Haoyu Dong et.al.|[2201.09745v1](http://arxiv.org/abs/2201.09745v1)|null|
@@ -156,6 +162,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-01-26**|**SCAI-QReCC Shared Task on Conversational Question Answering**|Svitlana Vakulenko et.al.|[2201.11094v1](http://arxiv.org/abs/2201.11094v1)|**[link](https://github.com/scai-conf/scai-qrecc-21)**|
+|**2022-01-26**|**Learning to Compose Diversified Prompts for Image Emotion Classification**|Sinuo Deng et.al.|[2201.10963v1](http://arxiv.org/abs/2201.10963v1)|null|
+|**2022-01-26**|**An Automated Question-Answering Framework Based on Evolution Algorithm**|Sinan Tan et.al.|[2201.10797v1](http://arxiv.org/abs/2201.10797v1)|null|
+|**2022-01-25**|**MGA-VQA: Multi-Granularity Alignment for Visual Question Answering**|Peixi Xiong et.al.|[2201.10656v1](http://arxiv.org/abs/2201.10656v1)|null|
+|**2022-01-25**|**SA-VQA: Structured Alignment of Visual and Semantic Representations for Visual Question Answering**|Peixi Xiong et.al.|[2201.10654v1](http://arxiv.org/abs/2201.10654v1)|null|
+|**2022-01-25**|**DOM-LM: Learning Generalizable Representations for HTML Documents**|Xiang Deng et.al.|[2201.10608v1](http://arxiv.org/abs/2201.10608v1)|null|
 |**2022-01-24**|**Table Pretraining: A Survey on Model Architectures, Pretraining Objectives, and Downstream Tasks**|Haoyu Dong et.al.|[2201.09745v1](http://arxiv.org/abs/2201.09745v1)|null|
 |**2022-01-24**|**Towards Collaborative Question Answering: A Preliminary Study**|Xiangkun Hu et.al.|[2201.09708v1](http://arxiv.org/abs/2201.09708v1)|null|
 |**2022-01-24**|**Unified Question Generation with Continual Lifelong Learning**|Wei Yuan et.al.|[2201.09696v1](http://arxiv.org/abs/2201.09696v1)|null|
@@ -196,6 +208,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-01-26**|**Adaptive Resonance Theory-based Topological Clustering with a Divisive Hierarchical Structure Capable of Continual Learning**|Naoki Masuyama et.al.|[2201.10713v1](http://arxiv.org/abs/2201.10713v1)|null|
+|**2022-01-25**|**DOM-LM: Learning Generalizable Representations for HTML Documents**|Xiang Deng et.al.|[2201.10608v1](http://arxiv.org/abs/2201.10608v1)|null|
 |**2022-01-25**|**Cold Start Active Learning Strategies in the Context of Imbalanced Classification**|Etienne Brangbour et.al.|[2201.10227v1](http://arxiv.org/abs/2201.10227v1)|null|
 |**2022-01-24**|**Generating Clarifying Questions for Query Refinement in Source Code Search**|Zachary Eberhart et.al.|[2201.09974v1](http://arxiv.org/abs/2201.09974v1)|**[link](https://github.com/zeberhart/zacq)**|
 |**2022-01-20**|**AstBERT: Enabling Language Model for Code Understanding with Abstract Syntax Tree**|Rong Liang et.al.|[2201.07984v1](http://arxiv.org/abs/2201.07984v1)|null|
@@ -219,6 +233,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-01-26**|**Recency Dropout for Recurrent Recommender Systems**|Bo Chang et.al.|[2201.11016v1](http://arxiv.org/abs/2201.11016v1)|null|
+|**2022-01-26**|**Graph Neural Networks with Dynamic and Static Representations for Social Recommendation**|Junfa Lin et.al.|[2201.10751v1](http://arxiv.org/abs/2201.10751v1)|null|
 |**2022-01-25**|**Explainability in Music Recommender Systems**|Darius Afchar et.al.|[2201.10528v1](http://arxiv.org/abs/2201.10528v1)|null|
 |**2022-01-24**|**On-Device Learning with Cloud-Coordinated Data Augmentation for Extreme Model Personalization in Recommender Systems**|Renjie Gu et.al.|[2201.10382v1](http://arxiv.org/abs/2201.10382v1)|null|
 |**2022-01-25**|**Chatbots and messaging platforms in the classroom: an analysis from the teacher's perspective**|J. J. Merelo et.al.|[2201.10289v1](http://arxiv.org/abs/2201.10289v1)|**[link](https://github.com/JJ/edubots-paper)**|
@@ -265,6 +281,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-01-19**|**Online POI Recommendation: Learning Dynamic Geo-Human Interactions in Streams**|Dongjie Wang et.al.|[2201.10983v1](http://arxiv.org/abs/2201.10983v1)|null|
 |**2022-01-24**|**Box Embeddings for the Description Logic EL++**|Bo Xiong et.al.|[2201.09919v1](http://arxiv.org/abs/2201.09919v1)|**[link](https://github.com/box-el/boxel)**|
 |**2022-01-24**|**Towards Collaborative Question Answering: A Preliminary Study**|Xiangkun Hu et.al.|[2201.09708v1](http://arxiv.org/abs/2201.09708v1)|null|
 |**2022-01-24**|**Scaling Up Knowledge Graph Creation to Large and Heterogeneous Data Sources**|Enrique Iglesias et.al.|[2201.09694v1](http://arxiv.org/abs/2201.09694v1)|null|
@@ -301,6 +318,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-01-26**|**On the Power of Gradual Network Alignment Using Dual-Perception Similarities**|Jin-Duk Park et.al.|[2201.10945v1](http://arxiv.org/abs/2201.10945v1)|null|
+|**2022-01-26**|**Causality and Correlation Graph Modeling for Effective and Explainable Session-based Recommendation**|Cong Geng et.al.|[2201.10782v1](http://arxiv.org/abs/2201.10782v1)|null|
+|**2022-01-26**|**Graph Neural Networks with Dynamic and Static Representations for Social Recommendation**|Junfa Lin et.al.|[2201.10751v1](http://arxiv.org/abs/2201.10751v1)|null|
 |**2022-01-24**|**A Method to Predict Semantic Relations on Artificial Intelligence Papers**|Francisco Andrades et.al.|[2201.10518v1](http://arxiv.org/abs/2201.10518v1)|null|
 |**2022-01-25**|**What's Wrong with Deep Learning in Tree Search for Combinatorial Optimization**|Maximilian Böther et.al.|[2201.10494v1](http://arxiv.org/abs/2201.10494v1)|**[link](https://github.com/maxiboether/mis-benchmark-framework)**|
 |**2022-01-25**|**ML4CO-KIDA: Knowledge Inheritance in Data Aggregation**|Zixuan Cao et.al.|[2201.10328v1](http://arxiv.org/abs/2201.10328v1)|**[link](https://github.com/megvii-research/neurips2021-ml4co-kida)**|
