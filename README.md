@@ -101,7 +101,7 @@
 |**2022-01-26**|**A Tight Three-parameter Correlation and Related Classification on Gamma-Ray Bursts**|Shuai Zhang et.al.|[2201.10861v1](http://arxiv.org/abs/2201.10861v1)|null|
 |**2022-01-25**|**Suicidal Ideation Detection on Social Media: A Review of Machine Learning Methods**|Asma Abdulsalam et.al.|[2201.10515v1](http://arxiv.org/abs/2201.10515v1)|null|
 |**2022-01-24**|**Classification Of Fake News Headline Based On Neural Networks**|Ke Yahan et.al.|[2201.09966v1](http://arxiv.org/abs/2201.09966v1)|null|
-|**2022-01-24**|**Table Pretraining: A Survey on Model Architectures, Pretraining Objectives, and Downstream Tasks**|Haoyu Dong et.al.|[2201.09745v1](http://arxiv.org/abs/2201.09745v1)|null|
+|**2022-01-27**|**Table Pre-training: A Survey on Model Architectures, Pretraining Objectives, and Downstream Tasks**|Haoyu Dong et.al.|[2201.09745v2](http://arxiv.org/abs/2201.09745v2)|null|
 |**2022-01-21**|**Dual Contrastive Learning: Text Classification via Label-Aware Data Augmentation**|Qianben Chen et.al.|[2201.08702v1](http://arxiv.org/abs/2201.08702v1)|**[link](https://github.com/hiyouga/dual-contrastive-learning)**|
 |**2022-01-21**|**Black-box Prompt Learning for Pre-trained Language Models**|Shizhe Diao et.al.|[2201.08531v1](http://arxiv.org/abs/2201.08531v1)|null|
 |**2022-01-20**|**Learning-based Hybrid Local Search for the Hard-label Textual Attack**|Zhen Yu et.al.|[2201.08193v1](http://arxiv.org/abs/2201.08193v1)|null|
@@ -164,7 +164,7 @@
 |**2022-01-25**|**MGA-VQA: Multi-Granularity Alignment for Visual Question Answering**|Peixi Xiong et.al.|[2201.10656v1](http://arxiv.org/abs/2201.10656v1)|null|
 |**2022-01-25**|**SA-VQA: Structured Alignment of Visual and Semantic Representations for Visual Question Answering**|Peixi Xiong et.al.|[2201.10654v1](http://arxiv.org/abs/2201.10654v1)|null|
 |**2022-01-25**|**DOM-LM: Learning Generalizable Representations for HTML Documents**|Xiang Deng et.al.|[2201.10608v1](http://arxiv.org/abs/2201.10608v1)|null|
-|**2022-01-24**|**Table Pretraining: A Survey on Model Architectures, Pretraining Objectives, and Downstream Tasks**|Haoyu Dong et.al.|[2201.09745v1](http://arxiv.org/abs/2201.09745v1)|null|
+|**2022-01-27**|**Table Pre-training: A Survey on Model Architectures, Pretraining Objectives, and Downstream Tasks**|Haoyu Dong et.al.|[2201.09745v2](http://arxiv.org/abs/2201.09745v2)|null|
 |**2022-01-24**|**Towards Collaborative Question Answering: A Preliminary Study**|Xiangkun Hu et.al.|[2201.09708v1](http://arxiv.org/abs/2201.09708v1)|null|
 |**2022-01-24**|**Unified Question Generation with Continual Lifelong Learning**|Wei Yuan et.al.|[2201.09696v1](http://arxiv.org/abs/2201.09696v1)|null|
 |**2022-01-24**|**Artefact Retrieval: Overview of NLP Models with Knowledge Base Access**|Vilém Zouhar et.al.|[2201.09651v1](http://arxiv.org/abs/2201.09651v1)|null|
@@ -315,7 +315,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2022-01-26**|**On the Power of Gradual Network Alignment Using Dual-Perception Similarities**|Jin-Duk Park et.al.|[2201.10945v1](http://arxiv.org/abs/2201.10945v1)|null|
-|**2022-01-26**|**Causality and Correlation Graph Modeling for Effective and Explainable Session-based Recommendation**|Cong Geng et.al.|[2201.10782v1](http://arxiv.org/abs/2201.10782v1)|null|
+|**2022-01-27**|**Causality and Correlation Graph Modeling for Effective and Explainable Session-based Recommendation**|Cong Geng et.al.|[2201.10782v2](http://arxiv.org/abs/2201.10782v2)|null|
 |**2022-01-26**|**Graph Neural Networks with Dynamic and Static Representations for Social Recommendation**|Junfa Lin et.al.|[2201.10751v1](http://arxiv.org/abs/2201.10751v1)|null|
 |**2022-01-24**|**A Method to Predict Semantic Relations on Artificial Intelligence Papers**|Francisco Andrades et.al.|[2201.10518v1](http://arxiv.org/abs/2201.10518v1)|null|
 |**2022-01-25**|**What's Wrong with Deep Learning in Tree Search for Combinatorial Optimization**|Maximilian Böther et.al.|[2201.10494v1](http://arxiv.org/abs/2201.10494v1)|**[link](https://github.com/maxiboether/mis-benchmark-framework)**|
