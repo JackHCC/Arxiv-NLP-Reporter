@@ -8,6 +8,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-01-27**|**Grad2Task: Improved Few-shot Text Classification Using Gradients for Task Representation**|Jixuan Wang et.al.|[2201.11576v1](http://arxiv.org/abs/2201.11576v1)|**[link](https://github.com/jixuan-wang/grad2task)**|
+|**2022-01-27**|**Prabhupadavani: A Code-mixed Speech Translation Data for 25 Languages**|Jivnesh Sandhan et.al.|[2201.11391v1](http://arxiv.org/abs/2201.11391v1)|**[link](https://github.com/frozentoad9/CMST)**|
+|**2022-01-27**|**Epistemic AI platform accelerates innovation by connecting biomedical knowledge**|Emily Koo et.al.|[2201.11331v1](http://arxiv.org/abs/2201.11331v1)|null|
 |**2022-01-26**|**Twitter-Demographer: A Flow-based Tool to Enrich Twitter Data**|Federico Bianchi et.al.|[2201.10986v1](http://arxiv.org/abs/2201.10986v1)|null|
 |**2022-01-26**|**Dual-Tasks Siamese Transformer Framework for Building Damage Assessment**|Hongruixuan Chen et.al.|[2201.10953v1](http://arxiv.org/abs/2201.10953v1)|null|
 |**2022-01-26**|**One Student Knows All Experts Know: From Sparse to Dense**|Fuzhao Xue et.al.|[2201.10890v1](http://arxiv.org/abs/2201.10890v1)|null|
@@ -100,6 +103,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-01-27**|**Grad2Task: Improved Few-shot Text Classification Using Gradients for Task Representation**|Jixuan Wang et.al.|[2201.11576v1](http://arxiv.org/abs/2201.11576v1)|**[link](https://github.com/jixuan-wang/grad2task)**|
 |**2022-01-26**|**Toward a More Populous Online Platform: The Economic Impacts of Compensated Reviews**|Peng Li et.al.|[2201.11051v1](http://arxiv.org/abs/2201.11051v1)|null|
 |**2022-01-26**|**Pair-Level Supervised Contrastive Learning for Natural Language Inference**|Shu'ang Li et.al.|[2201.10927v1](http://arxiv.org/abs/2201.10927v1)|**[link](https://github.com/thu-bpm/pairscl)**|
 |**2022-01-26**|**A Tight Three-parameter Correlation and Related Classification on Gamma-Ray Bursts**|Shuai Zhang et.al.|[2201.10861v1](http://arxiv.org/abs/2201.10861v1)|null|
@@ -162,6 +166,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-01-27**|**IGLUE: A Benchmark for Transfer Learning across Modalities, Tasks, and Languages**|Emanuele Bugliarello et.al.|[2201.11732v1](http://arxiv.org/abs/2201.11732v1)|null|
+|**2022-01-27**|**Transformer Module Networks for Systematic Generalization in Visual Question Answering**|Moyuru Yamada et.al.|[2201.11316v1](http://arxiv.org/abs/2201.11316v1)|null|
+|**2022-01-26**|**Addressing Issues of Cross-Linguality in Open-Retrieval Question Answering Systems For Emergent Domains**|Alon Albalak et.al.|[2201.11153v1](http://arxiv.org/abs/2201.11153v1)|null|
 |**2022-01-26**|**SCAI-QReCC Shared Task on Conversational Question Answering**|Svitlana Vakulenko et.al.|[2201.11094v1](http://arxiv.org/abs/2201.11094v1)|**[link](https://github.com/scai-conf/scai-qrecc-21)**|
 |**2022-01-26**|**Learning to Compose Diversified Prompts for Image Emotion Classification**|Sinuo Deng et.al.|[2201.10963v1](http://arxiv.org/abs/2201.10963v1)|null|
 |**2022-01-26**|**An Automated Question-Answering Framework Based on Evolution Algorithm**|Sinan Tan et.al.|[2201.10797v1](http://arxiv.org/abs/2201.10797v1)|null|
@@ -208,6 +215,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-01-27**|**Work extraction from single-mode thermal noise by measurements: How important is information?**|Avijit Misra et.al.|[2201.11567v1](http://arxiv.org/abs/2201.11567v1)|null|
+|**2022-01-27**|**DocSegTr: An Instance-Level End-to-End Document Image Segmentation Transformer**|Sanket Biswas et.al.|[2201.11438v1](http://arxiv.org/abs/2201.11438v1)|null|
+|**2022-01-27**|**Ontology-enhanced Prompt-tuning for Few-shot Learning**|Hongbin Ye et.al.|[2201.11332v1](http://arxiv.org/abs/2201.11332v1)|null|
+|**2022-01-27**|**Epistemic AI platform accelerates innovation by connecting biomedical knowledge**|Emily Koo et.al.|[2201.11331v1](http://arxiv.org/abs/2201.11331v1)|null|
 |**2022-01-26**|**Adaptive Resonance Theory-based Topological Clustering with a Divisive Hierarchical Structure Capable of Continual Learning**|Naoki Masuyama et.al.|[2201.10713v1](http://arxiv.org/abs/2201.10713v1)|null|
 |**2022-01-25**|**DOM-LM: Learning Generalizable Representations for HTML Documents**|Xiang Deng et.al.|[2201.10608v1](http://arxiv.org/abs/2201.10608v1)|null|
 |**2022-01-25**|**Cold Start Active Learning Strategies in the Context of Imbalanced Classification**|Etienne Brangbour et.al.|[2201.10227v1](http://arxiv.org/abs/2201.10227v1)|null|
@@ -281,6 +292,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-01-27**|**Ontology-enhanced Prompt-tuning for Few-shot Learning**|Hongbin Ye et.al.|[2201.11332v1](http://arxiv.org/abs/2201.11332v1)|null|
+|**2022-01-27**|**Epistemic AI platform accelerates innovation by connecting biomedical knowledge**|Emily Koo et.al.|[2201.11331v1](http://arxiv.org/abs/2201.11331v1)|null|
+|**2022-01-25**|**Jointly Learning Knowledge Embedding and Neighborhood Consensus with Relational Knowledge Distillation for Entity Alignment**|Xinhang Li et.al.|[2201.11249v1](http://arxiv.org/abs/2201.11249v1)|null|
+|**2022-01-23**|**OntoProtein: Protein Pretraining With Gene Ontology Embedding**|Ningyu Zhang et.al.|[2201.11147v1](http://arxiv.org/abs/2201.11147v1)|**[link](https://github.com/zjunlp/ontoprotein)**|
 |**2022-01-19**|**Online POI Recommendation: Learning Dynamic Geo-Human Interactions in Streams**|Dongjie Wang et.al.|[2201.10983v1](http://arxiv.org/abs/2201.10983v1)|null|
 |**2022-01-24**|**Box Embeddings for the Description Logic EL++**|Bo Xiong et.al.|[2201.09919v1](http://arxiv.org/abs/2201.09919v1)|**[link](https://github.com/box-el/boxel)**|
 |**2022-01-24**|**Towards Collaborative Question Answering: A Preliminary Study**|Xiangkun Hu et.al.|[2201.09708v1](http://arxiv.org/abs/2201.09708v1)|null|
@@ -318,6 +333,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-01-27**|**Algorithm Selection for Software Verification using Graph Attention Networks**|Will Leeson et.al.|[2201.11711v1](http://arxiv.org/abs/2201.11711v1)|null|
+|**2022-01-27**|**FairMod: Fair Link Prediction and Recommendation via Graph Modification**|Sean Current et.al.|[2201.11596v1](http://arxiv.org/abs/2201.11596v1)|null|
+|**2022-01-27**|**Density-Aware Hyper-Graph Neural Networks for Graph-based Semi-supervised Node Classification**|Jianpeng Liao et.al.|[2201.11511v1](http://arxiv.org/abs/2201.11511v1)|null|
+|**2022-01-27**|**Confidence May Cheat: Self-Training on Graph Neural Networks under Distribution Shift**|Hongrui Liu et.al.|[2201.11349v1](http://arxiv.org/abs/2201.11349v1)|null|
+|**2022-01-27**|**A Higher-Order Semantic Dependency Parser**|Bin Li et.al.|[2201.11312v1](http://arxiv.org/abs/2201.11312v1)|**[link](https://github.com/libinnlp/hosdp)**|
 |**2022-01-26**|**On the Power of Gradual Network Alignment Using Dual-Perception Similarities**|Jin-Duk Park et.al.|[2201.10945v1](http://arxiv.org/abs/2201.10945v1)|null|
 |**2022-01-27**|**Causality and Correlation Graph Modeling for Effective and Explainable Session-based Recommendation**|Cong Geng et.al.|[2201.10782v2](http://arxiv.org/abs/2201.10782v2)|null|
 |**2022-01-26**|**Graph Neural Networks with Dynamic and Static Representations for Social Recommendation**|Junfa Lin et.al.|[2201.10751v1](http://arxiv.org/abs/2201.10751v1)|null|
