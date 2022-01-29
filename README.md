@@ -1,4 +1,4 @@
-## Updated on 2022.01.28
+## Updated on 2022.01.29
 
 ## NLP
 
@@ -164,7 +164,7 @@
 |---|---|---|---|---|
 |**2022-01-27**|**IGLUE: A Benchmark for Transfer Learning across Modalities, Tasks, and Languages**|Emanuele Bugliarello et.al.|[2201.11732v1](http://arxiv.org/abs/2201.11732v1)|null|
 |**2022-01-27**|**Transformer Module Networks for Systematic Generalization in Visual Question Answering**|Moyuru Yamada et.al.|[2201.11316v1](http://arxiv.org/abs/2201.11316v1)|null|
-|**2022-01-26**|**Addressing Issues of Cross-Linguality in Open-Retrieval Question Answering Systems For Emergent Domains**|Alon Albalak et.al.|[2201.11153v1](http://arxiv.org/abs/2201.11153v1)|null|
+|**2022-01-26**|**Addressing Issues of Cross-Linguality in Open-Retrieval Question Answering Systems For Emergent Domains**|Alon Albalak et.al.|[2201.11153v1](http://arxiv.org/abs/2201.11153v1)|**[link](https://github.com/alon-albalak/xor-covid)**|
 |**2022-01-26**|**SCAI-QReCC Shared Task on Conversational Question Answering**|Svitlana Vakulenko et.al.|[2201.11094v1](http://arxiv.org/abs/2201.11094v1)|**[link](https://github.com/scai-conf/scai-qrecc-21)**|
 |**2022-01-26**|**Learning to Compose Diversified Prompts for Image Emotion Classification**|Sinuo Deng et.al.|[2201.10963v1](http://arxiv.org/abs/2201.10963v1)|null|
 |**2022-01-26**|**An Automated Question-Answering Framework Based on Evolution Algorithm**|Sinan Tan et.al.|[2201.10797v1](http://arxiv.org/abs/2201.10797v1)|null|
