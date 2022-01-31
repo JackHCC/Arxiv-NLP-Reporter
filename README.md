@@ -102,7 +102,7 @@
 |**2022-01-27**|**Grad2Task: Improved Few-shot Text Classification Using Gradients for Task Representation**|Jixuan Wang et.al.|[2201.11576v1](http://arxiv.org/abs/2201.11576v1)|**[link](https://github.com/jixuan-wang/grad2task)**|
 |**2022-01-26**|**Toward a More Populous Online Platform: The Economic Impacts of Compensated Reviews**|Peng Li et.al.|[2201.11051v1](http://arxiv.org/abs/2201.11051v1)|null|
 |**2022-01-26**|**Pair-Level Supervised Contrastive Learning for Natural Language Inference**|Shu'ang Li et.al.|[2201.10927v1](http://arxiv.org/abs/2201.10927v1)|**[link](https://github.com/thu-bpm/pairscl)**|
-|**2022-01-26**|**A Tight Three-parameter Correlation and Related Classification on Gamma-Ray Bursts**|Shuai Zhang et.al.|[2201.10861v1](http://arxiv.org/abs/2201.10861v1)|null|
+|**2022-01-28**|**A Tight Three-parameter Correlation and Related Classification on Gamma-Ray Bursts**|Shuai Zhang et.al.|[2201.10861v2](http://arxiv.org/abs/2201.10861v2)|null|
 |**2022-01-25**|**Suicidal Ideation Detection on Social Media: A Review of Machine Learning Methods**|Asma Abdulsalam et.al.|[2201.10515v1](http://arxiv.org/abs/2201.10515v1)|null|
 |**2022-01-24**|**Classification Of Fake News Headline Based On Neural Networks**|Ke Yahan et.al.|[2201.09966v1](http://arxiv.org/abs/2201.09966v1)|null|
 |**2022-01-27**|**Table Pre-training: A Survey on Model Architectures, Pretraining Objectives, and Downstream Tasks**|Haoyu Dong et.al.|[2201.09745v2](http://arxiv.org/abs/2201.09745v2)|null|
@@ -138,7 +138,7 @@
 |**2022-01-25**|**Multi-channel Attentive Graph Convolutional Network With Sentiment Fusion For Multimodal Sentiment Analysis**|Luwei Xiao et.al.|[2201.10274v1](http://arxiv.org/abs/2201.10274v1)|null|
 |**2022-01-24**|**MMLatch: Bottom-up Top-down Fusion for Multimodal Sentiment Analysis**|Georgios Paraskevopoulos et.al.|[2201.09828v1](http://arxiv.org/abs/2201.09828v1)|null|
 |**2022-01-21**|**Identifying Adversarial Attacks on Text Classifiers**|Zhouhang Xie et.al.|[2201.08555v1](http://arxiv.org/abs/2201.08555v1)|null|
-|**2022-01-20**|**NaijaSenti: A Nigerian Twitter Sentiment Corpus for Multilingual Sentiment Analysis**|Shamsuddeen Hassan Muhammad et.al.|[2201.08277v1](http://arxiv.org/abs/2201.08277v1)|**[link](https://github.com/hausanlp/naijasenti)**|
+|**2022-01-28**|**NaijaSenti: A Nigerian Twitter Sentiment Corpus for Multilingual Sentiment Analysis**|Shamsuddeen Hassan Muhammad et.al.|[2201.08277v2](http://arxiv.org/abs/2201.08277v2)|**[link](https://github.com/hausanlp/naijasenti)**|
 |**2022-01-20**|**Sentiment Analysis: Predicting Yelp Scores**|Bhanu Prakash Reddy Guda et.al.|[2201.07999v1](http://arxiv.org/abs/2201.07999v1)|null|
 |**2022-01-19**|**Small Cohort of Epilepsy Patients Showed Increased Activity on Facebook before Sudden Unexpected Death**|Ian B. Wood et.al.|[2201.07552v1](http://arxiv.org/abs/2201.07552v1)|null|
 |**2022-01-14**|**What is the mission of innovation?**|Julian D. Cortes et.al.|[2201.07170v1](http://arxiv.org/abs/2201.07170v1)|null|
@@ -339,7 +339,7 @@
 |**2022-01-26**|**Graph Neural Networks with Dynamic and Static Representations for Social Recommendation**|Junfa Lin et.al.|[2201.10751v1](http://arxiv.org/abs/2201.10751v1)|null|
 |**2022-01-24**|**A Method to Predict Semantic Relations on Artificial Intelligence Papers**|Francisco Andrades et.al.|[2201.10518v1](http://arxiv.org/abs/2201.10518v1)|null|
 |**2022-01-25**|**What's Wrong with Deep Learning in Tree Search for Combinatorial Optimization**|Maximilian Böther et.al.|[2201.10494v1](http://arxiv.org/abs/2201.10494v1)|**[link](https://github.com/maxiboether/mis-benchmark-framework)**|
-|**2022-01-25**|**ML4CO-KIDA: Knowledge Inheritance in Data Aggregation**|Zixuan Cao et.al.|[2201.10328v1](http://arxiv.org/abs/2201.10328v1)|**[link](https://github.com/megvii-research/neurips2021-ml4co-kida)**|
+|**2022-01-28**|**ML4CO-KIDA: Knowledge Inheritance in Data Aggregation**|Zixuan Cao et.al.|[2201.10328v2](http://arxiv.org/abs/2201.10328v2)|**[link](https://github.com/megvii-research/neurips2021-ml4co-kida)**|
 |**2022-01-25**|**Unboxing the graph: Neural Relational Inference for Mobility Prediction**|Mathias Niemann Tygesen et.al.|[2201.10307v1](http://arxiv.org/abs/2201.10307v1)|null|
 |**2022-01-25**|**Convergence of Invariant Graph Networks**|Chen Cai et.al.|[2201.10129v1](http://arxiv.org/abs/2201.10129v1)|null|
 |**2022-01-25**|**PowerGear: Early-Stage Power Estimation in FPGA HLS via Heterogeneous Edge-Centric GNNs**|Zhe Lin et.al.|[2201.10114v1](http://arxiv.org/abs/2201.10114v1)|null|
