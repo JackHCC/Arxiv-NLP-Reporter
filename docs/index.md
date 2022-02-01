@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.01.31
+## Updated on 2022.02.01
 
 ## NLP
 
@@ -255,7 +255,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2022-01-28**|**An Empirical Investigation of Personalization Factors on TikTok**|Maximilian Boeker et.al.|[2201.12271v1](http://arxiv.org/abs/2201.12271v1)|null|
+|**2022-01-28**|**An Empirical Investigation of Personalization Factors on TikTok**|Maximilian Boeker et.al.|[2201.12271v1](http://arxiv.org/abs/2201.12271v1)|**[link](https://github.com/mboeke/tiktok-personalization-investigation)**|
 |**2022-01-28**|**Dynamic pricing and discounts by means of interactive presentation systems in stationary point of sales**|Marcin Lewicki et.al.|[2201.12026v1](http://arxiv.org/abs/2201.12026v1)|null|
 |**2022-01-28**|**Consistent Collaborative Filtering via Tensor Decomposition**|Shiwen Zhao et.al.|[2201.11936v1](http://arxiv.org/abs/2201.11936v1)|null|
 |**2022-01-26**|**Recency Dropout for Recurrent Recommender Systems**|Bo Chang et.al.|[2201.11016v1](http://arxiv.org/abs/2201.11016v1)|null|
