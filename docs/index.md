@@ -8,6 +8,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-01-31**|**NAS-Bench-Suite: NAS Evaluation is (Now) Surprisingly Easy**|Yash Mehta et.al.|[2201.13396v1](http://arxiv.org/abs/2201.13396v1)|**[link](https://github.com/automl/NASLib)**|
+|**2022-01-30**|**Compositionality as Lexical Symmetry**|Ekin Akyürek et.al.|[2201.12926v1](http://arxiv.org/abs/2201.12926v1)|null|
+|**2022-01-30**|**Part of Speech Tagging (POST) of a Low-resource Language using another Language (Developing a POS-Tagged Lexicon for Kurdish (Sorani) using a Tagged Persian (Farsi) Corpus)**|Hossein Hassani et.al.|[2201.12793v1](http://arxiv.org/abs/2201.12793v1)|null|
+|**2022-01-30**|**TransBTSV2: Wider Instead of Deeper Transformer for Medical Image Segmentation**|Jiangyun Li et.al.|[2201.12785v1](http://arxiv.org/abs/2201.12785v1)|**[link](https://github.com/Wenxuan-1119/TransBTS)**|
+|**2022-01-28**|**Commonsense Knowledge Reasoning and Generation with Pre-trained Language Models: A Survey**|Prajjwal Bhargava et.al.|[2201.12438v1](http://arxiv.org/abs/2201.12438v1)|null|
+|**2022-01-28**|**Benchmarking Resource Usage for Efficient Distributed Deep Learning**|Nathan C. Frey et.al.|[2201.12423v1](http://arxiv.org/abs/2201.12423v1)|null|
 |**2022-01-28**|**Measure Estimation in the Barycentric Coding Model**|Matthew Werenski et.al.|[2201.12195v1](http://arxiv.org/abs/2201.12195v1)|null|
 |**2022-01-28**|**O-ViT: Orthogonal Vision Transformer**|Yanhong Fei et.al.|[2201.12133v1](http://arxiv.org/abs/2201.12133v1)|null|
 |**2022-01-28**|**PCL: Peer-Contrastive Learning with Diverse Augmentations for Unsupervised Sentence Embeddings**|Qiyu Wu et.al.|[2201.12093v1](http://arxiv.org/abs/2201.12093v1)|null|
@@ -88,6 +94,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-01-29**|**A Simple Information-Based Approach to Unsupervised Domain-Adaptive Aspect-Based Sentiment Analysis**|Xiang Chen et.al.|[2201.12549v1](http://arxiv.org/abs/2201.12549v1)|**[link](https://github.com/casparswift/da_mim)**|
 |**2022-01-27**|**Clinical-Longformer and Clinical-BigBird: Transformers for long clinical sequences**|Yikuan Li et.al.|[2201.11838v1](http://arxiv.org/abs/2201.11838v1)|null|
 |**2022-01-25**|**Distantly supervised end-to-end medical entity extraction from electronic health records with human-level quality**|Alexander Nesterov et.al.|[2201.10463v1](http://arxiv.org/abs/2201.10463v1)|null|
 |**2022-01-24**|**Razmecheno: Named Entity Recognition from Digital Archive of Diaries "Prozhito"**|Timofey Atnashev et.al.|[2201.09997v1](http://arxiv.org/abs/2201.09997v1)|null|
@@ -110,6 +117,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-01-30**|**Co-Regularized Adversarial Learning for Multi-Domain Text Classification**|Yuan Wu et.al.|[2201.12796v1](http://arxiv.org/abs/2201.12796v1)|null|
 |**2022-01-28**|**Multiple-Source Domain Adaptation via Coordinated Domain Encoders and Paired Classifiers**|Payam Karisani et.al.|[2201.11870v1](http://arxiv.org/abs/2201.11870v1)|null|
 |**2022-01-27**|**Clinical-Longformer and Clinical-BigBird: Transformers for long clinical sequences**|Yikuan Li et.al.|[2201.11838v1](http://arxiv.org/abs/2201.11838v1)|null|
 |**2022-01-27**|**Grad2Task: Improved Few-shot Text Classification Using Gradients for Task Representation**|Jixuan Wang et.al.|[2201.11576v1](http://arxiv.org/abs/2201.11576v1)|**[link](https://github.com/jixuan-wang/grad2task)**|
@@ -148,6 +156,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-01-29**|**A Deep CNN Architecture with Novel Pooling Layer Applied to Two Sudanese Arabic Sentiment Datasets**|Mustafa Mhamed et.al.|[2201.12664v1](http://arxiv.org/abs/2201.12664v1)|null|
+|**2022-01-29**|**A Simple Information-Based Approach to Unsupervised Domain-Adaptive Aspect-Based Sentiment Analysis**|Xiang Chen et.al.|[2201.12549v1](http://arxiv.org/abs/2201.12549v1)|**[link](https://github.com/casparswift/da_mim)**|
 |**2022-01-19**|**Predicting The Stock Trend Using News Sentiment Analysis and Technical Indicators in Spark**|Taylan Kabbani et.al.|[2201.12283v1](http://arxiv.org/abs/2201.12283v1)|null|
 |**2022-01-25**|**Multi-channel Attentive Graph Convolutional Network With Sentiment Fusion For Multimodal Sentiment Analysis**|Luwei Xiao et.al.|[2201.10274v1](http://arxiv.org/abs/2201.10274v1)|null|
 |**2022-01-24**|**MMLatch: Bottom-up Top-down Fusion for Multimodal Sentiment Analysis**|Georgios Paraskevopoulos et.al.|[2201.09828v1](http://arxiv.org/abs/2201.09828v1)|null|
@@ -176,8 +186,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-01-31**|**Learning Representations of Entities and Relations**|Ivana Balažević et.al.|[2201.13073v1](http://arxiv.org/abs/2201.13073v1)|null|
+|**2022-01-30**|**Compositionality as Lexical Symmetry**|Ekin Akyürek et.al.|[2201.12926v1](http://arxiv.org/abs/2201.12926v1)|null|
+|**2022-01-30**|**A Dataset for Medical Instructional Video Classification and Question Answering**|Deepak Gupta et.al.|[2201.12888v1](http://arxiv.org/abs/2201.12888v1)|**[link](https://github.com/deepaknlp/medvidqacl)**|
 |**2022-01-27**|**Clinical-Longformer and Clinical-BigBird: Transformers for long clinical sequences**|Yikuan Li et.al.|[2201.11838v1](http://arxiv.org/abs/2201.11838v1)|null|
-|**2022-01-27**|**IGLUE: A Benchmark for Transfer Learning across Modalities, Tasks, and Languages**|Emanuele Bugliarello et.al.|[2201.11732v1](http://arxiv.org/abs/2201.11732v1)|null|
+|**2022-01-27**|**IGLUE: A Benchmark for Transfer Learning across Modalities, Tasks, and Languages**|Emanuele Bugliarello et.al.|[2201.11732v1](http://arxiv.org/abs/2201.11732v1)|**[link](https://github.com/e-bug/iglue)**|
 |**2022-01-27**|**Transformer Module Networks for Systematic Generalization in Visual Question Answering**|Moyuru Yamada et.al.|[2201.11316v1](http://arxiv.org/abs/2201.11316v1)|null|
 |**2022-01-26**|**Addressing Issues of Cross-Linguality in Open-Retrieval Question Answering Systems For Emergent Domains**|Alon Albalak et.al.|[2201.11153v1](http://arxiv.org/abs/2201.11153v1)|**[link](https://github.com/alon-albalak/xor-covid)**|
 |**2022-01-26**|**SCAI-QReCC Shared Task on Conversational Question Answering**|Svitlana Vakulenko et.al.|[2201.11094v1](http://arxiv.org/abs/2201.11094v1)|**[link](https://github.com/scai-conf/scai-qrecc-21)**|
@@ -226,6 +239,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-01-31**|**POTATO: exPlainable infOrmation exTrAcTion framewOrk**|Ádám Kovács et.al.|[2201.13230v1](http://arxiv.org/abs/2201.13230v1)|**[link](https://github.com/adaamko/potato)**|
+|**2022-01-29**|**Rethinking Adjacent Dependency in Session-based Recommendations**|Qian Zhang et.al.|[2201.12532v1](http://arxiv.org/abs/2201.12532v1)|null|
 |**2022-01-27**|**Work extraction from single-mode thermal noise by measurements: How important is information?**|Avijit Misra et.al.|[2201.11567v1](http://arxiv.org/abs/2201.11567v1)|null|
 |**2022-01-27**|**DocSegTr: An Instance-Level End-to-End Document Image Segmentation Transformer**|Sanket Biswas et.al.|[2201.11438v1](http://arxiv.org/abs/2201.11438v1)|null|
 |**2022-01-27**|**Ontology-enhanced Prompt-tuning for Few-shot Learning**|Hongbin Ye et.al.|[2201.11332v1](http://arxiv.org/abs/2201.11332v1)|null|
@@ -255,6 +270,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-01-28**|**Hyper-Class Representation of Data**|Shichao Zhang et.al.|[2201.13317v1](http://arxiv.org/abs/2201.13317v1)|null|
+|**2022-01-27**|**Efficiently Maintaining Next Basket Recommendations under Additions and Deletions of Baskets and Items**|Benjamin Longxiang Wang et.al.|[2201.13313v1](http://arxiv.org/abs/2201.13313v1)|**[link](https://github.com/0xeeff/amnesiac_recsys)**|
+|**2022-01-30**|**Coordinated Attacks against Contextual Bandits: Fundamental Limits and Defense Mechanisms**|Jeongyeol Kwon et.al.|[2201.12700v1](http://arxiv.org/abs/2201.12700v1)|null|
+|**2022-01-29**|**Robustness of Deep Recommendation Systems to Untargeted Interaction Perturbations**|Sejoon Oh et.al.|[2201.12686v1](http://arxiv.org/abs/2201.12686v1)|null|
+|**2022-01-29**|**Recommender System Expedited Quantum Control Optimization**|Priya Batra et.al.|[2201.12550v1](http://arxiv.org/abs/2201.12550v1)|null|
 |**2022-01-28**|**An Empirical Investigation of Personalization Factors on TikTok**|Maximilian Boeker et.al.|[2201.12271v1](http://arxiv.org/abs/2201.12271v1)|**[link](https://github.com/mboeke/tiktok-personalization-investigation)**|
 |**2022-01-28**|**Dynamic pricing and discounts by means of interactive presentation systems in stationary point of sales**|Marcin Lewicki et.al.|[2201.12026v1](http://arxiv.org/abs/2201.12026v1)|null|
 |**2022-01-28**|**Consistent Collaborative Filtering via Tensor Decomposition**|Shiwen Zhao et.al.|[2201.11936v1](http://arxiv.org/abs/2201.11936v1)|null|
@@ -306,6 +326,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-01-31**|**Learning Representations of Entities and Relations**|Ivana Balažević et.al.|[2201.13073v1](http://arxiv.org/abs/2201.13073v1)|null|
+|**2022-01-30**|**Potential Destination Prediction Based on Knowledge Graph Under Low Predictability Data Condition**|Guilong Li et.al.|[2201.12845v1](http://arxiv.org/abs/2201.12845v1)|null|
 |**2022-01-28**|**Towards a Broad Coverage Named Entity Resource: A Data-Efficient Approach for Many Diverse Languages**|Silvia Severini et.al.|[2201.12219v1](http://arxiv.org/abs/2201.12219v1)|null|
 |**2022-01-28**|**Leveraging class abstraction for commonsense reinforcement learning via residual policy gradient methods**|Niklas Höpner et.al.|[2201.12126v1](http://arxiv.org/abs/2201.12126v1)|null|
 |**2022-01-27**|**A Survey on Visual Transfer Learning using Knowledge Graphs**|Sebastian Monka et.al.|[2201.11794v1](http://arxiv.org/abs/2201.11794v1)|null|
@@ -350,6 +372,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-01-31**|**Weisfeiler and Leman Go Infinite: Spectral and Combinatorial Pre-Colorings**|Or Feldman et.al.|[2201.13410v1](http://arxiv.org/abs/2201.13410v1)|**[link](https://github.com/tpfi22/spectral-and-combinatorial)**|
+|**2022-01-31**|**Compositional Multi-Object Reinforcement Learning with Linear Relation Networks**|Davide Mambelli et.al.|[2201.13388v1](http://arxiv.org/abs/2201.13388v1)|null|
+|**2022-01-31**|**Learning Robust Representation through Graph Adversarial Contrastive Learning**|Jiayan Guo et.al.|[2201.13025v1](http://arxiv.org/abs/2201.13025v1)|null|
+|**2022-01-31**|**GSN: A Universal Graph Neural Network Inspired by Spring Network**|Guanyu Cui et.al.|[2201.12994v1](http://arxiv.org/abs/2201.12994v1)|null|
+|**2022-01-31**|**Interpretable and Generalizable Graph Learning via Stochastic Attention Mechanism**|Siqi Miao et.al.|[2201.12987v1](http://arxiv.org/abs/2201.12987v1)|**[link](https://github.com/Graph-COM/GSAT)**|
+|**2022-01-30**|**A Theoretical Comparison of Graph Neural Network Extensions**|Pál András Papp et.al.|[2201.12884v1](http://arxiv.org/abs/2201.12884v1)|null|
+|**2022-01-30**|**DeepCatra: Learning Flow- and Graph-based Behaviors for Android Malware Detection**|Yafei Wu et.al.|[2201.12876v1](http://arxiv.org/abs/2201.12876v1)|null|
+|**2022-01-30**|**Discovering Invariant Rationales for Graph Neural Networks**|Ying-Xin Wu et.al.|[2201.12872v1](http://arxiv.org/abs/2201.12872v1)|**[link](https://github.com/wuyxin/dir-gnn)**|
+|**2022-01-30**|**On Recoverability of Graph Neural Network Representations**|Maxim Fishman et.al.|[2201.12843v1](http://arxiv.org/abs/2201.12843v1)|**[link](https://github.com/anonymous1252022/recoverability)**|
+|**2022-01-30**|**Graph Convolution-Based Deep Reinforcement Learning for Multi-Agent Decision-Making in Mixed Traffic Environments**|Qi Liu et.al.|[2201.12776v1](http://arxiv.org/abs/2201.12776v1)|**[link](https://github.com/jacklinkk/torchgrl)**|
 |**2022-01-28**|**RiskNet: Neural Risk Assessment in Networks of Unreliable Resources**|Krzysztof Rusek et.al.|[2201.12263v1](http://arxiv.org/abs/2201.12263v1)|null|
 |**2022-01-28**|**Neural Approximation of Extended Persistent Homology on Graphs**|Zuoyu Yan et.al.|[2201.12032v1](http://arxiv.org/abs/2201.12032v1)|null|
 |**2022-01-28**|**Learning to Simulate Unseen Physical Systems with Graph Neural Networks**|Ce Yang et.al.|[2201.11976v1](http://arxiv.org/abs/2201.11976v1)|null|
