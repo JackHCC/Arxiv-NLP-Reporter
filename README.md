@@ -7,12 +7,12 @@
 |**2022-01-28**|**Measure Estimation in the Barycentric Coding Model**|Matthew Werenski et.al.|[2201.12195v1](http://arxiv.org/abs/2201.12195v1)|null|
 |**2022-01-28**|**O-ViT: Orthogonal Vision Transformer**|Yanhong Fei et.al.|[2201.12133v1](http://arxiv.org/abs/2201.12133v1)|null|
 |**2022-01-28**|**PCL: Peer-Contrastive Learning with Diverse Augmentations for Unsupervised Sentence Embeddings**|Qiyu Wu et.al.|[2201.12093v1](http://arxiv.org/abs/2201.12093v1)|null|
-|**2022-01-28**|**Using DeepSpeed and Megatron to Train Megatron-Turing NLG 530B, A Large-Scale Generative Language Model**|Shaden Smith et.al.|[2201.11990v1](http://arxiv.org/abs/2201.11990v1)|null|
+|**2022-01-31**|**Using DeepSpeed and Megatron to Train Megatron-Turing NLG 530B, A Large-Scale Generative Language Model**|Shaden Smith et.al.|[2201.11990v2](http://arxiv.org/abs/2201.11990v2)|null|
 |**2022-01-28**|**A Secure and Efficient Federated Learning Framework for NLP**|Jieren Deng et.al.|[2201.11934v1](http://arxiv.org/abs/2201.11934v1)|null|
 |**2022-01-27**|**Clinical-Longformer and Clinical-BigBird: Transformers for long clinical sequences**|Yikuan Li et.al.|[2201.11838v1](http://arxiv.org/abs/2201.11838v1)|null|
 |**2022-01-27**|**Grad2Task: Improved Few-shot Text Classification Using Gradients for Task Representation**|Jixuan Wang et.al.|[2201.11576v1](http://arxiv.org/abs/2201.11576v1)|**[link](https://github.com/jixuan-wang/grad2task)**|
 |**2022-01-27**|**Prabhupadavani: A Code-mixed Speech Translation Data for 25 Languages**|Jivnesh Sandhan et.al.|[2201.11391v1](http://arxiv.org/abs/2201.11391v1)|**[link](https://github.com/frozentoad9/CMST)**|
-|**2022-01-27**|**Epistemic AI platform accelerates innovation by connecting biomedical knowledge**|Emily Koo et.al.|[2201.11331v1](http://arxiv.org/abs/2201.11331v1)|null|
+|**2022-01-30**|**Epistemic AI platform accelerates innovation by connecting biomedical knowledge**|Emily Koo et.al.|[2201.11331v2](http://arxiv.org/abs/2201.11331v2)|null|
 |**2022-01-26**|**Twitter-Demographer: A Flow-based Tool to Enrich Twitter Data**|Federico Bianchi et.al.|[2201.10986v1](http://arxiv.org/abs/2201.10986v1)|null|
 |**2022-01-26**|**Dual-Tasks Siamese Transformer Framework for Building Damage Assessment**|Hongruixuan Chen et.al.|[2201.10953v1](http://arxiv.org/abs/2201.10953v1)|null|
 |**2022-01-26**|**One Student Knows All Experts Know: From Sparse to Dense**|Fuzhao Xue et.al.|[2201.10890v1](http://arxiv.org/abs/2201.10890v1)|null|
@@ -225,7 +225,7 @@
 |**2022-01-27**|**Work extraction from single-mode thermal noise by measurements: How important is information?**|Avijit Misra et.al.|[2201.11567v1](http://arxiv.org/abs/2201.11567v1)|null|
 |**2022-01-27**|**DocSegTr: An Instance-Level End-to-End Document Image Segmentation Transformer**|Sanket Biswas et.al.|[2201.11438v1](http://arxiv.org/abs/2201.11438v1)|null|
 |**2022-01-27**|**Ontology-enhanced Prompt-tuning for Few-shot Learning**|Hongbin Ye et.al.|[2201.11332v1](http://arxiv.org/abs/2201.11332v1)|null|
-|**2022-01-27**|**Epistemic AI platform accelerates innovation by connecting biomedical knowledge**|Emily Koo et.al.|[2201.11331v1](http://arxiv.org/abs/2201.11331v1)|null|
+|**2022-01-30**|**Epistemic AI platform accelerates innovation by connecting biomedical knowledge**|Emily Koo et.al.|[2201.11331v2](http://arxiv.org/abs/2201.11331v2)|null|
 |**2022-01-26**|**Adaptive Resonance Theory-based Topological Clustering with a Divisive Hierarchical Structure Capable of Continual Learning**|Naoki Masuyama et.al.|[2201.10713v1](http://arxiv.org/abs/2201.10713v1)|null|
 |**2022-01-25**|**DOM-LM: Learning Generalizable Representations for HTML Documents**|Xiang Deng et.al.|[2201.10608v1](http://arxiv.org/abs/2201.10608v1)|null|
 |**2022-01-25**|**Cold Start Active Learning Strategies in the Context of Imbalanced Classification**|Etienne Brangbour et.al.|[2201.10227v1](http://arxiv.org/abs/2201.10227v1)|null|
@@ -255,7 +255,7 @@
 |**2022-01-28**|**Dynamic pricing and discounts by means of interactive presentation systems in stationary point of sales**|Marcin Lewicki et.al.|[2201.12026v1](http://arxiv.org/abs/2201.12026v1)|null|
 |**2022-01-28**|**Consistent Collaborative Filtering via Tensor Decomposition**|Shiwen Zhao et.al.|[2201.11936v1](http://arxiv.org/abs/2201.11936v1)|null|
 |**2022-01-26**|**Recency Dropout for Recurrent Recommender Systems**|Bo Chang et.al.|[2201.11016v1](http://arxiv.org/abs/2201.11016v1)|null|
-|**2022-01-26**|**Graph Neural Networks with Dynamic and Static Representations for Social Recommendation**|Junfa Lin et.al.|[2201.10751v1](http://arxiv.org/abs/2201.10751v1)|null|
+|**2022-01-31**|**Graph Neural Networks with Dynamic and Static Representations for Social Recommendation**|Junfa Lin et.al.|[2201.10751v2](http://arxiv.org/abs/2201.10751v2)|null|
 |**2022-01-25**|**Explainability in Music Recommender Systems**|Darius Afchar et.al.|[2201.10528v1](http://arxiv.org/abs/2201.10528v1)|null|
 |**2022-01-24**|**On-Device Learning with Cloud-Coordinated Data Augmentation for Extreme Model Personalization in Recommender Systems**|Renjie Gu et.al.|[2201.10382v1](http://arxiv.org/abs/2201.10382v1)|null|
 |**2022-01-25**|**Chatbots and messaging platforms in the classroom: an analysis from the teacher's perspective**|J. J. Merelo et.al.|[2201.10289v1](http://arxiv.org/abs/2201.10289v1)|**[link](https://github.com/JJ/edubots-paper)**|
@@ -306,7 +306,7 @@
 |**2022-01-28**|**Leveraging class abstraction for commonsense reinforcement learning via residual policy gradient methods**|Niklas Höpner et.al.|[2201.12126v1](http://arxiv.org/abs/2201.12126v1)|null|
 |**2022-01-27**|**A Survey on Visual Transfer Learning using Knowledge Graphs**|Sebastian Monka et.al.|[2201.11794v1](http://arxiv.org/abs/2201.11794v1)|null|
 |**2022-01-27**|**Ontology-enhanced Prompt-tuning for Few-shot Learning**|Hongbin Ye et.al.|[2201.11332v1](http://arxiv.org/abs/2201.11332v1)|null|
-|**2022-01-27**|**Epistemic AI platform accelerates innovation by connecting biomedical knowledge**|Emily Koo et.al.|[2201.11331v1](http://arxiv.org/abs/2201.11331v1)|null|
+|**2022-01-30**|**Epistemic AI platform accelerates innovation by connecting biomedical knowledge**|Emily Koo et.al.|[2201.11331v2](http://arxiv.org/abs/2201.11331v2)|null|
 |**2022-01-25**|**Jointly Learning Knowledge Embedding and Neighborhood Consensus with Relational Knowledge Distillation for Entity Alignment**|Xinhang Li et.al.|[2201.11249v1](http://arxiv.org/abs/2201.11249v1)|null|
 |**2022-01-23**|**OntoProtein: Protein Pretraining With Gene Ontology Embedding**|Ningyu Zhang et.al.|[2201.11147v1](http://arxiv.org/abs/2201.11147v1)|**[link](https://github.com/zjunlp/ontoprotein)**|
 |**2022-01-19**|**Online POI Recommendation: Learning Dynamic Geo-Human Interactions in Streams**|Dongjie Wang et.al.|[2201.10983v1](http://arxiv.org/abs/2201.10983v1)|null|
