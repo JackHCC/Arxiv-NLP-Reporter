@@ -274,7 +274,7 @@ layout: default
 |**2022-01-27**|**Efficiently Maintaining Next Basket Recommendations under Additions and Deletions of Baskets and Items**|Benjamin Longxiang Wang et.al.|[2201.13313v1](http://arxiv.org/abs/2201.13313v1)|**[link](https://github.com/0xeeff/amnesiac_recsys)**|
 |**2022-01-30**|**Coordinated Attacks against Contextual Bandits: Fundamental Limits and Defense Mechanisms**|Jeongyeol Kwon et.al.|[2201.12700v1](http://arxiv.org/abs/2201.12700v1)|null|
 |**2022-01-29**|**Robustness of Deep Recommendation Systems to Untargeted Interaction Perturbations**|Sejoon Oh et.al.|[2201.12686v1](http://arxiv.org/abs/2201.12686v1)|null|
-|**2022-01-29**|**Recommender System Expedited Quantum Control Optimization**|Priya Batra et.al.|[2201.12550v1](http://arxiv.org/abs/2201.12550v1)|null|
+|**2022-02-01**|**Recommender System Expedited Quantum Control Optimization**|Priya Batra et.al.|[2201.12550v2](http://arxiv.org/abs/2201.12550v2)|null|
 |**2022-01-28**|**An Empirical Investigation of Personalization Factors on TikTok**|Maximilian Boeker et.al.|[2201.12271v1](http://arxiv.org/abs/2201.12271v1)|**[link](https://github.com/mboeke/tiktok-personalization-investigation)**|
 |**2022-01-28**|**Dynamic pricing and discounts by means of interactive presentation systems in stationary point of sales**|Marcin Lewicki et.al.|[2201.12026v1](http://arxiv.org/abs/2201.12026v1)|null|
 |**2022-01-28**|**Consistent Collaborative Filtering via Tensor Decomposition**|Shiwen Zhao et.al.|[2201.11936v1](http://arxiv.org/abs/2201.11936v1)|null|
