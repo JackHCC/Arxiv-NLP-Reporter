@@ -8,6 +8,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-02-01**|**Questions for Flat-Minima Optimization of Modern Neural Networks**|Jean Kaddour et.al.|[2202.00661v1](http://arxiv.org/abs/2202.00661v1)|null|
+|**2022-01-28**|**Dominant Set-based Active Learning for Text Classification and its Application to Online Social Media**|Toktam A. Oghaz et.al.|[2202.00540v1](http://arxiv.org/abs/2202.00540v1)|null|
+|**2022-02-01**|**Novelty Controlled Paraphrase Generation with Retrieval Augmented Conditional Prompt Tuning**|Jishnu Ray Chowdhury et.al.|[2202.00535v1](http://arxiv.org/abs/2202.00535v1)|null|
+|**2022-02-01**|**Semantic Annotation and Querying Framework based on Semi-structured Ayurvedic Text**|Hrishikesh Terdalkar et.al.|[2202.00216v1](http://arxiv.org/abs/2202.00216v1)|null|
 |**2022-01-31**|**NAS-Bench-Suite: NAS Evaluation is (Now) Surprisingly Easy**|Yash Mehta et.al.|[2201.13396v1](http://arxiv.org/abs/2201.13396v1)|**[link](https://github.com/automl/NASLib)**|
 |**2022-01-30**|**Compositionality as Lexical Symmetry**|Ekin Akyürek et.al.|[2201.12926v1](http://arxiv.org/abs/2201.12926v1)|null|
 |**2022-01-30**|**Part of Speech Tagging (POST) of a Low-resource Language using another Language (Developing a POS-Tagged Lexicon for Kurdish (Sorani) using a Tagged Persian (Farsi) Corpus)**|Hossein Hassani et.al.|[2201.12793v1](http://arxiv.org/abs/2201.12793v1)|null|
@@ -117,6 +121,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-01-28**|**Dominant Set-based Active Learning for Text Classification and its Application to Online Social Media**|Toktam A. Oghaz et.al.|[2202.00540v1](http://arxiv.org/abs/2202.00540v1)|null|
+|**2022-01-29**|**Maximum Batch Frobenius Norm for Multi-Domain Text Classification**|Yuan Wu et.al.|[2202.00537v1](http://arxiv.org/abs/2202.00537v1)|null|
 |**2022-01-30**|**Co-Regularized Adversarial Learning for Multi-Domain Text Classification**|Yuan Wu et.al.|[2201.12796v1](http://arxiv.org/abs/2201.12796v1)|null|
 |**2022-01-28**|**Multiple-Source Domain Adaptation via Coordinated Domain Encoders and Paired Classifiers**|Payam Karisani et.al.|[2201.11870v1](http://arxiv.org/abs/2201.11870v1)|null|
 |**2022-01-27**|**Clinical-Longformer and Clinical-BigBird: Transformers for long clinical sequences**|Yikuan Li et.al.|[2201.11838v1](http://arxiv.org/abs/2201.11838v1)|null|
@@ -156,6 +162,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-02-01**|**Politics and Virality in the Time of Twitter: A Large-Scale Cross-Party Sentiment Analysis in Greece, Spain and United Kingdom**|Dimosthenis Antypas et.al.|[2202.00396v1](http://arxiv.org/abs/2202.00396v1)|null|
+|**2022-02-01**|**Active Learning Over Multiple Domains in Natural Language Tasks**|Shayne Longpre et.al.|[2202.00254v1](http://arxiv.org/abs/2202.00254v1)|null|
 |**2022-01-29**|**A Deep CNN Architecture with Novel Pooling Layer Applied to Two Sudanese Arabic Sentiment Datasets**|Mustafa Mhamed et.al.|[2201.12664v1](http://arxiv.org/abs/2201.12664v1)|null|
 |**2022-01-29**|**A Simple Information-Based Approach to Unsupervised Domain-Adaptive Aspect-Based Sentiment Analysis**|Xiang Chen et.al.|[2201.12549v1](http://arxiv.org/abs/2201.12549v1)|**[link](https://github.com/casparswift/da_mim)**|
 |**2022-01-19**|**Predicting The Stock Trend Using News Sentiment Analysis and Technical Indicators in Spark**|Taylan Kabbani et.al.|[2201.12283v1](http://arxiv.org/abs/2201.12283v1)|null|
@@ -186,6 +194,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-01-27**|**TableQuery: Querying tabular data with natural language**|Abhijith Neil Abraham et.al.|[2202.00454v1](http://arxiv.org/abs/2202.00454v1)|null|
+|**2022-02-01**|**Active Learning Over Multiple Domains in Natural Language Tasks**|Shayne Longpre et.al.|[2202.00254v1](http://arxiv.org/abs/2202.00254v1)|null|
+|**2022-02-01**|**Semantic Annotation and Querying Framework based on Semi-structured Ayurvedic Text**|Hrishikesh Terdalkar et.al.|[2202.00216v1](http://arxiv.org/abs/2202.00216v1)|null|
+|**2022-01-31**|**QALD-9-plus: A Multilingual Dataset for Question Answering over DBpedia and Wikidata Translated by Native Speakers**|Aleksandr Perevalov et.al.|[2202.00120v1](http://arxiv.org/abs/2202.00120v1)|**[link](https://github.com/perevalov/qald_9_plus)**|
 |**2022-01-31**|**Learning Representations of Entities and Relations**|Ivana Balažević et.al.|[2201.13073v1](http://arxiv.org/abs/2201.13073v1)|null|
 |**2022-01-30**|**Compositionality as Lexical Symmetry**|Ekin Akyürek et.al.|[2201.12926v1](http://arxiv.org/abs/2201.12926v1)|null|
 |**2022-01-30**|**A Dataset for Medical Instructional Video Classification and Question Answering**|Deepak Gupta et.al.|[2201.12888v1](http://arxiv.org/abs/2201.12888v1)|**[link](https://github.com/deepaknlp/medvidqacl)**|
@@ -239,6 +251,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-02-01**|**WebFormer: The Web-page Transformer for Structure Information Extraction**|Qifan Wang et.al.|[2202.00217v1](http://arxiv.org/abs/2202.00217v1)|null|
 |**2022-01-31**|**POTATO: exPlainable infOrmation exTrAcTion framewOrk**|Ádám Kovács et.al.|[2201.13230v1](http://arxiv.org/abs/2201.13230v1)|**[link](https://github.com/adaamko/potato)**|
 |**2022-01-29**|**Rethinking Adjacent Dependency in Session-based Recommendations**|Qian Zhang et.al.|[2201.12532v1](http://arxiv.org/abs/2201.12532v1)|null|
 |**2022-01-27**|**Work extraction from single-mode thermal noise by measurements: How important is information?**|Avijit Misra et.al.|[2201.11567v1](http://arxiv.org/abs/2201.11567v1)|null|
@@ -270,6 +283,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-02-01**|**Rewiring What-to-Watch-Next Recommendations to Reduce Radicalization Pathways**|Francesco Fabbri et.al.|[2202.00640v1](http://arxiv.org/abs/2202.00640v1)|null|
+|**2022-01-31**|**SUGAR: Efficient Subgraph-level Training via Resource-aware Graph Partitioning**|Zihui Xue et.al.|[2202.00075v1](http://arxiv.org/abs/2202.00075v1)|null|
 |**2022-01-28**|**Hyper-Class Representation of Data**|Shichao Zhang et.al.|[2201.13317v1](http://arxiv.org/abs/2201.13317v1)|null|
 |**2022-01-27**|**Efficiently Maintaining Next Basket Recommendations under Additions and Deletions of Baskets and Items**|Benjamin Longxiang Wang et.al.|[2201.13313v1](http://arxiv.org/abs/2201.13313v1)|**[link](https://github.com/0xeeff/amnesiac_recsys)**|
 |**2022-01-30**|**Coordinated Attacks against Contextual Bandits: Fundamental Limits and Defense Mechanisms**|Jeongyeol Kwon et.al.|[2201.12700v1](http://arxiv.org/abs/2201.12700v1)|null|
@@ -326,6 +341,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-02-01**|**Towards a Theoretical Understanding of Word and Relation Representation**|Carl Allen et.al.|[2202.00486v1](http://arxiv.org/abs/2202.00486v1)|null|
+|**2022-02-01**|**Semantic Annotation and Querying Framework based on Semi-structured Ayurvedic Text**|Hrishikesh Terdalkar et.al.|[2202.00216v1](http://arxiv.org/abs/2202.00216v1)|null|
+|**2022-01-31**|**QALD-9-plus: A Multilingual Dataset for Question Answering over DBpedia and Wikidata Translated by Native Speakers**|Aleksandr Perevalov et.al.|[2202.00120v1](http://arxiv.org/abs/2202.00120v1)|**[link](https://github.com/perevalov/qald_9_plus)**|
 |**2022-01-31**|**Learning Representations of Entities and Relations**|Ivana Balažević et.al.|[2201.13073v1](http://arxiv.org/abs/2201.13073v1)|null|
 |**2022-01-30**|**Potential Destination Prediction Based on Knowledge Graph Under Low Predictability Data Condition**|Guilong Li et.al.|[2201.12845v1](http://arxiv.org/abs/2201.12845v1)|null|
 |**2022-01-28**|**Towards a Broad Coverage Named Entity Resource: A Data-Efficient Approach for Many Diverse Languages**|Silvia Severini et.al.|[2201.12219v1](http://arxiv.org/abs/2201.12219v1)|null|
@@ -372,6 +390,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-02-01**|**Stability and Generalization Capabilities of Message Passing Graph Neural Networks**|Sohir Maskey et.al.|[2202.00645v1](http://arxiv.org/abs/2202.00645v1)|null|
+|**2022-02-01**|**Molecular Graph Representation Learning via Heterogeneous Motif Graph Construction**|Zhaoning Yu et.al.|[2202.00529v1](http://arxiv.org/abs/2202.00529v1)|null|
+|**2022-02-01**|**MotifExplainer: a Motif-based Graph Neural Network Explainer**|Zhaoning Yu et.al.|[2202.00519v1](http://arxiv.org/abs/2202.00519v1)|null|
+|**2022-02-01**|**Memory-based Message Passing: Decoupling the Message for Propogation from Discrimination**|Jie Chen et.al.|[2202.00423v1](http://arxiv.org/abs/2202.00423v1)|null|
+|**2022-02-01**|**Dimensionality Reduction Meets Message Passing for Graph Node Embeddings**|Krzysztof Sadowski et.al.|[2202.00408v1](http://arxiv.org/abs/2202.00408v1)|**[link](https://github.com/ksadowski13/PCAPass)**|
+|**2022-02-01**|**Graph-based Neural Acceleration for Nonnegative Matrix Factorization**|Jens Sjölund et.al.|[2202.00264v1](http://arxiv.org/abs/2202.00264v1)|null|
+|**2022-02-01**|**GNNRank: Learning Global Rankings from Pairwise Comparisons via Directed Graph Neural Networks**|Yixuan He et.al.|[2202.00211v1](http://arxiv.org/abs/2202.00211v1)|null|
+|**2022-02-01**|**Semi-supervised 3D Object Detection via Temporal Graph Neural Networks**|Jianren Wang et.al.|[2202.00182v1](http://arxiv.org/abs/2202.00182v1)|null|
+|**2022-01-31**|**SUGAR: Efficient Subgraph-level Training via Resource-aware Graph Partitioning**|Zihui Xue et.al.|[2202.00075v1](http://arxiv.org/abs/2202.00075v1)|null|
 |**2022-01-31**|**Weisfeiler and Leman Go Infinite: Spectral and Combinatorial Pre-Colorings**|Or Feldman et.al.|[2201.13410v1](http://arxiv.org/abs/2201.13410v1)|**[link](https://github.com/tpfi22/spectral-and-combinatorial)**|
 |**2022-01-31**|**Compositional Multi-Object Reinforcement Learning with Linear Relation Networks**|Davide Mambelli et.al.|[2201.13388v1](http://arxiv.org/abs/2201.13388v1)|null|
 |**2022-01-31**|**Learning Robust Representation through Graph Adversarial Contrastive Learning**|Jiayan Guo et.al.|[2201.13025v1](http://arxiv.org/abs/2201.13025v1)|null|
