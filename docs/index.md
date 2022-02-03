@@ -8,6 +8,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-02-02**|**Knowledge Engineering in the Long Game of Artificial Intelligence: The Case of Speech Acts**|Marjorie McShane et.al.|[2202.01040v1](http://arxiv.org/abs/2202.01040v1)|null|
+|**2022-02-02**|**Detecting Privacy Requirements from User Stories with NLP Transfer Learning Models**|Francesco Casillo et.al.|[2202.01035v1](http://arxiv.org/abs/2202.01035v1)|null|
+|**2022-02-01**|**Improving Sample Efficiency of Value Based Models Using Attention and Vision Transformers**|Amir Ardalan Kalantari et.al.|[2202.00710v1](http://arxiv.org/abs/2202.00710v1)|null|
 |**2022-02-02**|**Questions for Flat-Minima Optimization of Modern Neural Networks**|Jean Kaddour et.al.|[2202.00661v2](http://arxiv.org/abs/2202.00661v2)|null|
 |**2022-01-28**|**Dominant Set-based Active Learning for Text Classification and its Application to Online Social Media**|Toktam A. Oghaz et.al.|[2202.00540v1](http://arxiv.org/abs/2202.00540v1)|null|
 |**2022-02-01**|**Novelty Controlled Paraphrase Generation with Retrieval Augmented Conditional Prompt Tuning**|Jishnu Ray Chowdhury et.al.|[2202.00535v1](http://arxiv.org/abs/2202.00535v1)|null|
@@ -251,6 +254,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-01-29**|**Information Extraction through AI techniques: The KIDs use case at CONSOB**|Domenico Lembo et.al.|[2202.01178v1](http://arxiv.org/abs/2202.01178v1)|null|
+|**2022-02-02**|**Pop Quiz! Can a Large Language Model Help With Reverse Engineering?**|Hammond Pearce et.al.|[2202.01142v1](http://arxiv.org/abs/2202.01142v1)|null|
 |**2022-02-01**|**WebFormer: The Web-page Transformer for Structure Information Extraction**|Qifan Wang et.al.|[2202.00217v1](http://arxiv.org/abs/2202.00217v1)|null|
 |**2022-01-31**|**POTATO: exPlainable infOrmation exTrAcTion framewOrk**|Ádám Kovács et.al.|[2201.13230v1](http://arxiv.org/abs/2201.13230v1)|**[link](https://github.com/adaamko/potato)**|
 |**2022-01-29**|**Rethinking Adjacent Dependency in Session-based Recommendations**|Qian Zhang et.al.|[2201.12532v1](http://arxiv.org/abs/2201.12532v1)|null|
@@ -283,6 +288,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-02-02**|**A Recommender System Based on a Double Feature Allocation Model**|Qiaohui Lin et.al.|[2202.01163v1](http://arxiv.org/abs/2202.01163v1)|null|
+|**2022-02-01**|**Context Uncertainty in Contextual Bandits with Applications to Recommender Systems**|Hao Wang et.al.|[2202.00805v1](http://arxiv.org/abs/2202.00805v1)|null|
 |**2022-02-01**|**Rewiring What-to-Watch-Next Recommendations to Reduce Radicalization Pathways**|Francesco Fabbri et.al.|[2202.00640v1](http://arxiv.org/abs/2202.00640v1)|null|
 |**2022-01-31**|**SUGAR: Efficient Subgraph-level Training via Resource-aware Graph Partitioning**|Zihui Xue et.al.|[2202.00075v1](http://arxiv.org/abs/2202.00075v1)|null|
 |**2022-01-28**|**Hyper-Class Representation of Data**|Shichao Zhang et.al.|[2201.13317v1](http://arxiv.org/abs/2201.13317v1)|null|
@@ -390,6 +397,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-02-01**|**A Graph Based Neural Network Approach to Immune Profiling of Multiplexed Tissue Samples**|Natalia Garcia Martin et.al.|[2202.00813v1](http://arxiv.org/abs/2202.00813v1)|null|
+|**2022-02-01**|**Gromov-Wasserstein Discrepancy with Local Differential Privacy for Distributed Structural Graphs**|Hongwei Jin et.al.|[2202.00808v1](http://arxiv.org/abs/2202.00808v1)|null|
+|**2022-02-01**|**Investigating Transfer Learning in Graph Neural Networks**|Nishai Kooverjee et.al.|[2202.00740v1](http://arxiv.org/abs/2202.00740v1)|null|
+|**2022-02-01**|**Physical Design using Differentiable Learned Simulators**|Kelsey R. Allen et.al.|[2202.00728v1](http://arxiv.org/abs/2202.00728v1)|null|
 |**2022-02-01**|**Stability and Generalization Capabilities of Message Passing Graph Neural Networks**|Sohir Maskey et.al.|[2202.00645v1](http://arxiv.org/abs/2202.00645v1)|null|
 |**2022-02-01**|**Molecular Graph Representation Learning via Heterogeneous Motif Graph Construction**|Zhaoning Yu et.al.|[2202.00529v1](http://arxiv.org/abs/2202.00529v1)|null|
 |**2022-02-01**|**MotifExplainer: a Motif-based Graph Neural Network Explainer**|Zhaoning Yu et.al.|[2202.00519v1](http://arxiv.org/abs/2202.00519v1)|null|
