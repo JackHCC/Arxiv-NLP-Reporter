@@ -4,7 +4,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2022-02-01**|**Questions for Flat-Minima Optimization of Modern Neural Networks**|Jean Kaddour et.al.|[2202.00661v1](http://arxiv.org/abs/2202.00661v1)|null|
+|**2022-02-02**|**Questions for Flat-Minima Optimization of Modern Neural Networks**|Jean Kaddour et.al.|[2202.00661v2](http://arxiv.org/abs/2202.00661v2)|null|
 |**2022-01-28**|**Dominant Set-based Active Learning for Text Classification and its Application to Online Social Media**|Toktam A. Oghaz et.al.|[2202.00540v1](http://arxiv.org/abs/2202.00540v1)|null|
 |**2022-02-01**|**Novelty Controlled Paraphrase Generation with Retrieval Augmented Conditional Prompt Tuning**|Jishnu Ray Chowdhury et.al.|[2202.00535v1](http://arxiv.org/abs/2202.00535v1)|null|
 |**2022-02-01**|**Semantic Annotation and Querying Framework based on Semi-structured Ayurvedic Text**|Hrishikesh Terdalkar et.al.|[2202.00216v1](http://arxiv.org/abs/2202.00216v1)|null|
@@ -254,7 +254,7 @@
 |**2022-01-27**|**DocSegTr: An Instance-Level End-to-End Document Image Segmentation Transformer**|Sanket Biswas et.al.|[2201.11438v1](http://arxiv.org/abs/2201.11438v1)|null|
 |**2022-01-27**|**Ontology-enhanced Prompt-tuning for Few-shot Learning**|Hongbin Ye et.al.|[2201.11332v1](http://arxiv.org/abs/2201.11332v1)|null|
 |**2022-01-30**|**Epistemic AI platform accelerates innovation by connecting biomedical knowledge**|Emily Koo et.al.|[2201.11331v2](http://arxiv.org/abs/2201.11331v2)|null|
-|**2022-01-26**|**Adaptive Resonance Theory-based Topological Clustering with a Divisive Hierarchical Structure Capable of Continual Learning**|Naoki Masuyama et.al.|[2201.10713v1](http://arxiv.org/abs/2201.10713v1)|null|
+|**2022-02-02**|**Adaptive Resonance Theory-based Topological Clustering with a Divisive Hierarchical Structure Capable of Continual Learning**|Naoki Masuyama et.al.|[2201.10713v2](http://arxiv.org/abs/2201.10713v2)|null|
 |**2022-01-25**|**DOM-LM: Learning Generalizable Representations for HTML Documents**|Xiang Deng et.al.|[2201.10608v1](http://arxiv.org/abs/2201.10608v1)|null|
 |**2022-01-25**|**Cold Start Active Learning Strategies in the Context of Imbalanced Classification**|Etienne Brangbour et.al.|[2201.10227v1](http://arxiv.org/abs/2201.10227v1)|null|
 |**2022-01-24**|**Generating Clarifying Questions for Query Refinement in Source Code Search**|Zachary Eberhart et.al.|[2201.09974v1](http://arxiv.org/abs/2201.09974v1)|**[link](https://github.com/zeberhart/zacq)**|
@@ -390,7 +390,7 @@
 |**2022-02-01**|**Molecular Graph Representation Learning via Heterogeneous Motif Graph Construction**|Zhaoning Yu et.al.|[2202.00529v1](http://arxiv.org/abs/2202.00529v1)|null|
 |**2022-02-01**|**MotifExplainer: a Motif-based Graph Neural Network Explainer**|Zhaoning Yu et.al.|[2202.00519v1](http://arxiv.org/abs/2202.00519v1)|null|
 |**2022-02-01**|**Memory-based Message Passing: Decoupling the Message for Propogation from Discrimination**|Jie Chen et.al.|[2202.00423v1](http://arxiv.org/abs/2202.00423v1)|null|
-|**2022-02-01**|**Dimensionality Reduction Meets Message Passing for Graph Node Embeddings**|Krzysztof Sadowski et.al.|[2202.00408v1](http://arxiv.org/abs/2202.00408v1)|**[link](https://github.com/ksadowski13/PCAPass)**|
+|**2022-02-02**|**Dimensionality Reduction Meets Message Passing for Graph Node Embeddings**|Krzysztof Sadowski et.al.|[2202.00408v2](http://arxiv.org/abs/2202.00408v2)|**[link](https://github.com/ksadowski13/PCAPass)**|
 |**2022-02-01**|**Graph-based Neural Acceleration for Nonnegative Matrix Factorization**|Jens Sjölund et.al.|[2202.00264v1](http://arxiv.org/abs/2202.00264v1)|null|
 |**2022-02-01**|**GNNRank: Learning Global Rankings from Pairwise Comparisons via Directed Graph Neural Networks**|Yixuan He et.al.|[2202.00211v1](http://arxiv.org/abs/2202.00211v1)|null|
 |**2022-02-01**|**Semi-supervised 3D Object Detection via Temporal Graph Neural Networks**|Jianren Wang et.al.|[2202.00182v1](http://arxiv.org/abs/2202.00182v1)|null|
