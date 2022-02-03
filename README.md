@@ -123,7 +123,7 @@
 |**2022-01-28**|**Dominant Set-based Active Learning for Text Classification and its Application to Online Social Media**|Toktam A. Oghaz et.al.|[2202.00540v1](http://arxiv.org/abs/2202.00540v1)|null|
 |**2022-01-29**|**Maximum Batch Frobenius Norm for Multi-Domain Text Classification**|Yuan Wu et.al.|[2202.00537v1](http://arxiv.org/abs/2202.00537v1)|null|
 |**2022-01-30**|**Co-Regularized Adversarial Learning for Multi-Domain Text Classification**|Yuan Wu et.al.|[2201.12796v1](http://arxiv.org/abs/2201.12796v1)|null|
-|**2022-01-28**|**Multiple-Source Domain Adaptation via Coordinated Domain Encoders and Paired Classifiers**|Payam Karisani et.al.|[2201.11870v1](http://arxiv.org/abs/2201.11870v1)|null|
+|**2022-01-28**|**Multiple-Source Domain Adaptation via Coordinated Domain Encoders and Paired Classifiers**|Payam Karisani et.al.|[2201.11870v1](http://arxiv.org/abs/2201.11870v1)|**[link](https://github.com/p-karisani/CEPC)**|
 |**2022-01-27**|**Clinical-Longformer and Clinical-BigBird: Transformers for long clinical sequences**|Yikuan Li et.al.|[2201.11838v1](http://arxiv.org/abs/2201.11838v1)|null|
 |**2022-01-27**|**Grad2Task: Improved Few-shot Text Classification Using Gradients for Task Representation**|Jixuan Wang et.al.|[2201.11576v1](http://arxiv.org/abs/2201.11576v1)|**[link](https://github.com/jixuan-wang/grad2task)**|
 |**2022-01-26**|**Toward a More Populous Online Platform: The Economic Impacts of Compensated Reviews**|Peng Li et.al.|[2201.11051v1](http://arxiv.org/abs/2201.11051v1)|null|
