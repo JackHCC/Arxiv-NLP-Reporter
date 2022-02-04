@@ -4,6 +4,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-02-03**|**CoST: Contrastive Learning of Disentangled Seasonal-Trend Representations for Time Series Forecasting**|Gerald Woo et.al.|[2202.01575v1](http://arxiv.org/abs/2202.01575v1)|null|
+|**2022-01-31**|**Adaptive Sampling Strategies to Construct Equitable Training Datasets**|William Cai et.al.|[2202.01327v1](http://arxiv.org/abs/2202.01327v1)|null|
+|**2022-02-02**|**A Comparison of Online Hate on Reddit and 4chan: A Case Study of the 2020 US Election**|Fatima Zahrah et.al.|[2202.01302v1](http://arxiv.org/abs/2202.01302v1)|null|
 |**2022-02-02**|**Knowledge Engineering in the Long Game of Artificial Intelligence: The Case of Speech Acts**|Marjorie McShane et.al.|[2202.01040v1](http://arxiv.org/abs/2202.01040v1)|null|
 |**2022-02-02**|**Detecting Privacy Requirements from User Stories with NLP Transfer Learning Models**|Francesco Casillo et.al.|[2202.01035v1](http://arxiv.org/abs/2202.01035v1)|null|
 |**2022-02-01**|**Improving Sample Efficiency of Value Based Models Using Attention and Vision Transformers**|Amir Ardalan Kalantari et.al.|[2202.00710v1](http://arxiv.org/abs/2202.00710v1)|null|
@@ -120,6 +123,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-02-02**|**Beyond Images: Label Noise Transition Matrix Estimation for Tasks with Lower-Quality Features**|Zhaowei Zhu et.al.|[2202.01273v1](http://arxiv.org/abs/2202.01273v1)|**[link](https://github.com/ucsc-real/est-t-mi)**|
 |**2022-01-28**|**Dominant Set-based Active Learning for Text Classification and its Application to Online Social Media**|Toktam A. Oghaz et.al.|[2202.00540v1](http://arxiv.org/abs/2202.00540v1)|null|
 |**2022-01-29**|**Maximum Batch Frobenius Norm for Multi-Domain Text Classification**|Yuan Wu et.al.|[2202.00537v1](http://arxiv.org/abs/2202.00537v1)|null|
 |**2022-01-30**|**Co-Regularized Adversarial Learning for Multi-Domain Text Classification**|Yuan Wu et.al.|[2201.12796v1](http://arxiv.org/abs/2201.12796v1)|null|
@@ -193,6 +197,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-02-03**|**JaQuAD: Japanese Question Answering Dataset for Machine Reading Comprehension**|ByungHoon So et.al.|[2202.01764v1](http://arxiv.org/abs/2202.01764v1)|**[link](https://github.com/SkelterLabsInc/JaQuAD)**|
+|**2022-02-03**|**On constant-time quantum annealing and guaranteed approximations for graph optimization problems**|Arthur Braida et.al.|[2202.01636v1](http://arxiv.org/abs/2202.01636v1)|null|
 |**2022-01-27**|**TableQuery: Querying tabular data with natural language**|Abhijith Neil Abraham et.al.|[2202.00454v1](http://arxiv.org/abs/2202.00454v1)|**[link](https://github.com/abhijithneilabraham/tableqa)**|
 |**2022-02-01**|**Active Learning Over Multiple Domains in Natural Language Tasks**|Shayne Longpre et.al.|[2202.00254v1](http://arxiv.org/abs/2202.00254v1)|null|
 |**2022-02-01**|**Semantic Annotation and Querying Framework based on Semi-structured Ayurvedic Text**|Hrishikesh Terdalkar et.al.|[2202.00216v1](http://arxiv.org/abs/2202.00216v1)|null|
@@ -284,6 +290,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-02-03**|**Variance-Optimal Augmentation Logging for Counterfactual Evaluation in Contextual Bandits**|Aaron David Tucker et.al.|[2202.01721v1](http://arxiv.org/abs/2202.01721v1)|null|
+|**2022-02-03**|**Measuring Disparate Outcomes of Content Recommendation Algorithms with Distributional Inequality Metrics**|Tomo Lazovich et.al.|[2202.01615v1](http://arxiv.org/abs/2202.01615v1)|null|
+|**2022-02-03**|**Doubly Robust Off-Policy Evaluation for Ranking Policies under the Cascade Behavior Model**|Haruka Kiyohara et.al.|[2202.01562v1](http://arxiv.org/abs/2202.01562v1)|**[link](https://github.com/aiueola/wsdm2022-cascade-dr)**|
+|**2022-02-02**|**Recommendations for Visualization Recommendations: Exploring Preferences and Priorities in Public Health**|Calvin Bao et.al.|[2202.01335v1](http://arxiv.org/abs/2202.01335v1)|null|
 |**2022-02-02**|**A Recommender System Based on a Double Feature Allocation Model**|Qiaohui Lin et.al.|[2202.01163v1](http://arxiv.org/abs/2202.01163v1)|null|
 |**2022-02-01**|**Context Uncertainty in Contextual Bandits with Applications to Recommender Systems**|Hao Wang et.al.|[2202.00805v1](http://arxiv.org/abs/2202.00805v1)|null|
 |**2022-02-01**|**Rewiring What-to-Watch-Next Recommendations to Reduce Radicalization Pathways**|Francesco Fabbri et.al.|[2202.00640v1](http://arxiv.org/abs/2202.00640v1)|null|
@@ -393,6 +403,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-02-03**|**Graph Coloring with Physics-Inspired Graph Neural Networks**|Martin J. A. Schuetz et.al.|[2202.01606v1](http://arxiv.org/abs/2202.01606v1)|null|
+|**2022-02-03**|**Learning Mechanically Driven Emergent Behavior with Message Passing Neural Networks**|Peerasait Prachaseree et.al.|[2202.01380v1](http://arxiv.org/abs/2202.01380v1)|**[link](https://github.com/pprachas/abc_dataset)**|
 |**2022-02-01**|**A Graph Based Neural Network Approach to Immune Profiling of Multiplexed Tissue Samples**|Natalia Garcia Martin et.al.|[2202.00813v1](http://arxiv.org/abs/2202.00813v1)|null|
 |**2022-02-01**|**Gromov-Wasserstein Discrepancy with Local Differential Privacy for Distributed Structural Graphs**|Hongwei Jin et.al.|[2202.00808v1](http://arxiv.org/abs/2202.00808v1)|null|
 |**2022-02-01**|**Investigating Transfer Learning in Graph Neural Networks**|Nishai Kooverjee et.al.|[2202.00740v1](http://arxiv.org/abs/2202.00740v1)|null|
