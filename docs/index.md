@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.02.03
+## Updated on 2022.02.04
 
 ## NLP
 
@@ -197,7 +197,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2022-01-27**|**TableQuery: Querying tabular data with natural language**|Abhijith Neil Abraham et.al.|[2202.00454v1](http://arxiv.org/abs/2202.00454v1)|null|
+|**2022-01-27**|**TableQuery: Querying tabular data with natural language**|Abhijith Neil Abraham et.al.|[2202.00454v1](http://arxiv.org/abs/2202.00454v1)|**[link](https://github.com/abhijithneilabraham/tableqa)**|
 |**2022-02-01**|**Active Learning Over Multiple Domains in Natural Language Tasks**|Shayne Longpre et.al.|[2202.00254v1](http://arxiv.org/abs/2202.00254v1)|null|
 |**2022-02-01**|**Semantic Annotation and Querying Framework based on Semi-structured Ayurvedic Text**|Hrishikesh Terdalkar et.al.|[2202.00216v1](http://arxiv.org/abs/2202.00216v1)|null|
 |**2022-01-31**|**QALD-9-plus: A Multilingual Dataset for Question Answering over DBpedia and Wikidata Translated by Native Speakers**|Aleksandr Perevalov et.al.|[2202.00120v1](http://arxiv.org/abs/2202.00120v1)|**[link](https://github.com/perevalov/qald_9_plus)**|
