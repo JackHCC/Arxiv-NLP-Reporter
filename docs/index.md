@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.02.04
+## Updated on 2022.02.05
 
 ## NLP
 
@@ -169,7 +169,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2022-02-01**|**Politics and Virality in the Time of Twitter: A Large-Scale Cross-Party Sentiment Analysis in Greece, Spain and United Kingdom**|Dimosthenis Antypas et.al.|[2202.00396v1](http://arxiv.org/abs/2202.00396v1)|null|
+|**2022-02-01**|**Politics and Virality in the Time of Twitter: A Large-Scale Cross-Party Sentiment Analysis in Greece, Spain and United Kingdom**|Dimosthenis Antypas et.al.|[2202.00396v1](http://arxiv.org/abs/2202.00396v1)|**[link](https://github.com/cardiffnlp/politics-and-virality-twitter)**|
 |**2022-02-01**|**Active Learning Over Multiple Domains in Natural Language Tasks**|Shayne Longpre et.al.|[2202.00254v1](http://arxiv.org/abs/2202.00254v1)|null|
 |**2022-01-29**|**A Deep CNN Architecture with Novel Pooling Layer Applied to Two Sudanese Arabic Sentiment Datasets**|Mustafa Mhamed et.al.|[2201.12664v1](http://arxiv.org/abs/2201.12664v1)|null|
 |**2022-01-29**|**A Simple Information-Based Approach to Unsupervised Domain-Adaptive Aspect-Based Sentiment Analysis**|Xiang Chen et.al.|[2201.12549v1](http://arxiv.org/abs/2201.12549v1)|**[link](https://github.com/casparswift/da_mim)**|
