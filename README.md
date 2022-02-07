@@ -4,6 +4,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-02-04**|**Pre-Trained Neural Language Models for Automatic Mobile App User Feedback Answer Generation**|Yue Cao et.al.|[2202.02294v1](http://arxiv.org/abs/2202.02294v1)|null|
+|**2022-02-04**|**Crystalline: Lowering the Cost for Developers to Collect and Organize Information for Decision Making**|Michael Xieyang Liu et.al.|[2202.02175v1](http://arxiv.org/abs/2202.02175v1)|null|
+|**2022-02-04**|**SummaryLens -- A Smartphone App for Exploring Interactive Use of Automated Text Summarization in Everyday Life**|Karim Benharrak et.al.|[2202.02053v1](http://arxiv.org/abs/2202.02053v1)|null|
 |**2022-02-03**|**CoST: Contrastive Learning of Disentangled Seasonal-Trend Representations for Time Series Forecasting**|Gerald Woo et.al.|[2202.01575v1](http://arxiv.org/abs/2202.01575v1)|null|
 |**2022-01-31**|**Adaptive Sampling Strategies to Construct Equitable Training Datasets**|William Cai et.al.|[2202.01327v1](http://arxiv.org/abs/2202.01327v1)|null|
 |**2022-02-02**|**A Comparison of Online Hate on Reddit and 4chan: A Case Study of the 2020 US Election**|Fatima Zahrah et.al.|[2202.01302v1](http://arxiv.org/abs/2202.01302v1)|null|
@@ -123,6 +126,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-02-04**|**Zero-Shot Aspect-Based Sentiment Analysis**|Lei Shu et.al.|[2202.01924v1](http://arxiv.org/abs/2202.01924v1)|null|
 |**2022-02-02**|**Beyond Images: Label Noise Transition Matrix Estimation for Tasks with Lower-Quality Features**|Zhaowei Zhu et.al.|[2202.01273v1](http://arxiv.org/abs/2202.01273v1)|**[link](https://github.com/ucsc-real/est-t-mi)**|
 |**2022-01-28**|**Dominant Set-based Active Learning for Text Classification and its Application to Online Social Media**|Toktam A. Oghaz et.al.|[2202.00540v1](http://arxiv.org/abs/2202.00540v1)|null|
 |**2022-01-29**|**Maximum Batch Frobenius Norm for Multi-Domain Text Classification**|Yuan Wu et.al.|[2202.00537v1](http://arxiv.org/abs/2202.00537v1)|null|
@@ -165,6 +169,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-02-04**|**Zero-Shot Aspect-Based Sentiment Analysis**|Lei Shu et.al.|[2202.01924v1](http://arxiv.org/abs/2202.01924v1)|null|
 |**2022-02-01**|**Politics and Virality in the Time of Twitter: A Large-Scale Cross-Party Sentiment Analysis in Greece, Spain and United Kingdom**|Dimosthenis Antypas et.al.|[2202.00396v1](http://arxiv.org/abs/2202.00396v1)|**[link](https://github.com/cardiffnlp/politics-and-virality-twitter)**|
 |**2022-02-01**|**Active Learning Over Multiple Domains in Natural Language Tasks**|Shayne Longpre et.al.|[2202.00254v1](http://arxiv.org/abs/2202.00254v1)|null|
 |**2022-01-29**|**A Deep CNN Architecture with Novel Pooling Layer Applied to Two Sudanese Arabic Sentiment Datasets**|Mustafa Mhamed et.al.|[2201.12664v1](http://arxiv.org/abs/2201.12664v1)|null|
@@ -197,6 +202,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-02-04**|**Webly Supervised Concept Expansion for General Purpose Vision Models**|Amita Kamath et.al.|[2202.02317v1](http://arxiv.org/abs/2202.02317v1)|null|
+|**2022-02-04**|**Interactive Mobile App Navigation with Uncertain or Under-specified Natural Language Commands**|Andrea Burns et.al.|[2202.02312v1](http://arxiv.org/abs/2202.02312v1)|null|
+|**2022-02-04**|**Quality Assessment of Low Light Restored Images: A Subjective Study and an Unsupervised Model**|Vignesh Kannan et.al.|[2202.02277v1](http://arxiv.org/abs/2202.02277v1)|null|
+|**2022-02-04**|**Grounding Answers for Visual Questions Asked by Visually Impaired People**|Chongyan Chen et.al.|[2202.01993v1](http://arxiv.org/abs/2202.01993v1)|null|
 |**2022-02-03**|**JaQuAD: Japanese Question Answering Dataset for Machine Reading Comprehension**|ByungHoon So et.al.|[2202.01764v1](http://arxiv.org/abs/2202.01764v1)|**[link](https://github.com/SkelterLabsInc/JaQuAD)**|
 |**2022-02-03**|**On constant-time quantum annealing and guaranteed approximations for graph optimization problems**|Arthur Braida et.al.|[2202.01636v1](http://arxiv.org/abs/2202.01636v1)|null|
 |**2022-01-27**|**TableQuery: Querying tabular data with natural language**|Abhijith Neil Abraham et.al.|[2202.00454v1](http://arxiv.org/abs/2202.00454v1)|**[link](https://github.com/abhijithneilabraham/tableqa)**|
@@ -256,6 +265,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-02-03**|**The DESI PRObabilistic Value-Added Bright Galaxy Survey (PROVABGS) Mock Challenge**|ChangHoon Hahn et.al.|[2202.01809v1](http://arxiv.org/abs/2202.01809v1)|null|
 |**2022-01-29**|**Information Extraction through AI techniques: The KIDs use case at CONSOB**|Domenico Lembo et.al.|[2202.01178v1](http://arxiv.org/abs/2202.01178v1)|null|
 |**2022-02-02**|**Pop Quiz! Can a Large Language Model Help With Reverse Engineering?**|Hammond Pearce et.al.|[2202.01142v1](http://arxiv.org/abs/2202.01142v1)|null|
 |**2022-02-01**|**WebFormer: The Web-page Transformer for Structure Information Extraction**|Qifan Wang et.al.|[2202.00217v1](http://arxiv.org/abs/2202.00217v1)|null|
@@ -290,6 +300,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-02-04**|**Voice-Based Conversational Agents for self-reporting fluid consumption and sleep quality**|Abdalsalam Almzayyen et.al.|[2202.02186v1](http://arxiv.org/abs/2202.02186v1)|null|
+|**2022-02-04**|**OntoSeer -- A Recommendation System to Improve the Quality of Ontologies**|Pramit Bhattacharyya et.al.|[2202.02125v1](http://arxiv.org/abs/2202.02125v1)|null|
 |**2022-02-03**|**Variance-Optimal Augmentation Logging for Counterfactual Evaluation in Contextual Bandits**|Aaron David Tucker et.al.|[2202.01721v1](http://arxiv.org/abs/2202.01721v1)|null|
 |**2022-02-03**|**Measuring Disparate Outcomes of Content Recommendation Algorithms with Distributional Inequality Metrics**|Tomo Lazovich et.al.|[2202.01615v1](http://arxiv.org/abs/2202.01615v1)|null|
 |**2022-02-03**|**Doubly Robust Off-Policy Evaluation for Ranking Policies under the Cascade Behavior Model**|Haruka Kiyohara et.al.|[2202.01562v1](http://arxiv.org/abs/2202.01562v1)|**[link](https://github.com/aiueola/wsdm2022-cascade-dr)**|
@@ -354,6 +366,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-02-04**|**From Discrimination to Generation: Knowledge Graph Completion with Generative Transformer**|Xin Xie et.al.|[2202.02113v1](http://arxiv.org/abs/2202.02113v1)|**[link](https://github.com/zjunlp/promptkgc)**|
+|**2022-02-04**|**Urban Region Profiling via A Multi-Graph Representation Learning Framework**|Y. Luo et.al.|[2202.02074v1](http://arxiv.org/abs/2202.02074v1)|null|
 |**2022-02-01**|**Towards a Theoretical Understanding of Word and Relation Representation**|Carl Allen et.al.|[2202.00486v1](http://arxiv.org/abs/2202.00486v1)|null|
 |**2022-02-01**|**Semantic Annotation and Querying Framework based on Semi-structured Ayurvedic Text**|Hrishikesh Terdalkar et.al.|[2202.00216v1](http://arxiv.org/abs/2202.00216v1)|null|
 |**2022-01-31**|**QALD-9-plus: A Multilingual Dataset for Question Answering over DBpedia and Wikidata Translated by Native Speakers**|Aleksandr Perevalov et.al.|[2202.00120v1](http://arxiv.org/abs/2202.00120v1)|**[link](https://github.com/perevalov/qald_9_plus)**|
@@ -403,6 +417,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-02-04**|**Rediscovering orbital mechanics with machine learning**|Pablo Lemos et.al.|[2202.02306v1](http://arxiv.org/abs/2202.02306v1)|null|
+|**2022-02-03**|**Dynamic Virtual Network Embedding Algorithm based on Graph Convolution Neural Network and Reinforcement Learning**|Peiying Zhang et.al.|[2202.02140v1](http://arxiv.org/abs/2202.02140v1)|null|
+|**2022-02-04**|**Multi-task graph neural networks for simultaneous prediction of global and atomic properties in ferromagnetic systems**|Massimiliano Lupo Pasini et.al.|[2202.01954v1](http://arxiv.org/abs/2202.01954v1)|null|
 |**2022-02-03**|**Graph Coloring with Physics-Inspired Graph Neural Networks**|Martin J. A. Schuetz et.al.|[2202.01606v1](http://arxiv.org/abs/2202.01606v1)|null|
 |**2022-02-03**|**Learning Mechanically Driven Emergent Behavior with Message Passing Neural Networks**|Peerasait Prachaseree et.al.|[2202.01380v1](http://arxiv.org/abs/2202.01380v1)|**[link](https://github.com/pprachas/abc_dataset)**|
 |**2022-02-01**|**A Graph Based Neural Network Approach to Immune Profiling of Multiplexed Tissue Samples**|Natalia Garcia Martin et.al.|[2202.00813v1](http://arxiv.org/abs/2202.00813v1)|null|
