@@ -409,7 +409,7 @@
 |**2022-02-01**|**Gromov-Wasserstein Discrepancy with Local Differential Privacy for Distributed Structural Graphs**|Hongwei Jin et.al.|[2202.00808v1](http://arxiv.org/abs/2202.00808v1)|null|
 |**2022-02-01**|**Investigating Transfer Learning in Graph Neural Networks**|Nishai Kooverjee et.al.|[2202.00740v1](http://arxiv.org/abs/2202.00740v1)|null|
 |**2022-02-01**|**Physical Design using Differentiable Learned Simulators**|Kelsey R. Allen et.al.|[2202.00728v1](http://arxiv.org/abs/2202.00728v1)|null|
-|**2022-02-01**|**Stability and Generalization Capabilities of Message Passing Graph Neural Networks**|Sohir Maskey et.al.|[2202.00645v1](http://arxiv.org/abs/2202.00645v1)|null|
+|**2022-02-04**|**Stability and Generalization Capabilities of Message Passing Graph Neural Networks**|Sohir Maskey et.al.|[2202.00645v2](http://arxiv.org/abs/2202.00645v2)|null|
 |**2022-02-01**|**Molecular Graph Representation Learning via Heterogeneous Motif Graph Construction**|Zhaoning Yu et.al.|[2202.00529v1](http://arxiv.org/abs/2202.00529v1)|null|
 |**2022-02-01**|**MotifExplainer: a Motif-based Graph Neural Network Explainer**|Zhaoning Yu et.al.|[2202.00519v1](http://arxiv.org/abs/2202.00519v1)|null|
 |**2022-02-01**|**Memory-based Message Passing: Decoupling the Message for Propogation from Discrimination**|Jie Chen et.al.|[2202.00423v1](http://arxiv.org/abs/2202.00423v1)|null|
