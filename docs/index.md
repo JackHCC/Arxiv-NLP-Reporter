@@ -215,7 +215,7 @@ layout: default
 |**2022-01-27**|**TableQuery: Querying tabular data with natural language**|Abhijith Neil Abraham et.al.|[2202.00454v1](http://arxiv.org/abs/2202.00454v1)|**[link](https://github.com/abhijithneilabraham/tableqa)**|
 |**2022-02-01**|**Active Learning Over Multiple Domains in Natural Language Tasks**|Shayne Longpre et.al.|[2202.00254v1](http://arxiv.org/abs/2202.00254v1)|null|
 |**2022-02-01**|**Semantic Annotation and Querying Framework based on Semi-structured Ayurvedic Text**|Hrishikesh Terdalkar et.al.|[2202.00216v1](http://arxiv.org/abs/2202.00216v1)|null|
-|**2022-01-31**|**QALD-9-plus: A Multilingual Dataset for Question Answering over DBpedia and Wikidata Translated by Native Speakers**|Aleksandr Perevalov et.al.|[2202.00120v1](http://arxiv.org/abs/2202.00120v1)|**[link](https://github.com/perevalov/qald_9_plus)**|
+|**2022-02-07**|**QALD-9-plus: A Multilingual Dataset for Question Answering over DBpedia and Wikidata Translated by Native Speakers**|Aleksandr Perevalov et.al.|[2202.00120v2](http://arxiv.org/abs/2202.00120v2)|**[link](https://github.com/perevalov/qald_9_plus)**|
 |**2022-01-31**|**Learning Representations of Entities and Relations**|Ivana Balažević et.al.|[2201.13073v1](http://arxiv.org/abs/2201.13073v1)|null|
 |**2022-01-30**|**Compositionality as Lexical Symmetry**|Ekin Akyürek et.al.|[2201.12926v1](http://arxiv.org/abs/2201.12926v1)|null|
 |**2022-01-30**|**A Dataset for Medical Instructional Video Classification and Question Answering**|Deepak Gupta et.al.|[2201.12888v1](http://arxiv.org/abs/2201.12888v1)|**[link](https://github.com/deepaknlp/medvidqacl)**|
@@ -374,7 +374,7 @@ layout: default
 |**2022-02-04**|**Urban Region Profiling via A Multi-Graph Representation Learning Framework**|Y. Luo et.al.|[2202.02074v1](http://arxiv.org/abs/2202.02074v1)|null|
 |**2022-02-01**|**Towards a Theoretical Understanding of Word and Relation Representation**|Carl Allen et.al.|[2202.00486v1](http://arxiv.org/abs/2202.00486v1)|null|
 |**2022-02-01**|**Semantic Annotation and Querying Framework based on Semi-structured Ayurvedic Text**|Hrishikesh Terdalkar et.al.|[2202.00216v1](http://arxiv.org/abs/2202.00216v1)|null|
-|**2022-01-31**|**QALD-9-plus: A Multilingual Dataset for Question Answering over DBpedia and Wikidata Translated by Native Speakers**|Aleksandr Perevalov et.al.|[2202.00120v1](http://arxiv.org/abs/2202.00120v1)|**[link](https://github.com/perevalov/qald_9_plus)**|
+|**2022-02-07**|**QALD-9-plus: A Multilingual Dataset for Question Answering over DBpedia and Wikidata Translated by Native Speakers**|Aleksandr Perevalov et.al.|[2202.00120v2](http://arxiv.org/abs/2202.00120v2)|**[link](https://github.com/perevalov/qald_9_plus)**|
 |**2022-01-31**|**Learning Representations of Entities and Relations**|Ivana Balažević et.al.|[2201.13073v1](http://arxiv.org/abs/2201.13073v1)|null|
 |**2022-01-30**|**Potential Destination Prediction Based on Knowledge Graph Under Low Predictability Data Condition**|Guilong Li et.al.|[2201.12845v1](http://arxiv.org/abs/2201.12845v1)|null|
 |**2022-01-28**|**Towards a Broad Coverage Named Entity Resource: A Data-Efficient Approach for Many Diverse Languages**|Silvia Severini et.al.|[2201.12219v1](http://arxiv.org/abs/2201.12219v1)|null|
