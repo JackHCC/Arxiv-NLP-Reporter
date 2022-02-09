@@ -139,7 +139,7 @@
 |**2022-02-07**|**Comparison and Combination of Sentence Embeddings Derived from Different Supervision Signals**|Hayato Tsukagoshi et.al.|[2202.02990v1](http://arxiv.org/abs/2202.02990v1)|null|
 |**2022-02-05**|**Improving Probabilistic Models in Text Classification via Active Learning**|Mitchell Bosley et.al.|[2202.02629v1](http://arxiv.org/abs/2202.02629v1)|null|
 |**2022-02-05**|**LST: Lexicon-Guided Self-Training for Few-Shot Text Classification**|Hazel Kim et.al.|[2202.02566v1](http://arxiv.org/abs/2202.02566v1)|null|
-|**2022-02-04**|**Zero-Shot Aspect-Based Sentiment Analysis**|Lei Shu et.al.|[2202.01924v1](http://arxiv.org/abs/2202.01924v1)|null|
+|**2022-02-08**|**Zero-Shot Aspect-Based Sentiment Analysis**|Lei Shu et.al.|[2202.01924v2](http://arxiv.org/abs/2202.01924v2)|null|
 |**2022-02-02**|**Beyond Images: Label Noise Transition Matrix Estimation for Tasks with Lower-Quality Features**|Zhaowei Zhu et.al.|[2202.01273v1](http://arxiv.org/abs/2202.01273v1)|**[link](https://github.com/ucsc-real/est-t-mi)**|
 |**2022-01-28**|**Dominant Set-based Active Learning for Text Classification and its Application to Online Social Media**|Toktam A. Oghaz et.al.|[2202.00540v1](http://arxiv.org/abs/2202.00540v1)|null|
 |**2022-01-29**|**Maximum Batch Frobenius Norm for Multi-Domain Text Classification**|Yuan Wu et.al.|[2202.00537v1](http://arxiv.org/abs/2202.00537v1)|null|
@@ -184,9 +184,9 @@
 |---|---|---|---|---|
 |**2022-02-07**|**Gender stereotypes in the mediated personalization of politics: Empirical evidence from a lexical, syntactic and sentiment analysis**|Emanuele Brugnoli et.al.|[2202.03083v1](http://arxiv.org/abs/2202.03083v1)|null|
 |**2022-02-05**|**Aspect-based Sentiment Analysis through EDU-level Attentions**|Ting Lin et.al.|[2202.02535v1](http://arxiv.org/abs/2202.02535v1)|null|
-|**2022-02-04**|**Zero-Shot Aspect-Based Sentiment Analysis**|Lei Shu et.al.|[2202.01924v1](http://arxiv.org/abs/2202.01924v1)|null|
+|**2022-02-08**|**Zero-Shot Aspect-Based Sentiment Analysis**|Lei Shu et.al.|[2202.01924v2](http://arxiv.org/abs/2202.01924v2)|null|
 |**2022-02-01**|**Politics and Virality in the Time of Twitter: A Large-Scale Cross-Party Sentiment Analysis in Greece, Spain and United Kingdom**|Dimosthenis Antypas et.al.|[2202.00396v1](http://arxiv.org/abs/2202.00396v1)|**[link](https://github.com/cardiffnlp/politics-and-virality-twitter)**|
-|**2022-02-01**|**Active Learning Over Multiple Domains in Natural Language Tasks**|Shayne Longpre et.al.|[2202.00254v1](http://arxiv.org/abs/2202.00254v1)|null|
+|**2022-02-08**|**Active Learning Over Multiple Domains in Natural Language Tasks**|Shayne Longpre et.al.|[2202.00254v2](http://arxiv.org/abs/2202.00254v2)|null|
 |**2022-01-29**|**A Deep CNN Architecture with Novel Pooling Layer Applied to Two Sudanese Arabic Sentiment Datasets**|Mustafa Mhamed et.al.|[2201.12664v1](http://arxiv.org/abs/2201.12664v1)|null|
 |**2022-01-29**|**A Simple Information-Based Approach to Unsupervised Domain-Adaptive Aspect-Based Sentiment Analysis**|Xiang Chen et.al.|[2201.12549v1](http://arxiv.org/abs/2201.12549v1)|**[link](https://github.com/casparswift/da_mim)**|
 |**2022-01-19**|**Predicting The Stock Trend Using News Sentiment Analysis and Technical Indicators in Spark**|Taylan Kabbani et.al.|[2201.12283v1](http://arxiv.org/abs/2201.12283v1)|null|
@@ -226,7 +226,7 @@
 |**2022-02-03**|**JaQuAD: Japanese Question Answering Dataset for Machine Reading Comprehension**|ByungHoon So et.al.|[2202.01764v1](http://arxiv.org/abs/2202.01764v1)|**[link](https://github.com/SkelterLabsInc/JaQuAD)**|
 |**2022-02-03**|**On constant-time quantum annealing and guaranteed approximations for graph optimization problems**|Arthur Braida et.al.|[2202.01636v1](http://arxiv.org/abs/2202.01636v1)|null|
 |**2022-01-27**|**TableQuery: Querying tabular data with natural language**|Abhijith Neil Abraham et.al.|[2202.00454v1](http://arxiv.org/abs/2202.00454v1)|**[link](https://github.com/abhijithneilabraham/tableqa)**|
-|**2022-02-01**|**Active Learning Over Multiple Domains in Natural Language Tasks**|Shayne Longpre et.al.|[2202.00254v1](http://arxiv.org/abs/2202.00254v1)|null|
+|**2022-02-08**|**Active Learning Over Multiple Domains in Natural Language Tasks**|Shayne Longpre et.al.|[2202.00254v2](http://arxiv.org/abs/2202.00254v2)|null|
 |**2022-02-01**|**Semantic Annotation and Querying Framework based on Semi-structured Ayurvedic Text**|Hrishikesh Terdalkar et.al.|[2202.00216v1](http://arxiv.org/abs/2202.00216v1)|null|
 |**2022-02-07**|**QALD-9-plus: A Multilingual Dataset for Question Answering over DBpedia and Wikidata Translated by Native Speakers**|Aleksandr Perevalov et.al.|[2202.00120v2](http://arxiv.org/abs/2202.00120v2)|**[link](https://github.com/perevalov/qald_9_plus)**|
 |**2022-01-31**|**Learning Representations of Entities and Relations**|Ivana Balažević et.al.|[2201.13073v1](http://arxiv.org/abs/2201.13073v1)|null|
@@ -329,7 +329,7 @@
 |**2022-02-06**|**A Review of Modern Fashion Recommender Systems**|Yashar Deldjoo et.al.|[2202.02757v1](http://arxiv.org/abs/2202.02757v1)|null|
 |**2022-02-06**|**How Effective is Incongruity? Implications for Code-mix Sarcasm Detection**|Aditya Shah et.al.|[2202.02702v1](http://arxiv.org/abs/2202.02702v1)|**[link](https://github.com/likemycode/codemix)**|
 |**2022-02-06**|**Triangle Graph Interest Network for Click-through Rate Prediction**|Wensen Jiang et.al.|[2202.02698v1](http://arxiv.org/abs/2202.02698v1)|**[link](https://github.com/alibaba/tgin)**|
-|**2022-02-05**|**LEAPMood: Light and Efficient Architecture to Predict Mood with Genetic Algorithm driven Hyperparameter Tuning**|Harichandana B S S et.al.|[2202.02522v1](http://arxiv.org/abs/2202.02522v1)|null|
+|**2022-02-08**|**LEAPMood: Light and Efficient Architecture to Predict Mood with Genetic Algorithm driven Hyperparameter Tuning**|Harichandana B S S et.al.|[2202.02522v2](http://arxiv.org/abs/2202.02522v2)|null|
 |**2022-02-04**|**Voice-Based Conversational Agents for self-reporting fluid consumption and sleep quality**|Abdalsalam Almzayyen et.al.|[2202.02186v1](http://arxiv.org/abs/2202.02186v1)|null|
 |**2022-02-04**|**OntoSeer -- A Recommendation System to Improve the Quality of Ontologies**|Pramit Bhattacharyya et.al.|[2202.02125v1](http://arxiv.org/abs/2202.02125v1)|**[link](https://github.com/kracr/ontoseer)**|
 |**2022-02-03**|**Variance-Optimal Augmentation Logging for Counterfactual Evaluation in Contextual Bandits**|Aaron David Tucker et.al.|[2202.01721v1](http://arxiv.org/abs/2202.01721v1)|null|
@@ -397,7 +397,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2022-02-07**|**Towards Loosely-Coupling Knowledge Graph Embeddings and Ontology-based Reasoning**|Zoi Kaoudi et.al.|[2202.03173v1](http://arxiv.org/abs/2202.03173v1)|null|
-|**2022-02-04**|**From Discrimination to Generation: Knowledge Graph Completion with Generative Transformer**|Xin Xie et.al.|[2202.02113v1](http://arxiv.org/abs/2202.02113v1)|**[link](https://github.com/zjunlp/promptkgc)**|
+|**2022-02-08**|**From Discrimination to Generation: Knowledge Graph Completion with Generative Transformer**|Xin Xie et.al.|[2202.02113v2](http://arxiv.org/abs/2202.02113v2)|**[link](https://github.com/zjunlp/promptkgc)**|
 |**2022-02-04**|**Urban Region Profiling via A Multi-Graph Representation Learning Framework**|Y. Luo et.al.|[2202.02074v1](http://arxiv.org/abs/2202.02074v1)|null|
 |**2022-02-01**|**Towards a Theoretical Understanding of Word and Relation Representation**|Carl Allen et.al.|[2202.00486v1](http://arxiv.org/abs/2202.00486v1)|null|
 |**2022-02-01**|**Semantic Annotation and Querying Framework based on Semi-structured Ayurvedic Text**|Hrishikesh Terdalkar et.al.|[2202.00216v1](http://arxiv.org/abs/2202.00216v1)|null|
@@ -451,13 +451,13 @@
 |**2022-02-07**|**Large-scale Personalized Video Game Recommendation via Social-aware Contextualized Graph Neural Network**|Liangwei Yang et.al.|[2202.03392v1](http://arxiv.org/abs/2202.03392v1)|null|
 |**2022-02-07**|**Neighbor2Seq: Deep Learning on Massive Graphs by Transforming Neighbors to Sequences**|Meng Liu et.al.|[2202.03341v1](http://arxiv.org/abs/2202.03341v1)|**[link](https://github.com/divelab/neighbor2seq)**|
 |**2022-02-07**|**Jet Flavour Tagging for Future Colliders with Fast Simulation**|Franco Bedeschi et.al.|[2202.03285v1](http://arxiv.org/abs/2202.03285v1)|null|
-|**2022-02-07**|**A Variational Edge Partition Model for Supervised Graph Representation Learning**|Yilin He et.al.|[2202.03233v1](http://arxiv.org/abs/2202.03233v1)|null|
+|**2022-02-08**|**A Variational Edge Partition Model for Supervised Graph Representation Learning**|Yilin He et.al.|[2202.03233v2](http://arxiv.org/abs/2202.03233v2)|null|
 |**2022-02-07**|**Neural Models for Output-Space Invariance in Combinatorial Problems**|Yatin Nandwani et.al.|[2202.03229v1](http://arxiv.org/abs/2202.03229v1)|null|
 |**2022-02-07**|**More is Better (Mostly): On the Backdoor Attacks in Federated Graph Neural Networks**|Jing Xu et.al.|[2202.03195v1](http://arxiv.org/abs/2202.03195v1)|null|
 |**2022-02-07**|**Structure-Aware Transformer for Graph Representation Learning**|Dexiong Chen et.al.|[2202.03036v1](http://arxiv.org/abs/2202.03036v1)|null|
 |**2022-02-07**|**Graph Self-supervised Learning with Accurate Discrepancy Learning**|Dongki Kim et.al.|[2202.02989v1](http://arxiv.org/abs/2202.02989v1)|null|
 |**2022-02-05**|**A Graph Neural Network Framework for Grid-Based Simulation**|Haoyu Tang et.al.|[2202.02652v1](http://arxiv.org/abs/2202.02652v1)|null|
-|**2022-02-05**|**Differentially Private Graph Classification with GNNs**|Tamara T. Mueller et.al.|[2202.02575v1](http://arxiv.org/abs/2202.02575v1)|null|
+|**2022-02-08**|**Differentially Private Graph Classification with GNNs**|Tamara T. Mueller et.al.|[2202.02575v2](http://arxiv.org/abs/2202.02575v2)|null|
 |**2022-02-04**|**Rediscovering orbital mechanics with machine learning**|Pablo Lemos et.al.|[2202.02306v1](http://arxiv.org/abs/2202.02306v1)|null|
 |**2022-02-03**|**Dynamic Virtual Network Embedding Algorithm based on Graph Convolution Neural Network and Reinforcement Learning**|Peiying Zhang et.al.|[2202.02140v1](http://arxiv.org/abs/2202.02140v1)|null|
 |**2022-02-04**|**Multi-task graph neural networks for simultaneous prediction of global and atomic properties in ferromagnetic systems**|Massimiliano Lupo Pasini et.al.|[2202.01954v1](http://arxiv.org/abs/2202.01954v1)|null|
