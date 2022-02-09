@@ -4,6 +4,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-02-08**|**Robustness Verification for Attention Networks using Mixed Integer Programming**|Hsuan-Cheng Liao et.al.|[2202.03932v1](http://arxiv.org/abs/2202.03932v1)|null|
+|**2022-02-07**|**Speech Emotion Recognition using Self-Supervised Features**|Edmilson Morais et.al.|[2202.03896v1](http://arxiv.org/abs/2202.03896v1)|null|
+|**2022-02-08**|**A two-step approach to leverage contextual data: speech recognition in air-traffic communications**|Iuliia Nigmatulina et.al.|[2202.03725v1](http://arxiv.org/abs/2202.03725v1)|null|
+|**2022-02-08**|**HistBERT: A Pre-trained Language Model for Diachronic Lexical Semantic Analysis**|Wenjun Qiu et.al.|[2202.03612v1](http://arxiv.org/abs/2202.03612v1)|**[link](https://github.com/wendyqiu/diachronicbert)**|
 |**2022-02-07**|**Diversify and Disambiguate: Learning From Underspecified Data**|Yoonho Lee et.al.|[2202.03418v1](http://arxiv.org/abs/2202.03418v1)|null|
 |**2022-02-07**|**Cedille: A large autoregressive French language model**|Martin Müller et.al.|[2202.03371v1](http://arxiv.org/abs/2202.03371v1)|null|
 |**2022-02-07**|**Efficient Adapter Transfer of Self-Supervised Speech Models for Automatic Speech Recognition**|Bethan Thomas et.al.|[2202.03218v1](http://arxiv.org/abs/2202.03218v1)|null|
@@ -110,6 +114,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-02-08**|**A two-step approach to leverage contextual data: speech recognition in air-traffic communications**|Iuliia Nigmatulina et.al.|[2202.03725v1](http://arxiv.org/abs/2202.03725v1)|null|
 |**2022-02-05**|**Adaptive Fine-Tuning of Transformer-Based Language Models for Named Entity Recognition**|Felix Stollenwerk et.al.|[2202.02617v1](http://arxiv.org/abs/2202.02617v1)|**[link](https://github.com/flxst/nerblackbox)**|
 |**2022-01-29**|**A Simple Information-Based Approach to Unsupervised Domain-Adaptive Aspect-Based Sentiment Analysis**|Xiang Chen et.al.|[2201.12549v1](http://arxiv.org/abs/2201.12549v1)|**[link](https://github.com/casparswift/da_mim)**|
 |**2022-01-27**|**Clinical-Longformer and Clinical-BigBird: Transformers for long clinical sequences**|Yikuan Li et.al.|[2201.11838v1](http://arxiv.org/abs/2201.11838v1)|null|
@@ -134,6 +139,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-02-08**|**Counterfactual Multi-Token Fairness in Text Classification**|Pranay Lohia et.al.|[2202.03792v1](http://arxiv.org/abs/2202.03792v1)|null|
 |**2022-02-07**|**On The Empirical Effectiveness of Unrealistic Adversarial Hardening Against Realistic Adversarial Attacks**|Salijona Dyrmishi et.al.|[2202.03277v1](http://arxiv.org/abs/2202.03277v1)|null|
 |**2022-02-07**|**Enhanced Higgs pair production from higgsino decay at the HL-LHC**|Jianpeng Dai et.al.|[2202.03258v1](http://arxiv.org/abs/2202.03258v1)|null|
 |**2022-02-07**|**Comparison and Combination of Sentence Embeddings Derived from Different Supervision Signals**|Hayato Tsukagoshi et.al.|[2202.02990v1](http://arxiv.org/abs/2202.02990v1)|null|
@@ -217,6 +223,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-02-08**|**Integrating question answering and text-to-SQL in Portuguese**|Marcos Menon José et.al.|[2202.04048v1](http://arxiv.org/abs/2202.04048v1)|null|
+|**2022-02-08**|**NEWSKVQA: Knowledge-Aware News Video Question Answering**|Pranay Gupta et.al.|[2202.04015v1](http://arxiv.org/abs/2202.04015v1)|null|
+|**2022-02-08**|**Survey of Hallucination in Natural Language Generation**|Ziwei Ji et.al.|[2202.03629v1](http://arxiv.org/abs/2202.03629v1)|null|
 |**2022-02-07**|**Towards Loosely-Coupling Knowledge Graph Embeddings and Ontology-based Reasoning**|Zoi Kaoudi et.al.|[2202.03173v1](http://arxiv.org/abs/2202.03173v1)|null|
 |**2022-02-04**|**Pirá: A Bilingual Portuguese-English Dataset for Question-Answering about the Ocean**|André F. A. Paschoal et.al.|[2202.02398v1](http://arxiv.org/abs/2202.02398v1)|**[link](https://github.com/C4AI/Pira)**|
 |**2022-02-04**|**Webly Supervised Concept Expansion for General Purpose Vision Models**|Amita Kamath et.al.|[2202.02317v1](http://arxiv.org/abs/2202.02317v1)|null|
@@ -320,6 +329,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-02-08**|**CAUSPref: Causal Preference Learning for Out-of-Distribution Recommendation**|Yue He et.al.|[2202.03984v1](http://arxiv.org/abs/2202.03984v1)|null|
+|**2022-02-08**|**NxtPost: User to Post Recommendations in Facebook Groups**|Kaushik Rangadurai et.al.|[2202.03645v1](http://arxiv.org/abs/2202.03645v1)|null|
 |**2022-02-07**|**Large-scale Personalized Video Game Recommendation via Social-aware Contextualized Graph Neural Network**|Liangwei Yang et.al.|[2202.03392v1](http://arxiv.org/abs/2202.03392v1)|null|
 |**2022-02-07**|**Red Teaming Language Models with Language Models**|Ethan Perez et.al.|[2202.03286v1](http://arxiv.org/abs/2202.03286v1)|null|
 |**2022-02-07**|**Bayesian Linear Bandits for Large-Scale Recommender Systems**|Saeed Ghoorchian et.al.|[2202.03167v1](http://arxiv.org/abs/2202.03167v1)|null|
@@ -396,6 +407,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-02-08**|**Computing Rule-Based Explanations of Machine Learning Classifiers using Knowledge Graphs**|Edmund Dervakos et.al.|[2202.03971v1](http://arxiv.org/abs/2202.03971v1)|null|
+|**2022-02-01**|**FisrEbp: Enterprise Bankruptcy Prediction via Fusing its Intra-risk and Spillover-Risk**|Yu Zhao et.al.|[2202.03874v1](http://arxiv.org/abs/2202.03874v1)|null|
+|**2022-02-08**|**MetaKG: Meta-learning on Knowledge Graph for Cold-start Recommendation**|Yuntao Du et.al.|[2202.03851v1](http://arxiv.org/abs/2202.03851v1)|**[link](https://github.com/zju-dbl/metakg)**|
 |**2022-02-07**|**Towards Loosely-Coupling Knowledge Graph Embeddings and Ontology-based Reasoning**|Zoi Kaoudi et.al.|[2202.03173v1](http://arxiv.org/abs/2202.03173v1)|null|
 |**2022-02-08**|**From Discrimination to Generation: Knowledge Graph Completion with Generative Transformer**|Xin Xie et.al.|[2202.02113v2](http://arxiv.org/abs/2202.02113v2)|**[link](https://github.com/zjunlp/promptkgc)**|
 |**2022-02-04**|**Urban Region Profiling via A Multi-Graph Representation Learning Framework**|Y. Luo et.al.|[2202.02074v1](http://arxiv.org/abs/2202.02074v1)|null|
@@ -448,6 +462,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-02-08**|**Bandit Sampling for Multiplex Networks**|Cenk Baykal et.al.|[2202.03621v1](http://arxiv.org/abs/2202.03621v1)|null|
 |**2022-02-07**|**Large-scale Personalized Video Game Recommendation via Social-aware Contextualized Graph Neural Network**|Liangwei Yang et.al.|[2202.03392v1](http://arxiv.org/abs/2202.03392v1)|null|
 |**2022-02-07**|**Neighbor2Seq: Deep Learning on Massive Graphs by Transforming Neighbors to Sequences**|Meng Liu et.al.|[2202.03341v1](http://arxiv.org/abs/2202.03341v1)|**[link](https://github.com/divelab/neighbor2seq)**|
 |**2022-02-07**|**Jet Flavour Tagging for Future Colliders with Fast Simulation**|Franco Bedeschi et.al.|[2202.03285v1](http://arxiv.org/abs/2202.03285v1)|null|
