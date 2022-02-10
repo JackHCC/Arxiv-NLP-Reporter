@@ -1,4 +1,4 @@
-## Updated on 2022.02.09
+## Updated on 2022.02.10
 
 ## NLP
 
@@ -329,7 +329,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2022-02-08**|**CAUSPref: Causal Preference Learning for Out-of-Distribution Recommendation**|Yue He et.al.|[2202.03984v1](http://arxiv.org/abs/2202.03984v1)|null|
+|**2022-02-08**|**CAUSPref: Causal Preference Learning for Out-of-Distribution Recommendation**|Yue He et.al.|[2202.03984v1](http://arxiv.org/abs/2202.03984v1)|**[link](https://github.com/heyuethu/causpref)**|
 |**2022-02-08**|**NxtPost: User to Post Recommendations in Facebook Groups**|Kaushik Rangadurai et.al.|[2202.03645v1](http://arxiv.org/abs/2202.03645v1)|null|
 |**2022-02-07**|**Large-scale Personalized Video Game Recommendation via Social-aware Contextualized Graph Neural Network**|Liangwei Yang et.al.|[2202.03392v1](http://arxiv.org/abs/2202.03392v1)|null|
 |**2022-02-07**|**Red Teaming Language Models with Language Models**|Ethan Perez et.al.|[2202.03286v1](http://arxiv.org/abs/2202.03286v1)|null|
