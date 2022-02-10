@@ -139,7 +139,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2022-02-08**|**Counterfactual Multi-Token Fairness in Text Classification**|Pranay Lohia et.al.|[2202.03792v1](http://arxiv.org/abs/2202.03792v1)|null|
+|**2022-02-09**|**Counterfactual Multi-Token Fairness in Text Classification**|Pranay Lohia et.al.|[2202.03792v2](http://arxiv.org/abs/2202.03792v2)|null|
 |**2022-02-07**|**On The Empirical Effectiveness of Unrealistic Adversarial Hardening Against Realistic Adversarial Attacks**|Salijona Dyrmishi et.al.|[2202.03277v1](http://arxiv.org/abs/2202.03277v1)|null|
 |**2022-02-07**|**Enhanced Higgs pair production from higgsino decay at the HL-LHC**|Jianpeng Dai et.al.|[2202.03258v1](http://arxiv.org/abs/2202.03258v1)|null|
 |**2022-02-07**|**Comparison and Combination of Sentence Embeddings Derived from Different Supervision Signals**|Hayato Tsukagoshi et.al.|[2202.02990v1](http://arxiv.org/abs/2202.02990v1)|null|
@@ -329,7 +329,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2022-02-08**|**CAUSPref: Causal Preference Learning for Out-of-Distribution Recommendation**|Yue He et.al.|[2202.03984v1](http://arxiv.org/abs/2202.03984v1)|**[link](https://github.com/heyuethu/causpref)**|
+|**2022-02-09**|**CausPref: Causal Preference Learning for Out-of-Distribution Recommendation**|Yue He et.al.|[2202.03984v2](http://arxiv.org/abs/2202.03984v2)|**[link](https://github.com/heyuethu/causpref)**|
 |**2022-02-08**|**NxtPost: User to Post Recommendations in Facebook Groups**|Kaushik Rangadurai et.al.|[2202.03645v1](http://arxiv.org/abs/2202.03645v1)|null|
 |**2022-02-07**|**Large-scale Personalized Video Game Recommendation via Social-aware Contextualized Graph Neural Network**|Liangwei Yang et.al.|[2202.03392v1](http://arxiv.org/abs/2202.03392v1)|null|
 |**2022-02-07**|**Red Teaming Language Models with Language Models**|Ethan Perez et.al.|[2202.03286v1](http://arxiv.org/abs/2202.03286v1)|null|
