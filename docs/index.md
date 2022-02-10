@@ -8,6 +8,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-02-09**|**Generating Training Data with Language Models: Towards Zero-Shot Language Understanding**|Yu Meng et.al.|[2202.04538v1](http://arxiv.org/abs/2202.04538v1)|**[link](https://github.com/yumeng5/supergen)**|
+|**2022-02-09**|**pNLP-Mixer: an Efficient all-MLP Architecture for Language**|Francesco Fusco et.al.|[2202.04350v1](http://arxiv.org/abs/2202.04350v1)|null|
 |**2022-02-08**|**Robustness Verification for Attention Networks using Mixed Integer Programming**|Hsuan-Cheng Liao et.al.|[2202.03932v1](http://arxiv.org/abs/2202.03932v1)|null|
 |**2022-02-07**|**Speech Emotion Recognition using Self-Supervised Features**|Edmilson Morais et.al.|[2202.03896v1](http://arxiv.org/abs/2202.03896v1)|null|
 |**2022-02-08**|**A two-step approach to leverage contextual data: speech recognition in air-traffic communications**|Iuliia Nigmatulina et.al.|[2202.03725v1](http://arxiv.org/abs/2202.03725v1)|null|
@@ -227,6 +229,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-02-09**|**Can Open Domain Question Answering Systems Answer Visual Knowledge Questions?**|Jiawen Zhang et.al.|[2202.04306v1](http://arxiv.org/abs/2202.04306v1)|null|
 |**2022-02-08**|**Integrating question answering and text-to-SQL in Portuguese**|Marcos Menon José et.al.|[2202.04048v1](http://arxiv.org/abs/2202.04048v1)|null|
 |**2022-02-08**|**NEWSKVQA: Knowledge-Aware News Video Question Answering**|Pranay Gupta et.al.|[2202.04015v1](http://arxiv.org/abs/2202.04015v1)|null|
 |**2022-02-08**|**Survey of Hallucination in Natural Language Generation**|Ziwei Ji et.al.|[2202.03629v1](http://arxiv.org/abs/2202.03629v1)|null|
@@ -295,6 +298,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-02-09**|**Nuclear Spectroscopy with Heavy Ion Nucleon Knockout and (p,2p) Reactions**|Jianguo Li et.al.|[2202.04354v1](http://arxiv.org/abs/2202.04354v1)|null|
 |**2022-02-04**|**TransFollower: Long-Sequence Car-Following Trajectory Prediction through Transformer**|Meixin Zhu et.al.|[2202.03183v1](http://arxiv.org/abs/2202.03183v1)|null|
 |**2022-02-07**|**Document-Level Event Extraction via Human-Like Reading Process**|Shiyao Cui et.al.|[2202.03092v1](http://arxiv.org/abs/2202.03092v1)|null|
 |**2022-02-05**|**An Olfactory EEG Signal Classification Network Based on Frequency Band Feature Extraction**|Biao Sun et.al.|[2202.02487v1](http://arxiv.org/abs/2202.02487v1)|null|
@@ -333,6 +337,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-02-09**|**A Model-Agnostic Causal Learning Framework for Recommendation using Search Data**|Zihua Si et.al.|[2202.04514v1](http://arxiv.org/abs/2202.04514v1)|null|
+|**2022-02-09**|**A.I. and Data-Driven Mobility at Volkswagen Financial Services AG**|Shayan Jawed et.al.|[2202.04411v1](http://arxiv.org/abs/2202.04411v1)|null|
+|**2022-02-08**|**Using a Language Model in a Kiosk Recommender System at Fast-Food Restaurants**|Eduard Zubchuk et.al.|[2202.04145v1](http://arxiv.org/abs/2202.04145v1)|null|
 |**2022-02-09**|**CausPref: Causal Preference Learning for Out-of-Distribution Recommendation**|Yue He et.al.|[2202.03984v2](http://arxiv.org/abs/2202.03984v2)|**[link](https://github.com/heyuethu/causpref)**|
 |**2022-02-08**|**NxtPost: User to Post Recommendations in Facebook Groups**|Kaushik Rangadurai et.al.|[2202.03645v1](http://arxiv.org/abs/2202.03645v1)|null|
 |**2022-02-07**|**Large-scale Personalized Video Game Recommendation via Social-aware Contextualized Graph Neural Network**|Liangwei Yang et.al.|[2202.03392v1](http://arxiv.org/abs/2202.03392v1)|null|
@@ -466,6 +473,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-02-09**|**Neural Sheaf Diffusion: A Topological Perspective on Heterophily and Oversmoothing in GNNs**|Cristian Bodnar et.al.|[2202.04579v1](http://arxiv.org/abs/2202.04579v1)|null|
+|**2022-02-09**|**A Multimodal Canonical-Correlated Graph Neural Network for Energy-Efficient Speech Enhancement**|Leandro Aparecido Passos et.al.|[2202.04528v1](http://arxiv.org/abs/2202.04528v1)|null|
+|**2022-02-08**|**FMP: Toward Fair Graph Message Passing against Topology Bias**|Zhimeng Jiang et.al.|[2202.04187v1](http://arxiv.org/abs/2202.04187v1)|null|
+|**2022-02-08**|**Simplified Graph Convolution with Heterophily**|Sudhanshu Chanpuriya et.al.|[2202.04139v1](http://arxiv.org/abs/2202.04139v1)|null|
 |**2022-02-08**|**Bandit Sampling for Multiplex Networks**|Cenk Baykal et.al.|[2202.03621v1](http://arxiv.org/abs/2202.03621v1)|null|
 |**2022-02-07**|**Large-scale Personalized Video Game Recommendation via Social-aware Contextualized Graph Neural Network**|Liangwei Yang et.al.|[2202.03392v1](http://arxiv.org/abs/2202.03392v1)|null|
 |**2022-02-07**|**Neighbor2Seq: Deep Learning on Massive Graphs by Transforming Neighbors to Sequences**|Meng Liu et.al.|[2202.03341v1](http://arxiv.org/abs/2202.03341v1)|**[link](https://github.com/divelab/neighbor2seq)**|
