@@ -333,7 +333,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2022-02-09**|**A Model-Agnostic Causal Learning Framework for Recommendation using Search Data**|Zihua Si et.al.|[2202.04514v1](http://arxiv.org/abs/2202.04514v1)|null|
+|**2022-02-10**|**A Model-Agnostic Causal Learning Framework for Recommendation using Search Data**|Zihua Si et.al.|[2202.04514v2](http://arxiv.org/abs/2202.04514v2)|**[link](https://github.com/ethan00si/instrumental-variables-for-recommendation)**|
 |**2022-02-09**|**A.I. and Data-Driven Mobility at Volkswagen Financial Services AG**|Shayan Jawed et.al.|[2202.04411v1](http://arxiv.org/abs/2202.04411v1)|null|
 |**2022-02-08**|**Using a Language Model in a Kiosk Recommender System at Fast-Food Restaurants**|Eduard Zubchuk et.al.|[2202.04145v1](http://arxiv.org/abs/2202.04145v1)|null|
 |**2022-02-09**|**CausPref: Causal Preference Learning for Out-of-Distribution Recommendation**|Yue He et.al.|[2202.03984v2](http://arxiv.org/abs/2202.03984v2)|**[link](https://github.com/heyuethu/causpref)**|
