@@ -4,6 +4,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-02-08**|**Efficacy of Transformer Networks for Classification of Raw EEG Data**|Gourav Siddhad et.al.|[2202.05170v1](http://arxiv.org/abs/2202.05170v1)|null|
+|**2022-02-10**|**Natural Language in Requirements Engineering for Structure Inference -- An Integrative Review**|Maximilian Vierlboeck et.al.|[2202.05065v1](http://arxiv.org/abs/2202.05065v1)|null|
+|**2022-02-10**|**A Survey on Artificial Intelligence for Source Code: A Dialogue Systems Perspective**|Erfan Al-Hossami et.al.|[2202.04847v1](http://arxiv.org/abs/2202.04847v1)|null|
+|**2022-02-09**|**TamilEmo: Finegrained Emotion Detection Dataset for Tamil**|Charangan Vasantharajan et.al.|[2202.04725v1](http://arxiv.org/abs/2202.04725v1)|null|
 |**2022-02-09**|**Generating Training Data with Language Models: Towards Zero-Shot Language Understanding**|Yu Meng et.al.|[2202.04538v1](http://arxiv.org/abs/2202.04538v1)|**[link](https://github.com/yumeng5/supergen)**|
 |**2022-02-09**|**pNLP-Mixer: an Efficient all-MLP Architecture for Language**|Francesco Fusco et.al.|[2202.04350v1](http://arxiv.org/abs/2202.04350v1)|null|
 |**2022-02-08**|**Robustness Verification for Attention Networks using Mixed Integer Programming**|Hsuan-Cheng Liao et.al.|[2202.03932v1](http://arxiv.org/abs/2202.03932v1)|null|
@@ -141,6 +145,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-02-10**|**Case-based reasoning for rare events prediction on strategic sites**|Vincent Vidal et.al.|[2202.04891v1](http://arxiv.org/abs/2202.04891v1)|null|
+|**2022-02-10**|**Multi-relation Message Passing for Multi-label Text Classification**|Muberra Ozmen et.al.|[2202.04844v1](http://arxiv.org/abs/2202.04844v1)|**[link](https://github.com/muberraozmen/mrmp)**|
+|**2022-02-10**|**AdaPrompt: Adaptive Model Training for Prompt-based NLP**|Yulong Chen et.al.|[2202.04824v1](http://arxiv.org/abs/2202.04824v1)|null|
 |**2022-02-09**|**Counterfactual Multi-Token Fairness in Text Classification**|Pranay Lohia et.al.|[2202.03792v2](http://arxiv.org/abs/2202.03792v2)|null|
 |**2022-02-07**|**On The Empirical Effectiveness of Unrealistic Adversarial Hardening Against Realistic Adversarial Attacks**|Salijona Dyrmishi et.al.|[2202.03277v1](http://arxiv.org/abs/2202.03277v1)|null|
 |**2022-02-07**|**Enhanced Higgs pair production from higgsino decay at the HL-LHC**|Jianpeng Dai et.al.|[2202.03258v1](http://arxiv.org/abs/2202.03258v1)|null|
@@ -225,6 +232,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-02-09**|**FedQAS: Privacy-aware machine reading comprehension with federated learning**|Addi Ait-Mlouk et.al.|[2202.04742v1](http://arxiv.org/abs/2202.04742v1)|**[link](https://github.com/aitmlouk/fedn-client-fedqas-tf)**|
 |**2022-02-09**|**Can Open Domain Question Answering Systems Answer Visual Knowledge Questions?**|Jiawen Zhang et.al.|[2202.04306v1](http://arxiv.org/abs/2202.04306v1)|null|
 |**2022-02-08**|**Integrating question answering and text-to-SQL in Portuguese**|Marcos Menon José et.al.|[2202.04048v1](http://arxiv.org/abs/2202.04048v1)|null|
 |**2022-02-08**|**NEWSKVQA: Knowledge-Aware News Video Question Answering**|Pranay Gupta et.al.|[2202.04015v1](http://arxiv.org/abs/2202.04015v1)|null|
@@ -294,6 +302,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-02-10**|**Towards the automated large-scale reconstruction of past road networks from historical maps**|Johannes H. Uhl et.al.|[2202.04883v1](http://arxiv.org/abs/2202.04883v1)|null|
+|**2022-02-09**|**Semantic Segmentation of Anaemic RBCs Using Multilevel Deep Convolutional Encoder-Decoder Network**|Muhammad Shahzad et.al.|[2202.04650v1](http://arxiv.org/abs/2202.04650v1)|null|
 |**2022-02-09**|**Nuclear Spectroscopy with Heavy Ion Nucleon Knockout and (p,2p) Reactions**|Jianguo Li et.al.|[2202.04354v1](http://arxiv.org/abs/2202.04354v1)|null|
 |**2022-02-04**|**TransFollower: Long-Sequence Car-Following Trajectory Prediction through Transformer**|Meixin Zhu et.al.|[2202.03183v1](http://arxiv.org/abs/2202.03183v1)|null|
 |**2022-02-07**|**Document-Level Event Extraction via Human-Like Reading Process**|Shiyao Cui et.al.|[2202.03092v1](http://arxiv.org/abs/2202.03092v1)|null|
@@ -333,6 +343,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-02-10**|**FedAttack: Effective and Covert Poisoning Attack on Federated Recommendation via Hard Sampling**|Chuhan Wu et.al.|[2202.04975v1](http://arxiv.org/abs/2202.04975v1)|null|
+|**2022-02-10**|**Collaborative Filtering with Attribution Alignment for Review-based Non-overlapped Cross Domain Recommendation**|Weiming Liu et.al.|[2202.04920v1](http://arxiv.org/abs/2202.04920v1)|null|
+|**2022-02-10**|**Differential Private Knowledge Transfer for Privacy-Preserving Cross-Domain Recommendation**|Chaochao Chen et.al.|[2202.04893v1](http://arxiv.org/abs/2202.04893v1)|null|
 |**2022-02-10**|**A Model-Agnostic Causal Learning Framework for Recommendation using Search Data**|Zihua Si et.al.|[2202.04514v2](http://arxiv.org/abs/2202.04514v2)|**[link](https://github.com/ethan00si/instrumental-variables-for-recommendation)**|
 |**2022-02-09**|**A.I. and Data-Driven Mobility at Volkswagen Financial Services AG**|Shayan Jawed et.al.|[2202.04411v1](http://arxiv.org/abs/2202.04411v1)|null|
 |**2022-02-08**|**Using a Language Model in a Kiosk Recommender System at Fast-Food Restaurants**|Eduard Zubchuk et.al.|[2202.04145v1](http://arxiv.org/abs/2202.04145v1)|null|
@@ -414,6 +427,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-02-10**|**Complexity of Arithmetic in Warded Datalog+-**|Lucas Berent et.al.|[2202.05086v1](http://arxiv.org/abs/2202.05086v1)|null|
+|**2022-02-10**|**InterHT: Knowledge Graph Embeddings by Interaction between Head and Tail Entities**|Baoxin Wang et.al.|[2202.04897v1](http://arxiv.org/abs/2202.04897v1)|null|
 |**2022-02-08**|**Computing Rule-Based Explanations of Machine Learning Classifiers using Knowledge Graphs**|Edmund Dervakos et.al.|[2202.03971v1](http://arxiv.org/abs/2202.03971v1)|null|
 |**2022-02-01**|**FisrEbp: Enterprise Bankruptcy Prediction via Fusing its Intra-risk and Spillover-Risk**|Yu Zhao et.al.|[2202.03874v1](http://arxiv.org/abs/2202.03874v1)|null|
 |**2022-02-08**|**MetaKG: Meta-learning on Knowledge Graph for Cold-start Recommendation**|Yuntao Du et.al.|[2202.03851v1](http://arxiv.org/abs/2202.03851v1)|**[link](https://github.com/zju-dbl/metakg)**|
@@ -469,6 +484,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-02-10**|**Graph Neural Network for Local Corruption Recovery**|Bingxin Zhou et.al.|[2202.04936v1](http://arxiv.org/abs/2202.04936v1)|**[link](https://github.com/bzho3923/magnet)**|
+|**2022-02-10**|**Instance-wise algorithm configuration with graph neural networks**|Romeo Valentin et.al.|[2202.04910v1](http://arxiv.org/abs/2202.04910v1)|**[link](https://github.com/romeov/ml4co-competition)**|
+|**2022-02-10**|**Survey on Graph Neural Network Acceleration: An Algorithmic Perspective**|Xin Liu et.al.|[2202.04822v1](http://arxiv.org/abs/2202.04822v1)|null|
+|**2022-02-08**|**Boosting Graph Neural Networks by Injecting Pooling in Message Passing**|Hyeokjin Kwon et.al.|[2202.04768v1](http://arxiv.org/abs/2202.04768v1)|null|
+|**2022-02-09**|**Graph Neural Network for Cell Tracking in Microscopy Videos**|Tal Ben-Haim et.al.|[2202.04731v1](http://arxiv.org/abs/2202.04731v1)|null|
 |**2022-02-09**|**Neural Sheaf Diffusion: A Topological Perspective on Heterophily and Oversmoothing in GNNs**|Cristian Bodnar et.al.|[2202.04579v1](http://arxiv.org/abs/2202.04579v1)|null|
 |**2022-02-09**|**A Multimodal Canonical-Correlated Graph Neural Network for Energy-Efficient Speech Enhancement**|Leandro Aparecido Passos et.al.|[2202.04528v1](http://arxiv.org/abs/2202.04528v1)|null|
 |**2022-02-08**|**FMP: Toward Fair Graph Message Passing against Topology Bias**|Zhimeng Jiang et.al.|[2202.04187v1](http://arxiv.org/abs/2202.04187v1)|null|
