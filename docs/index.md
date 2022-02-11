@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.02.10
+## Updated on 2022.02.11
 
 ## NLP
 
@@ -15,7 +15,7 @@ layout: default
 |**2022-02-08**|**A two-step approach to leverage contextual data: speech recognition in air-traffic communications**|Iuliia Nigmatulina et.al.|[2202.03725v1](http://arxiv.org/abs/2202.03725v1)|null|
 |**2022-02-08**|**HistBERT: A Pre-trained Language Model for Diachronic Lexical Semantic Analysis**|Wenjun Qiu et.al.|[2202.03612v1](http://arxiv.org/abs/2202.03612v1)|**[link](https://github.com/wendyqiu/diachronicbert)**|
 |**2022-02-07**|**Diversify and Disambiguate: Learning From Underspecified Data**|Yoonho Lee et.al.|[2202.03418v1](http://arxiv.org/abs/2202.03418v1)|null|
-|**2022-02-07**|**Cedille: A large autoregressive French language model**|Martin Müller et.al.|[2202.03371v1](http://arxiv.org/abs/2202.03371v1)|null|
+|**2022-02-07**|**Cedille: A large autoregressive French language model**|Martin Müller et.al.|[2202.03371v1](http://arxiv.org/abs/2202.03371v1)|**[link](https://github.com/coteries/cedille-ai)**|
 |**2022-02-07**|**Efficient Adapter Transfer of Self-Supervised Speech Models for Automatic Speech Recognition**|Bethan Thomas et.al.|[2202.03218v1](http://arxiv.org/abs/2202.03218v1)|null|
 |**2022-02-06**|**Evaluating natural language processing models with generalization metrics that do not need access to any training or testing data**|Yaoqing Yang et.al.|[2202.02842v1](http://arxiv.org/abs/2202.02842v1)|null|
 |**2022-02-05**|**Semantic Similarity Computing Model Based on Multi Model Fine-Grained Nonlinear Fusion**|Peiying Zhang et.al.|[2202.02476v1](http://arxiv.org/abs/2202.02476v1)|null|
