@@ -1,4 +1,4 @@
-## Updated on 2022.02.11
+## Updated on 2022.02.12
 
 ## NLP
 
@@ -487,7 +487,7 @@
 |**2022-02-10**|**Graph Neural Network for Local Corruption Recovery**|Bingxin Zhou et.al.|[2202.04936v1](http://arxiv.org/abs/2202.04936v1)|**[link](https://github.com/bzho3923/magnet)**|
 |**2022-02-10**|**Instance-wise algorithm configuration with graph neural networks**|Romeo Valentin et.al.|[2202.04910v1](http://arxiv.org/abs/2202.04910v1)|**[link](https://github.com/romeov/ml4co-competition)**|
 |**2022-02-10**|**Survey on Graph Neural Network Acceleration: An Algorithmic Perspective**|Xin Liu et.al.|[2202.04822v1](http://arxiv.org/abs/2202.04822v1)|null|
-|**2022-02-08**|**Boosting Graph Neural Networks by Injecting Pooling in Message Passing**|Hyeokjin Kwon et.al.|[2202.04768v1](http://arxiv.org/abs/2202.04768v1)|null|
+|**2022-02-08**|**Boosting Graph Neural Networks by Injecting Pooling in Message Passing**|Hyeokjin Kwon et.al.|[2202.04768v1](http://arxiv.org/abs/2202.04768v1)|**[link](https://github.com/hookhy/bi-mp)**|
 |**2022-02-09**|**Graph Neural Network for Cell Tracking in Microscopy Videos**|Tal Ben-Haim et.al.|[2202.04731v1](http://arxiv.org/abs/2202.04731v1)|null|
 |**2022-02-09**|**Neural Sheaf Diffusion: A Topological Perspective on Heterophily and Oversmoothing in GNNs**|Cristian Bodnar et.al.|[2202.04579v1](http://arxiv.org/abs/2202.04579v1)|null|
 |**2022-02-09**|**A Multimodal Canonical-Correlated Graph Neural Network for Energy-Efficient Speech Enhancement**|Leandro Aparecido Passos et.al.|[2202.04528v1](http://arxiv.org/abs/2202.04528v1)|null|
