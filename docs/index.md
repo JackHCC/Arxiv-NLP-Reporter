@@ -8,6 +8,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-02-11**|**Using Random Perturbations to Mitigate Adversarial Attacks on Sentiment Analysis Models**|Abigail Swenor et.al.|[2202.05758v1](http://arxiv.org/abs/2202.05758v1)|null|
+|**2022-02-11**|**GenderedNews: Une approche computationnelle des écarts de représentation des genres dans la presse française**|Ange Richard et.al.|[2202.05682v1](http://arxiv.org/abs/2202.05682v1)|null|
+|**2022-02-11**|**Hindi/Bengali Sentiment Analysis Using Transfer Learning and Joint Dual Input Learning with Self Attention**|Shahrukh Khan et.al.|[2202.05457v1](http://arxiv.org/abs/2202.05457v1)|null|
 |**2022-02-08**|**Efficacy of Transformer Networks for Classification of Raw EEG Data**|Gourav Siddhad et.al.|[2202.05170v1](http://arxiv.org/abs/2202.05170v1)|null|
 |**2022-02-10**|**Natural Language in Requirements Engineering for Structure Inference -- An Integrative Review**|Maximilian Vierlboeck et.al.|[2202.05065v1](http://arxiv.org/abs/2202.05065v1)|null|
 |**2022-02-10**|**A Survey on Artificial Intelligence for Source Code: A Dialogue Systems Perspective**|Erfan Al-Hossami et.al.|[2202.04847v1](http://arxiv.org/abs/2202.04847v1)|null|
@@ -149,6 +152,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-02-11**|**Predicting Out-of-Distribution Error with the Projection Norm**|Yaodong Yu et.al.|[2202.05834v1](http://arxiv.org/abs/2202.05834v1)|**[link](https://github.com/yaodongyu/projnorm)**|
+|**2022-02-11**|**Cross Domain Few-Shot Learning via Meta Adversarial Training**|Jirui Qi et.al.|[2202.05713v1](http://arxiv.org/abs/2202.05713v1)|null|
+|**2022-02-11**|**Cyclical Curriculum Learning**|H. Toprak Kesgin et.al.|[2202.05531v1](http://arxiv.org/abs/2202.05531v1)|**[link](https://github.com/cyclicalcurriculum/cyclical-curriculum)**|
 |**2022-02-10**|**Case-based reasoning for rare events prediction on strategic sites**|Vincent Vidal et.al.|[2202.04891v1](http://arxiv.org/abs/2202.04891v1)|null|
 |**2022-02-10**|**Multi-relation Message Passing for Multi-label Text Classification**|Muberra Ozmen et.al.|[2202.04844v1](http://arxiv.org/abs/2202.04844v1)|**[link](https://github.com/muberraozmen/mrmp)**|
 |**2022-02-10**|**AdaPrompt: Adaptive Model Training for Prompt-based NLP**|Yulong Chen et.al.|[2202.04824v1](http://arxiv.org/abs/2202.04824v1)|null|
@@ -201,6 +207,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-02-11**|**Using Random Perturbations to Mitigate Adversarial Attacks on Sentiment Analysis Models**|Abigail Swenor et.al.|[2202.05758v1](http://arxiv.org/abs/2202.05758v1)|null|
+|**2022-02-11**|**Hindi/Bengali Sentiment Analysis Using Transfer Learning and Joint Dual Input Learning with Self Attention**|Shahrukh Khan et.al.|[2202.05457v1](http://arxiv.org/abs/2202.05457v1)|null|
 |**2022-02-07**|**Gender stereotypes in the mediated personalization of politics: Empirical evidence from a lexical, syntactic and sentiment analysis**|Emanuele Brugnoli et.al.|[2202.03083v1](http://arxiv.org/abs/2202.03083v1)|null|
 |**2022-02-05**|**Aspect-based Sentiment Analysis through EDU-level Attentions**|Ting Lin et.al.|[2202.02535v1](http://arxiv.org/abs/2202.02535v1)|null|
 |**2022-02-08**|**Zero-Shot Aspect-Based Sentiment Analysis**|Lei Shu et.al.|[2202.01924v2](http://arxiv.org/abs/2202.01924v2)|null|
@@ -306,6 +314,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-02-11**|**Privacy-preserving Generative Framework Against Membership Inference Attacks**|Ruikang Yang et.al.|[2202.05469v1](http://arxiv.org/abs/2202.05469v1)|null|
 |**2022-02-11**|**Towards the automated large-scale reconstruction of past road networks from historical maps**|Johannes H. Uhl et.al.|[2202.04883v2](http://arxiv.org/abs/2202.04883v2)|null|
 |**2022-02-09**|**Semantic Segmentation of Anaemic RBCs Using Multilevel Deep Convolutional Encoder-Decoder Network**|Muhammad Shahzad et.al.|[2202.04650v1](http://arxiv.org/abs/2202.04650v1)|null|
 |**2022-02-09**|**Nuclear Spectroscopy with Heavy Ion Nucleon Knockout and (p,2p) Reactions**|Jianguo Li et.al.|[2202.04354v1](http://arxiv.org/abs/2202.04354v1)|null|
@@ -347,6 +356,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-02-11**|**Choices, Risks, and Reward Reports: Charting Public Policy for Reinforcement Learning Systems**|Thomas Krendl Gilbert et.al.|[2202.05716v1](http://arxiv.org/abs/2202.05716v1)|null|
+|**2022-02-11**|**NEAT: A Label Noise-resistant Complementary Item Recommender System with Trustworthy Evaluation**|Luyi Ma et.al.|[2202.05456v1](http://arxiv.org/abs/2202.05456v1)|null|
 |**2022-02-10**|**FedAttack: Effective and Covert Poisoning Attack on Federated Recommendation via Hard Sampling**|Chuhan Wu et.al.|[2202.04975v1](http://arxiv.org/abs/2202.04975v1)|null|
 |**2022-02-10**|**Collaborative Filtering with Attribution Alignment for Review-based Non-overlapped Cross Domain Recommendation**|Weiming Liu et.al.|[2202.04920v1](http://arxiv.org/abs/2202.04920v1)|null|
 |**2022-02-10**|**Differential Private Knowledge Transfer for Privacy-Preserving Cross-Domain Recommendation**|Chaochao Chen et.al.|[2202.04893v1](http://arxiv.org/abs/2202.04893v1)|null|
@@ -431,6 +442,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-02-11**|**Multi-Modal Knowledge Graph Construction and Application: A Survey**|Xiangru Zhu et.al.|[2202.05786v1](http://arxiv.org/abs/2202.05786v1)|null|
+|**2022-02-08**|**Rethinking Graph Convolutional Networks in Knowledge Graph Completion**|Zhanqiu Zhang et.al.|[2202.05679v1](http://arxiv.org/abs/2202.05679v1)|null|
+|**2022-02-11**|**TwHIN: Embedding the Twitter Heterogeneous Information Network for Personalized Recommendation**|Ahmed El-Kishky et.al.|[2202.05387v1](http://arxiv.org/abs/2202.05387v1)|null|
 |**2022-02-10**|**Complexity of Arithmetic in Warded Datalog+-**|Lucas Berent et.al.|[2202.05086v1](http://arxiv.org/abs/2202.05086v1)|null|
 |**2022-02-10**|**InterHT: Knowledge Graph Embeddings by Interaction between Head and Tail Entities**|Baoxin Wang et.al.|[2202.04897v1](http://arxiv.org/abs/2202.04897v1)|null|
 |**2022-02-08**|**Computing Rule-Based Explanations of Machine Learning Classifiers using Knowledge Graphs**|Edmund Dervakos et.al.|[2202.03971v1](http://arxiv.org/abs/2202.03971v1)|null|
@@ -488,6 +502,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-02-11**|**From Unsupervised to Few-shot Graph Anomaly Detection: A Multi-scale Contrastive Learning Approach**|Yu Zheng et.al.|[2202.05525v1](http://arxiv.org/abs/2202.05525v1)|null|
+|**2022-02-10**|**Factored World Models for Zero-Shot Generalization in Robotic Manipulation**|Ondrej Biza et.al.|[2202.05333v1](http://arxiv.org/abs/2202.05333v1)|null|
 |**2022-02-10**|**Graph Neural Network for Local Corruption Recovery**|Bingxin Zhou et.al.|[2202.04936v1](http://arxiv.org/abs/2202.04936v1)|**[link](https://github.com/bzho3923/magnet)**|
 |**2022-02-10**|**Instance-wise algorithm configuration with graph neural networks**|Romeo Valentin et.al.|[2202.04910v1](http://arxiv.org/abs/2202.04910v1)|**[link](https://github.com/romeov/ml4co-competition)**|
 |**2022-02-10**|**Survey on Graph Neural Network Acceleration: An Algorithmic Perspective**|Xin Liu et.al.|[2202.04822v1](http://arxiv.org/abs/2202.04822v1)|null|
