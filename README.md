@@ -1,9 +1,15 @@
-## Updated on 2022.02.14
+## Updated on 2022.02.15
 
 ## NLP
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-02-14**|**Threats to Pre-trained Language Models: Survey and Taxonomy**|Shangwei Guo et.al.|[2202.06862v1](http://arxiv.org/abs/2202.06862v1)|null|
+|**2022-02-14**|**Aspect Based Sentiment Analysis Using Spectral Temporal Graph Neural Network**|Abir Chakraborty et.al.|[2202.06776v1](http://arxiv.org/abs/2202.06776v1)|null|
+|**2022-02-14**|**I-Tuning: Tuning Language Models with Image for Caption Generation**|Ziyang Luo et.al.|[2202.06574v1](http://arxiv.org/abs/2202.06574v1)|null|
+|**2022-02-13**|**A Contrastive Framework for Neural Text Generation**|Yixuan Su et.al.|[2202.06417v1](http://arxiv.org/abs/2202.06417v1)|null|
+|**2022-02-13**|**Emotion Based Hate Speech Detection using Multimodal Learning**|Aneri Rana et.al.|[2202.06218v1](http://arxiv.org/abs/2202.06218v1)|null|
+|**2022-02-12**|**Automatic Issue Classifier: A Transfer Learning Framework for Classifying Issue Reports**|Anas Nadeem et.al.|[2202.06149v1](http://arxiv.org/abs/2202.06149v1)|**[link](https://github.com/ansnadeem/aic)**|
 |**2022-02-11**|**Using Random Perturbations to Mitigate Adversarial Attacks on Sentiment Analysis Models**|Abigail Swenor et.al.|[2202.05758v1](http://arxiv.org/abs/2202.05758v1)|null|
 |**2022-02-11**|**GenderedNews: Une approche computationnelle des écarts de représentation des genres dans la presse française**|Ange Richard et.al.|[2202.05682v1](http://arxiv.org/abs/2202.05682v1)|null|
 |**2022-02-11**|**Hindi/Bengali Sentiment Analysis Using Transfer Learning and Joint Dual Input Learning with Self Attention**|Shahrukh Khan et.al.|[2202.05457v1](http://arxiv.org/abs/2202.05457v1)|null|
@@ -126,7 +132,7 @@
 |**2022-02-08**|**A two-step approach to leverage contextual data: speech recognition in air-traffic communications**|Iuliia Nigmatulina et.al.|[2202.03725v1](http://arxiv.org/abs/2202.03725v1)|null|
 |**2022-02-05**|**Adaptive Fine-Tuning of Transformer-Based Language Models for Named Entity Recognition**|Felix Stollenwerk et.al.|[2202.02617v1](http://arxiv.org/abs/2202.02617v1)|**[link](https://github.com/flxst/nerblackbox)**|
 |**2022-01-29**|**A Simple Information-Based Approach to Unsupervised Domain-Adaptive Aspect-Based Sentiment Analysis**|Xiang Chen et.al.|[2201.12549v1](http://arxiv.org/abs/2201.12549v1)|**[link](https://github.com/casparswift/da_mim)**|
-|**2022-01-27**|**Clinical-Longformer and Clinical-BigBird: Transformers for long clinical sequences**|Yikuan Li et.al.|[2201.11838v1](http://arxiv.org/abs/2201.11838v1)|null|
+|**2022-02-12**|**Clinical-Longformer and Clinical-BigBird: Transformers for long clinical sequences**|Yikuan Li et.al.|[2201.11838v2](http://arxiv.org/abs/2201.11838v2)|**[link](https://github.com/luoyuanlab/clinical-longformer)**|
 |**2022-01-25**|**Distantly supervised end-to-end medical entity extraction from electronic health records with human-level quality**|Alexander Nesterov et.al.|[2201.10463v1](http://arxiv.org/abs/2201.10463v1)|null|
 |**2022-01-24**|**Razmecheno: Named Entity Recognition from Digital Archive of Diaries "Prozhito"**|Timofey Atnashev et.al.|[2201.09997v1](http://arxiv.org/abs/2201.09997v1)|null|
 |**2022-01-24**|**BTPK-based learning: An Interpretable Method for Named Entity Recognition**|Yulin Chen et.al.|[2201.09523v1](http://arxiv.org/abs/2201.09523v1)|null|
@@ -148,6 +154,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-02-14**|**HyLa: Hyperbolic Laplacian Features For Graph Learning**|Tao Yu et.al.|[2202.06854v1](http://arxiv.org/abs/2202.06854v1)|null|
+|**2022-02-10**|**Development and Comparison of Scoring Functions in Curriculum Learning**|H. Toprak Kesgin et.al.|[2202.06823v1](http://arxiv.org/abs/2202.06823v1)|null|
+|**2022-02-13**|**Incremental user embedding modeling for personalized text classification**|Ruixue Lian et.al.|[2202.06369v1](http://arxiv.org/abs/2202.06369v1)|null|
+|**2022-02-12**|**Ultra-fine Entity Typing with Indirect Supervision from Natural Language Inference**|Bangzheng Li et.al.|[2202.06167v1](http://arxiv.org/abs/2202.06167v1)|null|
+|**2022-02-11**|**Metadata-Induced Contrastive Learning for Zero-Shot Multi-Label Text Classification**|Yu Zhang et.al.|[2202.05932v1](http://arxiv.org/abs/2202.05932v1)|**[link](https://github.com/yuzhimanhua/micol)**|
 |**2022-02-11**|**Predicting Out-of-Distribution Error with the Projection Norm**|Yaodong Yu et.al.|[2202.05834v1](http://arxiv.org/abs/2202.05834v1)|**[link](https://github.com/yaodongyu/projnorm)**|
 |**2022-02-11**|**Cross Domain Few-Shot Learning via Meta Adversarial Training**|Jirui Qi et.al.|[2202.05713v1](http://arxiv.org/abs/2202.05713v1)|null|
 |**2022-02-11**|**Cyclical Curriculum Learning**|H. Toprak Kesgin et.al.|[2202.05531v1](http://arxiv.org/abs/2202.05531v1)|**[link](https://github.com/cyclicalcurriculum/cyclical-curriculum)**|
@@ -203,6 +214,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-02-14**|**Aspect Based Sentiment Analysis Using Spectral Temporal Graph Neural Network**|Abir Chakraborty et.al.|[2202.06776v1](http://arxiv.org/abs/2202.06776v1)|null|
 |**2022-02-11**|**Using Random Perturbations to Mitigate Adversarial Attacks on Sentiment Analysis Models**|Abigail Swenor et.al.|[2202.05758v1](http://arxiv.org/abs/2202.05758v1)|null|
 |**2022-02-11**|**Hindi/Bengali Sentiment Analysis Using Transfer Learning and Joint Dual Input Learning with Self Attention**|Shahrukh Khan et.al.|[2202.05457v1](http://arxiv.org/abs/2202.05457v1)|null|
 |**2022-02-07**|**Gender stereotypes in the mediated personalization of politics: Empirical evidence from a lexical, syntactic and sentiment analysis**|Emanuele Brugnoli et.al.|[2202.03083v1](http://arxiv.org/abs/2202.03083v1)|null|
@@ -240,6 +252,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-02-14**|**An experimental study of the vision-bottleneck in VQA**|Pierre Marza et.al.|[2202.06858v1](http://arxiv.org/abs/2202.06858v1)|null|
+|**2022-02-14**|**Partially Fake Audio Detection by Self-attention-based Fake Span discovery**|Haibin Wu et.al.|[2202.06684v1](http://arxiv.org/abs/2202.06684v1)|null|
+|**2022-02-14**|**QA4QG: Using Question Answering to Constrain Multi-Hop Question Generation**|Dan Su et.al.|[2202.06538v1](http://arxiv.org/abs/2202.06538v1)|null|
+|**2022-02-13**|**On the Relationship between Shy and Warded Datalog+/-**|Teodoro Baldazzi et.al.|[2202.06285v1](http://arxiv.org/abs/2202.06285v1)|null|
+|**2022-02-13**|**PQuAD: A Persian Question Answering Dataset**|Kasra Darvishi et.al.|[2202.06219v1](http://arxiv.org/abs/2202.06219v1)|**[link](https://github.com/sajjjadayobi/PersianQA)**|
+|**2022-02-12**|**Recognition-free Question Answering on Handwritten Document Collections**|Oliver Tüselmann et.al.|[2202.06080v1](http://arxiv.org/abs/2202.06080v1)|null|
 |**2022-02-09**|**FedQAS: Privacy-aware machine reading comprehension with federated learning**|Addi Ait-Mlouk et.al.|[2202.04742v1](http://arxiv.org/abs/2202.04742v1)|**[link](https://github.com/aitmlouk/fedn-client-fedqas-tf)**|
 |**2022-02-09**|**Can Open Domain Question Answering Systems Answer Visual Knowledge Questions?**|Jiawen Zhang et.al.|[2202.04306v1](http://arxiv.org/abs/2202.04306v1)|null|
 |**2022-02-08**|**Integrating question answering and text-to-SQL in Portuguese**|Marcos Menon José et.al.|[2202.04048v1](http://arxiv.org/abs/2202.04048v1)|null|
@@ -310,6 +328,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-02-12**|**Semi-supervised New Event Type Induction and Description via Contrastive Loss-Enforced Batch Attention**|Carl Edwards et.al.|[2202.05943v1](http://arxiv.org/abs/2202.05943v1)|null|
 |**2022-02-11**|**Privacy-preserving Generative Framework Against Membership Inference Attacks**|Ruikang Yang et.al.|[2202.05469v1](http://arxiv.org/abs/2202.05469v1)|null|
 |**2022-02-11**|**Towards the automated large-scale reconstruction of past road networks from historical maps**|Johannes H. Uhl et.al.|[2202.04883v2](http://arxiv.org/abs/2202.04883v2)|null|
 |**2022-02-09**|**Semantic Segmentation of Anaemic RBCs Using Multilevel Deep Convolutional Encoder-Decoder Network**|Muhammad Shahzad et.al.|[2202.04650v1](http://arxiv.org/abs/2202.04650v1)|null|
@@ -352,6 +371,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-02-14**|**UA-FedRec: Untargeted Attack on Federated News Recommendation**|Jingwei Yi et.al.|[2202.06701v1](http://arxiv.org/abs/2202.06701v1)|null|
+|**2022-02-14**|**Neural Re-ranking in Multi-stage Recommender Systems: A Review**|Weiwen Liu et.al.|[2202.06602v1](http://arxiv.org/abs/2202.06602v1)|**[link](https://github.com/librerank-community/librerank)**|
+|**2022-02-14**|**Semantic Matching from Different Perspectives**|Weijie Liu et.al.|[2202.06517v1](http://arxiv.org/abs/2202.06517v1)|**[link](https://github.com/autoliuweijie/mpts)**|
+|**2022-02-14**|**Real World Large Scale Recommendation Systems Reproducibility and Smooth Activations**|Gil I. Shamir et.al.|[2202.06499v1](http://arxiv.org/abs/2202.06499v1)|null|
+|**2022-02-14**|**Measuring "Why" in Recommender Systems: a Comprehensive Survey on the Evaluation of Explainable Recommendation**|Xu Chen et.al.|[2202.06466v1](http://arxiv.org/abs/2202.06466v1)|null|
+|**2022-02-13**|**Incremental user embedding modeling for personalized text classification**|Ruixue Lian et.al.|[2202.06369v1](http://arxiv.org/abs/2202.06369v1)|null|
+|**2022-02-13**|**Off-Policy Evaluation for Large Action Spaces via Embeddings**|Yuta Saito et.al.|[2202.06317v1](http://arxiv.org/abs/2202.06317v1)|null|
+|**2022-02-13**|**A Tech Hybrid-Recommendation Engine and Personalized Notification: An integrated tool to assist users through Recommendations (Project ATHENA)**|Lordjette Leigh M. Lecaros et.al.|[2202.06248v1](http://arxiv.org/abs/2202.06248v1)|null|
+|**2022-02-13**|**StoryBuddy: A Human-AI Collaborative Chatbot for Parent-Child Interactive Storytelling with Flexible Parental Involvement**|Zheng Zhang et.al.|[2202.06205v1](http://arxiv.org/abs/2202.06205v1)|null|
 |**2022-02-11**|**Choices, Risks, and Reward Reports: Charting Public Policy for Reinforcement Learning Systems**|Thomas Krendl Gilbert et.al.|[2202.05716v1](http://arxiv.org/abs/2202.05716v1)|null|
 |**2022-02-11**|**NEAT: A Label Noise-resistant Complementary Item Recommender System with Trustworthy Evaluation**|Luyi Ma et.al.|[2202.05456v1](http://arxiv.org/abs/2202.05456v1)|null|
 |**2022-02-10**|**FedAttack: Effective and Covert Poisoning Attack on Federated Recommendation via Hard Sampling**|Chuhan Wu et.al.|[2202.04975v1](http://arxiv.org/abs/2202.04975v1)|null|
@@ -438,8 +466,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-02-13**|**On the Relationship between Shy and Warded Datalog+/-**|Teodoro Baldazzi et.al.|[2202.06285v1](http://arxiv.org/abs/2202.06285v1)|null|
 |**2022-02-11**|**Multi-Modal Knowledge Graph Construction and Application: A Survey**|Xiangru Zhu et.al.|[2202.05786v1](http://arxiv.org/abs/2202.05786v1)|null|
-|**2022-02-08**|**Rethinking Graph Convolutional Networks in Knowledge Graph Completion**|Zhanqiu Zhang et.al.|[2202.05679v1](http://arxiv.org/abs/2202.05679v1)|null|
+|**2022-02-08**|**Rethinking Graph Convolutional Networks in Knowledge Graph Completion**|Zhanqiu Zhang et.al.|[2202.05679v1](http://arxiv.org/abs/2202.05679v1)|**[link](https://github.com/miralab-ustc/gcn4kgc)**|
 |**2022-02-11**|**TwHIN: Embedding the Twitter Heterogeneous Information Network for Personalized Recommendation**|Ahmed El-Kishky et.al.|[2202.05387v1](http://arxiv.org/abs/2202.05387v1)|null|
 |**2022-02-10**|**Complexity of Arithmetic in Warded Datalog+-**|Lucas Berent et.al.|[2202.05086v1](http://arxiv.org/abs/2202.05086v1)|null|
 |**2022-02-10**|**InterHT: Knowledge Graph Embeddings by Interaction between Head and Tail Entities**|Baoxin Wang et.al.|[2202.04897v1](http://arxiv.org/abs/2202.04897v1)|null|
@@ -498,6 +527,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-02-14**|**Semi-Equivariant GNN Architectures for Jet Tagging**|Daniel Murnane et.al.|[2202.06941v1](http://arxiv.org/abs/2202.06941v1)|null|
+|**2022-02-14**|**Accelerating the Inference of the Exa.TrkX Pipeline**|Alina Lazar et.al.|[2202.06929v1](http://arxiv.org/abs/2202.06929v1)|null|
+|**2022-02-14**|**A Graphical Approach For Brain Haemorrhage Segmentation**|Dr. Ninad Mehendale et.al.|[2202.06876v1](http://arxiv.org/abs/2202.06876v1)|null|
+|**2022-02-14**|**Aspect Based Sentiment Analysis Using Spectral Temporal Graph Neural Network**|Abir Chakraborty et.al.|[2202.06776v1](http://arxiv.org/abs/2202.06776v1)|null|
+|**2022-02-14**|**Improved Aggregating and Accelerating Training Methods for Spatial Graph Neural Networks on Fraud Detection**|Yufan Zeng et.al.|[2202.06580v1](http://arxiv.org/abs/2202.06580v1)|null|
+|**2022-02-14**|**NEDMP: Neural Enhanced Dynamic Message Passing**|Fei Gao et.al.|[2202.06496v1](http://arxiv.org/abs/2202.06496v1)|null|
+|**2022-02-13**|**Geometric deep learning reveals the spatiotemporal fingerprint of microscopic motion**|Jesús Pineda et.al.|[2202.06355v1](http://arxiv.org/abs/2202.06355v1)|null|
+|**2022-02-13**|**Learning Asymmetric Embedding for Attributed Networks via Convolutional Neural Network**|Mohammadreza Radmanesh et.al.|[2202.06307v1](http://arxiv.org/abs/2202.06307v1)|null|
+|**2022-02-13**|**Graph-adaptive Rectified Linear Unit for Graph Neural Networks**|Yifei Zhang et.al.|[2202.06281v1](http://arxiv.org/abs/2202.06281v1)|null|
+|**2022-02-13**|**Fine-Grained Population Mobility Data-Based Community-Level COVID-19 Prediction Model**|Pengyue Jia et.al.|[2202.06257v1](http://arxiv.org/abs/2202.06257v1)|**[link](https://github.com/Jia-py/FGC-COVID)**|
 |**2022-02-11**|**From Unsupervised to Few-shot Graph Anomaly Detection: A Multi-scale Contrastive Learning Approach**|Yu Zheng et.al.|[2202.05525v1](http://arxiv.org/abs/2202.05525v1)|null|
 |**2022-02-10**|**Factored World Models for Zero-Shot Generalization in Robotic Manipulation**|Ondrej Biza et.al.|[2202.05333v1](http://arxiv.org/abs/2202.05333v1)|null|
 |**2022-02-10**|**Graph Neural Network for Local Corruption Recovery**|Bingxin Zhou et.al.|[2202.04936v1](http://arxiv.org/abs/2202.04936v1)|**[link](https://github.com/bzho3923/magnet)**|
