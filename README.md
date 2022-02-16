@@ -1,4 +1,4 @@
-## Updated on 2022.02.15
+## Updated on 2022.02.16
 
 ## NLP
 
@@ -7,12 +7,12 @@
 |**2022-02-14**|**Threats to Pre-trained Language Models: Survey and Taxonomy**|Shangwei Guo et.al.|[2202.06862v1](http://arxiv.org/abs/2202.06862v1)|null|
 |**2022-02-14**|**Aspect Based Sentiment Analysis Using Spectral Temporal Graph Neural Network**|Abir Chakraborty et.al.|[2202.06776v1](http://arxiv.org/abs/2202.06776v1)|null|
 |**2022-02-14**|**I-Tuning: Tuning Language Models with Image for Caption Generation**|Ziyang Luo et.al.|[2202.06574v1](http://arxiv.org/abs/2202.06574v1)|null|
-|**2022-02-13**|**A Contrastive Framework for Neural Text Generation**|Yixuan Su et.al.|[2202.06417v1](http://arxiv.org/abs/2202.06417v1)|null|
+|**2022-02-13**|**A Contrastive Framework for Neural Text Generation**|Yixuan Su et.al.|[2202.06417v1](http://arxiv.org/abs/2202.06417v1)|**[link](https://github.com/yxuansu/simctg)**|
 |**2022-02-13**|**Emotion Based Hate Speech Detection using Multimodal Learning**|Aneri Rana et.al.|[2202.06218v1](http://arxiv.org/abs/2202.06218v1)|null|
 |**2022-02-12**|**Automatic Issue Classifier: A Transfer Learning Framework for Classifying Issue Reports**|Anas Nadeem et.al.|[2202.06149v1](http://arxiv.org/abs/2202.06149v1)|**[link](https://github.com/ansnadeem/aic)**|
 |**2022-02-11**|**Using Random Perturbations to Mitigate Adversarial Attacks on Sentiment Analysis Models**|Abigail Swenor et.al.|[2202.05758v1](http://arxiv.org/abs/2202.05758v1)|null|
 |**2022-02-11**|**GenderedNews: Une approche computationnelle des écarts de représentation des genres dans la presse française**|Ange Richard et.al.|[2202.05682v1](http://arxiv.org/abs/2202.05682v1)|null|
-|**2022-02-11**|**Hindi/Bengali Sentiment Analysis Using Transfer Learning and Joint Dual Input Learning with Self Attention**|Shahrukh Khan et.al.|[2202.05457v1](http://arxiv.org/abs/2202.05457v1)|null|
+|**2022-02-11**|**Hindi/Bengali Sentiment Analysis Using Transfer Learning and Joint Dual Input Learning with Self Attention**|Shahrukh Khan et.al.|[2202.05457v1](http://arxiv.org/abs/2202.05457v1)|**[link](https://github.com/shahrukhx01/nnti_hindi_bengali_sentiment_analysis/tree/main/src)**|
 |**2022-02-08**|**Efficacy of Transformer Networks for Classification of Raw EEG Data**|Gourav Siddhad et.al.|[2202.05170v1](http://arxiv.org/abs/2202.05170v1)|null|
 |**2022-02-10**|**Natural Language in Requirements Engineering for Structure Inference -- An Integrative Review**|Maximilian Vierlboeck et.al.|[2202.05065v1](http://arxiv.org/abs/2202.05065v1)|null|
 |**2022-02-10**|**A Survey on Artificial Intelligence for Source Code: A Dialogue Systems Perspective**|Erfan Al-Hossami et.al.|[2202.04847v1](http://arxiv.org/abs/2202.04847v1)|null|
@@ -216,7 +216,7 @@
 |---|---|---|---|---|
 |**2022-02-14**|**Aspect Based Sentiment Analysis Using Spectral Temporal Graph Neural Network**|Abir Chakraborty et.al.|[2202.06776v1](http://arxiv.org/abs/2202.06776v1)|null|
 |**2022-02-11**|**Using Random Perturbations to Mitigate Adversarial Attacks on Sentiment Analysis Models**|Abigail Swenor et.al.|[2202.05758v1](http://arxiv.org/abs/2202.05758v1)|null|
-|**2022-02-11**|**Hindi/Bengali Sentiment Analysis Using Transfer Learning and Joint Dual Input Learning with Self Attention**|Shahrukh Khan et.al.|[2202.05457v1](http://arxiv.org/abs/2202.05457v1)|null|
+|**2022-02-11**|**Hindi/Bengali Sentiment Analysis Using Transfer Learning and Joint Dual Input Learning with Self Attention**|Shahrukh Khan et.al.|[2202.05457v1](http://arxiv.org/abs/2202.05457v1)|**[link](https://github.com/shahrukhx01/nnti_hindi_bengali_sentiment_analysis/tree/main/src)**|
 |**2022-02-07**|**Gender stereotypes in the mediated personalization of politics: Empirical evidence from a lexical, syntactic and sentiment analysis**|Emanuele Brugnoli et.al.|[2202.03083v1](http://arxiv.org/abs/2202.03083v1)|null|
 |**2022-02-05**|**Aspect-based Sentiment Analysis through EDU-level Attentions**|Ting Lin et.al.|[2202.02535v1](http://arxiv.org/abs/2202.02535v1)|null|
 |**2022-02-08**|**Zero-Shot Aspect-Based Sentiment Analysis**|Lei Shu et.al.|[2202.01924v2](http://arxiv.org/abs/2202.01924v2)|null|
@@ -371,7 +371,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2022-02-14**|**UA-FedRec: Untargeted Attack on Federated News Recommendation**|Jingwei Yi et.al.|[2202.06701v1](http://arxiv.org/abs/2202.06701v1)|null|
+|**2022-02-14**|**UA-FedRec: Untargeted Attack on Federated News Recommendation**|Jingwei Yi et.al.|[2202.06701v1](http://arxiv.org/abs/2202.06701v1)|**[link](https://github.com/yjw1029/ua-fedrec)**|
 |**2022-02-14**|**Neural Re-ranking in Multi-stage Recommender Systems: A Review**|Weiwen Liu et.al.|[2202.06602v1](http://arxiv.org/abs/2202.06602v1)|**[link](https://github.com/librerank-community/librerank)**|
 |**2022-02-14**|**Semantic Matching from Different Perspectives**|Weijie Liu et.al.|[2202.06517v1](http://arxiv.org/abs/2202.06517v1)|**[link](https://github.com/autoliuweijie/mpts)**|
 |**2022-02-14**|**Real World Large Scale Recommendation Systems Reproducibility and Smooth Activations**|Gil I. Shamir et.al.|[2202.06499v1](http://arxiv.org/abs/2202.06499v1)|null|
