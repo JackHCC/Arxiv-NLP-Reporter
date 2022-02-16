@@ -8,6 +8,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-02-15**|**Conformal Prediction Sets with Limited False Positives**|Adam Fisch et.al.|[2202.07650v1](http://arxiv.org/abs/2202.07650v1)|**[link](https://github.com/ajfisch/conformal-fp)**|
+|**2022-02-15**|**NewsPod: Automatic and Interactive News Podcasts**|Philippe Laban et.al.|[2202.07146v1](http://arxiv.org/abs/2202.07146v1)|null|
+|**2022-02-15**|**Integrating AI Planning with Natural Language Processing: A Combination of Explicit and Tacit Knowledge**|Kebing Jin et.al.|[2202.07138v1](http://arxiv.org/abs/2202.07138v1)|null|
+|**2022-02-15**|**Transformers in Time Series: A Survey**|Qingsong Wen et.al.|[2202.07125v1](http://arxiv.org/abs/2202.07125v1)|null|
+|**2022-02-15**|**A Survey on Model Compression for Natural Language Processing**|Canwen Xu et.al.|[2202.07105v1](http://arxiv.org/abs/2202.07105v1)|null|
+|**2022-02-15**|**A Survey on Dynamic Neural Networks for Natural Language Processing**|Canwen Xu et.al.|[2202.07101v1](http://arxiv.org/abs/2202.07101v1)|null|
+|**2022-02-14**|**Handcrafted Histological Transformer (H2T): Unsupervised Representation of Whole Slide Images**|Quoc Dang Vu et.al.|[2202.07001v1](http://arxiv.org/abs/2202.07001v1)|null|
 |**2022-02-14**|**Threats to Pre-trained Language Models: Survey and Taxonomy**|Shangwei Guo et.al.|[2202.06862v1](http://arxiv.org/abs/2202.06862v1)|null|
 |**2022-02-14**|**Aspect Based Sentiment Analysis Using Spectral Temporal Graph Neural Network**|Abir Chakraborty et.al.|[2202.06776v1](http://arxiv.org/abs/2202.06776v1)|null|
 |**2022-02-14**|**I-Tuning: Tuning Language Models with Image for Caption Generation**|Ziyang Luo et.al.|[2202.06574v1](http://arxiv.org/abs/2202.06574v1)|null|
@@ -133,6 +140,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-02-15**|**Towards Effective Multi-Task Interaction for Entity-Relation Extraction: A Unified Framework with Selection Recurrent Network**|An Wang et.al.|[2202.07281v1](http://arxiv.org/abs/2202.07281v1)|null|
 |**2022-02-08**|**A two-step approach to leverage contextual data: speech recognition in air-traffic communications**|Iuliia Nigmatulina et.al.|[2202.03725v1](http://arxiv.org/abs/2202.03725v1)|null|
 |**2022-02-05**|**Adaptive Fine-Tuning of Transformer-Based Language Models for Named Entity Recognition**|Felix Stollenwerk et.al.|[2202.02617v1](http://arxiv.org/abs/2202.02617v1)|**[link](https://github.com/flxst/nerblackbox)**|
 |**2022-01-29**|**A Simple Information-Based Approach to Unsupervised Domain-Adaptive Aspect-Based Sentiment Analysis**|Xiang Chen et.al.|[2201.12549v1](http://arxiv.org/abs/2201.12549v1)|**[link](https://github.com/casparswift/da_mim)**|
@@ -256,6 +264,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-02-15**|**Tomayto, Tomahto. Beyond Token-level Answer Equivalence for Question Answering Evaluation**|Jannis Bulian et.al.|[2202.07654v1](http://arxiv.org/abs/2202.07654v1)|**[link](https://github.com/google-research-datasets/answer-equivalence-dataset)**|
+|**2022-02-15**|**Delving Deeper into Cross-lingual Visual Question Answering**|Chen Liu et.al.|[2202.07630v1](http://arxiv.org/abs/2202.07630v1)|null|
+|**2022-02-15**|**Saving Dense Retriever from Shortcut Dependency in Conversational Search**|Sungdong Kim et.al.|[2202.07280v1](http://arxiv.org/abs/2202.07280v1)|null|
+|**2022-02-15**|**Case law retrieval: problems, methods, challenges and evaluations in the last 20 years**|Daniel Locke et.al.|[2202.07209v1](http://arxiv.org/abs/2202.07209v1)|null|
+|**2022-02-15**|**Effective spin models of Kerr-nonlinear parametric oscillators for quantum annealing**|Ryoji Miyazaki et.al.|[2202.07160v1](http://arxiv.org/abs/2202.07160v1)|null|
 |**2022-02-14**|**An experimental study of the vision-bottleneck in VQA**|Pierre Marza et.al.|[2202.06858v1](http://arxiv.org/abs/2202.06858v1)|null|
 |**2022-02-15**|**Partially Fake Audio Detection by Self-attention-based Fake Span Discovery**|Haibin Wu et.al.|[2202.06684v2](http://arxiv.org/abs/2202.06684v2)|null|
 |**2022-02-14**|**QA4QG: Using Question Answering to Constrain Multi-Hop Question Generation**|Dan Su et.al.|[2202.06538v1](http://arxiv.org/abs/2202.06538v1)|null|
@@ -332,6 +345,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-02-15**|**PILED: An Identify-and-Localize Framework for Few-Shot Event Detection**|Sha Li et.al.|[2202.07615v1](http://arxiv.org/abs/2202.07615v1)|null|
+|**2022-02-14**|**Introducing the ICBe Dataset: Very High Recall and Precision Event Extraction from Narratives about International Crises**|Rex W. Douglass et.al.|[2202.07081v1](http://arxiv.org/abs/2202.07081v1)|null|
 |**2022-02-12**|**Semi-supervised New Event Type Induction and Description via Contrastive Loss-Enforced Batch Attention**|Carl Edwards et.al.|[2202.05943v1](http://arxiv.org/abs/2202.05943v1)|null|
 |**2022-02-11**|**Privacy-preserving Generative Framework Against Membership Inference Attacks**|Ruikang Yang et.al.|[2202.05469v1](http://arxiv.org/abs/2202.05469v1)|null|
 |**2022-02-11**|**Towards the automated large-scale reconstruction of past road networks from historical maps**|Johannes H. Uhl et.al.|[2202.04883v2](http://arxiv.org/abs/2202.04883v2)|null|
@@ -375,6 +390,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-02-15**|**Personalized Prompt Learning for Explainable Recommendation**|Lei Li et.al.|[2202.07371v1](http://arxiv.org/abs/2202.07371v1)|null|
+|**2022-02-15**|**Case law retrieval: problems, methods, challenges and evaluations in the last 20 years**|Daniel Locke et.al.|[2202.07209v1](http://arxiv.org/abs/2202.07209v1)|null|
 |**2022-02-14**|**UA-FedRec: Untargeted Attack on Federated News Recommendation**|Jingwei Yi et.al.|[2202.06701v1](http://arxiv.org/abs/2202.06701v1)|**[link](https://github.com/yjw1029/ua-fedrec)**|
 |**2022-02-14**|**Neural Re-ranking in Multi-stage Recommender Systems: A Review**|Weiwen Liu et.al.|[2202.06602v1](http://arxiv.org/abs/2202.06602v1)|**[link](https://github.com/librerank-community/librerank)**|
 |**2022-02-14**|**Semantic Matching from Different Perspectives**|Weijie Liu et.al.|[2202.06517v1](http://arxiv.org/abs/2202.06517v1)|**[link](https://github.com/autoliuweijie/mpts)**|
@@ -470,6 +487,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-02-15**|**EvoKG: Jointly Modeling Event Time and Network Structure for Reasoning over Temporal Knowledge Graphs**|Namyong Park et.al.|[2202.07648v1](http://arxiv.org/abs/2202.07648v1)|null|
+|**2022-02-15**|**Knowledge Graph Reasoning with Logics and Embeddings: Survey and Perspective**|Wen Zhang et.al.|[2202.07412v1](http://arxiv.org/abs/2202.07412v1)|null|
+|**2022-02-15**|**STaR: Knowledge Graph Embedding by Scaling, Translation and Rotation**|Jiayi Li et.al.|[2202.07130v1](http://arxiv.org/abs/2202.07130v1)|null|
+|**2022-02-14**|**Learning to Discover Medicines**|Tri Minh Nguyen et.al.|[2202.07096v1](http://arxiv.org/abs/2202.07096v1)|null|
 |**2022-02-13**|**On the Relationship between Shy and Warded Datalog+/-**|Teodoro Baldazzi et.al.|[2202.06285v1](http://arxiv.org/abs/2202.06285v1)|null|
 |**2022-02-11**|**Multi-Modal Knowledge Graph Construction and Application: A Survey**|Xiangru Zhu et.al.|[2202.05786v1](http://arxiv.org/abs/2202.05786v1)|null|
 |**2022-02-08**|**Rethinking Graph Convolutional Networks in Knowledge Graph Completion**|Zhanqiu Zhang et.al.|[2202.05679v1](http://arxiv.org/abs/2202.05679v1)|**[link](https://github.com/miralab-ustc/gcn4kgc)**|
@@ -531,6 +552,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-02-15**|**Forecasting Global Weather with Graph Neural Networks**|Ryan Keisler et.al.|[2202.07575v1](http://arxiv.org/abs/2202.07575v1)|null|
+|**2022-02-15**|**Federated Graph Neural Networks: Overview, Techniques and Challenges**|Rui Liu et.al.|[2202.07256v1](http://arxiv.org/abs/2202.07256v1)|null|
+|**2022-02-15**|**Geometrically Equivariant Graph Neural Networks: A Survey**|Jiaqi Han et.al.|[2202.07230v1](http://arxiv.org/abs/2202.07230v1)|null|
+|**2022-02-15**|**Graph Meta-Reinforcement Learning for Transferable Autonomous Mobility-on-Demand**|Daniele Gammelli et.al.|[2202.07147v1](http://arxiv.org/abs/2202.07147v1)|null|
+|**2022-02-15**|**Graph Neural Network-Based Scheduling for Multi-UAV-Enabled Communications in D2D Networks**|Pei Li et.al.|[2202.07115v1](http://arxiv.org/abs/2202.07115v1)|null|
+|**2022-02-14**|**Graph Neural Networks for Graphs with Heterophily: A Survey**|Xin Zheng et.al.|[2202.07082v1](http://arxiv.org/abs/2202.07082v1)|null|
 |**2022-02-14**|**Semi-Equivariant GNN Architectures for Jet Tagging**|Daniel Murnane et.al.|[2202.06941v1](http://arxiv.org/abs/2202.06941v1)|null|
 |**2022-02-14**|**Accelerating the Inference of the Exa.TrkX Pipeline**|Alina Lazar et.al.|[2202.06929v1](http://arxiv.org/abs/2202.06929v1)|null|
 |**2022-02-14**|**A Graphical Approach For Brain Haemorrhage Segmentation**|Dr. Ninad Mehendale et.al.|[2202.06876v1](http://arxiv.org/abs/2202.06876v1)|null|
