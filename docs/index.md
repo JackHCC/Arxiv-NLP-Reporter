@@ -223,7 +223,7 @@ layout: default
 |**2022-02-11**|**Hindi/Bengali Sentiment Analysis Using Transfer Learning and Joint Dual Input Learning with Self Attention**|Shahrukh Khan et.al.|[2202.05457v1](http://arxiv.org/abs/2202.05457v1)|**[link](https://github.com/shahrukhx01/nnti_hindi_bengali_sentiment_analysis/tree/main/src)**|
 |**2022-02-07**|**Gender stereotypes in the mediated personalization of politics: Empirical evidence from a lexical, syntactic and sentiment analysis**|Emanuele Brugnoli et.al.|[2202.03083v1](http://arxiv.org/abs/2202.03083v1)|null|
 |**2022-02-05**|**Aspect-based Sentiment Analysis through EDU-level Attentions**|Ting Lin et.al.|[2202.02535v1](http://arxiv.org/abs/2202.02535v1)|null|
-|**2022-02-08**|**Zero-Shot Aspect-Based Sentiment Analysis**|Lei Shu et.al.|[2202.01924v2](http://arxiv.org/abs/2202.01924v2)|null|
+|**2022-02-15**|**Zero-Shot Aspect-Based Sentiment Analysis**|Lei Shu et.al.|[2202.01924v3](http://arxiv.org/abs/2202.01924v3)|null|
 |**2022-02-01**|**Politics and Virality in the Time of Twitter: A Large-Scale Cross-Party Sentiment Analysis in Greece, Spain and United Kingdom**|Dimosthenis Antypas et.al.|[2202.00396v1](http://arxiv.org/abs/2202.00396v1)|**[link](https://github.com/cardiffnlp/politics-and-virality-twitter)**|
 |**2022-02-08**|**Active Learning Over Multiple Domains in Natural Language Tasks**|Shayne Longpre et.al.|[2202.00254v2](http://arxiv.org/abs/2202.00254v2)|null|
 |**2022-01-29**|**A Deep CNN Architecture with Novel Pooling Layer Applied to Two Sudanese Arabic Sentiment Datasets**|Mustafa Mhamed et.al.|[2201.12664v1](http://arxiv.org/abs/2201.12664v1)|null|
@@ -257,7 +257,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2022-02-14**|**An experimental study of the vision-bottleneck in VQA**|Pierre Marza et.al.|[2202.06858v1](http://arxiv.org/abs/2202.06858v1)|null|
-|**2022-02-14**|**Partially Fake Audio Detection by Self-attention-based Fake Span discovery**|Haibin Wu et.al.|[2202.06684v1](http://arxiv.org/abs/2202.06684v1)|null|
+|**2022-02-15**|**Partially Fake Audio Detection by Self-attention-based Fake Span Discovery**|Haibin Wu et.al.|[2202.06684v2](http://arxiv.org/abs/2202.06684v2)|null|
 |**2022-02-14**|**QA4QG: Using Question Answering to Constrain Multi-Hop Question Generation**|Dan Su et.al.|[2202.06538v1](http://arxiv.org/abs/2202.06538v1)|null|
 |**2022-02-13**|**On the Relationship between Shy and Warded Datalog+/-**|Teodoro Baldazzi et.al.|[2202.06285v1](http://arxiv.org/abs/2202.06285v1)|null|
 |**2022-02-13**|**PQuAD: A Persian Question Answering Dataset**|Kasra Darvishi et.al.|[2202.06219v1](http://arxiv.org/abs/2202.06219v1)|**[link](https://github.com/sajjjadayobi/PersianQA)**|
