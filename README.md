@@ -4,6 +4,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-02-16**|**ADIMA: Abuse Detection In Multilingual Audio**|Vikram Gupta et.al.|[2202.07991v1](http://arxiv.org/abs/2202.07991v1)|null|
+|**2022-02-16**|**A Survey of Pretraining on Graphs: Taxonomy, Methods, and Applications**|Jun Xia et.al.|[2202.07893v1](http://arxiv.org/abs/2202.07893v1)|null|
+|**2022-02-16**|**ITTC @ TREC 2021 Clinical Trials Track**|Thinh Hung Truong et.al.|[2202.07858v1](http://arxiv.org/abs/2202.07858v1)|null|
 |**2022-02-15**|**Conformal Prediction Sets with Limited False Positives**|Adam Fisch et.al.|[2202.07650v1](http://arxiv.org/abs/2202.07650v1)|**[link](https://github.com/ajfisch/conformal-fp)**|
 |**2022-02-15**|**NewsPod: Automatic and Interactive News Podcasts**|Philippe Laban et.al.|[2202.07146v1](http://arxiv.org/abs/2202.07146v1)|null|
 |**2022-02-15**|**Integrating AI Planning with Natural Language Processing: A Combination of Explicit and Tacit Knowledge**|Kebing Jin et.al.|[2202.07138v1](http://arxiv.org/abs/2202.07138v1)|null|
@@ -162,6 +165,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-02-16**|**GraphNLI: A Graph-based Natural Language Inference Model for Polarity Prediction in Online Debates**|Vibhor Agarwal et.al.|[2202.08175v1](http://arxiv.org/abs/2202.08175v1)|**[link](https://github.com/socsys/graphnli)**|
+|**2022-02-16**|**Decorrelate Irrelevant, Purify Relevant: Overcome Textual Spurious Correlations from a Feature Perspective**|Shihan Dou et.al.|[2202.08048v1](http://arxiv.org/abs/2202.08048v1)|null|
+|**2022-02-16**|**ZeroGen: Efficient Zero-shot Learning via Dataset Generation**|Jiacheng Ye et.al.|[2202.07922v1](http://arxiv.org/abs/2202.07922v1)|null|
 |**2022-02-14**|**HyLa: Hyperbolic Laplacian Features For Graph Learning**|Tao Yu et.al.|[2202.06854v1](http://arxiv.org/abs/2202.06854v1)|null|
 |**2022-02-10**|**Development and Comparison of Scoring Functions in Curriculum Learning**|H. Toprak Kesgin et.al.|[2202.06823v1](http://arxiv.org/abs/2202.06823v1)|null|
 |**2022-02-13**|**Incremental user embedding modeling for personalized text classification**|Ruixue Lian et.al.|[2202.06369v1](http://arxiv.org/abs/2202.06369v1)|null|
@@ -222,6 +228,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-02-16**|**Towards a Better Understanding of Online Influence: Differences in Twitter CommunicationBetween Companies and Influencers**|Diana C. Hernandez-Bocanegra et.al.|[2202.07986v1](http://arxiv.org/abs/2202.07986v1)|null|
 |**2022-02-14**|**Aspect Based Sentiment Analysis Using Spectral Temporal Graph Neural Network**|Abir Chakraborty et.al.|[2202.06776v1](http://arxiv.org/abs/2202.06776v1)|null|
 |**2022-02-11**|**Using Random Perturbations to Mitigate Adversarial Attacks on Sentiment Analysis Models**|Abigail Swenor et.al.|[2202.05758v1](http://arxiv.org/abs/2202.05758v1)|null|
 |**2022-02-11**|**Hindi/Bengali Sentiment Analysis Using Transfer Learning and Joint Dual Input Learning with Self Attention**|Shahrukh Khan et.al.|[2202.05457v1](http://arxiv.org/abs/2202.05457v1)|**[link](https://github.com/shahrukhx01/nnti_hindi_bengali_sentiment_analysis/tree/main/src)**|
@@ -260,6 +267,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-02-16**|**ZeroGen: Efficient Zero-shot Learning via Dataset Generation**|Jiacheng Ye et.al.|[2202.07922v1](http://arxiv.org/abs/2202.07922v1)|null|
+|**2022-02-15**|**Privacy Preserving Visual Question Answering**|Cristian-Paul Bara et.al.|[2202.07712v1](http://arxiv.org/abs/2202.07712v1)|null|
 |**2022-02-15**|**Tomayto, Tomahto. Beyond Token-level Answer Equivalence for Question Answering Evaluation**|Jannis Bulian et.al.|[2202.07654v1](http://arxiv.org/abs/2202.07654v1)|**[link](https://github.com/google-research-datasets/answer-equivalence-dataset)**|
 |**2022-02-15**|**Delving Deeper into Cross-lingual Visual Question Answering**|Chen Liu et.al.|[2202.07630v1](http://arxiv.org/abs/2202.07630v1)|null|
 |**2022-02-15**|**Saving Dense Retriever from Shortcut Dependency in Conversational Search**|Sungdong Kim et.al.|[2202.07280v1](http://arxiv.org/abs/2202.07280v1)|null|
@@ -341,6 +350,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-02-16**|**Information extraction in photon-counting experiments**|Timon Schapeler et.al.|[2202.08042v1](http://arxiv.org/abs/2202.08042v1)|null|
 |**2022-02-15**|**PILED: An Identify-and-Localize Framework for Few-Shot Event Detection**|Sha Li et.al.|[2202.07615v1](http://arxiv.org/abs/2202.07615v1)|null|
 |**2022-02-14**|**Introducing the ICBe Dataset: Very High Recall and Precision Event Extraction from Narratives about International Crises**|Rex W. Douglass et.al.|[2202.07081v1](http://arxiv.org/abs/2202.07081v1)|null|
 |**2022-02-12**|**Semi-supervised New Event Type Induction and Description via Contrastive Loss-Enforced Batch Attention**|Carl Edwards et.al.|[2202.05943v1](http://arxiv.org/abs/2202.05943v1)|null|
@@ -386,6 +396,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-02-16**|**Branching Reinforcement Learning**|Yihan Du et.al.|[2202.07995v1](http://arxiv.org/abs/2202.07995v1)|null|
 |**2022-02-15**|**Personalized Prompt Learning for Explainable Recommendation**|Lei Li et.al.|[2202.07371v1](http://arxiv.org/abs/2202.07371v1)|null|
 |**2022-02-15**|**Case law retrieval: problems, methods, challenges and evaluations in the last 20 years**|Daniel Locke et.al.|[2202.07209v1](http://arxiv.org/abs/2202.07209v1)|null|
 |**2022-02-14**|**UA-FedRec: Untargeted Attack on Federated News Recommendation**|Jingwei Yi et.al.|[2202.06701v1](http://arxiv.org/abs/2202.06701v1)|**[link](https://github.com/yjw1029/ua-fedrec)**|
@@ -483,6 +494,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-02-16**|**HousE: Knowledge Graph Embedding with Householder Parameterization**|Rui Li et.al.|[2202.07919v1](http://arxiv.org/abs/2202.07919v1)|**[link](https://github.com/anrep/house)**|
 |**2022-02-16**|**EvoKG: Jointly Modeling Event Time and Network Structure for Reasoning over Temporal Knowledge Graphs**|Namyong Park et.al.|[2202.07648v2](http://arxiv.org/abs/2202.07648v2)|null|
 |**2022-02-15**|**Knowledge Graph Reasoning with Logics and Embeddings: Survey and Perspective**|Wen Zhang et.al.|[2202.07412v1](http://arxiv.org/abs/2202.07412v1)|null|
 |**2022-02-15**|**STaR: Knowledge Graph Embedding by Scaling, Translation and Rotation**|Jiayi Li et.al.|[2202.07130v1](http://arxiv.org/abs/2202.07130v1)|null|
@@ -548,6 +560,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-02-16**|**Data Augmentation for Deep Graph Learning: A Survey**|Kaize Ding et.al.|[2202.08235v1](http://arxiv.org/abs/2202.08235v1)|null|
+|**2022-02-15**|**Modular multi-source prediction of drug side-effects with DruGNN**|Pietro Bongini et.al.|[2202.08147v1](http://arxiv.org/abs/2202.08147v1)|null|
+|**2022-02-16**|**Graph Neural Network and Koopman Models for Learning Networked Dynamics: A Comparative Study on Power Grid Transients Prediction**|Sai Pushpak Nandanoori et.al.|[2202.08065v1](http://arxiv.org/abs/2202.08065v1)|null|
+|**2022-02-16**|**Understanding and Improving Graph Injection Attack by Promoting Unnoticeability**|Yongqiang Chen et.al.|[2202.08057v1](http://arxiv.org/abs/2202.08057v1)|**[link](https://github.com/lfhase/gia-hao)**|
+|**2022-02-16**|**When Does A Spectral Graph Neural Network Fail in Node Classification?**|Zhixian Chen et.al.|[2202.07902v1](http://arxiv.org/abs/2202.07902v1)|null|
+|**2022-02-16**|**Privacy-Preserving Graph Neural Network Training and Inference as a Cloud Service**|Songlei Wang et.al.|[2202.07835v1](http://arxiv.org/abs/2202.07835v1)|null|
 |**2022-02-15**|**Forecasting Global Weather with Graph Neural Networks**|Ryan Keisler et.al.|[2202.07575v1](http://arxiv.org/abs/2202.07575v1)|null|
 |**2022-02-15**|**Federated Graph Neural Networks: Overview, Techniques and Challenges**|Rui Liu et.al.|[2202.07256v1](http://arxiv.org/abs/2202.07256v1)|null|
 |**2022-02-16**|**Geometrically Equivariant Graph Neural Networks: A Survey**|Jiaqi Han et.al.|[2202.07230v2](http://arxiv.org/abs/2202.07230v2)|null|
