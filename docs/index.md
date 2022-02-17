@@ -487,7 +487,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2022-02-15**|**EvoKG: Jointly Modeling Event Time and Network Structure for Reasoning over Temporal Knowledge Graphs**|Namyong Park et.al.|[2202.07648v1](http://arxiv.org/abs/2202.07648v1)|null|
+|**2022-02-16**|**EvoKG: Jointly Modeling Event Time and Network Structure for Reasoning over Temporal Knowledge Graphs**|Namyong Park et.al.|[2202.07648v2](http://arxiv.org/abs/2202.07648v2)|null|
 |**2022-02-15**|**Knowledge Graph Reasoning with Logics and Embeddings: Survey and Perspective**|Wen Zhang et.al.|[2202.07412v1](http://arxiv.org/abs/2202.07412v1)|null|
 |**2022-02-15**|**STaR: Knowledge Graph Embedding by Scaling, Translation and Rotation**|Jiayi Li et.al.|[2202.07130v1](http://arxiv.org/abs/2202.07130v1)|null|
 |**2022-02-14**|**Learning to Discover Medicines**|Tri Minh Nguyen et.al.|[2202.07096v1](http://arxiv.org/abs/2202.07096v1)|null|
@@ -554,7 +554,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2022-02-15**|**Forecasting Global Weather with Graph Neural Networks**|Ryan Keisler et.al.|[2202.07575v1](http://arxiv.org/abs/2202.07575v1)|null|
 |**2022-02-15**|**Federated Graph Neural Networks: Overview, Techniques and Challenges**|Rui Liu et.al.|[2202.07256v1](http://arxiv.org/abs/2202.07256v1)|null|
-|**2022-02-15**|**Geometrically Equivariant Graph Neural Networks: A Survey**|Jiaqi Han et.al.|[2202.07230v1](http://arxiv.org/abs/2202.07230v1)|null|
+|**2022-02-16**|**Geometrically Equivariant Graph Neural Networks: A Survey**|Jiaqi Han et.al.|[2202.07230v2](http://arxiv.org/abs/2202.07230v2)|null|
 |**2022-02-15**|**Graph Meta-Reinforcement Learning for Transferable Autonomous Mobility-on-Demand**|Daniele Gammelli et.al.|[2202.07147v1](http://arxiv.org/abs/2202.07147v1)|null|
 |**2022-02-15**|**Graph Neural Network-Based Scheduling for Multi-UAV-Enabled Communications in D2D Networks**|Pei Li et.al.|[2202.07115v1](http://arxiv.org/abs/2202.07115v1)|null|
 |**2022-02-14**|**Graph Neural Networks for Graphs with Heterophily: A Survey**|Xin Zheng et.al.|[2202.07082v1](http://arxiv.org/abs/2202.07082v1)|null|
