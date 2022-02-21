@@ -8,6 +8,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-02-18**|**Evaluating the Construct Validity of Text Embeddings with Application to Survey Questions**|Qixiang Fang et.al.|[2202.09166v1](http://arxiv.org/abs/2202.09166v1)|null|
+|**2022-02-18**|**VLP: A Survey on Vision-Language Pre-training**|Feilong Chen et.al.|[2202.09061v1](http://arxiv.org/abs/2202.09061v1)|null|
+|**2022-02-17**|**Designing Effective Sparse Expert Models**|Barret Zoph et.al.|[2202.08906v1](http://arxiv.org/abs/2202.08906v1)|null|
 |**2022-02-17**|**cosFormer: Rethinking Softmax in Attention**|Zhen Qin et.al.|[2202.08791v1](http://arxiv.org/abs/2202.08791v1)|**[link](https://github.com/OpenNLPLab/cosFormer)**|
 |**2022-02-17**|**A Survey of Knowledge-Intensive NLP with Pre-Trained Language Models**|Da Yin et.al.|[2202.08772v1](http://arxiv.org/abs/2202.08772v1)|null|
 |**2022-02-18**|**Text-Based Action-Model Acquisition for Planning**|Kebing Jin et.al.|[2202.08373v2](http://arxiv.org/abs/2202.08373v2)|null|
@@ -148,6 +151,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-02-18**|**DataMUX: Data Multiplexing for Neural Networks**|Vishvak Murahari et.al.|[2202.09318v1](http://arxiv.org/abs/2202.09318v1)|null|
 |**2022-02-17**|**AISHELL-NER: Named Entity Recognition from Chinese Speech**|Boli Chen et.al.|[2202.08533v1](http://arxiv.org/abs/2202.08533v1)|**[link](https://github.com/alibaba-nlp/aishell-ner)**|
 |**2022-02-15**|**Towards Effective Multi-Task Interaction for Entity-Relation Extraction: A Unified Framework with Selection Recurrent Network**|An Wang et.al.|[2202.07281v1](http://arxiv.org/abs/2202.07281v1)|null|
 |**2022-02-08**|**A two-step approach to leverage contextual data: speech recognition in air-traffic communications**|Iuliia Nigmatulina et.al.|[2202.03725v1](http://arxiv.org/abs/2202.03725v1)|null|
@@ -175,6 +179,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-02-18**|**DataMUX: Data Multiplexing for Neural Networks**|Vishvak Murahari et.al.|[2202.09318v1](http://arxiv.org/abs/2202.09318v1)|null|
+|**2022-02-18**|**Pinpointing Anomaly Events in Logs from Stability Testing -- N-Grams vs. Deep-Learning**|Mika Mäntylä et.al.|[2202.09214v1](http://arxiv.org/abs/2202.09214v1)|null|
 |**2022-02-17**|**EBHI:A New Enteroscope Biopsy Histopathological H&E Image Dataset for Image Classification Evaluation**|Weiming Hu et.al.|[2202.08552v1](http://arxiv.org/abs/2202.08552v1)|null|
 |**2022-02-16**|**GraphNLI: A Graph-based Natural Language Inference Model for Polarity Prediction in Online Debates**|Vibhor Agarwal et.al.|[2202.08175v1](http://arxiv.org/abs/2202.08175v1)|**[link](https://github.com/socsys/graphnli)**|
 |**2022-02-16**|**Decorrelate Irrelevant, Purify Relevant: Overcome Textual Spurious Correlations from a Feature Perspective**|Shihan Dou et.al.|[2202.08048v1](http://arxiv.org/abs/2202.08048v1)|null|
@@ -278,6 +284,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-02-18**|**(2.5+1)D Spatio-Temporal Scene Graphs for Video Question Answering**|Anoop Cherian et.al.|[2202.09277v1](http://arxiv.org/abs/2202.09277v1)|null|
+|**2022-02-17**|**Discovering Fine-Grained Semantics in Knowledge Graph Relations**|Nitisha Jain et.al.|[2202.08917v1](http://arxiv.org/abs/2202.08917v1)|null|
+|**2022-02-17**|**Designing Effective Sparse Expert Models**|Barret Zoph et.al.|[2202.08906v1](http://arxiv.org/abs/2202.08906v1)|null|
 |**2022-02-16**|**ZeroGen: Efficient Zero-shot Learning via Dataset Generation**|Jiacheng Ye et.al.|[2202.07922v1](http://arxiv.org/abs/2202.07922v1)|**[link](https://github.com/jiacheng-ye/zerogen)**|
 |**2022-02-15**|**Privacy Preserving Visual Question Answering**|Cristian-Paul Bara et.al.|[2202.07712v1](http://arxiv.org/abs/2202.07712v1)|null|
 |**2022-02-15**|**Tomayto, Tomahto. Beyond Token-level Answer Equivalence for Question Answering Evaluation**|Jannis Bulian et.al.|[2202.07654v1](http://arxiv.org/abs/2202.07654v1)|**[link](https://github.com/google-research-datasets/answer-equivalence-dataset)**|
@@ -409,6 +418,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-02-17**|**A recommender system for automatic picking of subsurface formation tops**|Jesse R. Pisel et.al.|[2202.08869v1](http://arxiv.org/abs/2202.08869v1)|**[link](https://github.com/jessepisel/matrixfactorization)**|
 |**2022-02-17**|**Should I send this notification? Optimizing push notifications decision making by modeling the future**|Conor O'Brien et.al.|[2202.08812v1](http://arxiv.org/abs/2202.08812v1)|null|
 |**2022-02-17**|**Improving Rating and Relevance with Point-of-Interest Recommender System**|Syed Raza Bashir et.al.|[2202.08751v1](http://arxiv.org/abs/2202.08751v1)|null|
 |**2022-02-17**|**Generalizable Information Theoretic Causal Representation**|Mengyue Yang et.al.|[2202.08388v1](http://arxiv.org/abs/2202.08388v1)|null|
@@ -510,6 +520,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-02-18**|**How to Manage Tiny Machine Learning at Scale: An Industrial Perspective**|Haoyu Ren et.al.|[2202.09113v1](http://arxiv.org/abs/2202.09113v1)|**[link](https://github.com/haoyu-r/how-to-manage-tinyml-at-scale)**|
+|**2022-02-17**|**Discovering Fine-Grained Semantics in Knowledge Graph Relations**|Nitisha Jain et.al.|[2202.08917v1](http://arxiv.org/abs/2202.08917v1)|null|
 |**2022-02-17**|**Mining On Alzheimer's Diseases Related Knowledge Graph to Identity Potential AD-related Semantic Triples for Drug Repurposing**|Yi Nian et.al.|[2202.08712v1](http://arxiv.org/abs/2202.08712v1)|null|
 |**2022-02-17**|**AKB-48: A Real-World Articulated Object Knowledge Base**|Liu Liu et.al.|[2202.08432v1](http://arxiv.org/abs/2202.08432v1)|null|
 |**2022-02-16**|**TorchDrug: A Powerful and Flexible Machine Learning Platform for Drug Discovery**|Zhaocheng Zhu et.al.|[2202.08320v1](http://arxiv.org/abs/2202.08320v1)|null|
@@ -579,6 +591,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-02-18**|**Improving Molecular Contrastive Learning via Faulty Negative Mitigation and Decomposed Fragment Contrast**|Yuyang Wang et.al.|[2202.09346v1](http://arxiv.org/abs/2202.09346v1)|null|
+|**2022-02-18**|**Space4HGNN: A Novel, Modularized and Reproducible Platform to Evaluate Heterogeneous Graph Neural Network**|Tianyu Zhao et.al.|[2202.09177v1](http://arxiv.org/abs/2202.09177v1)|null|
+|**2022-02-18**|**Generalizing Aggregation Functions in GNNs:High-Capacity GNNs via Nonlinear Neighborhood Aggregators**|Beibei Wang et.al.|[2202.09145v1](http://arxiv.org/abs/2202.09145v1)|null|
+|**2022-02-18**|**Graph Auto-Encoder Via Neighborhood Wasserstein Reconstruction**|Mingyue Tang et.al.|[2202.09025v1](http://arxiv.org/abs/2202.09025v1)|**[link](https://github.com/mtang724/nwr-gae)**|
+|**2022-02-18**|**PGCN: Progressive Graph Convolutional Networks for Spatial-Temporal Traffic Forecasting**|Yuyol Shin et.al.|[2202.08982v1](http://arxiv.org/abs/2202.08982v1)|null|
+|**2022-02-18**|**GNN-Surrogate: A Hierarchical and Adaptive Graph Neural Network for Parameter Space Exploration of Unstructured-Mesh Ocean Simulations**|Neng Shi et.al.|[2202.08956v1](http://arxiv.org/abs/2202.08956v1)|**[link](https://github.com/trainsn/gnn-surrogate)**|
+|**2022-02-17**|**Training neural networks using monotone variational inequality**|Chen Xu et.al.|[2202.08876v1](http://arxiv.org/abs/2202.08876v1)|**[link](https://github.com/hamrel-cxu/svi-nn-training)**|
 |**2022-02-17**|**The Exact Class of Graph Functions Generated by Graph Neural Networks**|Mohammad Fereydounian et.al.|[2202.08833v1](http://arxiv.org/abs/2202.08833v1)|**[link](https://github.com/dadashkarimi/gnn)**|
 |**2022-02-17**|**Learning and Evaluating Graph Neural Network Explanations based on Counterfactual and Factual Reasoning**|Juntao Tan et.al.|[2202.08816v1](http://arxiv.org/abs/2202.08816v1)|null|
 |**2022-02-17**|**Heuristic Adaptability to Input Dynamics for SpMM on GPUs**|Guohao Dai et.al.|[2202.08556v1](http://arxiv.org/abs/2202.08556v1)|null|
