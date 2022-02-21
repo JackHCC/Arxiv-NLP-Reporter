@@ -10,7 +10,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2022-02-17**|**cosFormer: Rethinking Softmax in Attention**|Zhen Qin et.al.|[2202.08791v1](http://arxiv.org/abs/2202.08791v1)|**[link](https://github.com/OpenNLPLab/cosFormer)**|
 |**2022-02-17**|**A Survey of Knowledge-Intensive NLP with Pre-Trained Language Models**|Da Yin et.al.|[2202.08772v1](http://arxiv.org/abs/2202.08772v1)|null|
-|**2022-02-15**|**Text-Based Action-Model Acquisition for Planning**|Kebing Jin et.al.|[2202.08373v1](http://arxiv.org/abs/2202.08373v1)|null|
+|**2022-02-18**|**Text-Based Action-Model Acquisition for Planning**|Kebing Jin et.al.|[2202.08373v2](http://arxiv.org/abs/2202.08373v2)|null|
 |**2022-02-15**|**The Quarks of Attention**|Pierre Baldi et.al.|[2202.08371v1](http://arxiv.org/abs/2202.08371v1)|null|
 |**2022-02-16**|**Open-Ended Reinforcement Learning with Neural Reward Functions**|Robert Meier et.al.|[2202.08266v1](http://arxiv.org/abs/2202.08266v1)|null|
 |**2022-02-16**|**ADIMA: Abuse Detection In Multilingual Audio**|Vikram Gupta et.al.|[2202.07991v1](http://arxiv.org/abs/2202.07991v1)|null|
