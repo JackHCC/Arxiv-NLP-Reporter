@@ -9,7 +9,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2022-02-18**|**Evaluating the Construct Validity of Text Embeddings with Application to Survey Questions**|Qixiang Fang et.al.|[2202.09166v1](http://arxiv.org/abs/2202.09166v1)|**[link](https://github.com/fqixiang/survey-embedding-validity)**|
-|**2022-02-18**|**VLP: A Survey on Vision-Language Pre-training**|Feilong Chen et.al.|[2202.09061v1](http://arxiv.org/abs/2202.09061v1)|null|
+|**2022-02-21**|**VLP: A Survey on Vision-Language Pre-training**|Feilong Chen et.al.|[2202.09061v2](http://arxiv.org/abs/2202.09061v2)|null|
 |**2022-02-17**|**Designing Effective Sparse Expert Models**|Barret Zoph et.al.|[2202.08906v1](http://arxiv.org/abs/2202.08906v1)|**[link](https://github.com/tensorflow/mesh)**|
 |**2022-02-17**|**cosFormer: Rethinking Softmax in Attention**|Zhen Qin et.al.|[2202.08791v1](http://arxiv.org/abs/2202.08791v1)|**[link](https://github.com/OpenNLPLab/cosFormer)**|
 |**2022-02-17**|**A Survey of Knowledge-Intensive NLP with Pre-Trained Language Models**|Da Yin et.al.|[2202.08772v1](http://arxiv.org/abs/2202.08772v1)|null|
