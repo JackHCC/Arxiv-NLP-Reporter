@@ -1,12 +1,12 @@
-## Updated on 2022.02.21
+## Updated on 2022.02.22
 
 ## NLP
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2022-02-18**|**Evaluating the Construct Validity of Text Embeddings with Application to Survey Questions**|Qixiang Fang et.al.|[2202.09166v1](http://arxiv.org/abs/2202.09166v1)|null|
+|**2022-02-18**|**Evaluating the Construct Validity of Text Embeddings with Application to Survey Questions**|Qixiang Fang et.al.|[2202.09166v1](http://arxiv.org/abs/2202.09166v1)|**[link](https://github.com/fqixiang/survey-embedding-validity)**|
 |**2022-02-18**|**VLP: A Survey on Vision-Language Pre-training**|Feilong Chen et.al.|[2202.09061v1](http://arxiv.org/abs/2202.09061v1)|null|
-|**2022-02-17**|**Designing Effective Sparse Expert Models**|Barret Zoph et.al.|[2202.08906v1](http://arxiv.org/abs/2202.08906v1)|null|
+|**2022-02-17**|**Designing Effective Sparse Expert Models**|Barret Zoph et.al.|[2202.08906v1](http://arxiv.org/abs/2202.08906v1)|**[link](https://github.com/tensorflow/mesh)**|
 |**2022-02-17**|**cosFormer: Rethinking Softmax in Attention**|Zhen Qin et.al.|[2202.08791v1](http://arxiv.org/abs/2202.08791v1)|**[link](https://github.com/OpenNLPLab/cosFormer)**|
 |**2022-02-17**|**A Survey of Knowledge-Intensive NLP with Pre-Trained Language Models**|Da Yin et.al.|[2202.08772v1](http://arxiv.org/abs/2202.08772v1)|null|
 |**2022-02-18**|**Text-Based Action-Model Acquisition for Planning**|Kebing Jin et.al.|[2202.08373v2](http://arxiv.org/abs/2202.08373v2)|null|
@@ -282,7 +282,7 @@
 |---|---|---|---|---|
 |**2022-02-18**|**(2.5+1)D Spatio-Temporal Scene Graphs for Video Question Answering**|Anoop Cherian et.al.|[2202.09277v1](http://arxiv.org/abs/2202.09277v1)|null|
 |**2022-02-17**|**Discovering Fine-Grained Semantics in Knowledge Graph Relations**|Nitisha Jain et.al.|[2202.08917v1](http://arxiv.org/abs/2202.08917v1)|null|
-|**2022-02-17**|**Designing Effective Sparse Expert Models**|Barret Zoph et.al.|[2202.08906v1](http://arxiv.org/abs/2202.08906v1)|null|
+|**2022-02-17**|**Designing Effective Sparse Expert Models**|Barret Zoph et.al.|[2202.08906v1](http://arxiv.org/abs/2202.08906v1)|**[link](https://github.com/tensorflow/mesh)**|
 |**2022-02-16**|**ZeroGen: Efficient Zero-shot Learning via Dataset Generation**|Jiacheng Ye et.al.|[2202.07922v1](http://arxiv.org/abs/2202.07922v1)|**[link](https://github.com/jiacheng-ye/zerogen)**|
 |**2022-02-15**|**Privacy Preserving Visual Question Answering**|Cristian-Paul Bara et.al.|[2202.07712v1](http://arxiv.org/abs/2202.07712v1)|null|
 |**2022-02-15**|**Tomayto, Tomahto. Beyond Token-level Answer Equivalence for Question Answering Evaluation**|Jannis Bulian et.al.|[2202.07654v1](http://arxiv.org/abs/2202.07654v1)|**[link](https://github.com/google-research-datasets/answer-equivalence-dataset)**|
