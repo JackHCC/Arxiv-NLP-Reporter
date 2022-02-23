@@ -8,6 +8,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-02-22**|**Evaluating Persian Tokenizers**|Danial Kamali et.al.|[2202.10879v1](http://arxiv.org/abs/2202.10879v1)|null|
+|**2022-02-22**|**Exploiting long-term temporal dynamics for video captioning**|Yuyu Guo et.al.|[2202.10828v1](http://arxiv.org/abs/2202.10828v1)|null|
+|**2022-02-22**|**One-shot Scene Graph Generation**|Yuyu Guo et.al.|[2202.10824v1](http://arxiv.org/abs/2202.10824v1)|null|
+|**2022-02-22**|**Automatically Generating Counterfactuals for Relation Exaction**|Mi Zhang et.al.|[2202.10668v1](http://arxiv.org/abs/2202.10668v1)|null|
+|**2022-02-22**|**Adversarial Attacks on Speech Recognition Systems for Mission-Critical Applications: A Survey**|Ngoc Dung Huynh et.al.|[2202.10594v1](http://arxiv.org/abs/2202.10594v1)|null|
 |**2022-02-21**|**Seeing the advantage: visually grounding word embeddings to better capture human semantic knowledge**|Danny Merkx et.al.|[2202.10292v1](http://arxiv.org/abs/2202.10292v1)|null|
 |**2022-02-21**|**Rethinking the Zigzag Flattening for Image Reading**|Qingsong Zhao et.al.|[2202.10240v1](http://arxiv.org/abs/2202.10240v1)|null|
 |**2022-02-21**|**BERT WEAVER: Using WEight AVERaging to Enable Lifelong Learning for Transformer-based Models**|Lisa Langnickel et.al.|[2202.10101v1](http://arxiv.org/abs/2202.10101v1)|**[link](https://github.com/llangnickel/weaver)**|
@@ -256,6 +261,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-02-22**|**Utilizing Out-Domain Datasets to Enhance Multi-Task Citation Analysis**|Dominique Mercier et.al.|[2202.10884v1](http://arxiv.org/abs/2202.10884v1)|null|
 |**2022-02-21**|**Domain-level Pairwise Semantic Interaction for Aspect-Based Sentiment Classification**|Zhenxin Wu et.al.|[2202.10032v1](http://arxiv.org/abs/2202.10032v1)|null|
 |**2022-02-16**|**Towards a Better Understanding of Online Influence: Differences in Twitter CommunicationBetween Companies and Influencers**|Diana C. Hernandez-Bocanegra et.al.|[2202.07986v1](http://arxiv.org/abs/2202.07986v1)|null|
 |**2022-02-14**|**Aspect Based Sentiment Analysis Using Spectral Temporal Graph Neural Network**|Abir Chakraborty et.al.|[2202.06776v1](http://arxiv.org/abs/2202.06776v1)|null|
@@ -296,6 +302,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-02-22**|**Knowledge Base Question Answering by Case-based Reasoning over Subgraphs**|Rajarshi Das et.al.|[2202.10610v1](http://arxiv.org/abs/2202.10610v1)|null|
 |**2022-02-21**|**Vision-Language Pre-Training with Triple Contrastive Learning**|Jinyu Yang et.al.|[2202.10401v1](http://arxiv.org/abs/2202.10401v1)|**[link](https://github.com/uta-smile/TCL)**|
 |**2022-02-21**|**OG-SGG: Ontology-Guided Scene Graph Generation. A Case Study in Transfer Learning for Telepresence Robotics**|Fernando Amodeo et.al.|[2202.10201v1](http://arxiv.org/abs/2202.10201v1)|**[link](https://github.com/robotics-upo/og-sgg)**|
 |**2022-02-18**|**(2.5+1)D Spatio-Temporal Scene Graphs for Video Question Answering**|Anoop Cherian et.al.|[2202.09277v1](http://arxiv.org/abs/2202.09277v1)|null|
@@ -434,6 +441,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-02-22**|**Speciesist bias in AI -- How AI applications perpetuate discrimination and unfair outcomes against animals**|Thilo Hagendorff et.al.|[2202.10848v1](http://arxiv.org/abs/2202.10848v1)|null|
+|**2022-02-22**|**KuaiRec: A Fully-observed Dataset for Recommender Systems**|Chongming Gao et.al.|[2202.10842v1](http://arxiv.org/abs/2202.10842v1)|null|
+|**2022-02-22**|**Graph Lifelong Learning: A Survey**|Falih Gozi Febrinanto et.al.|[2202.10688v1](http://arxiv.org/abs/2202.10688v1)|null|
+|**2022-02-22**|**Batched Dueling Bandits**|Arpit Agarwal et.al.|[2202.10660v1](http://arxiv.org/abs/2202.10660v1)|null|
+|**2022-02-22**|**Online Caching with Optimistic Learning**|Naram Mhaisen et.al.|[2202.10590v1](http://arxiv.org/abs/2202.10590v1)|null|
 |**2022-02-16**|**VRConvMF: Visual Recurrent Convolutional Matrix Factorization for Movie Recommendation**|Zhu Wang et.al.|[2202.10241v1](http://arxiv.org/abs/2202.10241v1)|null|
 |**2022-02-16**|**Edge Data Based Trailer Inception Probabilistic Matrix Factorization for Context-Aware Movie Recommendation**|Honglong Chen et.al.|[2202.10236v1](http://arxiv.org/abs/2202.10236v1)|null|
 |**2022-02-20**|**Graph-based Extractive Explainer for Recommendations**|Peng Wang et.al.|[2202.09730v1](http://arxiv.org/abs/2202.09730v1)|null|
@@ -541,6 +553,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-02-22**|**Knowledge Base Question Answering by Case-based Reasoning over Subgraphs**|Rajarshi Das et.al.|[2202.10610v1](http://arxiv.org/abs/2202.10610v1)|null|
+|**2022-02-18**|**Unleashing the Power of Transformer for Graphs**|Lingbing Guo et.al.|[2202.10581v1](http://arxiv.org/abs/2202.10581v1)|null|
 |**2022-02-21**|**Rule Mining over Knowledge Graphs via Reinforcement Learning**|Lihan Chen et.al.|[2202.10381v1](http://arxiv.org/abs/2202.10381v1)|null|
 |**2022-02-21**|**Dynamic Relation Repairing for Knowledge Enhancement**|Rui Kang et.al.|[2202.10141v1](http://arxiv.org/abs/2202.10141v1)|null|
 |**2022-02-20**|**PGE: Robust Product Graph Embedding Learning for Error Detection**|Kewei Cheng et.al.|[2202.09747v1](http://arxiv.org/abs/2202.09747v1)|null|
@@ -619,6 +633,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-02-22**|**Message passing all the way up**|Petar Veličković et.al.|[2202.11097v1](http://arxiv.org/abs/2202.11097v1)|null|
+|**2022-02-22**|**Learning Dynamics and Structure of Complex Systems Using Graph Neural Networks**|Zhe Li et.al.|[2202.10996v1](http://arxiv.org/abs/2202.10996v1)|null|
+|**2022-02-21**|**Ligandformer: A Graph Neural Network for Predicting Ligand Property with Robust Interpretation**|Jinjiang Guo et.al.|[2202.10873v1](http://arxiv.org/abs/2202.10873v1)|null|
+|**2022-02-22**|**PyTorch Geometric Signed Directed: A Survey and Software on Graph Neural Networks for Signed and Directed Graphs**|Yixuan He et.al.|[2202.10793v1](http://arxiv.org/abs/2202.10793v1)|null|
+|**2022-02-22**|**EIGNN: Efficient Infinite-Depth Graph Neural Networks**|Juncheng Liu et.al.|[2202.10720v1](http://arxiv.org/abs/2202.10720v1)|**[link](https://github.com/liu-jc/eignn)**|
+|**2022-02-22**|**Targeting occupant feedback using digital twins: Adaptive spatial-temporal thermal preference sampling to optimize personal comfort models**|Mahmoud Abdelrahman et.al.|[2202.10707v1](http://arxiv.org/abs/2202.10707v1)|null|
+|**2022-02-22**|**Equivariant Graph Hierarchy-Based Neural Networks**|Jiaqi Han et.al.|[2202.10643v1](http://arxiv.org/abs/2202.10643v1)|null|
 |**2022-02-21**|**Degree-Preserving Randomized Response for Graph Neural Networks under Local Differential Privacy**|Seira Hidano et.al.|[2202.10209v1](http://arxiv.org/abs/2202.10209v1)|null|
 |**2022-02-21**|**RTGNN: A Novel Approach to Model Stochastic Traffic Dynamics**|Ke Sun et.al.|[2202.09977v1](http://arxiv.org/abs/2202.09977v1)|null|
 |**2022-02-20**|**Equivariant Graph Attention Networks for Molecular Property Prediction**|Tuan Le et.al.|[2202.09891v1](http://arxiv.org/abs/2202.09891v1)|null|
