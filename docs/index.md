@@ -2,12 +2,20 @@
 layout: default
 ---
 
-## Updated on 2022.02.22
+## Updated on 2022.02.23
 
 ## NLP
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-02-21**|**Seeing the advantage: visually grounding word embeddings to better capture human semantic knowledge**|Danny Merkx et.al.|[2202.10292v1](http://arxiv.org/abs/2202.10292v1)|null|
+|**2022-02-21**|**Rethinking the Zigzag Flattening for Image Reading**|Qingsong Zhao et.al.|[2202.10240v1](http://arxiv.org/abs/2202.10240v1)|null|
+|**2022-02-21**|**BERT WEAVER: Using WEight AVERaging to Enable Lifelong Learning for Transformer-based Models**|Lisa Langnickel et.al.|[2202.10101v1](http://arxiv.org/abs/2202.10101v1)|**[link](https://github.com/llangnickel/weaver)**|
+|**2022-02-20**|**Hierarchical Interpretation of Neural Text Classification**|Hanqi Yan et.al.|[2202.09792v1](http://arxiv.org/abs/2202.09792v1)|null|
+|**2022-02-20**|**Visual Attention Network**|Meng-Hao Guo et.al.|[2202.09741v1](http://arxiv.org/abs/2202.09741v1)|**[link](https://github.com/Visual-Attention-Network/VAN-Classification)**|
+|**2022-02-19**|**Punctuation Restoration**|Viet Dac Lai et.al.|[2202.09695v1](http://arxiv.org/abs/2202.09695v1)|null|
+|**2022-02-19**|**Data-Driven Mitigation of Adversarial Text Perturbation**|Rasika Bhalerao et.al.|[2202.09483v1](http://arxiv.org/abs/2202.09483v1)|null|
+|**2022-02-18**|**From FreEM to D'AlemBERT: a Large Corpus and a Language Model for Early Modern French**|Simon Gabay et.al.|[2202.09452v1](http://arxiv.org/abs/2202.09452v1)|null|
 |**2022-02-18**|**Evaluating the Construct Validity of Text Embeddings with Application to Survey Questions**|Qixiang Fang et.al.|[2202.09166v1](http://arxiv.org/abs/2202.09166v1)|**[link](https://github.com/fqixiang/survey-embedding-validity)**|
 |**2022-02-21**|**VLP: A Survey on Vision-Language Pre-training**|Feilong Chen et.al.|[2202.09061v2](http://arxiv.org/abs/2202.09061v2)|null|
 |**2022-02-17**|**Designing Effective Sparse Expert Models**|Barret Zoph et.al.|[2202.08906v1](http://arxiv.org/abs/2202.08906v1)|**[link](https://github.com/tensorflow/mesh)**|
@@ -179,6 +187,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-02-21**|**Interpreting Language Models with Contrastive Explanations**|Kayo Yin et.al.|[2202.10419v1](http://arxiv.org/abs/2202.10419v1)|null|
+|**2022-02-21**|**Embarrassingly Simple Performance Prediction for Abductive Natural Language Inference**|Emīls Kadiķis et.al.|[2202.10408v1](http://arxiv.org/abs/2202.10408v1)|**[link](https://github.com/Vaibhavs10/anli-performance-prediction)**|
+|**2022-02-20**|**Hierarchical Interpretation of Neural Text Classification**|Hanqi Yan et.al.|[2202.09792v1](http://arxiv.org/abs/2202.09792v1)|null|
 |**2022-02-18**|**DataMUX: Data Multiplexing for Neural Networks**|Vishvak Murahari et.al.|[2202.09318v1](http://arxiv.org/abs/2202.09318v1)|**[link](https://github.com/princeton-nlp/datamux)**|
 |**2022-02-18**|**Pinpointing Anomaly Events in Logs from Stability Testing -- N-Grams vs. Deep-Learning**|Mika Mäntylä et.al.|[2202.09214v1](http://arxiv.org/abs/2202.09214v1)|**[link](https://github.com/m3soulu/next_event_prediction)**|
 |**2022-02-17**|**EBHI:A New Enteroscope Biopsy Histopathological H&E Image Dataset for Image Classification Evaluation**|Weiming Hu et.al.|[2202.08552v1](http://arxiv.org/abs/2202.08552v1)|null|
@@ -245,6 +256,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-02-21**|**Domain-level Pairwise Semantic Interaction for Aspect-Based Sentiment Classification**|Zhenxin Wu et.al.|[2202.10032v1](http://arxiv.org/abs/2202.10032v1)|null|
 |**2022-02-16**|**Towards a Better Understanding of Online Influence: Differences in Twitter CommunicationBetween Companies and Influencers**|Diana C. Hernandez-Bocanegra et.al.|[2202.07986v1](http://arxiv.org/abs/2202.07986v1)|null|
 |**2022-02-14**|**Aspect Based Sentiment Analysis Using Spectral Temporal Graph Neural Network**|Abir Chakraborty et.al.|[2202.06776v1](http://arxiv.org/abs/2202.06776v1)|null|
 |**2022-02-11**|**Using Random Perturbations to Mitigate Adversarial Attacks on Sentiment Analysis Models**|Abigail Swenor et.al.|[2202.05758v1](http://arxiv.org/abs/2202.05758v1)|null|
@@ -284,6 +296,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-02-21**|**Vision-Language Pre-Training with Triple Contrastive Learning**|Jinyu Yang et.al.|[2202.10401v1](http://arxiv.org/abs/2202.10401v1)|**[link](https://github.com/uta-smile/TCL)**|
+|**2022-02-21**|**OG-SGG: Ontology-Guided Scene Graph Generation. A Case Study in Transfer Learning for Telepresence Robotics**|Fernando Amodeo et.al.|[2202.10201v1](http://arxiv.org/abs/2202.10201v1)|**[link](https://github.com/robotics-upo/og-sgg)**|
 |**2022-02-18**|**(2.5+1)D Spatio-Temporal Scene Graphs for Video Question Answering**|Anoop Cherian et.al.|[2202.09277v1](http://arxiv.org/abs/2202.09277v1)|null|
 |**2022-02-17**|**Discovering Fine-Grained Semantics in Knowledge Graph Relations**|Nitisha Jain et.al.|[2202.08917v1](http://arxiv.org/abs/2202.08917v1)|null|
 |**2022-02-17**|**Designing Effective Sparse Expert Models**|Barret Zoph et.al.|[2202.08906v1](http://arxiv.org/abs/2202.08906v1)|**[link](https://github.com/tensorflow/mesh)**|
@@ -370,6 +384,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-02-16**|**Edge Data Based Trailer Inception Probabilistic Matrix Factorization for Context-Aware Movie Recommendation**|Honglong Chen et.al.|[2202.10236v1](http://arxiv.org/abs/2202.10236v1)|null|
+|**2022-02-20**|**SOTitle: A Transformer-based Post Title Generation Approach for Stack Overflow**|Ke Liu et.al.|[2202.09789v1](http://arxiv.org/abs/2202.09789v1)|null|
 |**2022-02-17**|**Multi-stage Ensemble Model for Cross-market Recommendation**|Cesare Bernardis et.al.|[2202.08824v1](http://arxiv.org/abs/2202.08824v1)|null|
 |**2022-02-16**|**FAMIE: A Fast Active Learning Framework for Multilingual Information Extraction**|Minh Van Nguyen et.al.|[2202.08316v1](http://arxiv.org/abs/2202.08316v1)|**[link](https://github.com/nlp-uoregon/famie)**|
 |**2022-02-16**|**Information extraction in photon-counting experiments**|Timon Schapeler et.al.|[2202.08042v1](http://arxiv.org/abs/2202.08042v1)|null|
@@ -418,6 +434,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-02-16**|**VRConvMF: Visual Recurrent Convolutional Matrix Factorization for Movie Recommendation**|Zhu Wang et.al.|[2202.10241v1](http://arxiv.org/abs/2202.10241v1)|null|
+|**2022-02-16**|**Edge Data Based Trailer Inception Probabilistic Matrix Factorization for Context-Aware Movie Recommendation**|Honglong Chen et.al.|[2202.10236v1](http://arxiv.org/abs/2202.10236v1)|null|
+|**2022-02-20**|**Graph-based Extractive Explainer for Recommendations**|Peng Wang et.al.|[2202.09730v1](http://arxiv.org/abs/2202.09730v1)|null|
+|**2022-02-19**|**Reciprocity in Machine Learning**|Mukund Sundararajan et.al.|[2202.09480v1](http://arxiv.org/abs/2202.09480v1)|null|
+|**2022-02-18**|**iMARS: An In-Memory-Computing Architecture for Recommendation Systems**|Mengyuan Li et.al.|[2202.09433v1](http://arxiv.org/abs/2202.09433v1)|null|
 |**2022-02-17**|**A recommender system for automatic picking of subsurface formation tops**|Jesse R. Pisel et.al.|[2202.08869v1](http://arxiv.org/abs/2202.08869v1)|**[link](https://github.com/jessepisel/matrixfactorization)**|
 |**2022-02-17**|**Should I send this notification? Optimizing push notifications decision making by modeling the future**|Conor O'Brien et.al.|[2202.08812v1](http://arxiv.org/abs/2202.08812v1)|null|
 |**2022-02-17**|**Improving Rating and Relevance with Point-of-Interest Recommender System**|Syed Raza Bashir et.al.|[2202.08751v1](http://arxiv.org/abs/2202.08751v1)|null|
@@ -520,6 +541,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-02-21**|**Rule Mining over Knowledge Graphs via Reinforcement Learning**|Lihan Chen et.al.|[2202.10381v1](http://arxiv.org/abs/2202.10381v1)|null|
+|**2022-02-21**|**Dynamic Relation Repairing for Knowledge Enhancement**|Rui Kang et.al.|[2202.10141v1](http://arxiv.org/abs/2202.10141v1)|null|
+|**2022-02-20**|**PGE: Robust Product Graph Embedding Learning for Error Detection**|Kewei Cheng et.al.|[2202.09747v1](http://arxiv.org/abs/2202.09747v1)|null|
+|**2022-02-19**|**MixKG: Mixing for harder negative samples in knowledge graph**|Feihu Che et.al.|[2202.09606v1](http://arxiv.org/abs/2202.09606v1)|null|
+|**2022-02-19**|**Distributed non-negative RESCAL with Automatic Model Selection for Exascale Data**|Manish Bhattarai et.al.|[2202.09512v1](http://arxiv.org/abs/2202.09512v1)|null|
+|**2022-02-18**|**Geometric Algebra based Embeddings for Staticand Temporal Knowledge Graph Completion**|Chengjin Xu et.al.|[2202.09464v1](http://arxiv.org/abs/2202.09464v1)|null|
+|**2022-02-18**|**Identifying the Adoption or Rejection of Misinformation Targeting COVID-19 Vaccines in Twitter Discourse**|Maxwell Weinzierl et.al.|[2202.09445v1](http://arxiv.org/abs/2202.09445v1)|**[link](https://github.com/supermaxman/covid19-vaccine-nlp)**|
 |**2022-02-18**|**How to Manage Tiny Machine Learning at Scale: An Industrial Perspective**|Haoyu Ren et.al.|[2202.09113v1](http://arxiv.org/abs/2202.09113v1)|**[link](https://github.com/haoyu-r/how-to-manage-tinyml-at-scale)**|
 |**2022-02-17**|**Discovering Fine-Grained Semantics in Knowledge Graph Relations**|Nitisha Jain et.al.|[2202.08917v1](http://arxiv.org/abs/2202.08917v1)|null|
 |**2022-02-17**|**Mining On Alzheimer's Diseases Related Knowledge Graph to Identity Potential AD-related Semantic Triples for Drug Repurposing**|Yi Nian et.al.|[2202.08712v1](http://arxiv.org/abs/2202.08712v1)|null|
@@ -591,6 +619,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-02-21**|**Degree-Preserving Randomized Response for Graph Neural Networks under Local Differential Privacy**|Seira Hidano et.al.|[2202.10209v1](http://arxiv.org/abs/2202.10209v1)|null|
+|**2022-02-21**|**RTGNN: A Novel Approach to Model Stochastic Traffic Dynamics**|Ke Sun et.al.|[2202.09977v1](http://arxiv.org/abs/2202.09977v1)|null|
+|**2022-02-20**|**Equivariant Graph Attention Networks for Molecular Property Prediction**|Tuan Le et.al.|[2202.09891v1](http://arxiv.org/abs/2202.09891v1)|null|
+|**2022-02-19**|**Graph Spring Network and Informative Anchor Selection for Session-based Recommendation**|Zizhuo Zhang et.al.|[2202.09502v1](http://arxiv.org/abs/2202.09502v1)|null|
+|**2022-02-18**|**Interactive Visual Pattern Search on Graph Data via Graph Representation Learning**|Huan Song et.al.|[2202.09459v1](http://arxiv.org/abs/2202.09459v1)|null|
+|**2022-02-18**|**Predicting deformation mechanisms in architected metamaterials using GNN**|Padmeya Prashant Indurkar et.al.|[2202.09427v1](http://arxiv.org/abs/2202.09427v1)|null|
+|**2022-02-18**|**Black-box Node Injection Attack for Graph Neural Networks**|Mingxuan Ju et.al.|[2202.09389v1](http://arxiv.org/abs/2202.09389v1)|null|
 |**2022-02-18**|**Improving Molecular Contrastive Learning via Faulty Negative Mitigation and Decomposed Fragment Contrast**|Yuyang Wang et.al.|[2202.09346v1](http://arxiv.org/abs/2202.09346v1)|null|
 |**2022-02-18**|**Space4HGNN: A Novel, Modularized and Reproducible Platform to Evaluate Heterogeneous Graph Neural Network**|Tianyu Zhao et.al.|[2202.09177v1](http://arxiv.org/abs/2202.09177v1)|null|
 |**2022-02-18**|**Generalizing Aggregation Functions in GNNs:High-Capacity GNNs via Nonlinear Neighborhood Aggregators**|Beibei Wang et.al.|[2202.09145v1](http://arxiv.org/abs/2202.09145v1)|null|
