@@ -196,7 +196,7 @@ layout: default
 |**2022-02-21**|**Embarrassingly Simple Performance Prediction for Abductive Natural Language Inference**|Emīls Kadiķis et.al.|[2202.10408v1](http://arxiv.org/abs/2202.10408v1)|**[link](https://github.com/Vaibhavs10/anli-performance-prediction)**|
 |**2022-02-20**|**Hierarchical Interpretation of Neural Text Classification**|Hanqi Yan et.al.|[2202.09792v1](http://arxiv.org/abs/2202.09792v1)|null|
 |**2022-02-18**|**DataMUX: Data Multiplexing for Neural Networks**|Vishvak Murahari et.al.|[2202.09318v1](http://arxiv.org/abs/2202.09318v1)|**[link](https://github.com/princeton-nlp/datamux)**|
-|**2022-02-18**|**Pinpointing Anomaly Events in Logs from Stability Testing -- N-Grams vs. Deep-Learning**|Mika Mäntylä et.al.|[2202.09214v1](http://arxiv.org/abs/2202.09214v1)|**[link](https://github.com/m3soulu/next_event_prediction)**|
+|**2022-02-23**|**Pinpointing Anomaly Events in Logs from Stability Testing -- N-Grams vs. Deep-Learning**|Mika Mäntylä et.al.|[2202.09214v2](http://arxiv.org/abs/2202.09214v2)|**[link](https://github.com/m3soulu/next_event_prediction)**|
 |**2022-02-17**|**EBHI:A New Enteroscope Biopsy Histopathological H&E Image Dataset for Image Classification Evaluation**|Weiming Hu et.al.|[2202.08552v1](http://arxiv.org/abs/2202.08552v1)|null|
 |**2022-02-16**|**GraphNLI: A Graph-based Natural Language Inference Model for Polarity Prediction in Online Debates**|Vibhor Agarwal et.al.|[2202.08175v1](http://arxiv.org/abs/2202.08175v1)|**[link](https://github.com/socsys/graphnli)**|
 |**2022-02-16**|**Decorrelate Irrelevant, Purify Relevant: Overcome Textual Spurious Correlations from a Feature Perspective**|Shihan Dou et.al.|[2202.08048v1](http://arxiv.org/abs/2202.08048v1)|null|
@@ -635,7 +635,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2022-02-22**|**Message passing all the way up**|Petar Veličković et.al.|[2202.11097v1](http://arxiv.org/abs/2202.11097v1)|null|
 |**2022-02-22**|**Learning Dynamics and Structure of Complex Systems Using Graph Neural Networks**|Zhe Li et.al.|[2202.10996v1](http://arxiv.org/abs/2202.10996v1)|null|
-|**2022-02-21**|**Ligandformer: A Graph Neural Network for Predicting Ligand Property with Robust Interpretation**|Jinjiang Guo et.al.|[2202.10873v1](http://arxiv.org/abs/2202.10873v1)|null|
+|**2022-02-23**|**Ligandformer: A Graph Neural Network for Predicting Compound Property with Robust Interpretation**|Jinjiang Guo et.al.|[2202.10873v2](http://arxiv.org/abs/2202.10873v2)|null|
 |**2022-02-22**|**PyTorch Geometric Signed Directed: A Survey and Software on Graph Neural Networks for Signed and Directed Graphs**|Yixuan He et.al.|[2202.10793v1](http://arxiv.org/abs/2202.10793v1)|null|
 |**2022-02-22**|**EIGNN: Efficient Infinite-Depth Graph Neural Networks**|Juncheng Liu et.al.|[2202.10720v1](http://arxiv.org/abs/2202.10720v1)|**[link](https://github.com/liu-jc/eignn)**|
 |**2022-02-22**|**Targeting occupant feedback using digital twins: Adaptive spatial-temporal thermal preference sampling to optimize personal comfort models**|Mahmoud Abdelrahman et.al.|[2202.10707v1](http://arxiv.org/abs/2202.10707v1)|null|
