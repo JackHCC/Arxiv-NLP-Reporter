@@ -8,6 +8,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-02-24**|**Is Neuro-Symbolic AI Meeting its Promise in Natural Language Processing? A Structured Review**|Kyle Hamilton et.al.|[2202.12205v1](http://arxiv.org/abs/2202.12205v1)|**[link](https://github.com/kyleiwaniec/neuro-symbolic-ai-systematic-review)**|
+|**2022-02-24**|**Transformers in Medical Image Analysis: A Review**|Kelei He et.al.|[2202.12165v1](http://arxiv.org/abs/2202.12165v1)|null|
+|**2022-02-24**|**From Natural Language to Simulations: Applying GPT-3 Codex to Automate Simulation Modeling of Logistics Systems**|Ilya Jackson et.al.|[2202.12107v1](http://arxiv.org/abs/2202.12107v1)|**[link](https://github.com/jackil1993/gpt3_scm)**|
+|**2022-02-24**|**Welcome to the Modern World of Pronouns: Identity-Inclusive Natural Language Processing beyond Gender**|Anne Lauscher et.al.|[2202.11923v1](http://arxiv.org/abs/2202.11923v1)|null|
+|**2022-02-23**|**A gentle introduction to Quantum Natural Language Processing**|Shervin Le Du et.al.|[2202.11766v1](http://arxiv.org/abs/2202.11766v1)|null|
 |**2022-02-22**|**Evaluating Persian Tokenizers**|Danial Kamali et.al.|[2202.10879v1](http://arxiv.org/abs/2202.10879v1)|null|
 |**2022-02-22**|**Exploiting long-term temporal dynamics for video captioning**|Yuyu Guo et.al.|[2202.10828v1](http://arxiv.org/abs/2202.10828v1)|null|
 |**2022-02-22**|**One-shot Scene Graph Generation**|Yuyu Guo et.al.|[2202.10824v1](http://arxiv.org/abs/2202.10824v1)|**[link](https://github.com/gyy8426/os-sgg)**|
@@ -192,6 +197,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-02-24**|**Can deep neural networks learn process model structure? An assessment framework and analysis**|Jari Peeperkorn et.al.|[2202.11985v1](http://arxiv.org/abs/2202.11985v1)|**[link](https://github.com/jaripeeperkorn/generalizationppm)**|
 |**2022-02-23**|**Inference of Affordances and Active Motor Control in Simulated Agents**|Fedor Scholz et.al.|[2202.11532v1](http://arxiv.org/abs/2202.11532v1)|null|
 |**2022-02-23**|**Prompt-Learning for Short Text Classification**|Yi Zhu et.al.|[2202.11345v1](http://arxiv.org/abs/2202.11345v1)|null|
 |**2022-02-21**|**Interpreting Language Models with Contrastive Explanations**|Kayo Yin et.al.|[2202.10419v1](http://arxiv.org/abs/2202.10419v1)|null|
@@ -263,6 +269,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-02-24**|**KESA: A Knowledge Enhanced Approach For Sentiment Analysis**|Qinghua Zhao et.al.|[2202.12093v1](http://arxiv.org/abs/2202.12093v1)|**[link](https://github.com/lshowway/kesa)**|
 |**2022-02-23**|**Commonsense Reasoning for Identifying and Understanding the Implicit Need of Help and Synthesizing Assistive Actions**|Maëlic Neau et.al.|[2202.11337v1](http://arxiv.org/abs/2202.11337v1)|null|
 |**2022-02-22**|**Utilizing Out-Domain Datasets to Enhance Multi-Task Citation Analysis**|Dominique Mercier et.al.|[2202.10884v1](http://arxiv.org/abs/2202.10884v1)|null|
 |**2022-02-21**|**Domain-level Pairwise Semantic Interaction for Aspect-Based Sentiment Classification**|Zhenxin Wu et.al.|[2202.10032v1](http://arxiv.org/abs/2202.10032v1)|null|
@@ -305,6 +312,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-02-24**|**BERTVision -- A Parameter-Efficient Approach for Question Answering**|Siduo Jiang et.al.|[2202.12210v1](http://arxiv.org/abs/2202.12210v1)|**[link](https://github.com/cbenge509/bertvision)**|
+|**2022-02-24**|**Measuring CLEVRness: Blackbox testing of Visual Reasoning Models**|Spyridon Mouselinos et.al.|[2202.12162v1](http://arxiv.org/abs/2202.12162v1)|null|
+|**2022-02-24**|**First implementation of full-workflow automation in radiotherapy: the All-in-One solution on rectal cancer**|Lei Yu et.al.|[2202.12009v1](http://arxiv.org/abs/2202.12009v1)|null|
 |**2022-02-22**|**Knowledge Base Question Answering by Case-based Reasoning over Subgraphs**|Rajarshi Das et.al.|[2202.10610v1](http://arxiv.org/abs/2202.10610v1)|null|
 |**2022-02-21**|**Vision-Language Pre-Training with Triple Contrastive Learning**|Jinyu Yang et.al.|[2202.10401v1](http://arxiv.org/abs/2202.10401v1)|**[link](https://github.com/uta-smile/TCL)**|
 |**2022-02-21**|**OG-SGG: Ontology-Guided Scene Graph Generation. A Case Study in Transfer Learning for Telepresence Robotics**|Fernando Amodeo et.al.|[2202.10201v1](http://arxiv.org/abs/2202.10201v1)|**[link](https://github.com/robotics-upo/og-sgg)**|
@@ -394,6 +404,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-02-24**|**XAutoML: A Visual Analytics Tool for Establishing Trust in Automated Machine Learning**|Marc-André Zöller et.al.|[2202.11954v1](http://arxiv.org/abs/2202.11954v1)|**[link](https://github.com/ennosigaeon/xautoml)**|
 |**2022-02-16**|**Edge Data Based Trailer Inception Probabilistic Matrix Factorization for Context-Aware Movie Recommendation**|Honglong Chen et.al.|[2202.10236v1](http://arxiv.org/abs/2202.10236v1)|null|
 |**2022-02-20**|**SOTitle: A Transformer-based Post Title Generation Approach for Stack Overflow**|Ke Liu et.al.|[2202.09789v1](http://arxiv.org/abs/2202.09789v1)|**[link](https://github.com/ntdxyg/sotitle)**|
 |**2022-02-17**|**Multi-stage Ensemble Model for Cross-market Recommendation**|Cesare Bernardis et.al.|[2202.08824v1](http://arxiv.org/abs/2202.08824v1)|null|
@@ -444,11 +455,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-02-24**|**AutoCl : A Visual Interactive System for Automatic Deep Learning Classifier Recommendation Based on Models Performance**|Fuad Ahmed et.al.|[2202.11928v1](http://arxiv.org/abs/2202.11928v1)|null|
 |**2022-02-23**|**TEE-based decentralized recommender systems: The raw data sharing redemption**|Akash Dhasade et.al.|[2202.11655v1](http://arxiv.org/abs/2202.11655v1)|**[link](https://github.com/rafaelppires/rex)**|
 |**2022-02-23**|**A Semi-Synthetic Dataset Generation Framework for Causal Inference in Recommender Systems**|Yan Lyu et.al.|[2202.11351v1](http://arxiv.org/abs/2202.11351v1)|**[link](https://github.com/KID-22/CTAR)**|
 |**2022-02-23**|**Deep Reinforcement Learning: Opportunities and Challenges**|Yuxi Li et.al.|[2202.11296v1](http://arxiv.org/abs/2202.11296v1)|null|
 |**2022-02-22**|**Speciesist bias in AI -- How AI applications perpetuate discrimination and unfair outcomes against animals**|Thilo Hagendorff et.al.|[2202.10848v1](http://arxiv.org/abs/2202.10848v1)|null|
-|**2022-02-22**|**KuaiRec: A Fully-observed Dataset for Recommender Systems**|Chongming Gao et.al.|[2202.10842v1](http://arxiv.org/abs/2202.10842v1)|**[link](https://github.com/xiwenchao/fully_observed_demo)**|
+|**2022-02-22**|**KuaiRec: A Fully-observed Dataset for Recommender Systems**|Chongming Gao et.al.|[2202.10842v1](http://arxiv.org/abs/2202.10842v1)|**[link](https://github.com/chongminggao/KuaiRec)**|
 |**2022-02-22**|**Graph Lifelong Learning: A Survey**|Falih Gozi Febrinanto et.al.|[2202.10688v1](http://arxiv.org/abs/2202.10688v1)|null|
 |**2022-02-22**|**Batched Dueling Bandits**|Arpit Agarwal et.al.|[2202.10660v1](http://arxiv.org/abs/2202.10660v1)|null|
 |**2022-02-22**|**Online Caching with Optimistic Learning**|Naram Mhaisen et.al.|[2202.10590v1](http://arxiv.org/abs/2202.10590v1)|null|
@@ -559,6 +571,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-02-24**|**Cognitive Semantic Communication Systems Driven by Knowledge Graph**|Fuhui Zhou et.al.|[2202.11958v1](http://arxiv.org/abs/2202.11958v1)|null|
+|**2022-02-23**|**From Unstructured Text to Causal Knowledge Graphs: A Transformer-Based Approach**|Scott Friedman et.al.|[2202.11768v1](http://arxiv.org/abs/2202.11768v1)|null|
 |**2022-02-23**|**Prompt-Learning for Short Text Classification**|Yi Zhu et.al.|[2202.11345v1](http://arxiv.org/abs/2202.11345v1)|null|
 |**2022-02-23**|**Web of Scholars: A Scholar Knowledge Graph**|Jiaying Liu et.al.|[2202.11311v1](http://arxiv.org/abs/2202.11311v1)|null|
 |**2022-02-22**|**Knowledge Base Question Answering by Case-based Reasoning over Subgraphs**|Rajarshi Das et.al.|[2202.10610v1](http://arxiv.org/abs/2202.10610v1)|null|
@@ -641,6 +655,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-02-24**|**Learning Multi-Object Dynamics with Compositional Neural Radiance Fields**|Danny Driess et.al.|[2202.11855v1](http://arxiv.org/abs/2202.11855v1)|null|
 |**2022-02-23**|**Cooperative Behavioral Planning for Automated Driving using Graph Neural Networks**|Marvin Klimke et.al.|[2202.11376v1](http://arxiv.org/abs/2202.11376v1)|null|
 |**2022-02-23**|**Deep Graph Learning for Anomalous Citation Detection**|Jiaying Liu et.al.|[2202.11360v1](http://arxiv.org/abs/2202.11360v1)|null|
 |**2022-02-22**|**Bag Graph: Multiple Instance Learning using Bayesian Graph Neural Networks**|Soumyasundar Pal et.al.|[2202.11132v1](http://arxiv.org/abs/2202.11132v1)|**[link](https://github.com/networkslab/baggraph)**|
