@@ -8,6 +8,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-02-25**|**The Reality of Multi-Lingual Machine Translation**|Tom Kocmi et.al.|[2202.12814v1](http://arxiv.org/abs/2202.12814v1)|null|
+|**2022-02-25**|**Deep Learning, Natural Language Processing, and Explainable Artificial Intelligence in the Biomedical Domain**|Milad Moradi et.al.|[2202.12678v1](http://arxiv.org/abs/2202.12678v1)|null|
+|**2022-02-24**|**TrimBERT: Tailoring BERT for Trade-offs**|Sharath Nittur Sridhar et.al.|[2202.12411v1](http://arxiv.org/abs/2202.12411v1)|null|
+|**2022-02-24**|**DoCoGen: Domain Counterfactual Generation for Low Resource Domain Adaptation**|Nitay Calderon et.al.|[2202.12350v1](http://arxiv.org/abs/2202.12350v1)|null|
 |**2022-02-24**|**Is Neuro-Symbolic AI Meeting its Promise in Natural Language Processing? A Structured Review**|Kyle Hamilton et.al.|[2202.12205v1](http://arxiv.org/abs/2202.12205v1)|**[link](https://github.com/kyleiwaniec/neuro-symbolic-ai-systematic-review)**|
 |**2022-02-24**|**Transformers in Medical Image Analysis: A Review**|Kelei He et.al.|[2202.12165v1](http://arxiv.org/abs/2202.12165v1)|null|
 |**2022-02-24**|**From Natural Language to Simulations: Applying GPT-3 Codex to Automate Simulation Modeling of Logistics Systems**|Ilya Jackson et.al.|[2202.12107v1](http://arxiv.org/abs/2202.12107v1)|**[link](https://github.com/jackil1993/gpt3_scm)**|
@@ -169,6 +173,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-02-25**|**Deep neural networks for fine-grained surveillance of overdose mortality**|Patrick J. Ward et.al.|[2202.12448v1](http://arxiv.org/abs/2202.12448v1)|null|
 |**2022-02-18**|**DataMUX: Data Multiplexing for Neural Networks**|Vishvak Murahari et.al.|[2202.09318v1](http://arxiv.org/abs/2202.09318v1)|**[link](https://github.com/princeton-nlp/datamux)**|
 |**2022-02-17**|**AISHELL-NER: Named Entity Recognition from Chinese Speech**|Boli Chen et.al.|[2202.08533v1](http://arxiv.org/abs/2202.08533v1)|**[link](https://github.com/alibaba-nlp/aishell-ner)**|
 |**2022-02-15**|**Towards Effective Multi-Task Interaction for Entity-Relation Extraction: A Unified Framework with Selection Recurrent Network**|An Wang et.al.|[2202.07281v1](http://arxiv.org/abs/2202.07281v1)|null|
@@ -312,6 +317,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-02-25**|**On Modality Bias Recognition and Reduction**|Yangyang Guo et.al.|[2202.12690v1](http://arxiv.org/abs/2202.12690v1)|null|
+|**2022-02-25**|**Joint Answering and Explanation for Visual Commonsense Reasoning**|Zhenyang Li et.al.|[2202.12626v1](http://arxiv.org/abs/2202.12626v1)|null|
+|**2022-02-23**|**UnifiedQA-v2: Stronger Generalization via Broader Cross-Format Training**|Daniel Khashabi et.al.|[2202.12359v1](http://arxiv.org/abs/2202.12359v1)|null|
 |**2022-02-24**|**BERTVision -- A Parameter-Efficient Approach for Question Answering**|Siduo Jiang et.al.|[2202.12210v1](http://arxiv.org/abs/2202.12210v1)|**[link](https://github.com/cbenge509/bertvision)**|
 |**2022-02-24**|**Measuring CLEVRness: Blackbox testing of Visual Reasoning Models**|Spyridon Mouselinos et.al.|[2202.12162v1](http://arxiv.org/abs/2202.12162v1)|null|
 |**2022-02-24**|**First implementation of full-workflow automation in radiotherapy: the All-in-One solution on rectal cancer**|Lei Yu et.al.|[2202.12009v1](http://arxiv.org/abs/2202.12009v1)|null|
@@ -571,6 +579,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-02-25**|**NeuralKG: An Open Source Library for Diverse Representation Learning of Knowledge Graphs**|Wen Zhang et.al.|[2202.12571v1](http://arxiv.org/abs/2202.12571v1)|null|
 |**2022-02-24**|**Cognitive Semantic Communication Systems Driven by Knowledge Graph**|Fuhui Zhou et.al.|[2202.11958v1](http://arxiv.org/abs/2202.11958v1)|null|
 |**2022-02-23**|**From Unstructured Text to Causal Knowledge Graphs: A Transformer-Based Approach**|Scott Friedman et.al.|[2202.11768v1](http://arxiv.org/abs/2202.11768v1)|null|
 |**2022-02-23**|**Prompt-Learning for Short Text Classification**|Yi Zhu et.al.|[2202.11345v1](http://arxiv.org/abs/2202.11345v1)|null|
@@ -655,6 +664,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-02-25**|**Fluid Simulation System Based on Graph Neural Network**|Qiang Liu et.al.|[2202.12619v1](http://arxiv.org/abs/2202.12619v1)|null|
+|**2022-02-25**|**Spatio-Temporal Latent Graph Structure Learning for Traffic Forecasting**|Jiabin Tang et.al.|[2202.12586v1](http://arxiv.org/abs/2202.12586v1)|null|
+|**2022-02-25**|**Addressing Over-Smoothing in Graph Neural Networks via Deep Supervision**|Pantelis Elinas et.al.|[2202.12508v1](http://arxiv.org/abs/2202.12508v1)|null|
+|**2022-02-25**|**Multi-View Graph Representation for Programming Language Processing: An Investigation into Algorithm Detection**|Ting Long et.al.|[2202.12481v1](http://arxiv.org/abs/2202.12481v1)|null|
+|**2022-02-25**|**GAME-ON: Graph Attention Network based Multimodal Fusion for Fake News Detection**|Mudit Dhawan et.al.|[2202.12478v1](http://arxiv.org/abs/2202.12478v1)|null|
 |**2022-02-24**|**Learning Multi-Object Dynamics with Compositional Neural Radiance Fields**|Danny Driess et.al.|[2202.11855v1](http://arxiv.org/abs/2202.11855v1)|null|
 |**2022-02-23**|**Cooperative Behavioral Planning for Automated Driving using Graph Neural Networks**|Marvin Klimke et.al.|[2202.11376v1](http://arxiv.org/abs/2202.11376v1)|null|
 |**2022-02-23**|**Deep Graph Learning for Anomalous Citation Detection**|Jiaying Liu et.al.|[2202.11360v1](http://arxiv.org/abs/2202.11360v1)|null|
