@@ -317,7 +317,7 @@
 |**2022-02-25**|**Joint Answering and Explanation for Visual Commonsense Reasoning**|Zhenyang Li et.al.|[2202.12626v1](http://arxiv.org/abs/2202.12626v1)|**[link](https://github.com/sdlzy/arc)**|
 |**2022-02-23**|**UnifiedQA-v2: Stronger Generalization via Broader Cross-Format Training**|Daniel Khashabi et.al.|[2202.12359v1](http://arxiv.org/abs/2202.12359v1)|**[link](https://github.com/allenai/unifiedqa)**|
 |**2022-02-24**|**BERTVision -- A Parameter-Efficient Approach for Question Answering**|Siduo Jiang et.al.|[2202.12210v1](http://arxiv.org/abs/2202.12210v1)|**[link](https://github.com/cbenge509/bertvision)**|
-|**2022-02-24**|**Measuring CLEVRness: Blackbox testing of Visual Reasoning Models**|Spyridon Mouselinos et.al.|[2202.12162v1](http://arxiv.org/abs/2202.12162v1)|null|
+|**2022-02-28**|**Measuring CLEVRness: Blackbox testing of Visual Reasoning Models**|Spyridon Mouselinos et.al.|[2202.12162v2](http://arxiv.org/abs/2202.12162v2)|null|
 |**2022-02-24**|**First implementation of full-workflow automation in radiotherapy: the All-in-One solution on rectal cancer**|Lei Yu et.al.|[2202.12009v1](http://arxiv.org/abs/2202.12009v1)|null|
 |**2022-02-22**|**Knowledge Base Question Answering by Case-based Reasoning over Subgraphs**|Rajarshi Das et.al.|[2202.10610v1](http://arxiv.org/abs/2202.10610v1)|null|
 |**2022-02-21**|**Vision-Language Pre-Training with Triple Contrastive Learning**|Jinyu Yang et.al.|[2202.10401v1](http://arxiv.org/abs/2202.10401v1)|**[link](https://github.com/uta-smile/TCL)**|
