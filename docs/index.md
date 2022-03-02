@@ -481,7 +481,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2022-02-28**|**The dangers in algorithms learning humans' values and irrationalities**|Rebecca Gormann et.al.|[2202.13985v1](http://arxiv.org/abs/2202.13985v1)|null|
+|**2022-03-01**|**The dangers in algorithms learning humans' values and irrationalities**|Rebecca Gorman et.al.|[2202.13985v2](http://arxiv.org/abs/2202.13985v2)|null|
 |**2022-02-28**|**WSLRec: Weakly Supervised Learning for Neural Sequential Recommendation Models**|Jingwei Zhuo et.al.|[2202.13616v1](http://arxiv.org/abs/2202.13616v1)|null|
 |**2022-02-28**|**Are Big Recommendation Models Fair to Cold Users?**|Chuhan Wu et.al.|[2202.13607v1](http://arxiv.org/abs/2202.13607v1)|null|
 |**2022-02-27**|**The Unfairness of Popularity Bias in Book Recommendation**|Mohammadmehdi Naghiaei et.al.|[2202.13446v1](http://arxiv.org/abs/2202.13446v1)|**[link](https://github.com/rahmanidashti/fairbook)**|
