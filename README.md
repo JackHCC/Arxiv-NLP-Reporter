@@ -4,6 +4,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-01**|**Towards a Common Speech Analysis Engine**|Hagai Aronowitz et.al.|[2203.00613v1](http://arxiv.org/abs/2203.00613v1)|null|
+|**2022-03-01**|**Topological Data Analysis for Word Sense Disambiguation**|Michael Rawson et.al.|[2203.00565v1](http://arxiv.org/abs/2203.00565v1)|null|
+|**2022-03-01**|**Improving Performance of Automated Essay Scoring by using back-translation essays and adjusted scores**|You-Jin Jong et.al.|[2203.00354v1](http://arxiv.org/abs/2203.00354v1)|null|
+|**2022-02-28**|**A Multi-scale Transformer for Medical Image Segmentation: Architectures, Model Efficiency, and Benchmarks**|Yunhe Gao et.al.|[2203.00131v1](http://arxiv.org/abs/2203.00131v1)|**[link](https://github.com/yhygao/cbim-medical-image-segmentation)**|
+|**2022-02-28**|**Paper Plain: Making Medical Research Papers Approachable to Healthcare Consumers with Natural Language Processing**|Tal August et.al.|[2203.00130v1](http://arxiv.org/abs/2203.00130v1)|**[link](https://github.com/allenai/paper-plain)**|
+|**2022-02-28**|**An Empirical Study on Explanations in Out-of-Domain Settings**|George Chrysostomou et.al.|[2203.00056v1](http://arxiv.org/abs/2203.00056v1)|**[link](https://github.com/gchrysostomou/ood_faith)**|
 |**2022-02-28**|**Robust Textual Embedding against Word-level Adversarial Attacks**|Yichen Yang et.al.|[2202.13817v1](http://arxiv.org/abs/2202.13817v1)|null|
 |**2022-02-28**|**Detecting Stance in Scientific Papers: Did we get more Negative Recently?**|Dominik Beese et.al.|[2202.13610v1](http://arxiv.org/abs/2202.13610v1)|null|
 |**2022-02-28**|**CINO: A Chinese Minority Pre-trained Language Model**|Ziqing Yang et.al.|[2202.13558v1](http://arxiv.org/abs/2202.13558v1)|null|
@@ -173,6 +179,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-01**|**DAMO-NLP at SemEval-2022 Task 11: A Knowledge-based System for Multilingual Named Entity Recognition**|Xinyu Wang et.al.|[2203.00545v1](http://arxiv.org/abs/2203.00545v1)|**[link](https://github.com/alibaba-nlp/kb-ner)**|
 |**2022-02-28**|**ParaNames: A Massively Multilingual Entity Name Corpus**|Jonne Sälevä et.al.|[2202.14035v1](http://arxiv.org/abs/2202.14035v1)|null|
 |**2022-02-25**|**Deep neural networks for fine-grained surveillance of overdose mortality**|Patrick J. Ward et.al.|[2202.12448v1](http://arxiv.org/abs/2202.12448v1)|null|
 |**2022-02-18**|**DataMUX: Data Multiplexing for Neural Networks**|Vishvak Murahari et.al.|[2202.09318v1](http://arxiv.org/abs/2202.09318v1)|**[link](https://github.com/princeton-nlp/datamux)**|
@@ -203,6 +210,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-02-28**|**Gait Events Prediction using Hybrid CNN-RNN-based Deep Learning models through a Single Waist-worn Wearable Sensor**|Muhammad Zeeshan Arshad et.al.|[2203.00503v1](http://arxiv.org/abs/2203.00503v1)|null|
+|**2022-03-01**|**Semi-overlap Functions and Novel Fuzzy Reasoning Algorithms with Applications**|Xiaohong Zhang et.al.|[2203.00437v1](http://arxiv.org/abs/2203.00437v1)|null|
+|**2022-03-01**|**EPPAC: Entity Pre-typing Relation Classification with Prompt AnswerCentralizing**|Jiejun Tan et.al.|[2203.00193v1](http://arxiv.org/abs/2203.00193v1)|null|
 |**2022-02-28**|**Resolving label uncertainty with implicit posterior models**|Esther Rolf et.al.|[2202.14000v1](http://arxiv.org/abs/2202.14000v1)|**[link](https://github.com/estherrolf/implicit-posterior)**|
 |**2022-02-28**|**Text Smoothing: Enhance Various Data Augmentation Methods on Text Classification Tasks**|Xing Wu et.al.|[2202.13840v1](http://arxiv.org/abs/2202.13840v1)|null|
 |**2022-02-28**|**Differential equation and probability inspired graph neural networks for latent variable learning**|Zhuangwei Shi et.al.|[2202.13800v1](http://arxiv.org/abs/2202.13800v1)|**[link](https://github.com/zshicode/latent-variable-gnn)**|
@@ -280,6 +290,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-01**|**Sentiment Word Aware Multimodal Refinement for Multimodal Sentiment Analysis with ASR Errors**|Yang Wu et.al.|[2203.00257v1](http://arxiv.org/abs/2203.00257v1)|**[link](https://github.com/albertwy/SWRM)**|
 |**2022-02-28**|**TraceNet: Tracing and Locating the Key Elements in Sentiment Analysis**|Qinghua Zhao et.al.|[2202.13812v1](http://arxiv.org/abs/2202.13812v1)|**[link](https://github.com/lshowway/tracenet)**|
 |**2022-02-28**|**MSCTD: A Multimodal Sentiment Chat Translation Dataset**|Yunlong Liang et.al.|[2202.13645v1](http://arxiv.org/abs/2202.13645v1)|null|
 |**2022-02-24**|**KESA: A Knowledge Enhanced Approach For Sentiment Analysis**|Qinghua Zhao et.al.|[2202.12093v1](http://arxiv.org/abs/2202.12093v1)|**[link](https://github.com/lshowway/kesa)**|
@@ -325,6 +336,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-01**|**Read before Generate! Faithful Long Form Question Answering with Machine Reading**|Dan Su et.al.|[2203.00343v1](http://arxiv.org/abs/2203.00343v1)|null|
+|**2022-03-01**|**Improving Time Sensitivity for Question Answering over Temporal Knowledge Graphs**|Chao Shang et.al.|[2203.00255v1](http://arxiv.org/abs/2203.00255v1)|null|
+|**2022-03-01**|**Semantic Sentence Composition Reasoning for Multi-Hop Question Answering**|Qianglong Chen et.al.|[2203.00160v1](http://arxiv.org/abs/2203.00160v1)|null|
 |**2022-02-28**|**Improving Lexical Embeddings for Robust Question Answering**|Weiwen Xu et.al.|[2202.13636v1](http://arxiv.org/abs/2202.13636v1)|null|
 |**2022-02-28**|**'Tis but Thy Name: Semantic Question Answering Evaluation with 11M Names for 1M Entities**|Albert Huang et.al.|[2202.13581v1](http://arxiv.org/abs/2202.13581v1)|null|
 |**2022-02-27**|**Subgraph Retrieval Enhanced Model for Multi-hop Knowledge Base Question Answering**|Jing Zhang et.al.|[2202.13296v1](http://arxiv.org/abs/2202.13296v1)|**[link](https://github.com/ruckbreasoning/subgraphretrievalkbqa)**|
@@ -477,6 +491,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-01**|**Popularity Bias in Collaborative Filtering-Based Multimedia Recommender Systems**|Dominik Kowald et.al.|[2203.00376v1](http://arxiv.org/abs/2203.00376v1)|null|
+|**2022-03-01**|**Semantic Sentence Composition Reasoning for Multi-Hop Question Answering**|Qianglong Chen et.al.|[2203.00160v1](http://arxiv.org/abs/2203.00160v1)|null|
 |**2022-03-01**|**The dangers in algorithms learning humans' values and irrationalities**|Rebecca Gorman et.al.|[2202.13985v2](http://arxiv.org/abs/2202.13985v2)|null|
 |**2022-02-28**|**WSLRec: Weakly Supervised Learning for Neural Sequential Recommendation Models**|Jingwei Zhuo et.al.|[2202.13616v1](http://arxiv.org/abs/2202.13616v1)|null|
 |**2022-02-28**|**Are Big Recommendation Models Fair to Cold Users?**|Chuhan Wu et.al.|[2202.13607v1](http://arxiv.org/abs/2202.13607v1)|null|
@@ -599,6 +615,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-01**|**Dual Embodied-Symbolic Concept Representations for Deep Learning**|Daniel T. Chang et.al.|[2203.00600v1](http://arxiv.org/abs/2203.00600v1)|null|
+|**2022-03-01**|**Improving Time Sensitivity for Question Answering over Temporal Knowledge Graphs**|Chao Shang et.al.|[2203.00255v1](http://arxiv.org/abs/2203.00255v1)|null|
 |**2022-02-25**|**CAKE: A Scalable Commonsense-Aware Framework For Multi-View Knowledge Graph Completion**|Guanglin Niu et.al.|[2202.13785v1](http://arxiv.org/abs/2202.13785v1)|null|
 |**2022-02-27**|**Concept Graph Neural Networks for Surgical Video Understanding**|Yutong Ban et.al.|[2202.13402v1](http://arxiv.org/abs/2202.13402v1)|null|
 |**2022-02-25**|**NeuralKG: An Open Source Library for Diverse Representation Learning of Knowledge Graphs**|Wen Zhang et.al.|[2202.12571v1](http://arxiv.org/abs/2202.12571v1)|**[link](https://github.com/zjukg/neuralkg)**|
@@ -686,6 +704,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-01**|**PaSca: a Graph Neural Architecture Search System under the Scalable Paradigm**|Wentao Zhang et.al.|[2203.00638v1](http://arxiv.org/abs/2203.00638v1)|null|
+|**2022-03-01**|**Learning Intermediate Representations using Graph Neural Networks for NUMA and Prefetchers Optimization**|Ali TehraniJamsaz et.al.|[2203.00611v1](http://arxiv.org/abs/2203.00611v1)|null|
+|**2022-03-01**|**Motion-aware Dynamic Graph Neural Network for Video Compressive Sensing**|Ruiying Lu et.al.|[2203.00387v1](http://arxiv.org/abs/2203.00387v1)|null|
+|**2022-03-01**|**Machine Learning for Particle Flow Reconstruction at CMS**|Joosep Pata et.al.|[2203.00330v1](http://arxiv.org/abs/2203.00330v1)|null|
+|**2022-03-01**|**Equivariant and Stable Positional Encoding for More Powerful Graph Neural Networks**|Haorui Wang et.al.|[2203.00199v1](http://arxiv.org/abs/2203.00199v1)|**[link](https://github.com/graph-com/peg)**|
+|**2022-02-28**|**GraphWorld: Fake Graphs Bring Real Insights for GNNs**|John Palowitch et.al.|[2203.00112v1](http://arxiv.org/abs/2203.00112v1)|null|
 |**2022-02-28**|**RouteNet-Erlang: A Graph Neural Network for Network Performance Evaluation**|Miquel Ferriol-Galmés et.al.|[2202.13956v1](http://arxiv.org/abs/2202.13956v1)|null|
 |**2022-02-28**|**Data-Augmentation for Graph Neural Network Learning of the Relaxed Energies of Unrelaxed Structures**|Jason B. Gibson et.al.|[2202.13947v1](http://arxiv.org/abs/2202.13947v1)|null|
 |**2022-02-28**|**Hyperbolic Graph Neural Networks: A Review of Methods and Applications**|Menglin Yang et.al.|[2202.13852v1](http://arxiv.org/abs/2202.13852v1)|**[link](https://github.com/marlin-codes/HGNNs)**|
