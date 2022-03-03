@@ -4,6 +4,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-02**|**Audio Self-supervised Learning: A Survey**|Shuo Liu et.al.|[2203.01205v1](http://arxiv.org/abs/2203.01205v1)|null|
+|**2022-03-02**|**DCT-Former: Efficient Self-Attention withDiscrete Cosine Transform**|Carmelo Scribano et.al.|[2203.01178v1](http://arxiv.org/abs/2203.01178v1)|null|
+|**2022-02-28**|**Nanophotonic cavity based synapse for scalable photonic neural networks**|Aashu Jha et.al.|[2203.01128v1](http://arxiv.org/abs/2203.01128v1)|null|
+|**2022-03-02**|**Aggregated Pyramid Vision Transformer: Split-transform-merge Strategy for Image Recognition without Convolutions**|Rui-Yang Ju et.al.|[2203.00960v1](http://arxiv.org/abs/2203.00960v1)|null|
 |**2022-03-01**|**Towards a Common Speech Analysis Engine**|Hagai Aronowitz et.al.|[2203.00613v1](http://arxiv.org/abs/2203.00613v1)|null|
 |**2022-03-01**|**Topological Data Analysis for Word Sense Disambiguation**|Michael Rawson et.al.|[2203.00565v1](http://arxiv.org/abs/2203.00565v1)|null|
 |**2022-03-01**|**Improving Performance of Automated Essay Scoring by using back-translation essays and adjusted scores**|You-Jin Jong et.al.|[2203.00354v1](http://arxiv.org/abs/2203.00354v1)|null|
@@ -290,6 +294,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-02**|**A Survey on Aspect-Based Sentiment Analysis: Tasks, Methods, and Challenges**|Wenxuan Zhang et.al.|[2203.01054v1](http://arxiv.org/abs/2203.01054v1)|null|
 |**2022-03-01**|**Sentiment Word Aware Multimodal Refinement for Multimodal Sentiment Analysis with ASR Errors**|Yang Wu et.al.|[2203.00257v1](http://arxiv.org/abs/2203.00257v1)|**[link](https://github.com/albertwy/SWRM)**|
 |**2022-02-28**|**TraceNet: Tracing and Locating the Key Elements in Sentiment Analysis**|Qinghua Zhao et.al.|[2202.13812v1](http://arxiv.org/abs/2202.13812v1)|**[link](https://github.com/lshowway/tracenet)**|
 |**2022-02-28**|**MSCTD: A Multimodal Sentiment Chat Translation Dataset**|Yunlong Liang et.al.|[2202.13645v1](http://arxiv.org/abs/2202.13645v1)|null|
@@ -336,6 +341,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-02**|**Video Question Answering: Datasets, Algorithms and Challenges**|Yaoyao Zhong et.al.|[2203.01225v1](http://arxiv.org/abs/2203.01225v1)|null|
 |**2022-03-01**|**Read before Generate! Faithful Long Form Question Answering with Machine Reading**|Dan Su et.al.|[2203.00343v1](http://arxiv.org/abs/2203.00343v1)|null|
 |**2022-03-01**|**Improving Time Sensitivity for Question Answering over Temporal Knowledge Graphs**|Chao Shang et.al.|[2203.00255v1](http://arxiv.org/abs/2203.00255v1)|null|
 |**2022-03-01**|**Semantic Sentence Composition Reasoning for Multi-Hop Question Answering**|Qianglong Chen et.al.|[2203.00160v1](http://arxiv.org/abs/2203.00160v1)|null|
@@ -491,6 +497,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-02**|**Counterfactually Evaluating Explanations in Recommender Systems**|Yuanshun Yao et.al.|[2203.01310v1](http://arxiv.org/abs/2203.01310v1)|null|
+|**2022-03-02**|**Recommendations in a Multi-Domain Setting: Adapting for Customization, Scalability and Real-Time Performance**|Emanuel Lacic et.al.|[2203.01256v1](http://arxiv.org/abs/2203.01256v1)|null|
+|**2022-03-02**|**Top-N Recommendation Algorithms: A Quest for the State-of-the-Art**|Vito Walter Anelli et.al.|[2203.01155v1](http://arxiv.org/abs/2203.01155v1)|null|
+|**2022-03-02**|**An Effective Way for Cross-Market Recommendation with Hybrid Pre-Ranking and Ranking Models**|Qi Zhang et.al.|[2203.00897v1](http://arxiv.org/abs/2203.00897v1)|null|
 |**2022-03-01**|**Popularity Bias in Collaborative Filtering-Based Multimedia Recommender Systems**|Dominik Kowald et.al.|[2203.00376v1](http://arxiv.org/abs/2203.00376v1)|null|
 |**2022-03-01**|**Semantic Sentence Composition Reasoning for Multi-Hop Question Answering**|Qianglong Chen et.al.|[2203.00160v1](http://arxiv.org/abs/2203.00160v1)|null|
 |**2022-03-01**|**The dangers in algorithms learning humans' values and irrationalities**|Rebecca Gorman et.al.|[2202.13985v2](http://arxiv.org/abs/2202.13985v2)|null|
@@ -615,6 +625,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-02**|**Pattern Recognition and Event Detection on IoT Data-streams**|Christos Karras et.al.|[2203.01114v1](http://arxiv.org/abs/2203.01114v1)|null|
+|**2022-03-02**|**SelfKG: Self-Supervised Entity Alignment in Knowledge Graphs**|Xiao Liu et.al.|[2203.01044v1](http://arxiv.org/abs/2203.01044v1)|**[link](https://github.com/THUDM/SelfKG)**|
+|**2022-03-02**|**TableFormer: Table Structure Understanding with Transformers**|Ahmed Nassar et.al.|[2203.01017v1](http://arxiv.org/abs/2203.01017v1)|null|
+|**2022-03-02**|**PKGM: A Pre-trained Knowledge Graph Model for E-commerce Application**|Wen Zhang et.al.|[2203.00964v1](http://arxiv.org/abs/2203.00964v1)|null|
 |**2022-03-01**|**Dual Embodied-Symbolic Concept Representations for Deep Learning**|Daniel T. Chang et.al.|[2203.00600v1](http://arxiv.org/abs/2203.00600v1)|null|
 |**2022-03-01**|**Improving Time Sensitivity for Question Answering over Temporal Knowledge Graphs**|Chao Shang et.al.|[2203.00255v1](http://arxiv.org/abs/2203.00255v1)|null|
 |**2022-02-25**|**CAKE: A Scalable Commonsense-Aware Framework For Multi-View Knowledge Graph Completion**|Guanglin Niu et.al.|[2202.13785v1](http://arxiv.org/abs/2202.13785v1)|null|
@@ -704,6 +718,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-02**|**GNN-based end-to-end reconstruction in the CMS Phase 2 High-Granularity Calorimeter**|Saptaparna Bhattacharya et.al.|[2203.01189v1](http://arxiv.org/abs/2203.01189v1)|null|
+|**2022-03-02**|**Visual Feature Encoding for GNNs on Road Networks**|Oliver Stromann et.al.|[2203.01187v1](http://arxiv.org/abs/2203.01187v1)|null|
+|**2022-03-02**|**Hyperparameter optimization of data-driven AI models on HPC systems**|Eric Wulff et.al.|[2203.01112v1](http://arxiv.org/abs/2203.01112v1)|null|
+|**2022-03-02**|**Information Gain Propagation: a new way to Graph Active Learning with Soft Labels**|Wentao Zhang et.al.|[2203.01093v1](http://arxiv.org/abs/2203.01093v1)|**[link](https://github.com/zwt233/igp)**|
+|**2022-03-02**|**GAP: Differentially Private Graph Neural Networks with Aggregation Perturbation**|Sina Sajadmanesh et.al.|[2203.00949v1](http://arxiv.org/abs/2203.00949v1)|null|
+|**2022-03-02**|**Learning Object Relations with Graph Neural Networks for Target-Driven Grasping in Dense Clutter**|Xibai Lou et.al.|[2203.00875v1](http://arxiv.org/abs/2203.00875v1)|null|
+|**2022-03-02**|**CandidateDrug4Cancer: An Open Molecular Graph Learning Benchmark on Drug Discovery for Cancer**|Xianbin Ye et.al.|[2203.00836v1](http://arxiv.org/abs/2203.00836v1)|null|
 |**2022-03-01**|**PaSca: a Graph Neural Architecture Search System under the Scalable Paradigm**|Wentao Zhang et.al.|[2203.00638v1](http://arxiv.org/abs/2203.00638v1)|null|
 |**2022-03-01**|**Learning Intermediate Representations using Graph Neural Networks for NUMA and Prefetchers Optimization**|Ali TehraniJamsaz et.al.|[2203.00611v1](http://arxiv.org/abs/2203.00611v1)|null|
 |**2022-03-01**|**Motion-aware Dynamic Graph Neural Network for Video Compressive Sensing**|Ruiying Lu et.al.|[2203.00387v1](http://arxiv.org/abs/2203.00387v1)|null|
