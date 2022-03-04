@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.03.03
+## Updated on 2022.03.04
 
 ## NLP
 
