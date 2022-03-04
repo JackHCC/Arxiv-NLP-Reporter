@@ -5,13 +5,13 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2022-03-02**|**Audio Self-supervised Learning: A Survey**|Shuo Liu et.al.|[2203.01205v1](http://arxiv.org/abs/2203.01205v1)|null|
-|**2022-03-02**|**DCT-Former: Efficient Self-Attention withDiscrete Cosine Transform**|Carmelo Scribano et.al.|[2203.01178v1](http://arxiv.org/abs/2203.01178v1)|null|
+|**2022-03-03**|**DCT-Former: Efficient Self-Attention with Discrete Cosine Transform**|Carmelo Scribano et.al.|[2203.01178v2](http://arxiv.org/abs/2203.01178v2)|null|
 |**2022-02-28**|**Nanophotonic cavity based synapse for scalable photonic neural networks**|Aashu Jha et.al.|[2203.01128v1](http://arxiv.org/abs/2203.01128v1)|null|
 |**2022-03-02**|**Aggregated Pyramid Vision Transformer: Split-transform-merge Strategy for Image Recognition without Convolutions**|Rui-Yang Ju et.al.|[2203.00960v1](http://arxiv.org/abs/2203.00960v1)|null|
 |**2022-03-01**|**Towards a Common Speech Analysis Engine**|Hagai Aronowitz et.al.|[2203.00613v1](http://arxiv.org/abs/2203.00613v1)|null|
 |**2022-03-01**|**Topological Data Analysis for Word Sense Disambiguation**|Michael Rawson et.al.|[2203.00565v1](http://arxiv.org/abs/2203.00565v1)|null|
 |**2022-03-01**|**Improving Performance of Automated Essay Scoring by using back-translation essays and adjusted scores**|You-Jin Jong et.al.|[2203.00354v1](http://arxiv.org/abs/2203.00354v1)|null|
-|**2022-02-28**|**A Multi-scale Transformer for Medical Image Segmentation: Architectures, Model Efficiency, and Benchmarks**|Yunhe Gao et.al.|[2203.00131v1](http://arxiv.org/abs/2203.00131v1)|**[link](https://github.com/yhygao/cbim-medical-image-segmentation)**|
+|**2022-03-03**|**A Multi-scale Transformer for Medical Image Segmentation: Architectures, Model Efficiency, and Benchmarks**|Yunhe Gao et.al.|[2203.00131v2](http://arxiv.org/abs/2203.00131v2)|**[link](https://github.com/yhygao/cbim-medical-image-segmentation)**|
 |**2022-02-28**|**Paper Plain: Making Medical Research Papers Approachable to Healthcare Consumers with Natural Language Processing**|Tal August et.al.|[2203.00130v1](http://arxiv.org/abs/2203.00130v1)|**[link](https://github.com/allenai/paper-plain)**|
 |**2022-02-28**|**An Empirical Study on Explanations in Out-of-Domain Settings**|George Chrysostomou et.al.|[2203.00056v1](http://arxiv.org/abs/2203.00056v1)|**[link](https://github.com/gchrysostomou/ood_faith)**|
 |**2022-02-28**|**Robust Textual Embedding against Word-level Adversarial Attacks**|Yichen Yang et.al.|[2202.13817v1](http://arxiv.org/abs/2202.13817v1)|null|
