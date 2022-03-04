@@ -4,6 +4,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-03**|**Vision-Language Intelligence: Tasks, Representation Learning, and Large Models**|Feng Li et.al.|[2203.01922v1](http://arxiv.org/abs/2203.01922v1)|null|
+|**2022-03-01**|**A Brief Overview of Unsupervised Neural Speech Representation Learning**|Lasse Borgholt et.al.|[2203.01829v1](http://arxiv.org/abs/2203.01829v1)|null|
+|**2022-03-03**|**A Deep Neural Framework for Image Caption Generation Using GRU-Based Attention Mechanism**|Rashid Khan et.al.|[2203.01594v1](http://arxiv.org/abs/2203.01594v1)|null|
 |**2022-03-02**|**Audio Self-supervised Learning: A Survey**|Shuo Liu et.al.|[2203.01205v1](http://arxiv.org/abs/2203.01205v1)|null|
 |**2022-03-03**|**DCT-Former: Efficient Self-Attention with Discrete Cosine Transform**|Carmelo Scribano et.al.|[2203.01178v2](http://arxiv.org/abs/2203.01178v2)|null|
 |**2022-02-28**|**Nanophotonic cavity based synapse for scalable photonic neural networks**|Aashu Jha et.al.|[2203.01128v1](http://arxiv.org/abs/2203.01128v1)|null|
@@ -183,6 +186,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-03**|**QaNER: Prompting Question Answering Models for Few-shot Named Entity Recognition**|Andy T. Liu et.al.|[2203.01543v1](http://arxiv.org/abs/2203.01543v1)|null|
 |**2022-03-01**|**DAMO-NLP at SemEval-2022 Task 11: A Knowledge-based System for Multilingual Named Entity Recognition**|Xinyu Wang et.al.|[2203.00545v1](http://arxiv.org/abs/2203.00545v1)|**[link](https://github.com/alibaba-nlp/kb-ner)**|
 |**2022-02-28**|**ParaNames: A Massively Multilingual Entity Name Corpus**|Jonne Sälevä et.al.|[2202.14035v1](http://arxiv.org/abs/2202.14035v1)|null|
 |**2022-02-25**|**Deep neural networks for fine-grained surveillance of overdose mortality**|Patrick J. Ward et.al.|[2202.12448v1](http://arxiv.org/abs/2202.12448v1)|null|
@@ -214,6 +218,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-03**|**Detection of Word Adversarial Examples in Text Classification: Benchmark and Baseline via Robust Density Estimation**|KiYoon Yoo et.al.|[2203.01677v1](http://arxiv.org/abs/2203.01677v1)|**[link](https://github.com/anoymous92874838/text-adv-detection)**|
 |**2022-02-28**|**Gait Events Prediction using Hybrid CNN-RNN-based Deep Learning models through a Single Waist-worn Wearable Sensor**|Muhammad Zeeshan Arshad et.al.|[2203.00503v1](http://arxiv.org/abs/2203.00503v1)|null|
 |**2022-03-01**|**Semi-overlap Functions and Novel Fuzzy Reasoning Algorithms with Applications**|Xiaohong Zhang et.al.|[2203.00437v1](http://arxiv.org/abs/2203.00437v1)|null|
 |**2022-03-01**|**EPPAC: Entity Pre-typing Relation Classification with Prompt AnswerCentralizing**|Jiejun Tan et.al.|[2203.00193v1](http://arxiv.org/abs/2203.00193v1)|null|
@@ -294,6 +299,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-03**|**Detection of Word Adversarial Examples in Text Classification: Benchmark and Baseline via Robust Density Estimation**|KiYoon Yoo et.al.|[2203.01677v1](http://arxiv.org/abs/2203.01677v1)|**[link](https://github.com/anoymous92874838/text-adv-detection)**|
 |**2022-03-02**|**A Survey on Aspect-Based Sentiment Analysis: Tasks, Methods, and Challenges**|Wenxuan Zhang et.al.|[2203.01054v1](http://arxiv.org/abs/2203.01054v1)|null|
 |**2022-03-01**|**Sentiment Word Aware Multimodal Refinement for Multimodal Sentiment Analysis with ASR Errors**|Yang Wu et.al.|[2203.00257v1](http://arxiv.org/abs/2203.00257v1)|**[link](https://github.com/albertwy/SWRM)**|
 |**2022-02-28**|**TraceNet: Tracing and Locating the Key Elements in Sentiment Analysis**|Qinghua Zhao et.al.|[2202.13812v1](http://arxiv.org/abs/2202.13812v1)|**[link](https://github.com/lshowway/tracenet)**|
@@ -341,6 +347,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-03**|**QaNER: Prompting Question Answering Models for Few-shot Named Entity Recognition**|Andy T. Liu et.al.|[2203.01543v1](http://arxiv.org/abs/2203.01543v1)|null|
+|**2022-03-02**|**Recent, rapid advancement in visual question answering architecture**|Venkat Kodali et.al.|[2203.01322v1](http://arxiv.org/abs/2203.01322v1)|null|
 |**2022-03-02**|**Video Question Answering: Datasets, Algorithms and Challenges**|Yaoyao Zhong et.al.|[2203.01225v1](http://arxiv.org/abs/2203.01225v1)|null|
 |**2022-03-01**|**Read before Generate! Faithful Long Form Question Answering with Machine Reading**|Dan Su et.al.|[2203.00343v1](http://arxiv.org/abs/2203.00343v1)|null|
 |**2022-03-01**|**Improving Time Sensitivity for Question Answering over Temporal Knowledge Graphs**|Chao Shang et.al.|[2203.00255v1](http://arxiv.org/abs/2203.00255v1)|null|
@@ -497,10 +505,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-03**|**Sparse Bayesian Optimization**|Sulin Liu et.al.|[2203.01900v1](http://arxiv.org/abs/2203.01900v1)|null|
 |**2022-03-02**|**Counterfactually Evaluating Explanations in Recommender Systems**|Yuanshun Yao et.al.|[2203.01310v1](http://arxiv.org/abs/2203.01310v1)|null|
 |**2022-03-02**|**Recommendations in a Multi-Domain Setting: Adapting for Customization, Scalability and Real-Time Performance**|Emanuel Lacic et.al.|[2203.01256v1](http://arxiv.org/abs/2203.01256v1)|null|
 |**2022-03-02**|**Top-N Recommendation Algorithms: A Quest for the State-of-the-Art**|Vito Walter Anelli et.al.|[2203.01155v1](http://arxiv.org/abs/2203.01155v1)|null|
-|**2022-03-02**|**An Effective Way for Cross-Market Recommendation with Hybrid Pre-Ranking and Ranking Models**|Qi Zhang et.al.|[2203.00897v1](http://arxiv.org/abs/2203.00897v1)|null|
+|**2022-03-02**|**An Effective Way for Cross-Market Recommendation with Hybrid Pre-Ranking and Ranking Models**|Qi Zhang et.al.|[2203.00897v1](http://arxiv.org/abs/2203.00897v1)|**[link](https://github.com/opdai/wsdm2022-xmrec-top1-solution)**|
 |**2022-03-01**|**Popularity Bias in Collaborative Filtering-Based Multimedia Recommender Systems**|Dominik Kowald et.al.|[2203.00376v1](http://arxiv.org/abs/2203.00376v1)|null|
 |**2022-03-01**|**Semantic Sentence Composition Reasoning for Multi-Hop Question Answering**|Qianglong Chen et.al.|[2203.00160v1](http://arxiv.org/abs/2203.00160v1)|null|
 |**2022-03-01**|**The dangers in algorithms learning humans' values and irrationalities**|Rebecca Gorman et.al.|[2202.13985v2](http://arxiv.org/abs/2202.13985v2)|null|
@@ -625,6 +634,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-03**|**Adaptive Local-Global Relational Network for Facial Action Units Recognition and Facial Paralysis Estimation**|Xuri Ge et.al.|[2203.01800v1](http://arxiv.org/abs/2203.01800v1)|null|
+|**2022-03-03**|**An Open Challenge for Inductive Link Prediction on Knowledge Graphs**|Mikhail Galkin et.al.|[2203.01520v1](http://arxiv.org/abs/2203.01520v1)|**[link](https://github.com/pykeen/ilpc2022)**|
 |**2022-03-02**|**Pattern Recognition and Event Detection on IoT Data-streams**|Christos Karras et.al.|[2203.01114v1](http://arxiv.org/abs/2203.01114v1)|null|
 |**2022-03-02**|**SelfKG: Self-Supervised Entity Alignment in Knowledge Graphs**|Xiao Liu et.al.|[2203.01044v1](http://arxiv.org/abs/2203.01044v1)|**[link](https://github.com/THUDM/SelfKG)**|
 |**2022-03-02**|**TableFormer: Table Structure Understanding with Transformers**|Ahmed Nassar et.al.|[2203.01017v1](http://arxiv.org/abs/2203.01017v1)|null|
@@ -718,6 +729,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-03**|**Graph Neural Networks for Multimodal Single-Cell Data Integration**|Hongzhi Wen et.al.|[2203.01884v1](http://arxiv.org/abs/2203.01884v1)|null|
+|**2022-03-03**|**Thermodynamics-informed graph neural networks**|Quercus Hernández et.al.|[2203.01874v1](http://arxiv.org/abs/2203.01874v1)|null|
+|**2022-03-03**|**Socially Aware Robot Crowd Navigation with Interaction Graphs and Human Trajectory Prediction**|Shuijing Liu et.al.|[2203.01821v1](http://arxiv.org/abs/2203.01821v1)|null|
+|**2022-03-03**|**On an application of graph neural networks in population based SHM**|G. Tsialiamanis et.al.|[2203.01646v1](http://arxiv.org/abs/2203.01646v1)|null|
+|**2022-03-03**|**Neural Graph Matching for Pre-training Graph Neural Networks**|Yupeng Hou et.al.|[2203.01597v1](http://arxiv.org/abs/2203.01597v1)|**[link](https://github.com/rucaibox/gmpt)**|
 |**2022-03-02**|**GNN-based end-to-end reconstruction in the CMS Phase 2 High-Granularity Calorimeter**|Saptaparna Bhattacharya et.al.|[2203.01189v1](http://arxiv.org/abs/2203.01189v1)|null|
 |**2022-03-02**|**Visual Feature Encoding for GNNs on Road Networks**|Oliver Stromann et.al.|[2203.01187v1](http://arxiv.org/abs/2203.01187v1)|null|
 |**2022-03-02**|**Hyperparameter optimization of data-driven AI models on HPC systems**|Eric Wulff et.al.|[2203.01112v1](http://arxiv.org/abs/2203.01112v1)|null|
