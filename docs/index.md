@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.03.05
+## Updated on 2022.03.06
 
 ## NLP
 
@@ -192,7 +192,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2022-03-03**|**QaNER: Prompting Question Answering Models for Few-shot Named Entity Recognition**|Andy T. Liu et.al.|[2203.01543v1](http://arxiv.org/abs/2203.01543v1)|null|
 |**2022-03-01**|**DAMO-NLP at SemEval-2022 Task 11: A Knowledge-based System for Multilingual Named Entity Recognition**|Xinyu Wang et.al.|[2203.00545v1](http://arxiv.org/abs/2203.00545v1)|**[link](https://github.com/alibaba-nlp/kb-ner)**|
-|**2022-02-28**|**ParaNames: A Massively Multilingual Entity Name Corpus**|Jonne Sälevä et.al.|[2202.14035v1](http://arxiv.org/abs/2202.14035v1)|null|
+|**2022-02-28**|**ParaNames: A Massively Multilingual Entity Name Corpus**|Jonne Sälevä et.al.|[2202.14035v1](http://arxiv.org/abs/2202.14035v1)|**[link](https://github.com/bltlab/paranames)**|
 |**2022-02-25**|**Deep neural networks for fine-grained surveillance of overdose mortality**|Patrick J. Ward et.al.|[2202.12448v1](http://arxiv.org/abs/2202.12448v1)|null|
 |**2022-02-18**|**DataMUX: Data Multiplexing for Neural Networks**|Vishvak Murahari et.al.|[2202.09318v1](http://arxiv.org/abs/2202.09318v1)|**[link](https://github.com/princeton-nlp/datamux)**|
 |**2022-02-17**|**AISHELL-NER: Named Entity Recognition from Chinese Speech**|Boli Chen et.al.|[2202.08533v1](http://arxiv.org/abs/2202.08533v1)|**[link](https://github.com/alibaba-nlp/aishell-ner)**|
