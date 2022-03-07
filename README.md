@@ -186,7 +186,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2022-03-03**|**QaNER: Prompting Question Answering Models for Few-shot Named Entity Recognition**|Andy T. Liu et.al.|[2203.01543v1](http://arxiv.org/abs/2203.01543v1)|null|
+|**2022-03-04**|**QaNER: Prompting Question Answering Models for Few-shot Named Entity Recognition**|Andy T. Liu et.al.|[2203.01543v2](http://arxiv.org/abs/2203.01543v2)|null|
 |**2022-03-01**|**DAMO-NLP at SemEval-2022 Task 11: A Knowledge-based System for Multilingual Named Entity Recognition**|Xinyu Wang et.al.|[2203.00545v1](http://arxiv.org/abs/2203.00545v1)|**[link](https://github.com/alibaba-nlp/kb-ner)**|
 |**2022-02-28**|**ParaNames: A Massively Multilingual Entity Name Corpus**|Jonne Sälevä et.al.|[2202.14035v1](http://arxiv.org/abs/2202.14035v1)|**[link](https://github.com/bltlab/paranames)**|
 |**2022-02-25**|**Deep neural networks for fine-grained surveillance of overdose mortality**|Patrick J. Ward et.al.|[2202.12448v1](http://arxiv.org/abs/2202.12448v1)|null|
@@ -347,7 +347,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2022-03-03**|**QaNER: Prompting Question Answering Models for Few-shot Named Entity Recognition**|Andy T. Liu et.al.|[2203.01543v1](http://arxiv.org/abs/2203.01543v1)|null|
+|**2022-03-04**|**QaNER: Prompting Question Answering Models for Few-shot Named Entity Recognition**|Andy T. Liu et.al.|[2203.01543v2](http://arxiv.org/abs/2203.01543v2)|null|
 |**2022-03-02**|**Recent, rapid advancement in visual question answering architecture**|Venkat Kodali et.al.|[2203.01322v1](http://arxiv.org/abs/2203.01322v1)|null|
 |**2022-03-02**|**Video Question Answering: Datasets, Algorithms and Challenges**|Yaoyao Zhong et.al.|[2203.01225v1](http://arxiv.org/abs/2203.01225v1)|null|
 |**2022-03-01**|**Read before Generate! Faithful Long Form Question Answering with Machine Reading**|Dan Su et.al.|[2203.00343v1](http://arxiv.org/abs/2203.00343v1)|null|
