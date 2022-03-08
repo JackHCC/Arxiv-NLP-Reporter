@@ -8,6 +8,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-03-07**|**RumorLens: Interactive Analysis and Validation of Suspected Rumors on Social Media**|Ran Wang et.al.|[2203.03098v1](http://arxiv.org/abs/2203.03098v1)|null|
+|**2022-03-06**|**Story Point Effort Estimation by Text Level Graph Neural Network**|Hung Phan et.al.|[2203.03062v1](http://arxiv.org/abs/2203.03062v1)|null|
+|**2022-03-06**|**A Survey of Implicit Discourse Relation Recognition**|Wei Xiang et.al.|[2203.02982v1](http://arxiv.org/abs/2203.02982v1)|null|
+|**2022-03-06**|**Leveraging Pre-trained BERT for Audio Captioning**|Xubo Liu et.al.|[2203.02838v1](http://arxiv.org/abs/2203.02838v1)|null|
+|**2022-03-05**|**Just Rank: Rethinking Evaluation with Word and Sentence Similarities**|Bin Wang et.al.|[2203.02679v1](http://arxiv.org/abs/2203.02679v1)|**[link](https://github.com/binwang28/evalrank-embedding-evaluation)**|
+|**2022-03-04**|**A streamable large-scale clinical EEG dataset for Deep Learning**|Dung Truong et.al.|[2203.02552v1](http://arxiv.org/abs/2203.02552v1)|null|
 |**2022-03-04**|**Deep Lexical Hypothesis: Identifying personality structure in natural language**|Andrew Cutler et.al.|[2203.02092v1](http://arxiv.org/abs/2203.02092v1)|null|
 |**2022-03-03**|**Vision-Language Intelligence: Tasks, Representation Learning, and Large Models**|Feng Li et.al.|[2203.01922v1](http://arxiv.org/abs/2203.01922v1)|null|
 |**2022-03-01**|**A Brief Overview of Unsupervised Neural Speech Representation Learning**|Lasse Borgholt et.al.|[2203.01829v1](http://arxiv.org/abs/2203.01829v1)|null|
@@ -191,6 +197,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-02-13**|**LMN at SemEval-2022 Task 11: A Transformer-based System for English Named Entity Recognition**|Ngoc Minh Lai et.al.|[2203.03546v1](http://arxiv.org/abs/2203.03546v1)|null|
+|**2022-03-07**|**USTC-NELSLIP at SemEval-2022 Task 11: Gazetteer-Adapted Integration Network for Multilingual Complex Named Entity Recognition**|Beiduo Chen et.al.|[2203.03216v1](http://arxiv.org/abs/2203.03216v1)|**[link](https://github.com/mckysse/gain)**|
 |**2022-03-04**|**QaNER: Prompting Question Answering Models for Few-shot Named Entity Recognition**|Andy T. Liu et.al.|[2203.01543v2](http://arxiv.org/abs/2203.01543v2)|null|
 |**2022-03-01**|**DAMO-NLP at SemEval-2022 Task 11: A Knowledge-based System for Multilingual Named Entity Recognition**|Xinyu Wang et.al.|[2203.00545v1](http://arxiv.org/abs/2203.00545v1)|**[link](https://github.com/alibaba-nlp/kb-ner)**|
 |**2022-02-28**|**ParaNames: A Massively Multilingual Entity Name Corpus**|Jonne Sälevä et.al.|[2202.14035v1](http://arxiv.org/abs/2202.14035v1)|**[link](https://github.com/bltlab/paranames)**|
@@ -223,6 +231,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-03-04**|**CoNIC Solution**|Wenhua Zhang et.al.|[2203.03415v1](http://arxiv.org/abs/2203.03415v1)|null|
+|**2022-03-06**|**Story Point Effort Estimation by Text Level Graph Neural Network**|Hung Phan et.al.|[2203.03062v1](http://arxiv.org/abs/2203.03062v1)|null|
+|**2022-03-06**|**Graph Neural Network Enhanced Language Models for Efficient Multilingual Text Classification**|Samujjwal Ghosh et.al.|[2203.02912v1](http://arxiv.org/abs/2203.02912v1)|null|
 |**2022-03-04**|**Selective Pseudo-labeling and Class-wise Discriminative Fusion for Sound Event Detection**|Yunhao Liang et.al.|[2203.02191v1](http://arxiv.org/abs/2203.02191v1)|null|
 |**2022-03-03**|**Detection of Word Adversarial Examples in Text Classification: Benchmark and Baseline via Robust Density Estimation**|KiYoon Yoo et.al.|[2203.01677v1](http://arxiv.org/abs/2203.01677v1)|**[link](https://github.com/anoymous92874838/text-adv-detection)**|
 |**2022-02-28**|**Gait Events Prediction using Hybrid CNN-RNN-based Deep Learning models through a Single Waist-worn Wearable Sensor**|Muhammad Zeeshan Arshad et.al.|[2203.00503v1](http://arxiv.org/abs/2203.00503v1)|null|
@@ -354,6 +365,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-03-06**|**Modeling Coreference Relations in Visual Dialog**|Mingxiao Li et.al.|[2203.02986v1](http://arxiv.org/abs/2203.02986v1)|null|
+|**2022-03-06**|**Dynamic Key-value Memory Enhanced Multi-step Graph Reasoning for Knowledge-based Visual Question Answering**|Mingxiao Li et.al.|[2203.02985v1](http://arxiv.org/abs/2203.02985v1)|null|
+|**2022-03-06**|**Divide and Conquer: Text Semantic Matching with Disentangled Keywords and Intents**|Yicheng Zou et.al.|[2203.02898v1](http://arxiv.org/abs/2203.02898v1)|**[link](https://github.com/rowitzou/dc-match)**|
 |**2022-03-04**|**QaNER: Prompting Question Answering Models for Few-shot Named Entity Recognition**|Andy T. Liu et.al.|[2203.01543v2](http://arxiv.org/abs/2203.01543v2)|null|
 |**2022-03-02**|**Recent, rapid advancement in visual question answering architecture**|Venkat Kodali et.al.|[2203.01322v1](http://arxiv.org/abs/2203.01322v1)|null|
 |**2022-03-02**|**Video Question Answering: Datasets, Algorithms and Challenges**|Yaoyao Zhong et.al.|[2203.01225v1](http://arxiv.org/abs/2203.01225v1)|null|
@@ -512,6 +526,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-03-04**|**Targeted Data Poisoning Attack on News Recommendation System**|Xudong Zhang et.al.|[2203.03560v1](http://arxiv.org/abs/2203.03560v1)|null|
+|**2022-03-07**|**Towards Robust Online Dialogue Response Generation**|Leyang Cui et.al.|[2203.03168v1](http://arxiv.org/abs/2203.03168v1)|null|
+|**2022-03-06**|**Divide and Conquer: Text Semantic Matching with Disentangled Keywords and Intents**|Yicheng Zou et.al.|[2203.02898v1](http://arxiv.org/abs/2203.02898v1)|**[link](https://github.com/rowitzou/dc-match)**|
+|**2022-03-05**|**Off-Policy Evaluation in Embedded Spaces**|Jaron J. R. Lee et.al.|[2203.02807v1](http://arxiv.org/abs/2203.02807v1)|null|
+|**2022-03-05**|**Cluster-based Contrastive Disentangling for Generalized Zero-Shot Learning**|Yi Gao et.al.|[2203.02648v1](http://arxiv.org/abs/2203.02648v1)|null|
 |**2022-03-04**|**Beyond Plain Toxic: Detection of Inappropriate Statements on Flammable Topics for the Russian Language**|Nikolay Babakov et.al.|[2203.02392v1](http://arxiv.org/abs/2203.02392v1)|null|
 |**2022-03-03**|**Baba is Y'all 2.0: Design and Investigation of a Collaborative Mixed-Initiative System**|M Charity et.al.|[2203.02035v1](http://arxiv.org/abs/2203.02035v1)|null|
 |**2022-03-03**|**Sparse Bayesian Optimization**|Sulin Liu et.al.|[2203.01900v1](http://arxiv.org/abs/2203.01900v1)|null|
@@ -643,6 +662,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-03-05**|**Flurry: a Fast Framework for Reproducible Multi-layered Provenance Graph Representation Learning**|Maya Kapoor et.al.|[2203.02744v1](http://arxiv.org/abs/2203.02744v1)|null|
+|**2022-03-05**|**Scaling R-GCN Training with Graph Summarization**|Alessandro Generale et.al.|[2203.02622v1](http://arxiv.org/abs/2203.02622v1)|null|
 |**2022-03-04**|**R-GCN: The R Could Stand for Random**|Vic Degraeve et.al.|[2203.02424v1](http://arxiv.org/abs/2203.02424v1)|null|
 |**2022-03-04**|**SimKGC: Simple Contrastive Knowledge Graph Completion with Pre-trained Language Models**|Liang Wang et.al.|[2203.02167v1](http://arxiv.org/abs/2203.02167v1)|**[link](https://github.com/intfloat/simkgc)**|
 |**2022-03-04**|**Time-aware Graph Neural Networks for Entity Alignment between Temporal Knowledge Graphs**|Chengjin_Xu et.al.|[2203.02150v1](http://arxiv.org/abs/2203.02150v1)|**[link](https://github.com/soledad921/tea-gnn)**|
@@ -741,6 +762,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-03-07**|**ZippyPoint: Fast Interest Point Detection, Description, and Matching through Mixed Precision Discretization**|Simon Maurer et.al.|[2203.03610v1](http://arxiv.org/abs/2203.03610v1)|null|
+|**2022-03-07**|**Graph Neural Networks for Image Classification and Reinforcement Learning using Graph representations**|Naman Goyal et.al.|[2203.03457v1](http://arxiv.org/abs/2203.03457v1)|null|
+|**2022-03-07**|**Unpaired Image Captioning by Image-level Weakly-Supervised Visual Concept Recognition**|Peipei Zhu et.al.|[2203.03195v1](http://arxiv.org/abs/2203.03195v1)|null|
+|**2022-03-07**|**Scalable Verification of GNN-based Job Schedulers**|Haoze Wu et.al.|[2203.03153v1](http://arxiv.org/abs/2203.03153v1)|null|
+|**2022-03-07**|**End-to-end video instance segmentation via spatial-temporal graph neural networks**|Tao Wang et.al.|[2203.03145v1](http://arxiv.org/abs/2203.03145v1)|**[link](https://github.com/lucaswithai/visgraph)**|
+|**2022-03-06**|**Story Point Effort Estimation by Text Level Graph Neural Network**|Hung Phan et.al.|[2203.03062v1](http://arxiv.org/abs/2203.03062v1)|null|
+|**2022-03-06**|**Graph Neural Network Enhanced Language Models for Efficient Multilingual Text Classification**|Samujjwal Ghosh et.al.|[2203.02912v1](http://arxiv.org/abs/2203.02912v1)|null|
+|**2022-03-06**|**Graph Neural Network Potential for Magnetic Materials**|Hongyu Yu et.al.|[2203.02853v1](http://arxiv.org/abs/2203.02853v1)|null|
+|**2022-03-05**|**Flurry: a Fast Framework for Reproducible Multi-layered Provenance Graph Representation Learning**|Maya Kapoor et.al.|[2203.02744v1](http://arxiv.org/abs/2203.02744v1)|null|
+|**2022-03-05**|**MVD: Memory-Related Vulnerability Detection Based on Flow-Sensitive Graph Neural Networks**|Sicong Cao et.al.|[2203.02660v1](http://arxiv.org/abs/2203.02660v1)|null|
 |**2022-03-04**|**GCNet: Graph Completion Network for Incomplete Multimodal Learning in Conversation**|Zheng Lian et.al.|[2203.02177v1](http://arxiv.org/abs/2203.02177v1)|null|
 |**2022-03-04**|**Time-aware Graph Neural Networks for Entity Alignment between Temporal Knowledge Graphs**|Chengjin_Xu et.al.|[2203.02150v1](http://arxiv.org/abs/2203.02150v1)|**[link](https://github.com/soledad921/tea-gnn)**|
 |**2022-03-03**|**Zero-shot Domain Adaptation of Heterogeneous Graphs via Knowledge Transfer Networks**|Minji Yoon et.al.|[2203.02018v1](http://arxiv.org/abs/2203.02018v1)|null|
