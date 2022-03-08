@@ -14,7 +14,7 @@
 |**2022-03-02**|**Aggregated Pyramid Vision Transformer: Split-transform-merge Strategy for Image Recognition without Convolutions**|Rui-Yang Ju et.al.|[2203.00960v1](http://arxiv.org/abs/2203.00960v1)|null|
 |**2022-03-01**|**Towards a Common Speech Analysis Engine**|Hagai Aronowitz et.al.|[2203.00613v1](http://arxiv.org/abs/2203.00613v1)|null|
 |**2022-03-01**|**Topological Data Analysis for Word Sense Disambiguation**|Michael Rawson et.al.|[2203.00565v1](http://arxiv.org/abs/2203.00565v1)|null|
-|**2022-03-01**|**Improving Performance of Automated Essay Scoring by using back-translation essays and adjusted scores**|You-Jin Jong et.al.|[2203.00354v1](http://arxiv.org/abs/2203.00354v1)|null|
+|**2022-03-04**|**Improving Performance of Automated Essay Scoring by using back-translation essays and adjusted scores**|You-Jin Jong et.al.|[2203.00354v2](http://arxiv.org/abs/2203.00354v2)|null|
 |**2022-03-03**|**A Multi-scale Transformer for Medical Image Segmentation: Architectures, Model Efficiency, and Benchmarks**|Yunhe Gao et.al.|[2203.00131v2](http://arxiv.org/abs/2203.00131v2)|**[link](https://github.com/yhygao/cbim-medical-image-segmentation)**|
 |**2022-02-28**|**Paper Plain: Making Medical Research Papers Approachable to Healthcare Consumers with Natural Language Processing**|Tal August et.al.|[2203.00130v1](http://arxiv.org/abs/2203.00130v1)|**[link](https://github.com/allenai/paper-plain)**|
 |**2022-02-28**|**An Empirical Study on Explanations in Out-of-Domain Settings**|George Chrysostomou et.al.|[2203.00056v1](http://arxiv.org/abs/2203.00056v1)|**[link](https://github.com/gchrysostomou/ood_faith)**|
