@@ -8,6 +8,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-03-08**|**Plumeria at SemEval-2022 Task 6: Robust Approaches for Sarcasm Detection for English and Arabic Using Transformers and Data Augmentation**|Shubham Kumar Nigam et.al.|[2203.04111v1](http://arxiv.org/abs/2203.04111v1)|null|
+|**2022-03-08**|**Adapt$\mathcal{O}$r: Objective-Centric Adaptation Framework for Language Models**|Michal Štefánik et.al.|[2203.03989v1](http://arxiv.org/abs/2203.03989v1)|null|
+|**2022-03-08**|**A Unified Framework of Medical Information Annotation and Extraction for Chinese Clinical Text**|Enwei Zhu et.al.|[2203.03823v1](http://arxiv.org/abs/2203.03823v1)|**[link](https://github.com/syuoni/eznlp)**|
+|**2022-03-07**|**IT5: Large-scale Text-to-text Pretraining for Italian Language Understanding and Generation**|Gabriele Sarti et.al.|[2203.03759v1](http://arxiv.org/abs/2203.03759v1)|**[link](https://github.com/gsarti/it5)**|
 |**2022-03-07**|**RumorLens: Interactive Analysis and Validation of Suspected Rumors on Social Media**|Ran Wang et.al.|[2203.03098v1](http://arxiv.org/abs/2203.03098v1)|null|
 |**2022-03-06**|**Story Point Effort Estimation by Text Level Graph Neural Network**|Hung Phan et.al.|[2203.03062v1](http://arxiv.org/abs/2203.03062v1)|null|
 |**2022-03-06**|**A Survey of Implicit Discourse Relation Recognition**|Wei Xiang et.al.|[2203.02982v1](http://arxiv.org/abs/2203.02982v1)|null|
@@ -197,6 +201,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-03-08**|**InstructionNER: A Multi-Task Instruction-Based Generative Framework for Few-shot NER**|Liwen Wang et.al.|[2203.03903v1](http://arxiv.org/abs/2203.03903v1)|null|
 |**2022-02-13**|**LMN at SemEval-2022 Task 11: A Transformer-based System for English Named Entity Recognition**|Ngoc Minh Lai et.al.|[2203.03546v1](http://arxiv.org/abs/2203.03546v1)|null|
 |**2022-03-07**|**USTC-NELSLIP at SemEval-2022 Task 11: Gazetteer-Adapted Integration Network for Multilingual Complex Named Entity Recognition**|Beiduo Chen et.al.|[2203.03216v1](http://arxiv.org/abs/2203.03216v1)|**[link](https://github.com/mckysse/gain)**|
 |**2022-03-04**|**QaNER: Prompting Question Answering Models for Few-shot Named Entity Recognition**|Andy T. Liu et.al.|[2203.01543v2](http://arxiv.org/abs/2203.01543v2)|null|
@@ -231,6 +236,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-03-08**|**Incorporating Hierarchy into Text Encoder: a Contrastive Learning Approach for Hierarchical Text Classification**|Zihan Wang et.al.|[2203.03825v1](http://arxiv.org/abs/2203.03825v1)|null|
 |**2022-03-04**|**CoNIC Solution**|Wenhua Zhang et.al.|[2203.03415v1](http://arxiv.org/abs/2203.03415v1)|null|
 |**2022-03-06**|**Story Point Effort Estimation by Text Level Graph Neural Network**|Hung Phan et.al.|[2203.03062v1](http://arxiv.org/abs/2203.03062v1)|null|
 |**2022-03-06**|**Graph Neural Network Enhanced Language Models for Efficient Multilingual Text Classification**|Samujjwal Ghosh et.al.|[2203.02912v1](http://arxiv.org/abs/2203.02912v1)|null|
@@ -365,6 +371,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-03-08**|**AssistQ: Affordance-centric Question-driven Task Completion for Egocentric Assistant**|Benita Wong et.al.|[2203.04203v1](http://arxiv.org/abs/2203.04203v1)|null|
+|**2022-03-07**|**Barlow constrained optimization for Visual Question Answering**|Abhishek Jha et.al.|[2203.03727v1](http://arxiv.org/abs/2203.03727v1)|null|
 |**2022-03-06**|**Modeling Coreference Relations in Visual Dialog**|Mingxiao Li et.al.|[2203.02986v1](http://arxiv.org/abs/2203.02986v1)|null|
 |**2022-03-06**|**Dynamic Key-value Memory Enhanced Multi-step Graph Reasoning for Knowledge-based Visual Question Answering**|Mingxiao Li et.al.|[2203.02985v1](http://arxiv.org/abs/2203.02985v1)|null|
 |**2022-03-06**|**Divide and Conquer: Text Semantic Matching with Disentangled Keywords and Intents**|Yicheng Zou et.al.|[2203.02898v1](http://arxiv.org/abs/2203.02898v1)|**[link](https://github.com/rowitzou/dc-match)**|
@@ -474,6 +482,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-03-08**|**A Unified Framework of Medical Information Annotation and Extraction for Chinese Clinical Text**|Enwei Zhu et.al.|[2203.03823v1](http://arxiv.org/abs/2203.03823v1)|**[link](https://github.com/syuoni/eznlp)**|
+|**2022-03-07**|**Extracting Forces from Noisy Dynamics in Dusty Plasmas**|Wentao Yu et.al.|[2203.03740v1](http://arxiv.org/abs/2203.03740v1)|null|
 |**2022-02-26**|**A Generative Model for Relation Extraction and Classification**|Jian Ni et.al.|[2202.13229v1](http://arxiv.org/abs/2202.13229v1)|null|
 |**2022-02-24**|**XAutoML: A Visual Analytics Tool for Establishing Trust in Automated Machine Learning**|Marc-André Zöller et.al.|[2202.11954v1](http://arxiv.org/abs/2202.11954v1)|**[link](https://github.com/ennosigaeon/xautoml)**|
 |**2022-02-16**|**Edge Data Based Trailer Inception Probabilistic Matrix Factorization for Context-Aware Movie Recommendation**|Honglong Chen et.al.|[2202.10236v1](http://arxiv.org/abs/2202.10236v1)|null|
@@ -526,6 +536,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-03-08**|**Probabilistic Warp Consistency for Weakly-Supervised Semantic Correspondences**|Prune Truong et.al.|[2203.04279v1](http://arxiv.org/abs/2203.04279v1)|**[link](https://github.com/PruneTruong/DenseMatching)**|
 |**2022-03-04**|**Targeted Data Poisoning Attack on News Recommendation System**|Xudong Zhang et.al.|[2203.03560v1](http://arxiv.org/abs/2203.03560v1)|null|
 |**2022-03-07**|**Towards Robust Online Dialogue Response Generation**|Leyang Cui et.al.|[2203.03168v1](http://arxiv.org/abs/2203.03168v1)|null|
 |**2022-03-06**|**Divide and Conquer: Text Semantic Matching with Disentangled Keywords and Intents**|Yicheng Zou et.al.|[2203.02898v1](http://arxiv.org/abs/2203.02898v1)|**[link](https://github.com/rowitzou/dc-match)**|
@@ -662,6 +673,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-03-08**|**Aggregate Queries on Knowledge Graphs: Fast Approximation with Semantic-aware Sampling**|Yuxiang Wang et.al.|[2203.03792v1](http://arxiv.org/abs/2203.03792v1)|null|
 |**2022-03-05**|**Flurry: a Fast Framework for Reproducible Multi-layered Provenance Graph Representation Learning**|Maya Kapoor et.al.|[2203.02744v1](http://arxiv.org/abs/2203.02744v1)|null|
 |**2022-03-05**|**Scaling R-GCN Training with Graph Summarization**|Alessandro Generale et.al.|[2203.02622v1](http://arxiv.org/abs/2203.02622v1)|null|
 |**2022-03-04**|**R-GCN: The R Could Stand for Random**|Vic Degraeve et.al.|[2203.02424v1](http://arxiv.org/abs/2203.02424v1)|null|
@@ -762,6 +774,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-03-08**|**Sparsification and Filtering for Spatial-temporal GNN in Multivariate Time-series**|Yuanrong Wang et.al.|[2203.03991v1](http://arxiv.org/abs/2203.03991v1)|null|
+|**2022-03-08**|**Few-Shot Traffic Prediction with Graph Networks using Locale as Relational Inductive Biases**|Mingxi Li et.al.|[2203.03965v1](http://arxiv.org/abs/2203.03965v1)|null|
+|**2022-03-08**|**Graph Reinforcement Learning for Predictive Power Allocation to Mobile Users**|Jianyu Zhao et.al.|[2203.03906v1](http://arxiv.org/abs/2203.03906v1)|null|
+|**2022-03-08**|**Panoramic Human Activity Recognition**|Ruize Han et.al.|[2203.03806v1](http://arxiv.org/abs/2203.03806v1)|null|
 |**2022-03-07**|**ZippyPoint: Fast Interest Point Detection, Description, and Matching through Mixed Precision Discretization**|Simon Maurer et.al.|[2203.03610v1](http://arxiv.org/abs/2203.03610v1)|null|
 |**2022-03-08**|**Graph Neural Networks for Image Classification and Reinforcement Learning using Graph representations**|Naman Goyal et.al.|[2203.03457v2](http://arxiv.org/abs/2203.03457v2)|null|
 |**2022-03-07**|**Unpaired Image Captioning by Image-level Weakly-Supervised Visual Concept Recognition**|Peipei Zhu et.al.|[2203.03195v1](http://arxiv.org/abs/2203.03195v1)|null|
