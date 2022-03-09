@@ -234,7 +234,7 @@
 |**2022-03-03**|**Detection of Word Adversarial Examples in Text Classification: Benchmark and Baseline via Robust Density Estimation**|KiYoon Yoo et.al.|[2203.01677v1](http://arxiv.org/abs/2203.01677v1)|**[link](https://github.com/anoymous92874838/text-adv-detection)**|
 |**2022-02-28**|**Gait Events Prediction using Hybrid CNN-RNN-based Deep Learning models through a Single Waist-worn Wearable Sensor**|Muhammad Zeeshan Arshad et.al.|[2203.00503v1](http://arxiv.org/abs/2203.00503v1)|null|
 |**2022-03-01**|**Semi-overlap Functions and Novel Fuzzy Reasoning Algorithms with Applications**|Xiaohong Zhang et.al.|[2203.00437v1](http://arxiv.org/abs/2203.00437v1)|null|
-|**2022-03-01**|**EPPAC: Entity Pre-typing Relation Classification with Prompt AnswerCentralizing**|Jiejun Tan et.al.|[2203.00193v1](http://arxiv.org/abs/2203.00193v1)|null|
+|**2022-03-08**|**EPPAC: Entity Pre-typing Relation Classification with Prompt AnswerCentralizing**|Jiejun Tan et.al.|[2203.00193v2](http://arxiv.org/abs/2203.00193v2)|null|
 |**2022-02-28**|**Resolving label uncertainty with implicit posterior models**|Esther Rolf et.al.|[2202.14000v1](http://arxiv.org/abs/2202.14000v1)|**[link](https://github.com/estherrolf/implicit-posterior)**|
 |**2022-02-28**|**Text Smoothing: Enhance Various Data Augmentation Methods on Text Classification Tasks**|Xing Wu et.al.|[2202.13840v1](http://arxiv.org/abs/2202.13840v1)|null|
 |**2022-02-28**|**Differential equation and probability inspired graph neural networks for latent variable learning**|Zhuangwei Shi et.al.|[2202.13800v1](http://arxiv.org/abs/2202.13800v1)|**[link](https://github.com/zshicode/latent-variable-gnn)**|
@@ -759,7 +759,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2022-03-07**|**ZippyPoint: Fast Interest Point Detection, Description, and Matching through Mixed Precision Discretization**|Simon Maurer et.al.|[2203.03610v1](http://arxiv.org/abs/2203.03610v1)|null|
-|**2022-03-07**|**Graph Neural Networks for Image Classification and Reinforcement Learning using Graph representations**|Naman Goyal et.al.|[2203.03457v1](http://arxiv.org/abs/2203.03457v1)|null|
+|**2022-03-08**|**Graph Neural Networks for Image Classification and Reinforcement Learning using Graph representations**|Naman Goyal et.al.|[2203.03457v2](http://arxiv.org/abs/2203.03457v2)|null|
 |**2022-03-07**|**Unpaired Image Captioning by Image-level Weakly-Supervised Visual Concept Recognition**|Peipei Zhu et.al.|[2203.03195v1](http://arxiv.org/abs/2203.03195v1)|null|
 |**2022-03-07**|**Scalable Verification of GNN-based Job Schedulers**|Haoze Wu et.al.|[2203.03153v1](http://arxiv.org/abs/2203.03153v1)|null|
 |**2022-03-07**|**End-to-end video instance segmentation via spatial-temporal graph neural networks**|Tao Wang et.al.|[2203.03145v1](http://arxiv.org/abs/2203.03145v1)|**[link](https://github.com/lucaswithai/visgraph)**|
