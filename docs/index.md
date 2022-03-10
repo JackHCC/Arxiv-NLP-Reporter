@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.03.09
+## Updated on 2022.03.10
 
 ## NLP
 
@@ -236,7 +236,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2022-03-08**|**Incorporating Hierarchy into Text Encoder: a Contrastive Learning Approach for Hierarchical Text Classification**|Zihan Wang et.al.|[2203.03825v1](http://arxiv.org/abs/2203.03825v1)|null|
+|**2022-03-08**|**Incorporating Hierarchy into Text Encoder: a Contrastive Learning Approach for Hierarchical Text Classification**|Zihan Wang et.al.|[2203.03825v1](http://arxiv.org/abs/2203.03825v1)|**[link](https://github.com/wzh9969/contrastive-htc)**|
 |**2022-03-04**|**CoNIC Solution**|Wenhua Zhang et.al.|[2203.03415v1](http://arxiv.org/abs/2203.03415v1)|null|
 |**2022-03-06**|**Story Point Effort Estimation by Text Level Graph Neural Network**|Hung Phan et.al.|[2203.03062v1](http://arxiv.org/abs/2203.03062v1)|null|
 |**2022-03-06**|**Graph Neural Network Enhanced Language Models for Efficient Multilingual Text Classification**|Samujjwal Ghosh et.al.|[2203.02912v1](http://arxiv.org/abs/2203.02912v1)|null|
@@ -775,7 +775,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2022-03-08**|**Sparsification and Filtering for Spatial-temporal GNN in Multivariate Time-series**|Yuanrong Wang et.al.|[2203.03991v1](http://arxiv.org/abs/2203.03991v1)|null|
-|**2022-03-08**|**Few-Shot Traffic Prediction with Graph Networks using Locale as Relational Inductive Biases**|Mingxi Li et.al.|[2203.03965v1](http://arxiv.org/abs/2203.03965v1)|null|
+|**2022-03-08**|**Few-Shot Traffic Prediction with Graph Networks using Locale as Relational Inductive Biases**|Mingxi Li et.al.|[2203.03965v1](http://arxiv.org/abs/2203.03965v1)|**[link](https://github.com/mingxilii/localegn)**|
 |**2022-03-08**|**Graph Reinforcement Learning for Predictive Power Allocation to Mobile Users**|Jianyu Zhao et.al.|[2203.03906v1](http://arxiv.org/abs/2203.03906v1)|null|
 |**2022-03-08**|**Panoramic Human Activity Recognition**|Ruize Han et.al.|[2203.03806v1](http://arxiv.org/abs/2203.03806v1)|null|
 |**2022-03-07**|**ZippyPoint: Fast Interest Point Detection, Description, and Matching through Mixed Precision Discretization**|Simon Maurer et.al.|[2203.03610v1](http://arxiv.org/abs/2203.03610v1)|null|
