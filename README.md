@@ -669,7 +669,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2022-03-08**|**Aggregate Queries on Knowledge Graphs: Fast Approximation with Semantic-aware Sampling**|Yuxiang Wang et.al.|[2203.03792v1](http://arxiv.org/abs/2203.03792v1)|null|
+|**2022-03-09**|**Aggregate Queries on Knowledge Graphs: Fast Approximation with Semantic-aware Sampling**|Yuxiang Wang et.al.|[2203.03792v2](http://arxiv.org/abs/2203.03792v2)|null|
 |**2022-03-05**|**Flurry: a Fast Framework for Reproducible Multi-layered Provenance Graph Representation Learning**|Maya Kapoor et.al.|[2203.02744v1](http://arxiv.org/abs/2203.02744v1)|null|
 |**2022-03-05**|**Scaling R-GCN Training with Graph Summarization**|Alessandro Generale et.al.|[2203.02622v1](http://arxiv.org/abs/2203.02622v1)|null|
 |**2022-03-04**|**R-GCN: The R Could Stand for Random**|Vic Degraeve et.al.|[2203.02424v1](http://arxiv.org/abs/2203.02424v1)|null|
