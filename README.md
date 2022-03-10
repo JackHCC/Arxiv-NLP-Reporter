@@ -4,6 +4,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-09**|**PET: A new Dataset for Process Extraction from Natural Language Text**|Patrizio Bellan et.al.|[2203.04860v1](http://arxiv.org/abs/2203.04860v1)|null|
+|**2022-03-09**|**Automatic Language Identification for Celtic Texts**|Olha Dovbnia et.al.|[2203.04831v1](http://arxiv.org/abs/2203.04831v1)|null|
+|**2022-03-09**|**Pretrained Domain-Specific Language Model for General Information Retrieval Tasks in the AEC Domain**|Zhe Zheng et.al.|[2203.04729v1](http://arxiv.org/abs/2203.04729v1)|**[link](https://github.com/skydustz/aec-domain-corpora)**|
+|**2022-03-09**|**Memory Efficient Continual Learning for Neural Text Classification**|Beyza Ermis et.al.|[2203.04640v1](http://arxiv.org/abs/2203.04640v1)|null|
+|**2022-03-09**|**Mapping global dynamics of benchmark creation and saturation in artificial intelligence**|Adriano Barbosa-Silva et.al.|[2203.04592v1](http://arxiv.org/abs/2203.04592v1)|null|
 |**2022-03-08**|**Plumeria at SemEval-2022 Task 6: Robust Approaches for Sarcasm Detection for English and Arabic Using Transformers and Data Augmentation**|Shubham Kumar Nigam et.al.|[2203.04111v1](http://arxiv.org/abs/2203.04111v1)|null|
 |**2022-03-08**|**Adapt$\mathcal{O}$r: Objective-Centric Adaptation Framework for Language Models**|Michal Štefánik et.al.|[2203.03989v1](http://arxiv.org/abs/2203.03989v1)|null|
 |**2022-03-08**|**A Unified Framework of Medical Information Annotation and Extraction for Chinese Clinical Text**|Enwei Zhu et.al.|[2203.03823v1](http://arxiv.org/abs/2203.03823v1)|**[link](https://github.com/syuoni/eznlp)**|
@@ -197,6 +202,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-09**|**Pretrained Domain-Specific Language Model for General Information Retrieval Tasks in the AEC Domain**|Zhe Zheng et.al.|[2203.04729v1](http://arxiv.org/abs/2203.04729v1)|**[link](https://github.com/skydustz/aec-domain-corpora)**|
+|**2022-03-09**|**Nested Named Entity Recognition as Latent Lexicalized Constituency Parsing**|Chao Lou et.al.|[2203.04665v1](http://arxiv.org/abs/2203.04665v1)|null|
 |**2022-03-08**|**InstructionNER: A Multi-Task Instruction-Based Generative Framework for Few-shot NER**|Liwen Wang et.al.|[2203.03903v1](http://arxiv.org/abs/2203.03903v1)|null|
 |**2022-02-13**|**LMN at SemEval-2022 Task 11: A Transformer-based System for English Named Entity Recognition**|Ngoc Minh Lai et.al.|[2203.03546v1](http://arxiv.org/abs/2203.03546v1)|null|
 |**2022-03-07**|**USTC-NELSLIP at SemEval-2022 Task 11: Gazetteer-Adapted Integration Network for Multilingual Complex Named Entity Recognition**|Beiduo Chen et.al.|[2203.03216v1](http://arxiv.org/abs/2203.03216v1)|**[link](https://github.com/mckysse/gain)**|
@@ -232,6 +239,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-09**|**Neuro-symbolic Natural Logic with Introspective Revision for Natural Language Inference**|Yufei Feng et.al.|[2203.04857v1](http://arxiv.org/abs/2203.04857v1)|null|
+|**2022-03-09**|**A practical framework for multi-domain speech recognition and an instance sampling method to neural language modeling**|Yike Zhang et.al.|[2203.04767v1](http://arxiv.org/abs/2203.04767v1)|null|
+|**2022-03-09**|**Pretrained Domain-Specific Language Model for General Information Retrieval Tasks in the AEC Domain**|Zhe Zheng et.al.|[2203.04729v1](http://arxiv.org/abs/2203.04729v1)|**[link](https://github.com/skydustz/aec-domain-corpora)**|
+|**2022-03-09**|**Memory Efficient Continual Learning for Neural Text Classification**|Beyza Ermis et.al.|[2203.04640v1](http://arxiv.org/abs/2203.04640v1)|null|
 |**2022-03-08**|**Incorporating Hierarchy into Text Encoder: a Contrastive Learning Approach for Hierarchical Text Classification**|Zihan Wang et.al.|[2203.03825v1](http://arxiv.org/abs/2203.03825v1)|**[link](https://github.com/wzh9969/contrastive-htc)**|
 |**2022-03-04**|**CoNIC Solution**|Wenhua Zhang et.al.|[2203.03415v1](http://arxiv.org/abs/2203.03415v1)|null|
 |**2022-03-06**|**Story Point Effort Estimation by Text Level Graph Neural Network**|Hung Phan et.al.|[2203.03062v1](http://arxiv.org/abs/2203.03062v1)|null|
@@ -367,6 +378,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-09**|**Comparing Classical-Quantum Portfolio Optimization with Enhanced Constraints**|Salvatore Certo et.al.|[2203.04912v1](http://arxiv.org/abs/2203.04912v1)|null|
+|**2022-03-09**|**DUAL: Textless Spoken Question Answering with Speech Discrete Unit Adaptive Learning**|Guan-Ting Lin et.al.|[2203.04911v1](http://arxiv.org/abs/2203.04911v1)|null|
+|**2022-03-09**|**Language Model-driven Negative Sampling**|Mirza Mohtashim Alam et.al.|[2203.04703v1](http://arxiv.org/abs/2203.04703v1)|null|
+|**2022-03-09**|**Boilerplate Detection via Semantic Classification of TextBlocks**|Hao Zhang et.al.|[2203.04467v1](http://arxiv.org/abs/2203.04467v1)|null|
 |**2022-03-08**|**AssistQ: Affordance-centric Question-driven Task Completion for Egocentric Assistant**|Benita Wong et.al.|[2203.04203v1](http://arxiv.org/abs/2203.04203v1)|null|
 |**2022-03-07**|**Barlow constrained optimization for Visual Question Answering**|Abhishek Jha et.al.|[2203.03727v1](http://arxiv.org/abs/2203.03727v1)|null|
 |**2022-03-06**|**Modeling Coreference Relations in Visual Dialog**|Mingxiao Li et.al.|[2203.02986v1](http://arxiv.org/abs/2203.02986v1)|null|
@@ -478,6 +493,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-09**|**CEU-Net: Ensemble Semantic Segmentation of Hyperspectral Images Using Clustering**|Nicholas Soucy et.al.|[2203.04873v1](http://arxiv.org/abs/2203.04873v1)|null|
+|**2022-03-09**|**PET: A new Dataset for Process Extraction from Natural Language Text**|Patrizio Bellan et.al.|[2203.04860v1](http://arxiv.org/abs/2203.04860v1)|null|
 |**2022-03-08**|**A Unified Framework of Medical Information Annotation and Extraction for Chinese Clinical Text**|Enwei Zhu et.al.|[2203.03823v1](http://arxiv.org/abs/2203.03823v1)|**[link](https://github.com/syuoni/eznlp)**|
 |**2022-03-07**|**Extracting Forces from Noisy Dynamics in Dusty Plasmas**|Wentao Yu et.al.|[2203.03740v1](http://arxiv.org/abs/2203.03740v1)|null|
 |**2022-02-26**|**A Generative Model for Relation Extraction and Classification**|Jian Ni et.al.|[2202.13229v1](http://arxiv.org/abs/2202.13229v1)|null|
@@ -532,6 +549,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-09**|**Addressing Bias in Visualization Recommenders by Identifying Trends in Training Data: Improving VizML Through a Statistical Analysis of the Plotly Community Feed**|Allen Tu et.al.|[2203.04937v1](http://arxiv.org/abs/2203.04937v1)|null|
+|**2022-03-09**|**BaM: A Case for Enabling Fine-grain High Throughput GPU-Orchestrated Access to Storage**|Zaid Qureshi et.al.|[2203.04910v1](http://arxiv.org/abs/2203.04910v1)|null|
 |**2022-03-08**|**Probabilistic Warp Consistency for Weakly-Supervised Semantic Correspondences**|Prune Truong et.al.|[2203.04279v1](http://arxiv.org/abs/2203.04279v1)|**[link](https://github.com/PruneTruong/DenseMatching)**|
 |**2022-03-04**|**Targeted Data Poisoning Attack on News Recommendation System**|Xudong Zhang et.al.|[2203.03560v1](http://arxiv.org/abs/2203.03560v1)|null|
 |**2022-03-07**|**Towards Robust Online Dialogue Response Generation**|Leyang Cui et.al.|[2203.03168v1](http://arxiv.org/abs/2203.03168v1)|null|
@@ -669,6 +688,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-09**|**Language Model-driven Negative Sampling**|Mirza Mohtashim Alam et.al.|[2203.04703v1](http://arxiv.org/abs/2203.04703v1)|null|
+|**2022-03-09**|**ModulE: Module Embedding for Knowledge Graphs**|Jingxuan Chai et.al.|[2203.04702v1](http://arxiv.org/abs/2203.04702v1)|null|
 |**2022-03-09**|**Aggregate Queries on Knowledge Graphs: Fast Approximation with Semantic-aware Sampling**|Yuxiang Wang et.al.|[2203.03792v2](http://arxiv.org/abs/2203.03792v2)|null|
 |**2022-03-05**|**Flurry: a Fast Framework for Reproducible Multi-layered Provenance Graph Representation Learning**|Maya Kapoor et.al.|[2203.02744v1](http://arxiv.org/abs/2203.02744v1)|null|
 |**2022-03-05**|**Scaling R-GCN Training with Graph Summarization**|Alessandro Generale et.al.|[2203.02622v1](http://arxiv.org/abs/2203.02622v1)|null|
@@ -770,6 +791,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-09**|**BaM: A Case for Enabling Fine-grain High Throughput GPU-Orchestrated Access to Storage**|Zaid Qureshi et.al.|[2203.04910v1](http://arxiv.org/abs/2203.04910v1)|null|
+|**2022-03-09**|**SkinningNet: Two-Stream Graph Convolutional Neural Network for Skinning Prediction of Synthetic Characters**|Albert Mosella-Montoro et.al.|[2203.04746v1](http://arxiv.org/abs/2203.04746v1)|null|
+|**2022-03-07**|**Non-equilibrium molecular geometries in graph neural networks**|Ali Raza et.al.|[2203.04697v1](http://arxiv.org/abs/2203.04697v1)|null|
 |**2022-03-08**|**Sparsification and Filtering for Spatial-temporal GNN in Multivariate Time-series**|Yuanrong Wang et.al.|[2203.03991v1](http://arxiv.org/abs/2203.03991v1)|null|
 |**2022-03-08**|**Few-Shot Traffic Prediction with Graph Networks using Locale as Relational Inductive Biases**|Mingxi Li et.al.|[2203.03965v1](http://arxiv.org/abs/2203.03965v1)|**[link](https://github.com/mingxilii/localegn)**|
 |**2022-03-08**|**Graph Reinforcement Learning for Predictive Power Allocation to Mobile Users**|Jianyu Zhao et.al.|[2203.03906v1](http://arxiv.org/abs/2203.03906v1)|null|
