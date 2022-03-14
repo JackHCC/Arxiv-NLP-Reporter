@@ -8,6 +8,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-03-11**|**Symmetry Group Equivariant Architectures for Physics**|Alexander Bogatskiy et.al.|[2203.06153v1](http://arxiv.org/abs/2203.06153v1)|null|
+|**2022-03-11**|**QDrop: Randomly Dropping Quantization for Extremely Low-bit Post-Training Quantization**|Xiuying Wei et.al.|[2203.05740v1](http://arxiv.org/abs/2203.05740v1)|**[link](https://github.com/wimh966/QDrop)**|
+|**2022-03-10**|**Disadvantaged students increase their academic performance through collective intelligence exposure in emergency remote learning due to COVID 19**|Cristian Candia et.al.|[2203.05621v1](http://arxiv.org/abs/2203.05621v1)|null|
 |**2022-03-10**|**Model soups: averaging weights of multiple fine-tuned models improves accuracy without increasing inference time**|Mitchell Wortsman et.al.|[2203.05482v1](http://arxiv.org/abs/2203.05482v1)|null|
 |**2022-03-10**|**OneRel:Joint Entity and Relation Extraction with One Module in One Step**|Yu-Ming Shang et.al.|[2203.05412v1](http://arxiv.org/abs/2203.05412v1)|null|
 |**2022-03-10**|**TextConvoNet:A Convolutional Neural Network based Architecture for Text Classification**|Sanskar Soni et.al.|[2203.05173v1](http://arxiv.org/abs/2203.05173v1)|null|
@@ -248,6 +251,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-03-11**|**QDrop: Randomly Dropping Quantization for Extremely Low-bit Post-Training Quantization**|Xiuying Wei et.al.|[2203.05740v1](http://arxiv.org/abs/2203.05740v1)|**[link](https://github.com/wimh966/QDrop)**|
 |**2022-03-10**|**Faking Fake News for Real Fake News Detection: Propaganda-loaded Training Data Generation**|Kung-Hsiang Huang et.al.|[2203.05386v1](http://arxiv.org/abs/2203.05386v1)|null|
 |**2022-03-10**|**TextConvoNet:A Convolutional Neural Network based Architecture for Text Classification**|Sanskar Soni et.al.|[2203.05173v1](http://arxiv.org/abs/2203.05173v1)|null|
 |**2022-03-09**|**Neuro-symbolic Natural Logic with Introspective Revision for Natural Language Inference**|Yufei Feng et.al.|[2203.04857v1](http://arxiv.org/abs/2203.04857v1)|null|
@@ -340,6 +344,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-03-11**|**Towards Analyzing the Bias of News Recommender Systems Using Sentiment and Stance Detection**|Mehwish Alam et.al.|[2203.05824v1](http://arxiv.org/abs/2203.05824v1)|null|
 |**2022-03-04**|**Dynamic Backdoors with Global Average Pooling**|Stefanos Koffas et.al.|[2203.02079v1](http://arxiv.org/abs/2203.02079v1)|null|
 |**2022-03-03**|**Detection of Word Adversarial Examples in Text Classification: Benchmark and Baseline via Robust Density Estimation**|KiYoon Yoo et.al.|[2203.01677v1](http://arxiv.org/abs/2203.01677v1)|**[link](https://github.com/anoymous92874838/text-adv-detection)**|
 |**2022-03-02**|**A Survey on Aspect-Based Sentiment Analysis: Tasks, Methods, and Challenges**|Wenxuan Zhang et.al.|[2203.01054v1](http://arxiv.org/abs/2203.01054v1)|null|
@@ -389,6 +394,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-03-11**|**Tevatron: An Efficient and Flexible Toolkit for Dense Retrieval**|Luyu Gao et.al.|[2203.05765v1](http://arxiv.org/abs/2203.05765v1)|**[link](https://github.com/texttron/tevatron)**|
+|**2022-03-11**|**QDrop: Randomly Dropping Quantization for Extremely Low-bit Post-Training Quantization**|Xiuying Wei et.al.|[2203.05740v1](http://arxiv.org/abs/2203.05740v1)|**[link](https://github.com/wimh966/QDrop)**|
 |**2022-03-10**|**Internet-augmented language models through few-shot prompting for open-domain question answering**|Angeliki Lazaridou et.al.|[2203.05115v1](http://arxiv.org/abs/2203.05115v1)|null|
 |**2022-03-09**|**Comparing Classical-Quantum Portfolio Optimization with Enhanced Constraints**|Salvatore Certo et.al.|[2203.04912v1](http://arxiv.org/abs/2203.04912v1)|null|
 |**2022-03-09**|**DUAL: Textless Spoken Question Answering with Speech Discrete Unit Adaptive Learning**|Guan-Ting Lin et.al.|[2203.04911v1](http://arxiv.org/abs/2203.04911v1)|**[link](https://github.com/daniellin94144/dual-textless-sqa)**|
@@ -505,6 +512,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-03-09**|**A Weibo Dataset for the 2022 Russo-Ukrainian Crisis**|Yi R. Fung et.al.|[2203.05967v1](http://arxiv.org/abs/2203.05967v1)|**[link](https://github.com/yrf1/russiaukraine_weibo_dataset)**|
 |**2022-03-10**|**Semantic Norm Recognition and its application to Portuguese Law**|Maria Duarte et.al.|[2203.05425v1](http://arxiv.org/abs/2203.05425v1)|null|
 |**2022-03-09**|**CEU-Net: Ensemble Semantic Segmentation of Hyperspectral Images Using Clustering**|Nicholas Soucy et.al.|[2203.04873v1](http://arxiv.org/abs/2203.04873v1)|null|
 |**2022-03-09**|**PET: A new Dataset for Process Extraction from Natural Language Text**|Patrizio Bellan et.al.|[2203.04860v1](http://arxiv.org/abs/2203.04860v1)|null|
@@ -562,6 +570,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-03-11**|**Personalized Execution Time Optimization for the Scheduled Jobs**|Yang Liu et.al.|[2203.06158v1](http://arxiv.org/abs/2203.06158v1)|null|
+|**2022-03-11**|**MemoRec: A Recommender System for Assisting Modelers in Specifying Metamodels**|Juri Di Rocco et.al.|[2203.06068v1](http://arxiv.org/abs/2203.06068v1)|null|
+|**2022-03-11**|**An Adaptive Hybrid Active Learning Strategy with Free Ratings in Collaborative Filtering**|Alireza Gharahighehi et.al.|[2203.05954v1](http://arxiv.org/abs/2203.05954v1)|null|
+|**2022-03-10**|**Balancing Consumer and Business Value of Recommender Systems: A Simulation-based Analysis**|Nada Ghanem et.al.|[2203.05952v1](http://arxiv.org/abs/2203.05952v1)|null|
+|**2022-03-11**|**Towards Analyzing the Bias of News Recommender Systems Using Sentiment and Stance Detection**|Mehwish Alam et.al.|[2203.05824v1](http://arxiv.org/abs/2203.05824v1)|null|
 |**2022-03-10**|**Disentangled Multimodal Representation Learning for Recommendation**|Fan Liu et.al.|[2203.05406v1](http://arxiv.org/abs/2203.05406v1)|null|
 |**2022-03-09**|**Addressing Bias in Visualization Recommenders by Identifying Trends in Training Data: Improving VizML Through a Statistical Analysis of the Plotly Community Feed**|Allen Tu et.al.|[2203.04937v1](http://arxiv.org/abs/2203.04937v1)|null|
 |**2022-03-09**|**BaM: A Case for Enabling Fine-grain High Throughput GPU-Orchestrated Access to Storage**|Zaid Qureshi et.al.|[2203.04910v1](http://arxiv.org/abs/2203.04910v1)|null|
@@ -702,6 +715,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-03-11**|**Towards Analyzing the Bias of News Recommender Systems Using Sentiment and Stance Detection**|Mehwish Alam et.al.|[2203.05824v1](http://arxiv.org/abs/2203.05824v1)|null|
+|**2022-03-11**|**Semi-constraint Optimal Transport for Entity Alignment with Dangling Cases**|Shengxuan Luo et.al.|[2203.05744v1](http://arxiv.org/abs/2203.05744v1)|null|
 |**2022-03-10**|**OneRel:Joint Entity and Relation Extraction with One Module in One Step**|Yu-Ming Shang et.al.|[2203.05412v1](http://arxiv.org/abs/2203.05412v1)|null|
 |**2022-03-10**|**An Accurate Unsupervised Method for Joint Entity Alignment and Dangling Entity Detection**|Shengxuan Luo et.al.|[2203.05147v1](http://arxiv.org/abs/2203.05147v1)|null|
 |**2022-03-09**|**Language Model-driven Negative Sampling**|Mirza Mohtashim Alam et.al.|[2203.04703v1](http://arxiv.org/abs/2203.04703v1)|null|
@@ -807,6 +822,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-03-11**|**Graph Neural Networks for Relational Inductive Bias in Vision-based Deep Reinforcement Learning of Robot Control**|Marco Oliva et.al.|[2203.05985v1](http://arxiv.org/abs/2203.05985v1)|null|
+|**2022-03-11**|**Graph Summarization with Graph Neural Networks**|Maximilian Blasi et.al.|[2203.05919v1](http://arxiv.org/abs/2203.05919v1)|null|
 |**2022-03-10**|**Spatial Commonsense Graph for Object Localisation in Partial Scenes**|Francesco Giuliari et.al.|[2203.05380v1](http://arxiv.org/abs/2203.05380v1)|**[link](https://github.com/fgiuliari/spatialcommonsensegraph-dataset)**|
 |**2022-03-10**|**LineVD: Statement-level Vulnerability Detection using Graph Neural Networks**|David Hin et.al.|[2203.05181v1](http://arxiv.org/abs/2203.05181v1)|null|
 |**2022-03-10**|**Earthquake Location and Magnitude Estimation with Graph Neural Networks**|Ian W. McBrearty et.al.|[2203.05144v1](http://arxiv.org/abs/2203.05144v1)|null|
