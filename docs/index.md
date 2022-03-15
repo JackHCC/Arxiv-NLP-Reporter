@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-03-14**|**The Optimal BERT Surgeon: Scalable and Accurate Second-Order Pruning for Large Language Models**|Eldar Kurtic et.al.|[2203.07259v1](http://arxiv.org/abs/2203.07259v1)|null|
+|**2022-03-14**|**PERT: Pre-training BERT with Permuted Language Model**|Yiming Cui et.al.|[2203.06906v1](http://arxiv.org/abs/2203.06906v1)|**[link](https://github.com/ymcui/pert)**|
+|**2022-03-14**|**SUPERB-SG: Enhanced Speech processing Universal PERformance Benchmark for Semantic and Generative Capabilities**|Hsiang-Sheng Tsai et.al.|[2203.06849v1](http://arxiv.org/abs/2203.06849v1)|null|
+|**2022-03-14**|**Towards Semantic Search for Community Question Answering for Mortgage Officers**|Amir Reza Rahmani et.al.|[2203.06807v1](http://arxiv.org/abs/2203.06807v1)|null|
+|**2022-03-13**|**Adaptive Bit Rate Control in Semantic Communication with Incremental Knowledge-based HARQ**|Qingyang Zhou et.al.|[2203.06634v1](http://arxiv.org/abs/2203.06634v1)|null|
+|**2022-03-13**|**A Systematic Study and Analysis of Bengali Folklore with Natural Language Processing Systems**|Mustain Billah et.al.|[2203.06607v1](http://arxiv.org/abs/2203.06607v1)|null|
+|**2022-03-13**|**Masked Autoencoders for Point Cloud Self-supervised Learning**|Yatian Pang et.al.|[2203.06604v1](http://arxiv.org/abs/2203.06604v1)|null|
+|**2022-03-12**|**Low-Rank Softmax Can Have Unargmaxable Classes in Theory but Rarely in Practice**|Andreas Grivas et.al.|[2203.06462v1](http://arxiv.org/abs/2203.06462v1)|null|
+|**2022-03-12**|**A Survey in Adversarial Defences and Robustness in NLP**|Shreya Goyal et.al.|[2203.06414v1](http://arxiv.org/abs/2203.06414v1)|null|
+|**2022-03-12**|**BiBERT: Accurate Fully Binarized BERT**|Haotong Qin et.al.|[2203.06390v1](http://arxiv.org/abs/2203.06390v1)|**[link](https://github.com/htqin/bibert)**|
 |**2022-03-11**|**Symmetry Group Equivariant Architectures for Physics**|Alexander Bogatskiy et.al.|[2203.06153v1](http://arxiv.org/abs/2203.06153v1)|null|
 |**2022-03-11**|**QDrop: Randomly Dropping Quantization for Extremely Low-bit Post-Training Quantization**|Xiuying Wei et.al.|[2203.05740v1](http://arxiv.org/abs/2203.05740v1)|**[link](https://github.com/wimh966/QDrop)**|
 |**2022-03-10**|**Disadvantaged students increase their academic performance through collective intelligence exposure in emergency remote learning due to COVID 19**|Cristian Candia et.al.|[2203.05621v1](http://arxiv.org/abs/2203.05621v1)|null|
@@ -214,6 +224,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-03-14**|**WCL-BBCD: A Contrastive Learning and Knowledge Graph Approach to Named Entity Recognition**|Renjie Zhou et.al.|[2203.06925v1](http://arxiv.org/abs/2203.06925v1)|null|
+|**2022-03-13**|**ProtagonistTagger -- a Tool for Entity Linkage of Persons in Texts from Various Languages and Domains**|Weronika Lajewska et.al.|[2203.06746v1](http://arxiv.org/abs/2203.06746v1)|null|
+|**2022-03-12**|**A Survey in Adversarial Defences and Robustness in NLP**|Shreya Goyal et.al.|[2203.06414v1](http://arxiv.org/abs/2203.06414v1)|null|
+|**2022-03-12**|**MarkBERT: Marking Word Boundaries Improves Chinese BERT**|Linyang Li et.al.|[2203.06378v1](http://arxiv.org/abs/2203.06378v1)|null|
 |**2022-03-09**|**Pretrained Domain-Specific Language Model for General Information Retrieval Tasks in the AEC Domain**|Zhe Zheng et.al.|[2203.04729v1](http://arxiv.org/abs/2203.04729v1)|**[link](https://github.com/skydustz/aec-domain-corpora)**|
 |**2022-03-09**|**Nested Named Entity Recognition as Latent Lexicalized Constituency Parsing**|Chao Lou et.al.|[2203.04665v1](http://arxiv.org/abs/2203.04665v1)|null|
 |**2022-03-08**|**InstructionNER: A Multi-Task Instruction-Based Generative Framework for Few-shot NER**|Liwen Wang et.al.|[2203.03903v1](http://arxiv.org/abs/2203.03903v1)|null|
@@ -251,6 +265,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-03-14**|**A Novel Perspective to Look At Attention: Bi-level Attention-based Explainable Topic Modeling for News Classification**|Dairui Liu et.al.|[2203.07216v1](http://arxiv.org/abs/2203.07216v1)|null|
+|**2022-03-13**|**SciNLI: A Corpus for Natural Language Inference on Scientific Text**|Mobashir Sadat et.al.|[2203.06728v1](http://arxiv.org/abs/2203.06728v1)|**[link](https://github.com/msadat3/scinli)**|
+|**2022-03-12**|**A Survey in Adversarial Defences and Robustness in NLP**|Shreya Goyal et.al.|[2203.06414v1](http://arxiv.org/abs/2203.06414v1)|null|
+|**2022-03-12**|**MarkBERT: Marking Word Boundaries Improves Chinese BERT**|Linyang Li et.al.|[2203.06378v1](http://arxiv.org/abs/2203.06378v1)|null|
 |**2022-03-11**|**QDrop: Randomly Dropping Quantization for Extremely Low-bit Post-Training Quantization**|Xiuying Wei et.al.|[2203.05740v1](http://arxiv.org/abs/2203.05740v1)|**[link](https://github.com/wimh966/QDrop)**|
 |**2022-03-10**|**Faking Fake News for Real Fake News Detection: Propaganda-loaded Training Data Generation**|Kung-Hsiang Huang et.al.|[2203.05386v1](http://arxiv.org/abs/2203.05386v1)|null|
 |**2022-03-10**|**TextConvoNet:A Convolutional Neural Network based Architecture for Text Classification**|Sanskar Soni et.al.|[2203.05173v1](http://arxiv.org/abs/2203.05173v1)|null|
@@ -344,6 +362,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-03-14**|**Towards Unifying the Label Space for Aspect- and Sentence-based Sentiment Analysis**|Yiming Zhang et.al.|[2203.07090v1](http://arxiv.org/abs/2203.07090v1)|null|
+|**2022-03-14**|**A Systematic Review on Affective Computing: Emotion Models, Databases, and Recent Advances**|Yan Wang et.al.|[2203.06935v1](http://arxiv.org/abs/2203.06935v1)|null|
+|**2022-03-13**|**Investigating the Impact of COVID-19 on Education by Social Network Mining**|Mohadese Jamalian et.al.|[2203.06584v1](http://arxiv.org/abs/2203.06584v1)|null|
 |**2022-03-11**|**Towards Analyzing the Bias of News Recommender Systems Using Sentiment and Stance Detection**|Mehwish Alam et.al.|[2203.05824v1](http://arxiv.org/abs/2203.05824v1)|null|
 |**2022-03-04**|**Dynamic Backdoors with Global Average Pooling**|Stefanos Koffas et.al.|[2203.02079v1](http://arxiv.org/abs/2203.02079v1)|null|
 |**2022-03-03**|**Detection of Word Adversarial Examples in Text Classification: Benchmark and Baseline via Robust Density Estimation**|KiYoon Yoo et.al.|[2203.01677v1](http://arxiv.org/abs/2203.01677v1)|**[link](https://github.com/anoymous92874838/text-adv-detection)**|
@@ -394,6 +415,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-03-14**|**All in One: Exploring Unified Video-Language Pre-training**|Alex Jinpeng Wang et.al.|[2203.07303v1](http://arxiv.org/abs/2203.07303v1)|**[link](https://github.com/showlab/all-in-one)**|
+|**2022-03-14**|**CLIP Models are Few-shot Learners: Empirical Studies on VQA and Visual Entailment**|Haoyu Song et.al.|[2203.07190v1](http://arxiv.org/abs/2203.07190v1)|null|
+|**2022-03-14**|**Hyperlink-induced Pre-training for Passage Retrieval in Open-domain Question Answering**|Jiawei Zhou et.al.|[2203.06942v1](http://arxiv.org/abs/2203.06942v1)|null|
+|**2022-03-14**|**Uncertainty-Aware Text-to-Program for Question Answering on Structured Electronic Health Records**|Daeyoung Kim et.al.|[2203.06918v1](http://arxiv.org/abs/2203.06918v1)|null|
+|**2022-03-14**|**Towards Semantic Search for Community Question Answering for Mortgage Officers**|Amir Reza Rahmani et.al.|[2203.06807v1](http://arxiv.org/abs/2203.06807v1)|null|
+|**2022-03-13**|**Towards Visual-Prompt Temporal Answering Grounding in Medical Instructional Video**|Bin Li et.al.|[2203.06667v1](http://arxiv.org/abs/2203.06667v1)|null|
+|**2022-03-12**|**Enabling Multimodal Generation on CLIP via Vision-Language Knowledge Distillation**|Wenliang Dai et.al.|[2203.06386v1](http://arxiv.org/abs/2203.06386v1)|null|
+|**2022-03-11**|**Cross-lingual Inference with A Chinese Entailment Graph**|Tianyi Li et.al.|[2203.06264v1](http://arxiv.org/abs/2203.06264v1)|**[link](https://github.com/teddy-li/chineseentgraph)**|
 |**2022-03-11**|**Tevatron: An Efficient and Flexible Toolkit for Dense Retrieval**|Luyu Gao et.al.|[2203.05765v1](http://arxiv.org/abs/2203.05765v1)|**[link](https://github.com/texttron/tevatron)**|
 |**2022-03-11**|**QDrop: Randomly Dropping Quantization for Extremely Low-bit Post-Training Quantization**|Xiuying Wei et.al.|[2203.05740v1](http://arxiv.org/abs/2203.05740v1)|**[link](https://github.com/wimh966/QDrop)**|
 |**2022-03-10**|**Internet-augmented language models through few-shot prompting for open-domain question answering**|Angeliki Lazaridou et.al.|[2203.05115v1](http://arxiv.org/abs/2203.05115v1)|null|
@@ -512,6 +541,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-03-13**|**Secret-to-Image Reversible Transformation for Generative Steganography**|Zhili Zhou et.al.|[2203.06598v1](http://arxiv.org/abs/2203.06598v1)|null|
 |**2022-03-09**|**A Weibo Dataset for the 2022 Russo-Ukrainian Crisis**|Yi R. Fung et.al.|[2203.05967v1](http://arxiv.org/abs/2203.05967v1)|**[link](https://github.com/yrf1/russiaukraine_weibo_dataset)**|
 |**2022-03-10**|**Semantic Norm Recognition and its application to Portuguese Law**|Maria Duarte et.al.|[2203.05425v1](http://arxiv.org/abs/2203.05425v1)|null|
 |**2022-03-14**|**CEU-Net: Ensemble Semantic Segmentation of Hyperspectral Images Using Clustering**|Nicholas Soucy et.al.|[2203.04873v2](http://arxiv.org/abs/2203.04873v2)|null|
@@ -570,6 +600,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-03-13**|**Exploring Customer Price Preference and Product Profit Role in Recommender Systems**|Michal Kompan et.al.|[2203.06641v1](http://arxiv.org/abs/2203.06641v1)|null|
+|**2022-03-13**|**Bi-Sampling Approach to Classify Music Mood leveraging Raga-Rasa Association in Indian Classical Music**|Mohan Rao B C et.al.|[2203.06583v1](http://arxiv.org/abs/2203.06583v1)|null|
 |**2022-03-11**|**Personalized Execution Time Optimization for the Scheduled Jobs**|Yang Liu et.al.|[2203.06158v1](http://arxiv.org/abs/2203.06158v1)|null|
 |**2022-03-11**|**MemoRec: A Recommender System for Assisting Modelers in Specifying Metamodels**|Juri Di Rocco et.al.|[2203.06068v1](http://arxiv.org/abs/2203.06068v1)|null|
 |**2022-03-11**|**An Adaptive Hybrid Active Learning Strategy with Free Ratings in Collaborative Filtering**|Alireza Gharahighehi et.al.|[2203.05954v1](http://arxiv.org/abs/2203.05954v1)|null|
@@ -715,6 +747,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-03-14**|**Diversifying Content Generation for Commonsense Reasoning with Mixture of Knowledge Graph Experts**|Wenhao Yu et.al.|[2203.07285v1](http://arxiv.org/abs/2203.07285v1)|**[link](https://github.com/DM2-ND/MoKGE)**|
+|**2022-03-14**|**Neural Theorem Provers Delineating Search Area Using RNN**|Yu-hao Wu et.al.|[2203.06985v1](http://arxiv.org/abs/2203.06985v1)|null|
+|**2022-03-14**|**WCL-BBCD: A Contrastive Learning and Knowledge Graph Approach to Named Entity Recognition**|Renjie Zhou et.al.|[2203.06925v1](http://arxiv.org/abs/2203.06925v1)|null|
+|**2022-03-13**|**Reinforced Imitative Graph Learning for Mobile User Profiling**|Dongjie Wang et.al.|[2203.06550v1](http://arxiv.org/abs/2203.06550v1)|null|
+|**2022-03-12**|**G2GML: Graph to Graph Mapping Language for Bridging RDF and Property Graphs**|Hirokazu Chiba et.al.|[2203.06393v1](http://arxiv.org/abs/2203.06393v1)|null|
+|**2022-03-12**|**Ensemble Semi-supervised Entity Alignment via Cycle-teaching**|Kexuan Xin et.al.|[2203.06308v1](http://arxiv.org/abs/2203.06308v1)|**[link](https://github.com/jadexin/cyctea)**|
 |**2022-03-11**|**Towards Analyzing the Bias of News Recommender Systems Using Sentiment and Stance Detection**|Mehwish Alam et.al.|[2203.05824v1](http://arxiv.org/abs/2203.05824v1)|null|
 |**2022-03-11**|**Semi-constraint Optimal Transport for Entity Alignment with Dangling Cases**|Shengxuan Luo et.al.|[2203.05744v1](http://arxiv.org/abs/2203.05744v1)|null|
 |**2022-03-10**|**OneRel:Joint Entity and Relation Extraction with One Module in One Step**|Yu-Ming Shang et.al.|[2203.05412v1](http://arxiv.org/abs/2203.05412v1)|null|
@@ -822,6 +860,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-03-14**|**Improving Di-Higgs Sensitivity at Future Colliders in Hadronic Final States with Machine Learning**|Daniel Diaz et.al.|[2203.07353v1](http://arxiv.org/abs/2203.07353v1)|null|
+|**2022-03-14**|**Towards Neural Sparse Linear Solvers**|Luca Grementieri et.al.|[2203.06944v1](http://arxiv.org/abs/2203.06944v1)|null|
+|**2022-03-14**|**Continual Learning for Multivariate Time Series Tasks with Variable Input Dimensions**|Vibhor Gupta et.al.|[2203.06852v1](http://arxiv.org/abs/2203.06852v1)|null|
+|**2022-03-13**|**Pruned Graph Neural Network for Short Story Ordering**|Melika Golestani et.al.|[2203.06778v1](http://arxiv.org/abs/2203.06778v1)|null|
+|**2022-03-12**|**Equivariant Graph Mechanics Networks with Constraints**|Wenbing Huang et.al.|[2203.06442v1](http://arxiv.org/abs/2203.06442v1)|**[link](https://github.com/hanjq17/gmn)**|
+|**2022-03-12**|**Transition Relation Aware Self-Attention for Session-based Recommendation**|Guanghui Zhu et.al.|[2203.06407v1](http://arxiv.org/abs/2203.06407v1)|null|
+|**2022-03-12**|**GRAND+: Scalable Graph Random Neural Networks**|Wenzheng Feng et.al.|[2203.06389v1](http://arxiv.org/abs/2203.06389v1)|**[link](https://github.com/wzfhaha/grand-plus)**|
+|**2022-03-11**|**Leveraging universality of jet taggers through transfer learning**|Frédéric A. Dreyer et.al.|[2203.06210v1](http://arxiv.org/abs/2203.06210v1)|null|
 |**2022-03-11**|**Graph Neural Networks for Relational Inductive Bias in Vision-based Deep Reinforcement Learning of Robot Control**|Marco Oliva et.al.|[2203.05985v1](http://arxiv.org/abs/2203.05985v1)|null|
 |**2022-03-11**|**Graph Summarization with Graph Neural Networks**|Maximilian Blasi et.al.|[2203.05919v1](http://arxiv.org/abs/2203.05919v1)|null|
 |**2022-03-14**|**Spatial Commonsense Graph for Object Localisation in Partial Scenes**|Francesco Giuliari et.al.|[2203.05380v2](http://arxiv.org/abs/2203.05380v2)|**[link](https://github.com/fgiuliari/spatialcommonsensegraph-dataset)**|
