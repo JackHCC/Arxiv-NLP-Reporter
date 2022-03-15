@@ -256,7 +256,7 @@
 |**2022-03-09**|**Memory Efficient Continual Learning for Neural Text Classification**|Beyza Ermis et.al.|[2203.04640v1](http://arxiv.org/abs/2203.04640v1)|null|
 |**2022-03-08**|**Incorporating Hierarchy into Text Encoder: a Contrastive Learning Approach for Hierarchical Text Classification**|Zihan Wang et.al.|[2203.03825v1](http://arxiv.org/abs/2203.03825v1)|**[link](https://github.com/wzh9969/contrastive-htc)**|
 |**2022-03-04**|**CoNIC Solution**|Wenhua Zhang et.al.|[2203.03415v1](http://arxiv.org/abs/2203.03415v1)|null|
-|**2022-03-06**|**Story Point Effort Estimation by Text Level Graph Neural Network**|Hung Phan et.al.|[2203.03062v1](http://arxiv.org/abs/2203.03062v1)|null|
+|**2022-03-14**|**Story Point Effort Estimation by Text Level Graph Neural Network**|Hung Phan et.al.|[2203.03062v2](http://arxiv.org/abs/2203.03062v2)|null|
 |**2022-03-06**|**Graph Neural Network Enhanced Language Models for Efficient Multilingual Text Classification**|Samujjwal Ghosh et.al.|[2203.02912v1](http://arxiv.org/abs/2203.02912v1)|null|
 |**2022-03-04**|**Selective Pseudo-labeling and Class-wise Discriminative Fusion for Sound Event Detection**|Yunhao Liang et.al.|[2203.02191v1](http://arxiv.org/abs/2203.02191v1)|null|
 |**2022-03-03**|**Detection of Word Adversarial Examples in Text Classification: Benchmark and Baseline via Robust Density Estimation**|KiYoon Yoo et.al.|[2203.01677v1](http://arxiv.org/abs/2203.01677v1)|**[link](https://github.com/anoymous92874838/text-adv-detection)**|
@@ -510,7 +510,7 @@
 |---|---|---|---|---|
 |**2022-03-09**|**A Weibo Dataset for the 2022 Russo-Ukrainian Crisis**|Yi R. Fung et.al.|[2203.05967v1](http://arxiv.org/abs/2203.05967v1)|**[link](https://github.com/yrf1/russiaukraine_weibo_dataset)**|
 |**2022-03-10**|**Semantic Norm Recognition and its application to Portuguese Law**|Maria Duarte et.al.|[2203.05425v1](http://arxiv.org/abs/2203.05425v1)|null|
-|**2022-03-09**|**CEU-Net: Ensemble Semantic Segmentation of Hyperspectral Images Using Clustering**|Nicholas Soucy et.al.|[2203.04873v1](http://arxiv.org/abs/2203.04873v1)|null|
+|**2022-03-14**|**CEU-Net: Ensemble Semantic Segmentation of Hyperspectral Images Using Clustering**|Nicholas Soucy et.al.|[2203.04873v2](http://arxiv.org/abs/2203.04873v2)|null|
 |**2022-03-09**|**PET: A new Dataset for Process Extraction from Natural Language Text**|Patrizio Bellan et.al.|[2203.04860v1](http://arxiv.org/abs/2203.04860v1)|null|
 |**2022-03-08**|**A Unified Framework of Medical Information Annotation and Extraction for Chinese Clinical Text**|Enwei Zhu et.al.|[2203.03823v1](http://arxiv.org/abs/2203.03823v1)|**[link](https://github.com/syuoni/eznlp)**|
 |**2022-03-07**|**Extracting Forces from Noisy Dynamics in Dusty Plasmas**|Wentao Yu et.al.|[2203.03740v1](http://arxiv.org/abs/2203.03740v1)|null|
@@ -820,7 +820,7 @@
 |---|---|---|---|---|
 |**2022-03-11**|**Graph Neural Networks for Relational Inductive Bias in Vision-based Deep Reinforcement Learning of Robot Control**|Marco Oliva et.al.|[2203.05985v1](http://arxiv.org/abs/2203.05985v1)|null|
 |**2022-03-11**|**Graph Summarization with Graph Neural Networks**|Maximilian Blasi et.al.|[2203.05919v1](http://arxiv.org/abs/2203.05919v1)|null|
-|**2022-03-10**|**Spatial Commonsense Graph for Object Localisation in Partial Scenes**|Francesco Giuliari et.al.|[2203.05380v1](http://arxiv.org/abs/2203.05380v1)|**[link](https://github.com/fgiuliari/spatialcommonsensegraph-dataset)**|
+|**2022-03-14**|**Spatial Commonsense Graph for Object Localisation in Partial Scenes**|Francesco Giuliari et.al.|[2203.05380v2](http://arxiv.org/abs/2203.05380v2)|**[link](https://github.com/fgiuliari/spatialcommonsensegraph-dataset)**|
 |**2022-03-10**|**LineVD: Statement-level Vulnerability Detection using Graph Neural Networks**|David Hin et.al.|[2203.05181v1](http://arxiv.org/abs/2203.05181v1)|null|
 |**2022-03-10**|**Earthquake Location and Magnitude Estimation with Graph Neural Networks**|Ian W. McBrearty et.al.|[2203.05144v1](http://arxiv.org/abs/2203.05144v1)|null|
 |**2022-03-10**|**Model-Architecture Co-Design for High Performance Temporal GNN Inference on FPGA**|Hongkuan Zhou et.al.|[2203.05095v1](http://arxiv.org/abs/2203.05095v1)|**[link](https://github.com/zjjzby/tgnn-fpga-ipdps2022)**|
