@@ -4,6 +4,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-15**|**Categorical Representation Learning and RG flow operators for algorithmic classifiers**|Artan Sheshmani et.al.|[2203.07975v1](http://arxiv.org/abs/2203.07975v1)|null|
+|**2022-03-15**|**DialogueNeRF: Towards Realistic Avatar Face-to-face Conversation Video Generation**|Zanwei Zhou et.al.|[2203.07931v1](http://arxiv.org/abs/2203.07931v1)|null|
+|**2022-03-15**|**Signal in Noise: Exploring Meaning Encoded in Random Character Sequences with Character-Aware Language Models**|Mark Chu et.al.|[2203.07911v1](http://arxiv.org/abs/2203.07911v1)|**[link](https://github.com/comp-syn/garble)**|
+|**2022-03-14**|**Don't Get Me Wrong: How to apply Deep Visual Interpretations to Time Series**|Christoffer Loeffler et.al.|[2203.07861v1](http://arxiv.org/abs/2203.07861v1)|**[link](https://github.com/crispchris/saliency)**|
+|**2022-03-15**|**CSN: Component-Supervised Network for Few-Shot Classification**|Shuai Shao et.al.|[2203.07738v1](http://arxiv.org/abs/2203.07738v1)|null|
+|**2022-03-15**|**Generalized but not Robust? Comparing the Effects of Data Modification Methods on Out-of-Domain Generalization and Adversarial Robustness**|Tejas Gokhale et.al.|[2203.07653v1](http://arxiv.org/abs/2203.07653v1)|null|
+|**2022-03-15**|**TSM: Measuring the Enticement of Honeyfiles with Natural Language Processing**|Roelien C. Timmer et.al.|[2203.07580v1](http://arxiv.org/abs/2203.07580v1)|null|
+|**2022-03-14**|**ScienceWorld: Is your Agent Smarter than a 5th Grader?**|Ruoyao Wang et.al.|[2203.07540v1](http://arxiv.org/abs/2203.07540v1)|**[link](https://github.com/allenai/scienceworld)**|
 |**2022-03-14**|**The Optimal BERT Surgeon: Scalable and Accurate Second-Order Pruning for Large Language Models**|Eldar Kurtic et.al.|[2203.07259v1](http://arxiv.org/abs/2203.07259v1)|null|
 |**2022-03-14**|**PERT: Pre-training BERT with Permuted Language Model**|Yiming Cui et.al.|[2203.06906v1](http://arxiv.org/abs/2203.06906v1)|**[link](https://github.com/ymcui/pert)**|
 |**2022-03-14**|**SUPERB-SG: Enhanced Speech processing Universal PERformance Benchmark for Semantic and Generative Capabilities**|Hsiang-Sheng Tsai et.al.|[2203.06849v1](http://arxiv.org/abs/2203.06849v1)|**[link](https://github.com/s3prl/s3prl)**|
@@ -261,6 +269,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-15**|**Generalized but not Robust? Comparing the Effects of Data Modification Methods on Out-of-Domain Generalization and Adversarial Robustness**|Tejas Gokhale et.al.|[2203.07653v1](http://arxiv.org/abs/2203.07653v1)|null|
+|**2022-03-14**|**On the Calibration of Pre-trained Language Models using Mixup Guided by Area Under the Margin and Saliency**|Seo Yeon Park et.al.|[2203.07559v1](http://arxiv.org/abs/2203.07559v1)|null|
 |**2022-03-14**|**A Novel Perspective to Look At Attention: Bi-level Attention-based Explainable Topic Modeling for News Classification**|Dairui Liu et.al.|[2203.07216v1](http://arxiv.org/abs/2203.07216v1)|null|
 |**2022-03-15**|**SciNLI: A Corpus for Natural Language Inference on Scientific Text**|Mobashir Sadat et.al.|[2203.06728v2](http://arxiv.org/abs/2203.06728v2)|**[link](https://github.com/msadat3/scinli)**|
 |**2022-03-12**|**A Survey in Adversarial Defences and Robustness in NLP**|Shreya Goyal et.al.|[2203.06414v1](http://arxiv.org/abs/2203.06414v1)|null|
@@ -411,6 +421,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-15**|**Revitalize Region Feature for Democratizing Video-Language Pre-training**|Guanyu Cai et.al.|[2203.07720v1](http://arxiv.org/abs/2203.07720v1)|**[link](https://github.com/cuthbertcai/demovlp)**|
+|**2022-03-15**|**Can you even tell left from right? Presenting a new challenge for VQA**|Sai Raam Venkatraman et.al.|[2203.07664v1](http://arxiv.org/abs/2203.07664v1)|null|
+|**2022-03-15**|**Generalized but not Robust? Comparing the Effects of Data Modification Methods on Out-of-Domain Generalization and Adversarial Robustness**|Tejas Gokhale et.al.|[2203.07653v1](http://arxiv.org/abs/2203.07653v1)|null|
+|**2022-03-14**|**ScienceWorld: Is your Agent Smarter than a 5th Grader?**|Ruoyao Wang et.al.|[2203.07540v1](http://arxiv.org/abs/2203.07540v1)|**[link](https://github.com/allenai/scienceworld)**|
+|**2022-03-14**|**Choose Your QA Model Wisely: A Systematic Study of Generative and Extractive Readers for Question Answering**|Man Luo et.al.|[2203.07522v1](http://arxiv.org/abs/2203.07522v1)|null|
 |**2022-03-14**|**All in One: Exploring Unified Video-Language Pre-training**|Alex Jinpeng Wang et.al.|[2203.07303v1](http://arxiv.org/abs/2203.07303v1)|**[link](https://github.com/showlab/all-in-one)**|
 |**2022-03-14**|**CLIP Models are Few-shot Learners: Empirical Studies on VQA and Visual Entailment**|Haoyu Song et.al.|[2203.07190v1](http://arxiv.org/abs/2203.07190v1)|null|
 |**2022-03-14**|**Hyperlink-induced Pre-training for Passage Retrieval in Open-domain Question Answering**|Jiawei Zhou et.al.|[2203.06942v1](http://arxiv.org/abs/2203.06942v1)|null|
@@ -596,6 +611,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-15**|**CSRS: Code Search with Relevance Matching and Semantic Matching**|Yi Cheng et.al.|[2203.07736v1](http://arxiv.org/abs/2203.07736v1)|null|
+|**2022-03-15**|**Seamlessly Integrating Factual Information and Social Content with Persuasive Dialogue**|Maximillian Chen et.al.|[2203.07657v1](http://arxiv.org/abs/2203.07657v1)|null|
+|**2022-03-15**|**TSM: Measuring the Enticement of Honeyfiles with Natural Language Processing**|Roelien C. Timmer et.al.|[2203.07580v1](http://arxiv.org/abs/2203.07580v1)|null|
+|**2022-03-14**|**Hercules: Heterogeneity-Aware Inference Serving for At-Scale Personalized Recommendation**|Liu Ke et.al.|[2203.07424v1](http://arxiv.org/abs/2203.07424v1)|null|
 |**2022-03-13**|**Exploring Customer Price Preference and Product Profit Role in Recommender Systems**|Michal Kompan et.al.|[2203.06641v1](http://arxiv.org/abs/2203.06641v1)|null|
 |**2022-03-13**|**Bi-Sampling Approach to Classify Music Mood leveraging Raga-Rasa Association in Indian Classical Music**|Mohan Rao B C et.al.|[2203.06583v1](http://arxiv.org/abs/2203.06583v1)|null|
 |**2022-03-11**|**Personalized Execution Time Optimization for the Scheduled Jobs**|Yang Liu et.al.|[2203.06158v1](http://arxiv.org/abs/2203.06158v1)|null|
@@ -743,6 +762,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-15**|**RotateQVS: Representing Temporal Information as Rotations in Quaternion Vector Space for Temporal Knowledge Graph Completion**|Kai Chen et.al.|[2203.07993v1](http://arxiv.org/abs/2203.07993v1)|null|
+|**2022-03-15**|**Threat Detection for General Social Engineering Attack Using Machine Learning Techniques**|Zuoguang Wang et.al.|[2203.07933v1](http://arxiv.org/abs/2203.07933v1)|null|
+|**2022-03-15**|**Complex Evolutional Pattern Learning for Temporal Knowledge Graph Reasoning**|Zixuan Li et.al.|[2203.07782v1](http://arxiv.org/abs/2203.07782v1)|null|
+|**2022-03-14**|**A Unified Framework for Rank-based Evaluation Metrics for Link Prediction in Knowledge Graphs**|Charles Tapley Hoyt et.al.|[2203.07544v1](http://arxiv.org/abs/2203.07544v1)|**[link](https://github.com/pykeen/ranking-metrics-manuscript)**|
 |**2022-03-14**|**Diversifying Content Generation for Commonsense Reasoning with Mixture of Knowledge Graph Experts**|Wenhao Yu et.al.|[2203.07285v1](http://arxiv.org/abs/2203.07285v1)|**[link](https://github.com/DM2-ND/MoKGE)**|
 |**2022-03-14**|**Neural Theorem Provers Delineating Search Area Using RNN**|Yu-hao Wu et.al.|[2203.06985v1](http://arxiv.org/abs/2203.06985v1)|null|
 |**2022-03-14**|**WCL-BBCD: A Contrastive Learning and Knowledge Graph Approach to Named Entity Recognition**|Renjie Zhou et.al.|[2203.06925v1](http://arxiv.org/abs/2203.06925v1)|null|
@@ -856,6 +879,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-15**|**OcclusionFusion: Occlusion-aware Motion Estimation for Real-time Dynamic 3D Reconstruction**|Wenbin Lin et.al.|[2203.07977v1](http://arxiv.org/abs/2203.07977v1)|null|
+|**2022-03-15**|**PDNS-Net: A Large Heterogeneous Graph Benchmark Dataset of Network Resolutions for Graph Learning**|Udesh Kumarasinghe et.al.|[2203.07969v1](http://arxiv.org/abs/2203.07969v1)|**[link](https://github.com/qcri/pdns-net)**|
+|**2022-03-15**|**Amortised inference of fractional Brownian motion with linear computational complexity**|François Laurent et.al.|[2203.07961v1](http://arxiv.org/abs/2203.07961v1)|null|
+|**2022-03-14**|**Simulating Liquids with Graph Networks**|Jonathan Klimesch et.al.|[2203.07895v1](http://arxiv.org/abs/2203.07895v1)|null|
+|**2022-03-15**|**Graph Neural Network Sensitivity Under Probabilistic Error Model**|Xinjue Wang et.al.|[2203.07831v1](http://arxiv.org/abs/2203.07831v1)|null|
+|**2022-03-15**|**Supervised Contrastive Learning with Structure Inference for Graph Classification**|Hao Jia et.al.|[2203.07691v1](http://arxiv.org/abs/2203.07691v1)|null|
+|**2022-03-15**|**Incorporating Heterophily into Graph Neural Networks for Graph Classification**|Wei Ye et.al.|[2203.07678v1](http://arxiv.org/abs/2203.07678v1)|**[link](https://github.com/yeweiysh/ihgnn)**|
+|**2022-03-15**|**Distributed-Memory Sparse Kernels for Machine Learning**|Vivek Bharadwaj et.al.|[2203.07673v1](http://arxiv.org/abs/2203.07673v1)|null|
+|**2022-03-15**|**Graph Representation Learning for Popularity Prediction Problem: A Survey**|Tiantian Chen et.al.|[2203.07632v1](http://arxiv.org/abs/2203.07632v1)|null|
 |**2022-03-14**|**Improving Di-Higgs Sensitivity at Future Colliders in Hadronic Final States with Machine Learning**|Daniel Diaz et.al.|[2203.07353v1](http://arxiv.org/abs/2203.07353v1)|null|
 |**2022-03-14**|**Towards Neural Sparse Linear Solvers**|Luca Grementieri et.al.|[2203.06944v1](http://arxiv.org/abs/2203.06944v1)|null|
 |**2022-03-14**|**Continual Learning for Multivariate Time Series Tasks with Variable Input Dimensions**|Vibhor Gupta et.al.|[2203.06852v1](http://arxiv.org/abs/2203.06852v1)|null|
