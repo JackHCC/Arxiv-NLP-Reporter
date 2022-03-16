@@ -1,4 +1,4 @@
-## Updated on 2022.03.15
+## Updated on 2022.03.16
 
 ## NLP
 
@@ -6,11 +6,11 @@
 |---|---|---|---|---|
 |**2022-03-14**|**The Optimal BERT Surgeon: Scalable and Accurate Second-Order Pruning for Large Language Models**|Eldar Kurtic et.al.|[2203.07259v1](http://arxiv.org/abs/2203.07259v1)|null|
 |**2022-03-14**|**PERT: Pre-training BERT with Permuted Language Model**|Yiming Cui et.al.|[2203.06906v1](http://arxiv.org/abs/2203.06906v1)|**[link](https://github.com/ymcui/pert)**|
-|**2022-03-14**|**SUPERB-SG: Enhanced Speech processing Universal PERformance Benchmark for Semantic and Generative Capabilities**|Hsiang-Sheng Tsai et.al.|[2203.06849v1](http://arxiv.org/abs/2203.06849v1)|null|
+|**2022-03-14**|**SUPERB-SG: Enhanced Speech processing Universal PERformance Benchmark for Semantic and Generative Capabilities**|Hsiang-Sheng Tsai et.al.|[2203.06849v1](http://arxiv.org/abs/2203.06849v1)|**[link](https://github.com/s3prl/s3prl)**|
 |**2022-03-14**|**Towards Semantic Search for Community Question Answering for Mortgage Officers**|Amir Reza Rahmani et.al.|[2203.06807v1](http://arxiv.org/abs/2203.06807v1)|null|
 |**2022-03-13**|**Adaptive Bit Rate Control in Semantic Communication with Incremental Knowledge-based HARQ**|Qingyang Zhou et.al.|[2203.06634v1](http://arxiv.org/abs/2203.06634v1)|null|
 |**2022-03-13**|**A Systematic Study and Analysis of Bengali Folklore with Natural Language Processing Systems**|Mustain Billah et.al.|[2203.06607v1](http://arxiv.org/abs/2203.06607v1)|null|
-|**2022-03-13**|**Masked Autoencoders for Point Cloud Self-supervised Learning**|Yatian Pang et.al.|[2203.06604v1](http://arxiv.org/abs/2203.06604v1)|null|
+|**2022-03-13**|**Masked Autoencoders for Point Cloud Self-supervised Learning**|Yatian Pang et.al.|[2203.06604v1](http://arxiv.org/abs/2203.06604v1)|**[link](https://github.com/Pang-Yatian/Point-MAE)**|
 |**2022-03-12**|**Low-Rank Softmax Can Have Unargmaxable Classes in Theory but Rarely in Practice**|Andreas Grivas et.al.|[2203.06462v1](http://arxiv.org/abs/2203.06462v1)|null|
 |**2022-03-12**|**A Survey in Adversarial Defences and Robustness in NLP**|Shreya Goyal et.al.|[2203.06414v1](http://arxiv.org/abs/2203.06414v1)|null|
 |**2022-03-12**|**BiBERT: Accurate Fully Binarized BERT**|Haotong Qin et.al.|[2203.06390v1](http://arxiv.org/abs/2203.06390v1)|**[link](https://github.com/htqin/bibert)**|
@@ -262,7 +262,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2022-03-14**|**A Novel Perspective to Look At Attention: Bi-level Attention-based Explainable Topic Modeling for News Classification**|Dairui Liu et.al.|[2203.07216v1](http://arxiv.org/abs/2203.07216v1)|null|
-|**2022-03-13**|**SciNLI: A Corpus for Natural Language Inference on Scientific Text**|Mobashir Sadat et.al.|[2203.06728v1](http://arxiv.org/abs/2203.06728v1)|**[link](https://github.com/msadat3/scinli)**|
+|**2022-03-15**|**SciNLI: A Corpus for Natural Language Inference on Scientific Text**|Mobashir Sadat et.al.|[2203.06728v2](http://arxiv.org/abs/2203.06728v2)|**[link](https://github.com/msadat3/scinli)**|
 |**2022-03-12**|**A Survey in Adversarial Defences and Robustness in NLP**|Shreya Goyal et.al.|[2203.06414v1](http://arxiv.org/abs/2203.06414v1)|null|
 |**2022-03-12**|**MarkBERT: Marking Word Boundaries Improves Chinese BERT**|Linyang Li et.al.|[2203.06378v1](http://arxiv.org/abs/2203.06378v1)|null|
 |**2022-03-11**|**QDrop: Randomly Dropping Quantization for Extremely Low-bit Post-Training Quantization**|Xiuying Wei et.al.|[2203.05740v1](http://arxiv.org/abs/2203.05740v1)|**[link](https://github.com/wimh966/QDrop)**|
@@ -416,7 +416,7 @@
 |**2022-03-14**|**Hyperlink-induced Pre-training for Passage Retrieval in Open-domain Question Answering**|Jiawei Zhou et.al.|[2203.06942v1](http://arxiv.org/abs/2203.06942v1)|null|
 |**2022-03-14**|**Uncertainty-Aware Text-to-Program for Question Answering on Structured Electronic Health Records**|Daeyoung Kim et.al.|[2203.06918v1](http://arxiv.org/abs/2203.06918v1)|null|
 |**2022-03-14**|**Towards Semantic Search for Community Question Answering for Mortgage Officers**|Amir Reza Rahmani et.al.|[2203.06807v1](http://arxiv.org/abs/2203.06807v1)|null|
-|**2022-03-13**|**Towards Visual-Prompt Temporal Answering Grounding in Medical Instructional Video**|Bin Li et.al.|[2203.06667v1](http://arxiv.org/abs/2203.06667v1)|null|
+|**2022-03-15**|**Towards Visual-Prompt Temporal Answering Grounding in Medical Instructional Video**|Bin Li et.al.|[2203.06667v2](http://arxiv.org/abs/2203.06667v2)|null|
 |**2022-03-12**|**Enabling Multimodal Generation on CLIP via Vision-Language Knowledge Distillation**|Wenliang Dai et.al.|[2203.06386v1](http://arxiv.org/abs/2203.06386v1)|null|
 |**2022-03-11**|**Cross-lingual Inference with A Chinese Entailment Graph**|Tianyi Li et.al.|[2203.06264v1](http://arxiv.org/abs/2203.06264v1)|**[link](https://github.com/teddy-li/chineseentgraph)**|
 |**2022-03-11**|**Tevatron: An Efficient and Flexible Toolkit for Dense Retrieval**|Luyu Gao et.al.|[2203.05765v1](http://arxiv.org/abs/2203.05765v1)|**[link](https://github.com/texttron/tevatron)**|
