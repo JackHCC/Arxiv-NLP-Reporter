@@ -8,6 +8,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-03-16**|**KinyaBERT: a Morphology-aware Kinyarwanda Language Model**|Antoine Nzeyimana et.al.|[2203.08459v1](http://arxiv.org/abs/2203.08459v1)|**[link](https://github.com/anzeyimana/kinyabert-acl2022)**|
+|**2022-03-16**|**Can Pre-trained Language Models Interpret Similes as Smart as Human?**|Qianyu He et.al.|[2203.08452v1](http://arxiv.org/abs/2203.08452v1)|null|
+|**2022-03-16**|**Reducing Flipping Errors in Deep Neural Networks**|Xiang Deng et.al.|[2203.08390v1](http://arxiv.org/abs/2203.08390v1)|**[link](https://github.com/xiang-deng-dl/fer)**|
+|**2022-03-15**|**Toward Improving Attentive Neural Networks in Legal Text Processing**|Ha-Thanh Nguyen et.al.|[2203.08244v1](http://arxiv.org/abs/2203.08244v1)|null|
+|**2022-03-15**|**HUMUS-Net: Hybrid unrolled multi-scale network architecture for accelerated MRI reconstruction**|Zalan Fabian et.al.|[2203.08213v1](http://arxiv.org/abs/2203.08213v1)|**[link](https://github.com/MathFLDS/HUMUS-Net)**|
 |**2022-03-15**|**Categorical Representation Learning and RG flow operators for algorithmic classifiers**|Artan Sheshmani et.al.|[2203.07975v1](http://arxiv.org/abs/2203.07975v1)|null|
 |**2022-03-15**|**DialogueNeRF: Towards Realistic Avatar Face-to-face Conversation Video Generation**|Zanwei Zhou et.al.|[2203.07931v1](http://arxiv.org/abs/2203.07931v1)|null|
 |**2022-03-15**|**Signal in Noise: Exploring Meaning Encoded in Random Character Sequences with Character-Aware Language Models**|Mark Chu et.al.|[2203.07911v1](http://arxiv.org/abs/2203.07911v1)|**[link](https://github.com/comp-syn/garble)**|
@@ -232,6 +237,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-03-16**|**KinyaBERT: a Morphology-aware Kinyarwanda Language Model**|Antoine Nzeyimana et.al.|[2203.08459v1](http://arxiv.org/abs/2203.08459v1)|**[link](https://github.com/anzeyimana/kinyabert-acl2022)**|
+|**2022-03-16**|**Thinking about GPT-3 In-Context Learning for Biomedical IE? Think Again**|Bernal Jiménez Gutiérrez et.al.|[2203.08410v1](http://arxiv.org/abs/2203.08410v1)|null|
 |**2022-03-14**|**WCL-BBCD: A Contrastive Learning and Knowledge Graph Approach to Named Entity Recognition**|Renjie Zhou et.al.|[2203.06925v1](http://arxiv.org/abs/2203.06925v1)|null|
 |**2022-03-13**|**ProtagonistTagger -- a Tool for Entity Linkage of Persons in Texts from Various Languages and Domains**|Weronika Lajewska et.al.|[2203.06746v1](http://arxiv.org/abs/2203.06746v1)|null|
 |**2022-03-12**|**A Survey in Adversarial Defences and Robustness in NLP**|Shreya Goyal et.al.|[2203.06414v1](http://arxiv.org/abs/2203.06414v1)|null|
@@ -273,6 +280,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-03-16**|**Measuring Fairness of Text Classifiers via Prediction Sensitivity**|Satyapriya Krishna et.al.|[2203.08670v1](http://arxiv.org/abs/2203.08670v1)|null|
 |**2022-03-15**|**Generalized but not Robust? Comparing the Effects of Data Modification Methods on Out-of-Domain Generalization and Adversarial Robustness**|Tejas Gokhale et.al.|[2203.07653v1](http://arxiv.org/abs/2203.07653v1)|null|
 |**2022-03-14**|**On the Calibration of Pre-trained Language Models using Mixup Guided by Area Under the Margin and Saliency**|Seo Yeon Park et.al.|[2203.07559v1](http://arxiv.org/abs/2203.07559v1)|null|
 |**2022-03-14**|**A Novel Perspective to Look At Attention: Bi-level Attention-based Explainable Topic Modeling for News Classification**|Dairui Liu et.al.|[2203.07216v1](http://arxiv.org/abs/2203.07216v1)|null|
@@ -372,6 +380,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-03-15**|**Fiber Bundle Morphisms as a Framework for Modeling Many-to-Many Maps**|Elizabeth Coda et.al.|[2203.08189v1](http://arxiv.org/abs/2203.08189v1)|null|
+|**2022-03-10**|**HiSA-SMFM: Historical and Sentiment Analysis based Stock Market Forecasting Model**|Ishu Gupta et.al.|[2203.08143v1](http://arxiv.org/abs/2203.08143v1)|null|
 |**2022-03-14**|**Towards Unifying the Label Space for Aspect- and Sentence-based Sentiment Analysis**|Yiming Zhang et.al.|[2203.07090v1](http://arxiv.org/abs/2203.07090v1)|null|
 |**2022-03-15**|**A Systematic Review on Affective Computing: Emotion Models, Databases, and Recent Advances**|Yan Wang et.al.|[2203.06935v2](http://arxiv.org/abs/2203.06935v2)|null|
 |**2022-03-13**|**Investigating the Impact of COVID-19 on Education by Social Network Mining**|Mohadese Jamalian et.al.|[2203.06584v1](http://arxiv.org/abs/2203.06584v1)|null|
@@ -425,6 +435,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-03-16**|**Training Data is More Valuable than You Think: A Simple and Effective Method by Retrieving from Training Data**|Shuohang Wang et.al.|[2203.08773v1](http://arxiv.org/abs/2203.08773v1)|**[link](https://github.com/microsoft/reina)**|
+|**2022-03-16**|**E-KAR: A Benchmark for Rationalizing Natural Language Analogical Reasoning**|Jiangjie Chen et.al.|[2203.08480v1](http://arxiv.org/abs/2203.08480v1)|null|
+|**2022-03-15**|**Hyperdecoders: Instance-specific decoders for multi-task NLP**|Hamish Ivison et.al.|[2203.08304v1](http://arxiv.org/abs/2203.08304v1)|null|
 |**2022-03-15**|**Revitalize Region Feature for Democratizing Video-Language Pre-training**|Guanyu Cai et.al.|[2203.07720v1](http://arxiv.org/abs/2203.07720v1)|**[link](https://github.com/cuthbertcai/demovlp)**|
 |**2022-03-15**|**Can you even tell left from right? Presenting a new challenge for VQA**|Sai Raam Venkatraman et.al.|[2203.07664v1](http://arxiv.org/abs/2203.07664v1)|null|
 |**2022-03-15**|**Generalized but not Robust? Comparing the Effects of Data Modification Methods on Out-of-Domain Generalization and Adversarial Robustness**|Tejas Gokhale et.al.|[2203.07653v1](http://arxiv.org/abs/2203.07653v1)|null|
@@ -556,6 +569,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-03-16**|**FormNet: Structural Encoding beyond Sequential Modeling in Form Document Information Extraction**|Chen-Yu Lee et.al.|[2203.08411v1](http://arxiv.org/abs/2203.08411v1)|null|
+|**2022-03-16**|**Thinking about GPT-3 In-Context Learning for Biomedical IE? Think Again**|Bernal Jiménez Gutiérrez et.al.|[2203.08410v1](http://arxiv.org/abs/2203.08410v1)|null|
+|**2022-03-15**|**Reconstructing Missing EHRs Using Time-Aware Within- and Cross-Visit Information for Septic Shock Early Prediction**|Ge Gao et.al.|[2203.08245v1](http://arxiv.org/abs/2203.08245v1)|null|
 |**2022-03-13**|**Secret-to-Image Reversible Transformation for Generative Steganography**|Zhili Zhou et.al.|[2203.06598v1](http://arxiv.org/abs/2203.06598v1)|null|
 |**2022-03-09**|**A Weibo Dataset for the 2022 Russo-Ukrainian Crisis**|Yi R. Fung et.al.|[2203.05967v1](http://arxiv.org/abs/2203.05967v1)|**[link](https://github.com/yrf1/russiaukraine_weibo_dataset)**|
 |**2022-03-10**|**Semantic Norm Recognition and its application to Portuguese Law**|Maria Duarte et.al.|[2203.05425v1](http://arxiv.org/abs/2203.05425v1)|null|
@@ -615,6 +631,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-03-16**|**How do you Converse with an Analytical Chatbot? Revisiting Gricean Maxims for Designing Analytical Conversational Behavior**|Vidya Setlur et.al.|[2203.08420v1](http://arxiv.org/abs/2203.08420v1)|null|
+|**2022-03-16**|**Are you aware of what you are watching? Role of machine heuristic in online content recommendations**|Soyoung Oh et.al.|[2203.08373v1](http://arxiv.org/abs/2203.08373v1)|null|
 |**2022-03-15**|**CSRS: Code Search with Relevance Matching and Semantic Matching**|Yi Cheng et.al.|[2203.07736v1](http://arxiv.org/abs/2203.07736v1)|null|
 |**2022-03-16**|**Seamlessly Integrating Factual Information and Social Content with Persuasive Dialogue**|Maximillian Chen et.al.|[2203.07657v2](http://arxiv.org/abs/2203.07657v2)|null|
 |**2022-03-15**|**TSM: Measuring the Enticement of Honeyfiles with Natural Language Processing**|Roelien C. Timmer et.al.|[2203.07580v1](http://arxiv.org/abs/2203.07580v1)|null|
@@ -766,6 +784,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-03-16**|**TegTok: Augmenting Text Generation via Task-specific and Open-world Knowledge**|Chao-Hong Tan et.al.|[2203.08517v1](http://arxiv.org/abs/2203.08517v1)|**[link](https://github.com/lxchtan/tegtok)**|
+|**2022-03-16**|**Personal Knowledge Graphs: Use Cases in e-learning Platforms**|Eleni Ilkou et.al.|[2203.08507v1](http://arxiv.org/abs/2203.08507v1)|null|
 |**2022-03-15**|**RotateQVS: Representing Temporal Information as Rotations in Quaternion Vector Space for Temporal Knowledge Graph Completion**|Kai Chen et.al.|[2203.07993v1](http://arxiv.org/abs/2203.07993v1)|null|
 |**2022-03-15**|**Threat Detection for General Social Engineering Attack Using Machine Learning Techniques**|Zuoguang Wang et.al.|[2203.07933v1](http://arxiv.org/abs/2203.07933v1)|null|
 |**2022-03-15**|**Complex Evolutional Pattern Learning for Temporal Knowledge Graph Reasoning**|Zixuan Li et.al.|[2203.07782v1](http://arxiv.org/abs/2203.07782v1)|null|
@@ -883,6 +903,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-03-16**|**Graph Neural Networks for Multiparallel Word Alignment**|Ayyoob Imani et.al.|[2203.08654v1](http://arxiv.org/abs/2203.08654v1)|null|
+|**2022-03-16**|**HeterMPC: A Heterogeneous Graph Neural Network for Response Generation in Multi-Party Conversations**|Jia-Chen Gu et.al.|[2203.08500v1](http://arxiv.org/abs/2203.08500v1)|**[link](https://github.com/lxchtan/hetermpc)**|
 |**2022-03-15**|**OcclusionFusion: Occlusion-aware Motion Estimation for Real-time Dynamic 3D Reconstruction**|Wenbin Lin et.al.|[2203.07977v1](http://arxiv.org/abs/2203.07977v1)|null|
 |**2022-03-15**|**PDNS-Net: A Large Heterogeneous Graph Benchmark Dataset of Network Resolutions for Graph Learning**|Udesh Kumarasinghe et.al.|[2203.07969v1](http://arxiv.org/abs/2203.07969v1)|**[link](https://github.com/qcri/pdns-net)**|
 |**2022-03-15**|**Amortised inference of fractional Brownian motion with linear computational complexity**|François Laurent et.al.|[2203.07961v1](http://arxiv.org/abs/2203.07961v1)|null|
