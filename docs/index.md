@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.03.16
+## Updated on 2022.03.17
 
 ## NLP
 
@@ -616,7 +616,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2022-03-15**|**CSRS: Code Search with Relevance Matching and Semantic Matching**|Yi Cheng et.al.|[2203.07736v1](http://arxiv.org/abs/2203.07736v1)|null|
-|**2022-03-15**|**Seamlessly Integrating Factual Information and Social Content with Persuasive Dialogue**|Maximillian Chen et.al.|[2203.07657v1](http://arxiv.org/abs/2203.07657v1)|null|
+|**2022-03-16**|**Seamlessly Integrating Factual Information and Social Content with Persuasive Dialogue**|Maximillian Chen et.al.|[2203.07657v2](http://arxiv.org/abs/2203.07657v2)|null|
 |**2022-03-15**|**TSM: Measuring the Enticement of Honeyfiles with Natural Language Processing**|Roelien C. Timmer et.al.|[2203.07580v1](http://arxiv.org/abs/2203.07580v1)|null|
 |**2022-03-14**|**Hercules: Heterogeneity-Aware Inference Serving for At-Scale Personalized Recommendation**|Liu Ke et.al.|[2203.07424v1](http://arxiv.org/abs/2203.07424v1)|null|
 |**2022-03-13**|**Exploring Customer Price Preference and Product Profit Role in Recommender Systems**|Michal Kompan et.al.|[2203.06641v1](http://arxiv.org/abs/2203.06641v1)|null|
