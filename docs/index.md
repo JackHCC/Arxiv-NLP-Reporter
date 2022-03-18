@@ -8,7 +8,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2022-03-16**|**KinyaBERT: a Morphology-aware Kinyarwanda Language Model**|Antoine Nzeyimana et.al.|[2203.08459v1](http://arxiv.org/abs/2203.08459v1)|**[link](https://github.com/anzeyimana/kinyabert-acl2022)**|
+|**2022-03-17**|**KinyaBERT: a Morphology-aware Kinyarwanda Language Model**|Antoine Nzeyimana et.al.|[2203.08459v2](http://arxiv.org/abs/2203.08459v2)|**[link](https://github.com/anzeyimana/kinyabert-acl2022)**|
 |**2022-03-16**|**Can Pre-trained Language Models Interpret Similes as Smart as Human?**|Qianyu He et.al.|[2203.08452v1](http://arxiv.org/abs/2203.08452v1)|**[link](https://github.com/abbey4799/plms-interpret-simile)**|
 |**2022-03-16**|**Reducing Flipping Errors in Deep Neural Networks**|Xiang Deng et.al.|[2203.08390v1](http://arxiv.org/abs/2203.08390v1)|**[link](https://github.com/xiang-deng-dl/fer)**|
 |**2022-03-15**|**Toward Improving Attentive Neural Networks in Legal Text Processing**|Ha-Thanh Nguyen et.al.|[2203.08244v1](http://arxiv.org/abs/2203.08244v1)|null|
@@ -237,7 +237,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2022-03-16**|**KinyaBERT: a Morphology-aware Kinyarwanda Language Model**|Antoine Nzeyimana et.al.|[2203.08459v1](http://arxiv.org/abs/2203.08459v1)|**[link](https://github.com/anzeyimana/kinyabert-acl2022)**|
+|**2022-03-17**|**KinyaBERT: a Morphology-aware Kinyarwanda Language Model**|Antoine Nzeyimana et.al.|[2203.08459v2](http://arxiv.org/abs/2203.08459v2)|**[link](https://github.com/anzeyimana/kinyabert-acl2022)**|
 |**2022-03-16**|**Thinking about GPT-3 In-Context Learning for Biomedical IE? Think Again**|Bernal Jiménez Gutiérrez et.al.|[2203.08410v1](http://arxiv.org/abs/2203.08410v1)|null|
 |**2022-03-14**|**WCL-BBCD: A Contrastive Learning and Knowledge Graph Approach to Named Entity Recognition**|Renjie Zhou et.al.|[2203.06925v1](http://arxiv.org/abs/2203.06925v1)|null|
 |**2022-03-13**|**ProtagonistTagger -- a Tool for Entity Linkage of Persons in Texts from Various Languages and Domains**|Weronika Lajewska et.al.|[2203.06746v1](http://arxiv.org/abs/2203.06746v1)|null|
