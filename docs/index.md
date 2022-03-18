@@ -2,14 +2,14 @@
 layout: default
 ---
 
-## Updated on 2022.03.17
+## Updated on 2022.03.18
 
 ## NLP
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2022-03-16**|**KinyaBERT: a Morphology-aware Kinyarwanda Language Model**|Antoine Nzeyimana et.al.|[2203.08459v1](http://arxiv.org/abs/2203.08459v1)|**[link](https://github.com/anzeyimana/kinyabert-acl2022)**|
-|**2022-03-16**|**Can Pre-trained Language Models Interpret Similes as Smart as Human?**|Qianyu He et.al.|[2203.08452v1](http://arxiv.org/abs/2203.08452v1)|null|
+|**2022-03-16**|**Can Pre-trained Language Models Interpret Similes as Smart as Human?**|Qianyu He et.al.|[2203.08452v1](http://arxiv.org/abs/2203.08452v1)|**[link](https://github.com/abbey4799/plms-interpret-simile)**|
 |**2022-03-16**|**Reducing Flipping Errors in Deep Neural Networks**|Xiang Deng et.al.|[2203.08390v1](http://arxiv.org/abs/2203.08390v1)|**[link](https://github.com/xiang-deng-dl/fer)**|
 |**2022-03-15**|**Toward Improving Attentive Neural Networks in Legal Text Processing**|Ha-Thanh Nguyen et.al.|[2203.08244v1](http://arxiv.org/abs/2203.08244v1)|null|
 |**2022-03-15**|**HUMUS-Net: Hybrid unrolled multi-scale network architecture for accelerated MRI reconstruction**|Zalan Fabian et.al.|[2203.08213v1](http://arxiv.org/abs/2203.08213v1)|**[link](https://github.com/z-fabian/HUMUS-Net)**|
@@ -786,8 +786,8 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2022-03-16**|**TegTok: Augmenting Text Generation via Task-specific and Open-world Knowledge**|Chao-Hong Tan et.al.|[2203.08517v1](http://arxiv.org/abs/2203.08517v1)|**[link](https://github.com/lxchtan/tegtok)**|
 |**2022-03-16**|**Personal Knowledge Graphs: Use Cases in e-learning Platforms**|Eleni Ilkou et.al.|[2203.08507v1](http://arxiv.org/abs/2203.08507v1)|null|
-|**2022-03-15**|**RotateQVS: Representing Temporal Information as Rotations in Quaternion Vector Space for Temporal Knowledge Graph Completion**|Kai Chen et.al.|[2203.07993v1](http://arxiv.org/abs/2203.07993v1)|null|
-|**2022-03-15**|**Threat Detection for General Social Engineering Attack Using Machine Learning Techniques**|Zuoguang Wang et.al.|[2203.07933v1](http://arxiv.org/abs/2203.07933v1)|null|
+|**2022-03-17**|**RotateQVS: Representing Temporal Information as Rotations in Quaternion Vector Space for Temporal Knowledge Graph Completion**|Kai Chen et.al.|[2203.07993v2](http://arxiv.org/abs/2203.07993v2)|null|
+|**2022-03-17**|**Threat Detection for General Social Engineering Attack Using Machine Learning Techniques**|Zuoguang Wang et.al.|[2203.07933v2](http://arxiv.org/abs/2203.07933v2)|null|
 |**2022-03-15**|**Complex Evolutional Pattern Learning for Temporal Knowledge Graph Reasoning**|Zixuan Li et.al.|[2203.07782v1](http://arxiv.org/abs/2203.07782v1)|null|
 |**2022-03-14**|**A Unified Framework for Rank-based Evaluation Metrics for Link Prediction in Knowledge Graphs**|Charles Tapley Hoyt et.al.|[2203.07544v1](http://arxiv.org/abs/2203.07544v1)|**[link](https://github.com/pykeen/ranking-metrics-manuscript)**|
 |**2022-03-14**|**Diversifying Content Generation for Commonsense Reasoning with Mixture of Knowledge Graph Experts**|Wenhao Yu et.al.|[2203.07285v1](http://arxiv.org/abs/2203.07285v1)|**[link](https://github.com/DM2-ND/MoKGE)**|
