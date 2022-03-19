@@ -1,15 +1,15 @@
-## Updated on 2022.03.18
+## Updated on 2022.03.19
 
 ## NLP
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2022-03-17**|**Entropy-based Attention Regularization Frees Unintended Bias Mitigation from Lists**|Giuseppe Attanasio et.al.|[2203.09192v1](http://arxiv.org/abs/2203.09192v1)|null|
+|**2022-03-17**|**Entropy-based Attention Regularization Frees Unintended Bias Mitigation from Lists**|Giuseppe Attanasio et.al.|[2203.09192v1](http://arxiv.org/abs/2203.09192v1)|**[link](https://github.com/g8a9/ear)**|
 |**2022-03-17**|**Nearest Neighbor Classifier with Margin Penalty for Active Learning**|Yuan Cao et.al.|[2203.09174v1](http://arxiv.org/abs/2203.09174v1)|null|
 |**2022-03-17**|**POLARIS: A Geographic Pre-trained Model and its Applications in Baidu Maps**|Huang Jizhou et.al.|[2203.09127v1](http://arxiv.org/abs/2203.09127v1)|null|
 |**2022-03-17**|**Fine- and Coarse-Granularity Hybrid Self-Attention for Efficient BERT**|Jing Zhao et.al.|[2203.09055v1](http://arxiv.org/abs/2203.09055v1)|null|
-|**2022-03-16**|**Speaker Information Can Guide Models to Better Inductive Biases: A Case Study On Predicting Code-Switching**|Alissa Ostapenko et.al.|[2203.08979v1](http://arxiv.org/abs/2203.08979v1)|null|
-|**2022-03-16**|**3D-UCaps: 3D Capsules Unet for Volumetric Image Segmentation**|Tan Nguyen et.al.|[2203.08965v1](http://arxiv.org/abs/2203.08965v1)|null|
+|**2022-03-16**|**Speaker Information Can Guide Models to Better Inductive Biases: A Case Study On Predicting Code-Switching**|Alissa Ostapenko et.al.|[2203.08979v1](http://arxiv.org/abs/2203.08979v1)|**[link](https://github.com/ostapen/switch-and-explain)**|
+|**2022-03-16**|**3D-UCaps: 3D Capsules Unet for Volumetric Image Segmentation**|Tan Nguyen et.al.|[2203.08965v1](http://arxiv.org/abs/2203.08965v1)|**[link](https://github.com/vinairesearch/3d-ucaps)**|
 |**2022-03-16**|**CapsNet for Medical Image Segmentation**|Minh Tran et.al.|[2203.08948v1](http://arxiv.org/abs/2203.08948v1)|null|
 |**2022-03-16**|**Morphological Processing of Low-Resource Languages: Where We Are and What's Next**|Adam Wiemerslage et.al.|[2203.08909v1](http://arxiv.org/abs/2203.08909v1)|null|
 |**2022-03-17**|**KinyaBERT: a Morphology-aware Kinyarwanda Language Model**|Antoine Nzeyimana et.al.|[2203.08459v2](http://arxiv.org/abs/2203.08459v2)|**[link](https://github.com/anzeyimana/kinyabert-acl2022)**|
@@ -443,10 +443,10 @@
 |---|---|---|---|---|
 |**2022-03-17**|**elBERto: Self-supervised Commonsense Learning for Question Answering**|Xunlin Zhan et.al.|[2203.09424v1](http://arxiv.org/abs/2203.09424v1)|null|
 |**2022-03-17**|**Knowledge Graph Embedding Methods for Entity Alignment: An Experimental Review**|Nikolaos Fanourakis et.al.|[2203.09280v1](http://arxiv.org/abs/2203.09280v1)|**[link](https://github.com/fanourakis/experimental-review-ea)**|
-|**2022-03-17**|**MuKEA: Multimodal Knowledge Extraction and Accumulation for Knowledge-based Visual Question Answering**|Yang Ding et.al.|[2203.09138v1](http://arxiv.org/abs/2203.09138v1)|null|
+|**2022-03-17**|**MuKEA: Multimodal Knowledge Extraction and Accumulation for Knowledge-based Visual Question Answering**|Yang Ding et.al.|[2203.09138v1](http://arxiv.org/abs/2203.09138v1)|**[link](https://github.com/andersonstra/mukea)**|
 |**2022-03-17**|**Ask to Understand: Question Generation for Multi-hop Question Answering**|Jiawei Li et.al.|[2203.09073v1](http://arxiv.org/abs/2203.09073v1)|null|
-|**2022-03-16**|**C-MORE: Pretraining to Answer Open-Domain Questions by Consulting Millions of References**|Xiang Yue et.al.|[2203.08928v1](http://arxiv.org/abs/2203.08928v1)|null|
-|**2022-03-16**|**Synthetic Question Value Estimation for Domain Adaptation of Question Answering**|Xiang Yue et.al.|[2203.08926v1](http://arxiv.org/abs/2203.08926v1)|null|
+|**2022-03-16**|**C-MORE: Pretraining to Answer Open-Domain Questions by Consulting Millions of References**|Xiang Yue et.al.|[2203.08928v1](http://arxiv.org/abs/2203.08928v1)|**[link](https://github.com/xiangyue9607/c-more)**|
+|**2022-03-16**|**Synthetic Question Value Estimation for Domain Adaptation of Question Answering**|Xiang Yue et.al.|[2203.08926v1](http://arxiv.org/abs/2203.08926v1)|**[link](https://github.com/xiangyue9607/qve)**|
 |**2022-03-16**|**Training Data is More Valuable than You Think: A Simple and Effective Method by Retrieving from Training Data**|Shuohang Wang et.al.|[2203.08773v1](http://arxiv.org/abs/2203.08773v1)|**[link](https://github.com/microsoft/reina)**|
 |**2022-03-16**|**E-KAR: A Benchmark for Rationalizing Natural Language Analogical Reasoning**|Jiangjie Chen et.al.|[2203.08480v1](http://arxiv.org/abs/2203.08480v1)|null|
 |**2022-03-15**|**Hyperdecoders: Instance-specific decoders for multi-task NLP**|Hamish Ivison et.al.|[2203.08304v1](http://arxiv.org/abs/2203.08304v1)|null|
@@ -803,7 +803,7 @@
 |**2022-03-17**|**Centrality Measures in multi-layer Knowledge Graphs**|Jens Dörpinghaus et.al.|[2203.09219v1](http://arxiv.org/abs/2203.09219v1)|null|
 |**2022-03-17**|**EMAKG: An Enhanced Version Of The Microsoft Academic Knowledge Graph**|Laura Pollacci et.al.|[2203.09159v1](http://arxiv.org/abs/2203.09159v1)|null|
 |**2022-03-17**|**Knowledge Graph-Enabled Text-Based Automatic Personality Prediction**|Majid Ramezani et.al.|[2203.09103v1](http://arxiv.org/abs/2203.09103v1)|null|
-|**2022-03-16**|**Multimodal Learning on Graphs for Disease Relation Extraction**|Yucong Lin et.al.|[2203.08893v1](http://arxiv.org/abs/2203.08893v1)|null|
+|**2022-03-16**|**Multimodal Learning on Graphs for Disease Relation Extraction**|Yucong Lin et.al.|[2203.08893v1](http://arxiv.org/abs/2203.08893v1)|**[link](https://github.com/lukeming-tsinghua/remod)**|
 |**2022-03-16**|**TegTok: Augmenting Text Generation via Task-specific and Open-world Knowledge**|Chao-Hong Tan et.al.|[2203.08517v1](http://arxiv.org/abs/2203.08517v1)|**[link](https://github.com/lxchtan/tegtok)**|
 |**2022-03-16**|**Personal Knowledge Graphs: Use Cases in e-learning Platforms**|Eleni Ilkou et.al.|[2203.08507v1](http://arxiv.org/abs/2203.08507v1)|null|
 |**2022-03-17**|**RotateQVS: Representing Temporal Information as Rotations in Quaternion Vector Space for Temporal Knowledge Graph Completion**|Kai Chen et.al.|[2203.07993v2](http://arxiv.org/abs/2203.07993v2)|null|
