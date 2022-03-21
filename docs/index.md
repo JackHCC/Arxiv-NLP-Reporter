@@ -2,14 +2,14 @@
 layout: default
 ---
 
-## Updated on 2022.03.20
+## Updated on 2022.03.21
 
 ## NLP
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2022-03-17**|**Entropy-based Attention Regularization Frees Unintended Bias Mitigation from Lists**|Giuseppe Attanasio et.al.|[2203.09192v1](http://arxiv.org/abs/2203.09192v1)|**[link](https://github.com/g8a9/ear)**|
-|**2022-03-17**|**Nearest Neighbor Classifier with Margin Penalty for Active Learning**|Yuan Cao et.al.|[2203.09174v1](http://arxiv.org/abs/2203.09174v1)|null|
+|**2022-03-18**|**Nearest Neighbor Classifier with Margin Penalty for Active Learning**|Yuan Cao et.al.|[2203.09174v2](http://arxiv.org/abs/2203.09174v2)|null|
 |**2022-03-17**|**POLARIS: A Geographic Pre-trained Model and its Applications in Baidu Maps**|Huang Jizhou et.al.|[2203.09127v1](http://arxiv.org/abs/2203.09127v1)|null|
 |**2022-03-17**|**Fine- and Coarse-Granularity Hybrid Self-Attention for Efficient BERT**|Jing Zhao et.al.|[2203.09055v1](http://arxiv.org/abs/2203.09055v1)|null|
 |**2022-03-16**|**Speaker Information Can Guide Models to Better Inductive Biases: A Case Study On Predicting Code-Switching**|Alissa Ostapenko et.al.|[2203.08979v1](http://arxiv.org/abs/2203.08979v1)|**[link](https://github.com/ostapen/switch-and-explain)**|
@@ -289,7 +289,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2022-03-17**|**RelationPrompt: Leveraging Prompts to Generate Synthetic Data for Zero-Shot Relation Triplet Extraction**|Yew Ken Chia et.al.|[2203.09101v1](http://arxiv.org/abs/2203.09101v1)|null|
+|**2022-03-17**|**RelationPrompt: Leveraging Prompts to Generate Synthetic Data for Zero-Shot Relation Triplet Extraction**|Yew Ken Chia et.al.|[2203.09101v1](http://arxiv.org/abs/2203.09101v1)|**[link](https://github.com/declare-lab/relationprompt)**|
 |**2022-03-16**|**Measuring Fairness of Text Classifiers via Prediction Sensitivity**|Satyapriya Krishna et.al.|[2203.08670v1](http://arxiv.org/abs/2203.08670v1)|null|
 |**2022-03-15**|**Generalized but not Robust? Comparing the Effects of Data Modification Methods on Out-of-Domain Generalization and Adversarial Robustness**|Tejas Gokhale et.al.|[2203.07653v1](http://arxiv.org/abs/2203.07653v1)|null|
 |**2022-03-14**|**On the Calibration of Pre-trained Language Models using Mixup Guided by Area Under the Margin and Saliency**|Seo Yeon Park et.al.|[2203.07559v1](http://arxiv.org/abs/2203.07559v1)|null|
@@ -927,7 +927,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2022-03-17**|**Behavior-aware Account De-anonymization on Ethereum Interaction Graph**|Jiajun Zhou et.al.|[2203.09360v1](http://arxiv.org/abs/2203.09360v1)|null|
+|**2022-03-18**|**Behavior-aware Account De-anonymization on Ethereum Interaction Graph**|Jiajun Zhou et.al.|[2203.09360v2](http://arxiv.org/abs/2203.09360v2)|null|
 |**2022-03-17**|**Explainability in Graph Neural Networks: An Experimental Survey**|Peibo Li et.al.|[2203.09258v1](http://arxiv.org/abs/2203.09258v1)|null|
 |**2022-03-17**|**SoK: Differential Privacy on Graph-Structured Data**|Tamara T. Mueller et.al.|[2203.09205v1](http://arxiv.org/abs/2203.09205v1)|null|
 |**2022-03-17**|**Graph Representation Learning with Individualization and Refinement**|Mohammed Haroon Dupty et.al.|[2203.09141v1](http://arxiv.org/abs/2203.09141v1)|null|
