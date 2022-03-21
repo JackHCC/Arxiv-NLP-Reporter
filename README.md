@@ -4,6 +4,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-18**|**Challenges and Strategies in Cross-Cultural NLP**|Daniel Hershcovich et.al.|[2203.10020v1](http://arxiv.org/abs/2203.10020v1)|null|
+|**2022-03-18**|**BIOS: An Algorithmically Generated Biomedical Knowledge Graph**|Sheng Yu et.al.|[2203.09975v1](http://arxiv.org/abs/2203.09975v1)|null|
+|**2022-03-18**|**Three things everyone should know about Vision Transformers**|Hugo Touvron et.al.|[2203.09795v1](http://arxiv.org/abs/2203.09795v1)|null|
+|**2022-03-17**|**Entangling Solid Solutions: Machine Learning of Tensor Networks for Materials Property Prediction**|David E. Sommer et.al.|[2203.09613v1](http://arxiv.org/abs/2203.09613v1)|null|
+|**2022-03-17**|**Efficient Federated Learning on Knowledge Graphs via Privacy-preserving Relation Embedding Aggregation**|Kai Zhang et.al.|[2203.09553v1](http://arxiv.org/abs/2203.09553v1)|null|
 |**2022-03-17**|**Entropy-based Attention Regularization Frees Unintended Bias Mitigation from Lists**|Giuseppe Attanasio et.al.|[2203.09192v1](http://arxiv.org/abs/2203.09192v1)|**[link](https://github.com/g8a9/ear)**|
 |**2022-03-18**|**Nearest Neighbor Classifier with Margin Penalty for Active Learning**|Yuan Cao et.al.|[2203.09174v2](http://arxiv.org/abs/2203.09174v2)|null|
 |**2022-03-17**|**POLARIS: A Geographic Pre-trained Model and its Applications in Baidu Maps**|Huang Jizhou et.al.|[2203.09127v1](http://arxiv.org/abs/2203.09127v1)|null|
@@ -285,6 +290,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-18**|**A new duality on closed convex sets**|Xu Yun et.al.|[2203.09666v1](http://arxiv.org/abs/2203.09666v1)|null|
+|**2022-03-17**|**The Analysis of Online Event Streams: Predicting the Next Activity for Anomaly Detection**|Suhwan Lee et.al.|[2203.09619v1](http://arxiv.org/abs/2203.09619v1)|**[link](https://github.com/ghksdl6025/streaming_anomaly_detect)**|
 |**2022-03-17**|**RelationPrompt: Leveraging Prompts to Generate Synthetic Data for Zero-Shot Relation Triplet Extraction**|Yew Ken Chia et.al.|[2203.09101v1](http://arxiv.org/abs/2203.09101v1)|**[link](https://github.com/declare-lab/relationprompt)**|
 |**2022-03-16**|**Measuring Fairness of Text Classifiers via Prediction Sensitivity**|Satyapriya Krishna et.al.|[2203.08670v1](http://arxiv.org/abs/2203.08670v1)|null|
 |**2022-03-15**|**Generalized but not Robust? Comparing the Effects of Data Modification Methods on Out-of-Domain Generalization and Adversarial Robustness**|Tejas Gokhale et.al.|[2203.07653v1](http://arxiv.org/abs/2203.07653v1)|null|
@@ -441,6 +448,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-18**|**Simulating Bandit Learning from User Feedback for Extractive Question Answering**|Ge Gao et.al.|[2203.10079v1](http://arxiv.org/abs/2203.10079v1)|**[link](https://github.com/lil-lab/bandit-qa)**|
+|**2022-03-18**|**Are You Robert or RoBERTa? Deceiving Online Authorship Attribution Models Using Neural Text Generators**|Keenan Jones et.al.|[2203.09813v1](http://arxiv.org/abs/2203.09813v1)|null|
+|**2022-03-17**|**DP-KB: Data Programming with Knowledge Bases Improves Transformer Fine Tuning for Answer Sentence Selection**|Nic Jedema et.al.|[2203.09598v1](http://arxiv.org/abs/2203.09598v1)|null|
 |**2022-03-17**|**elBERto: Self-supervised Commonsense Learning for Question Answering**|Xunlin Zhan et.al.|[2203.09424v1](http://arxiv.org/abs/2203.09424v1)|null|
 |**2022-03-17**|**Knowledge Graph Embedding Methods for Entity Alignment: An Experimental Review**|Nikolaos Fanourakis et.al.|[2203.09280v1](http://arxiv.org/abs/2203.09280v1)|**[link](https://github.com/fanourakis/experimental-review-ea)**|
 |**2022-03-17**|**MuKEA: Multimodal Knowledge Extraction and Accumulation for Knowledge-based Visual Question Answering**|Yang Ding et.al.|[2203.09138v1](http://arxiv.org/abs/2203.09138v1)|**[link](https://github.com/andersonstra/mukea)**|
@@ -643,6 +653,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-18**|**Bayesian Low-rank Matrix Completion with Dual-graph Embedding: Prior Analysis and Tuning-free Inference**|Yangge Chen et.al.|[2203.10044v1](http://arxiv.org/abs/2203.10044v1)|null|
+|**2022-03-18**|**FORCE: A Framework of Rule-Based Conversational Recommender System**|Jun Quan et.al.|[2203.10001v1](http://arxiv.org/abs/2203.10001v1)|null|
 |**2022-03-17**|**EVA2.0: Investigating Open-Domain Chinese Dialogue Systems with Large-Scale Pre-Training**|Yuxian Gu et.al.|[2203.09313v1](http://arxiv.org/abs/2203.09313v1)|**[link](https://github.com/thu-coai/EVA)**|
 |**2022-03-17**|**Conversational Recommendation: A Grand AI Challenge**|Dietmar Jannach et.al.|[2203.09126v1](http://arxiv.org/abs/2203.09126v1)|null|
 |**2022-03-16**|**How do you Converse with an Analytical Chatbot? Revisiting Gricean Maxims for Designing Analytical Conversational Behavior**|Vidya Setlur et.al.|[2203.08420v1](http://arxiv.org/abs/2203.08420v1)|null|
@@ -798,6 +810,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-18**|**BIOS: An Algorithmically Generated Biomedical Knowledge Graph**|Sheng Yu et.al.|[2203.09975v1](http://arxiv.org/abs/2203.09975v1)|null|
+|**2022-03-17**|**Enhanced Temporal Knowledge Embeddings with Contextualized Language Representations**|Zhen Han et.al.|[2203.09590v1](http://arxiv.org/abs/2203.09590v1)|null|
+|**2022-03-17**|**Efficient Federated Learning on Knowledge Graphs via Privacy-preserving Relation Embedding Aggregation**|Kai Zhang et.al.|[2203.09553v1](http://arxiv.org/abs/2203.09553v1)|null|
 |**2022-03-17**|**Context-Dependent Anomaly Detection with Knowledge Graph Embedding Models**|Nathan Vaska et.al.|[2203.09354v1](http://arxiv.org/abs/2203.09354v1)|null|
 |**2022-03-17**|**Knowledge Graph Embedding Methods for Entity Alignment: An Experimental Review**|Nikolaos Fanourakis et.al.|[2203.09280v1](http://arxiv.org/abs/2203.09280v1)|**[link](https://github.com/fanourakis/experimental-review-ea)**|
 |**2022-03-17**|**Centrality Measures in multi-layer Knowledge Graphs**|Jens Dörpinghaus et.al.|[2203.09219v1](http://arxiv.org/abs/2203.09219v1)|null|
@@ -923,6 +938,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-18**|**Series Photo Selection via Multi-view Graph Learning**|Jin Huang et.al.|[2203.09736v1](http://arxiv.org/abs/2203.09736v1)|null|
+|**2022-03-18**|**Towards Training Billion Parameter Graph Neural Networks for Atomic Simulations**|Anuroop Sriram et.al.|[2203.09697v1](http://arxiv.org/abs/2203.09697v1)|null|
 |**2022-03-18**|**Behavior-aware Account De-anonymization on Ethereum Interaction Graph**|Jiajun Zhou et.al.|[2203.09360v2](http://arxiv.org/abs/2203.09360v2)|null|
 |**2022-03-17**|**Explainability in Graph Neural Networks: An Experimental Survey**|Peibo Li et.al.|[2203.09258v1](http://arxiv.org/abs/2203.09258v1)|null|
 |**2022-03-17**|**SoK: Differential Privacy on Graph-Structured Data**|Tamara T. Mueller et.al.|[2203.09205v1](http://arxiv.org/abs/2203.09205v1)|null|
