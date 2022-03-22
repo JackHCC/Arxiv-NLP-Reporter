@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.03.21
+## Updated on 2022.03.22
 
 ## NLP
 
@@ -12,7 +12,7 @@ layout: default
 |**2022-03-18**|**BIOS: An Algorithmically Generated Biomedical Knowledge Graph**|Sheng Yu et.al.|[2203.09975v1](http://arxiv.org/abs/2203.09975v1)|null|
 |**2022-03-18**|**Three things everyone should know about Vision Transformers**|Hugo Touvron et.al.|[2203.09795v1](http://arxiv.org/abs/2203.09795v1)|null|
 |**2022-03-17**|**Entangling Solid Solutions: Machine Learning of Tensor Networks for Materials Property Prediction**|David E. Sommer et.al.|[2203.09613v1](http://arxiv.org/abs/2203.09613v1)|null|
-|**2022-03-17**|**Efficient Federated Learning on Knowledge Graphs via Privacy-preserving Relation Embedding Aggregation**|Kai Zhang et.al.|[2203.09553v1](http://arxiv.org/abs/2203.09553v1)|null|
+|**2022-03-17**|**Efficient Federated Learning on Knowledge Graphs via Privacy-preserving Relation Embedding Aggregation**|Kai Zhang et.al.|[2203.09553v1](http://arxiv.org/abs/2203.09553v1)|**[link](https://github.com/taokz/FedR)**|
 |**2022-03-17**|**Entropy-based Attention Regularization Frees Unintended Bias Mitigation from Lists**|Giuseppe Attanasio et.al.|[2203.09192v1](http://arxiv.org/abs/2203.09192v1)|**[link](https://github.com/g8a9/ear)**|
 |**2022-03-18**|**Nearest Neighbor Classifier with Margin Penalty for Active Learning**|Yuan Cao et.al.|[2203.09174v2](http://arxiv.org/abs/2203.09174v2)|null|
 |**2022-03-17**|**POLARIS: A Geographic Pre-trained Model and its Applications in Baidu Maps**|Huang Jizhou et.al.|[2203.09127v1](http://arxiv.org/abs/2203.09127v1)|null|
@@ -816,7 +816,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2022-03-18**|**BIOS: An Algorithmically Generated Biomedical Knowledge Graph**|Sheng Yu et.al.|[2203.09975v1](http://arxiv.org/abs/2203.09975v1)|null|
 |**2022-03-17**|**Enhanced Temporal Knowledge Embeddings with Contextualized Language Representations**|Zhen Han et.al.|[2203.09590v1](http://arxiv.org/abs/2203.09590v1)|null|
-|**2022-03-17**|**Efficient Federated Learning on Knowledge Graphs via Privacy-preserving Relation Embedding Aggregation**|Kai Zhang et.al.|[2203.09553v1](http://arxiv.org/abs/2203.09553v1)|null|
+|**2022-03-17**|**Efficient Federated Learning on Knowledge Graphs via Privacy-preserving Relation Embedding Aggregation**|Kai Zhang et.al.|[2203.09553v1](http://arxiv.org/abs/2203.09553v1)|**[link](https://github.com/taokz/FedR)**|
 |**2022-03-17**|**Context-Dependent Anomaly Detection with Knowledge Graph Embedding Models**|Nathan Vaska et.al.|[2203.09354v1](http://arxiv.org/abs/2203.09354v1)|null|
 |**2022-03-17**|**Knowledge Graph Embedding Methods for Entity Alignment: An Experimental Review**|Nikolaos Fanourakis et.al.|[2203.09280v1](http://arxiv.org/abs/2203.09280v1)|**[link](https://github.com/fanourakis/experimental-review-ea)**|
 |**2022-03-17**|**Centrality Measures in multi-layer Knowledge Graphs**|Jens Dörpinghaus et.al.|[2203.09219v1](http://arxiv.org/abs/2203.09219v1)|null|
