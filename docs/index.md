@@ -319,10 +319,10 @@ layout: default
 |**2022-03-22**|**Improving Meta-learning for Low-resource Text Classification and Generation via Memory Imitation**|Yingxiu Zhao et.al.|[2203.11670v1](http://arxiv.org/abs/2203.11670v1)|null|
 |**2022-03-22**|**Suum Cuique: Studying Bias in Taboo Detection with a Community Perspective**|Osama Khalid et.al.|[2203.11401v1](http://arxiv.org/abs/2203.11401v1)|null|
 |**2022-03-21**|**Academic Resource Text Level Multi-label Classification based on Attention**|Yue Wang et.al.|[2203.10743v1](http://arxiv.org/abs/2203.10743v1)|null|
-|**2022-03-20**|**Cluster & Tune: Boost Cold Start Performance in Text Classification**|Eyal Shnarch et.al.|[2203.10581v1](http://arxiv.org/abs/2203.10581v1)|null|
+|**2022-03-20**|**Cluster & Tune: Boost Cold Start Performance in Text Classification**|Eyal Shnarch et.al.|[2203.10581v1](http://arxiv.org/abs/2203.10581v1)|**[link](https://github.com/ibm/intermediate-training-using-clustering)**|
 |**2022-03-20**|**A Neural-Symbolic Approach to Natural Language Understanding**|Zhixuan Liu et.al.|[2203.10557v1](http://arxiv.org/abs/2203.10557v1)|null|
 |**2022-03-20**|**Entailment Relation Aware Paraphrase Generation**|Abhilasha Sancheti et.al.|[2203.10483v1](http://arxiv.org/abs/2203.10483v1)|null|
-|**2022-03-19**|**On Robust Prefix-Tuning for Text Classification**|Zonghan Yang et.al.|[2203.10378v1](http://arxiv.org/abs/2203.10378v1)|null|
+|**2022-03-19**|**On Robust Prefix-Tuning for Text Classification**|Zonghan Yang et.al.|[2203.10378v1](http://arxiv.org/abs/2203.10378v1)|**[link](https://github.com/minicheshire/robust-prefix-tuning)**|
 |**2022-03-18**|**A new duality on closed convex sets**|Xu Yun et.al.|[2203.09666v1](http://arxiv.org/abs/2203.09666v1)|null|
 |**2022-03-17**|**The Analysis of Online Event Streams: Predicting the Next Activity for Anomaly Detection**|Suhwan Lee et.al.|[2203.09619v1](http://arxiv.org/abs/2203.09619v1)|**[link](https://github.com/ghksdl6025/streaming_anomaly_detect)**|
 |**2022-03-17**|**RelationPrompt: Leveraging Prompts to Generate Synthetic Data for Zero-Shot Relation Triplet Extraction**|Yew Ken Chia et.al.|[2203.09101v1](http://arxiv.org/abs/2203.09101v1)|**[link](https://github.com/declare-lab/relationprompt)**|
@@ -487,7 +487,7 @@ layout: default
 |**2022-03-22**|**VLSP 2021 Shared Task: Vietnamese Machine Reading Comprehension**|Kiet Van Nguyen et.al.|[2203.11400v1](http://arxiv.org/abs/2203.11400v1)|null|
 |**2022-03-21**|**DQ-BART: Efficient Sequence-to-Sequence Model via Joint Distillation and Quantization**|Zheng Li et.al.|[2203.11239v1](http://arxiv.org/abs/2203.11239v1)|null|
 |**2022-03-21**|**Teaching language models to support answers with verified quotes**|Jacob Menick et.al.|[2203.11147v1](http://arxiv.org/abs/2203.11147v1)|null|
-|**2022-03-21**|**PACS: A Dataset for Physical Audiovisual CommonSense Reasoning**|Samuel Yu et.al.|[2203.11130v1](http://arxiv.org/abs/2203.11130v1)|null|
+|**2022-03-21**|**PACS: A Dataset for Physical Audiovisual CommonSense Reasoning**|Samuel Yu et.al.|[2203.11130v1](http://arxiv.org/abs/2203.11130v1)|**[link](https://github.com/samuelyu2002/pacs)**|
 |**2022-03-21**|**Targeted Extraction of Temporal Facts from Textual Resources for Improved Temporal Question Answering over Knowledge Bases**|Nithish Kannen et.al.|[2203.11054v1](http://arxiv.org/abs/2203.11054v1)|null|
 |**2022-03-21**|**How Do We Answer Complex Questions: Discourse Structure of Long-form Answers**|Fangyuan Xu et.al.|[2203.11048v1](http://arxiv.org/abs/2203.11048v1)|**[link](https://github.com/utcsnlp/lfqa_discourse)**|
 |**2022-03-21**|**PTM4Tag: Sharpening Tag Recommendation of Stack Overflow Posts with Pre-trained Models**|Junda He et.al.|[2203.10965v1](http://arxiv.org/abs/2203.10965v1)|null|
@@ -874,7 +874,7 @@ layout: default
 |**2022-03-22**|**Learning Relation-Specific Representations for Few-shot Knowledge Graph Completion**|Yuling Li et.al.|[2203.11639v1](http://arxiv.org/abs/2203.11639v1)|null|
 |**2022-03-21**|**Relevant CommonSense Subgraphs for "What if..." Procedural Reasoning**|Chen Zheng et.al.|[2203.11187v1](http://arxiv.org/abs/2203.11187v1)|**[link](https://github.com/hlr/mrrg)**|
 |**2022-03-20**|**Towards Large-Scale Interpretable Knowledge Graph Reasoning for Dialogue Systems**|Yi-Lin Tuan et.al.|[2203.10610v1](http://arxiv.org/abs/2203.10610v1)|null|
-|**2022-03-19**|**Sequence-to-Sequence Knowledge Graph Completion and Question Answering**|Apoorv Saxena et.al.|[2203.10321v1](http://arxiv.org/abs/2203.10321v1)|null|
+|**2022-03-19**|**Sequence-to-Sequence Knowledge Graph Completion and Question Answering**|Apoorv Saxena et.al.|[2203.10321v1](http://arxiv.org/abs/2203.10321v1)|**[link](https://github.com/apoorvumang/kgt5)**|
 |**2022-03-18**|**BIOS: An Algorithmically Generated Biomedical Knowledge Graph**|Sheng Yu et.al.|[2203.09975v1](http://arxiv.org/abs/2203.09975v1)|null|
 |**2022-03-21**|**Enhanced Temporal Knowledge Embeddings with Contextualized Language Representations**|Zhen Han et.al.|[2203.09590v2](http://arxiv.org/abs/2203.09590v2)|null|
 |**2022-03-17**|**Efficient Federated Learning on Knowledge Graphs via Privacy-preserving Relation Embedding Aggregation**|Kai Zhang et.al.|[2203.09553v1](http://arxiv.org/abs/2203.09553v1)|**[link](https://github.com/taokz/FedR)**|
