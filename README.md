@@ -4,6 +4,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-23**|**Unsupervised Pre-Training on Patient Population Graphs for Patient-Level Predictions**|Chantal Pellegrini et.al.|[2203.12616v1](http://arxiv.org/abs/2203.12616v1)|**[link](https://github.com/chantalmp/unsupervised-pre-training-on-patient-population-graphs-for-patient-level-predictions)**|
+|**2022-03-22**|**Text Transformations in Contrastive Self-Supervised Learning: A Review**|Amrita Bhattacharjee et.al.|[2203.12000v1](http://arxiv.org/abs/2203.12000v1)|null|
 |**2022-03-22**|**A Girl Has A Name, And It's ... Adversarial Authorship Attribution for Deobfuscation**|Wanyue Zhai et.al.|[2203.11849v1](http://arxiv.org/abs/2203.11849v1)|null|
 |**2022-03-22**|**SU-NLP at SemEval-2022 Task 11: Complex Named Entity Recognition with Entity Linking**|Buse Çarık et.al.|[2203.11841v1](http://arxiv.org/abs/2203.11841v1)|null|
 |**2022-03-22**|**Improving Meta-learning for Low-resource Text Classification and Generation via Memory Imitation**|Yingxiu Zhao et.al.|[2203.11670v1](http://arxiv.org/abs/2203.11670v1)|null|
@@ -263,6 +265,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-23**|**Few-shot Named Entity Recognition with Self-describing Networks**|Jiawei Chen et.al.|[2203.12252v1](http://arxiv.org/abs/2203.12252v1)|null|
 |**2022-03-22**|**SU-NLP at SemEval-2022 Task 11: Complex Named Entity Recognition with Entity Linking**|Buse Çarık et.al.|[2203.11841v1](http://arxiv.org/abs/2203.11841v1)|null|
 |**2022-03-21**|**Neural Token Segmentation for High Token-Internal Complexity**|Idan Brusilovsky et.al.|[2203.10845v1](http://arxiv.org/abs/2203.10845v1)|null|
 |**2022-03-21**|**An Intellectual Property Entity Recognition Method Based on Transformer and Technological Word Information**|Yuhui Wang et.al.|[2203.10717v1](http://arxiv.org/abs/2203.10717v1)|null|
@@ -312,6 +315,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-23**|**ERNIE-SPARSE: Learning Hierarchical Efficient Transformer Through Regularized Self-Attention**|Yang Liu et.al.|[2203.12276v1](http://arxiv.org/abs/2203.12276v1)|null|
 |**2022-03-22**|**Improving Meta-learning for Low-resource Text Classification and Generation via Memory Imitation**|Yingxiu Zhao et.al.|[2203.11670v1](http://arxiv.org/abs/2203.11670v1)|null|
 |**2022-03-22**|**Suum Cuique: Studying Bias in Taboo Detection with a Community Perspective**|Osama Khalid et.al.|[2203.11401v1](http://arxiv.org/abs/2203.11401v1)|null|
 |**2022-03-21**|**Academic Resource Text Level Multi-label Classification based on Attention**|Yue Wang et.al.|[2203.10743v1](http://arxiv.org/abs/2203.10743v1)|null|
@@ -422,6 +426,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-23**|**M-SENA: An Integrated Platform for Multimodal Sentiment Analysis**|Huisheng Mao et.al.|[2203.12441v1](http://arxiv.org/abs/2203.12441v1)|**[link](https://github.com/thuiar/M-SENA)**|
+|**2022-03-23**|**A Framework for Fast Polarity Labelling of Massive Data Streams**|Huilin Wu et.al.|[2203.12368v1](http://arxiv.org/abs/2203.12368v1)|**[link](https://github.com/huilinwu2/plstream)**|
 |**2022-03-22**|**BERT-ASC: Auxiliary-Sentence Construction for Implicit Aspect Learning in Sentiment Analysis**|Ahmed Murtadha et.al.|[2203.11702v1](http://arxiv.org/abs/2203.11702v1)|null|
 |**2022-03-21**|**Effective Token Graph Modeling using a Novel Labeling Strategy for Structured Sentiment Analysis**|Wenxuan Shi et.al.|[2203.10796v1](http://arxiv.org/abs/2203.10796v1)|null|
 |**2022-03-15**|**Fiber Bundle Morphisms as a Framework for Modeling Many-to-Many Maps**|Elizabeth Coda et.al.|[2203.08189v1](http://arxiv.org/abs/2203.08189v1)|null|
@@ -479,6 +485,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-23**|**ERNIE-SPARSE: Learning Hierarchical Efficient Transformer Through Regularized Self-Attention**|Yang Liu et.al.|[2203.12276v1](http://arxiv.org/abs/2203.12276v1)|null|
+|**2022-03-23**|**A Theoretically Grounded Benchmark for Evaluating Machine Commonsense**|Henrique Santos et.al.|[2203.12184v1](http://arxiv.org/abs/2203.12184v1)|null|
 |**2022-03-22**|**WuDaoMM: A large-scale Multi-Modal Dataset for Pre-training models**|Sha Yuan et.al.|[2203.11480v1](http://arxiv.org/abs/2203.11480v1)|null|
 |**2022-03-22**|**VLSP 2021 Shared Task: Vietnamese Machine Reading Comprehension**|Kiet Van Nguyen et.al.|[2203.11400v1](http://arxiv.org/abs/2203.11400v1)|null|
 |**2022-03-21**|**DQ-BART: Efficient Sequence-to-Sequence Model via Joint Distillation and Quantization**|Zheng Li et.al.|[2203.11239v1](http://arxiv.org/abs/2203.11239v1)|null|
@@ -635,6 +643,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-23**|**Unified Structure Generation for Universal Information Extraction**|Yaojie Lu et.al.|[2203.12277v1](http://arxiv.org/abs/2203.12277v1)|null|
+|**2022-03-22**|**Enhancing Mobile App Bug Reporting via Real-time Understanding of Reproduction Steps**|Mattia Fazzini et.al.|[2203.12093v1](http://arxiv.org/abs/2203.12093v1)|null|
 |**2022-03-09**|**Filter Drug-induced Liver Injury Literature with Natural Language Processing and Ensemble Learning**|Xianghao Zhan et.al.|[2203.11015v1](http://arxiv.org/abs/2203.11015v1)|null|
 |**2022-03-21**|**RGB-Depth Fusion GAN for Indoor Depth Completion**|Haowen Wang et.al.|[2203.10856v1](http://arxiv.org/abs/2203.10856v1)|null|
 |**2022-03-21**|**An Intellectual Property Entity Recognition Method Based on Transformer and Technological Word Information**|Yuhui Wang et.al.|[2203.10717v1](http://arxiv.org/abs/2203.10717v1)|null|
@@ -702,6 +712,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-23**|**Deep Multi-View Learning for Tire Recommendation**|Thomas Ranvier et.al.|[2203.12451v1](http://arxiv.org/abs/2203.12451v1)|null|
+|**2022-03-23**|**PEAR: Personalized Re-ranking with Contextualized Transformer for Recommendation**|Yi Li et.al.|[2203.12267v1](http://arxiv.org/abs/2203.12267v1)|null|
+|**2022-03-23**|**Privacy-Preserving Personalized Fitness Recommender System (P3FitRec): A Multi-level Deep Learning Approach**|Xiao Liu et.al.|[2203.12200v1](http://arxiv.org/abs/2203.12200v1)|null|
 |**2022-03-22**|**Explainability in reinforcement learning: perspective and position**|Agneza Krajna et.al.|[2203.11547v1](http://arxiv.org/abs/2203.11547v1)|null|
 |**2022-03-22**|**Making Recommender Systems Forget: Learning and Unlearning for Erasable Recommendation**|Yuyuan Li et.al.|[2203.11491v1](http://arxiv.org/abs/2203.11491v1)|null|
 |**2022-03-20**|**YouTube, The Great Radicalizer? Auditing and Mitigating Ideological Biases in YouTube Recommendations**|Muhammad Haroon et.al.|[2203.10666v1](http://arxiv.org/abs/2203.10666v1)|null|
@@ -873,7 +886,7 @@
 |**2022-03-19**|**Sequence-to-Sequence Knowledge Graph Completion and Question Answering**|Apoorv Saxena et.al.|[2203.10321v1](http://arxiv.org/abs/2203.10321v1)|**[link](https://github.com/apoorvumang/kgt5)**|
 |**2022-03-18**|**BIOS: An Algorithmically Generated Biomedical Knowledge Graph**|Sheng Yu et.al.|[2203.09975v1](http://arxiv.org/abs/2203.09975v1)|null|
 |**2022-03-21**|**Enhanced Temporal Knowledge Embeddings with Contextualized Language Representations**|Zhen Han et.al.|[2203.09590v2](http://arxiv.org/abs/2203.09590v2)|null|
-|**2022-03-17**|**Efficient Federated Learning on Knowledge Graphs via Privacy-preserving Relation Embedding Aggregation**|Kai Zhang et.al.|[2203.09553v1](http://arxiv.org/abs/2203.09553v1)|**[link](https://github.com/taokz/FedR)**|
+|**2022-03-17**|**Efficient Federated Learning on Knowledge Graphs via Privacy-preserving Relation Embedding Aggregation**|Kai Zhang et.al.|[2203.09553v1](http://arxiv.org/abs/2203.09553v1)|null|
 |**2022-03-19**|**Context-Dependent Anomaly Detection with Knowledge Graph Embedding Models**|Nathan Vaska et.al.|[2203.09354v2](http://arxiv.org/abs/2203.09354v2)|null|
 |**2022-03-17**|**Knowledge Graph Embedding Methods for Entity Alignment: An Experimental Review**|Nikolaos Fanourakis et.al.|[2203.09280v1](http://arxiv.org/abs/2203.09280v1)|**[link](https://github.com/fanourakis/experimental-review-ea)**|
 |**2022-03-17**|**Centrality Measures in multi-layer Knowledge Graphs**|Jens Dörpinghaus et.al.|[2203.09219v1](http://arxiv.org/abs/2203.09219v1)|null|
@@ -999,6 +1012,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-23**|**Semi-Supervised Graph Learning Meets Dimensionality Reduction**|Alex Morehead et.al.|[2203.12522v1](http://arxiv.org/abs/2203.12522v1)|**[link](https://github.com/amorehead/SSL-With-DR-And-GNNs)**|
+|**2022-03-23**|**Ethereum Fraud Detection with Heterogeneous Graph Neural Networks**|Hiroki Kanezashi et.al.|[2203.12363v1](http://arxiv.org/abs/2203.12363v1)|null|
 |**2022-03-22**|**Exploring High-Order Structure for Robust Graph Structure Learning**|Guangqian Yang et.al.|[2203.11492v1](http://arxiv.org/abs/2203.11492v1)|null|
 |**2022-03-19**|**Exploiting Neighbor Effect: Conv-Agnostic GNNs Framework for Graphs with Heterophily**|Jie Chen et.al.|[2203.11200v1](http://arxiv.org/abs/2203.11200v1)|null|
 |**2022-03-21**|**Improving anatomical plausibility in medical image segmentation via hybrid graph neural networks: applications to chest x-ray analysis**|Nicolás Gaggion et.al.|[2203.10977v1](http://arxiv.org/abs/2203.10977v1)|**[link](https://github.com/ngaggion/HybridGNet)**|
