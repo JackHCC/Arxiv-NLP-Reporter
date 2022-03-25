@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.03.24
+## Updated on 2022.03.25
 
 ## NLP
 
@@ -498,7 +498,7 @@ layout: default
 |**2022-03-21**|**PACS: A Dataset for Physical Audiovisual CommonSense Reasoning**|Samuel Yu et.al.|[2203.11130v1](http://arxiv.org/abs/2203.11130v1)|**[link](https://github.com/samuelyu2002/pacs)**|
 |**2022-03-21**|**Targeted Extraction of Temporal Facts from Textual Resources for Improved Temporal Question Answering over Knowledge Bases**|Nithish Kannen et.al.|[2203.11054v1](http://arxiv.org/abs/2203.11054v1)|null|
 |**2022-03-21**|**How Do We Answer Complex Questions: Discourse Structure of Long-form Answers**|Fangyuan Xu et.al.|[2203.11048v1](http://arxiv.org/abs/2203.11048v1)|**[link](https://github.com/utcsnlp/lfqa_discourse)**|
-|**2022-03-21**|**PTM4Tag: Sharpening Tag Recommendation of Stack Overflow Posts with Pre-trained Models**|Junda He et.al.|[2203.10965v1](http://arxiv.org/abs/2203.10965v1)|null|
+|**2022-03-24**|**PTM4Tag: Sharpening Tag Recommendation of Stack Overflow Posts with Pre-trained Models**|Junda He et.al.|[2203.10965v2](http://arxiv.org/abs/2203.10965v2)|null|
 |**2022-03-21**|**Paraphrasing Techniques for Maritime QA system**|Fatemeh Shiri et.al.|[2203.10854v1](http://arxiv.org/abs/2203.10854v1)|null|
 |**2022-03-21**|**Programming Language Agnostic Mining of Code and Language Pairs with Sequence Labeling Based Question Answering**|Changran Hu et.al.|[2203.10744v1](http://arxiv.org/abs/2203.10744v1)|null|
 |**2022-03-20**|**Calibration of Machine Reading Systems at Scale**|Shehzaad Dhuliawala et.al.|[2203.10623v1](http://arxiv.org/abs/2203.10623v1)|null|
@@ -654,7 +654,7 @@ layout: default
 |**2022-03-21**|**An Intellectual Property Entity Recognition Method Based on Transformer and Technological Word Information**|Yuhui Wang et.al.|[2203.10717v1](http://arxiv.org/abs/2203.10717v1)|null|
 |**2022-03-20**|**Immersive Text Game and Personality Classification**|Wanshui Li et.al.|[2203.10621v1](http://arxiv.org/abs/2203.10621v1)|null|
 |**2022-03-20**|**Application of de-shape synchrosqueezing to estimate gait cadence from a single-sensor accelerometer placed in different body locations**|Hau-Tieng Wu et.al.|[2203.10563v1](http://arxiv.org/abs/2203.10563v1)|null|
-|**2022-03-16**|**FormNet: Structural Encoding beyond Sequential Modeling in Form Document Information Extraction**|Chen-Yu Lee et.al.|[2203.08411v1](http://arxiv.org/abs/2203.08411v1)|null|
+|**2022-03-24**|**FormNet: Structural Encoding beyond Sequential Modeling in Form Document Information Extraction**|Chen-Yu Lee et.al.|[2203.08411v2](http://arxiv.org/abs/2203.08411v2)|null|
 |**2022-03-16**|**Thinking about GPT-3 In-Context Learning for Biomedical IE? Think Again**|Bernal Jiménez Gutiérrez et.al.|[2203.08410v1](http://arxiv.org/abs/2203.08410v1)|null|
 |**2022-03-15**|**Reconstructing Missing EHRs Using Time-Aware Within- and Cross-Visit Information for Septic Shock Early Prediction**|Ge Gao et.al.|[2203.08245v1](http://arxiv.org/abs/2203.08245v1)|null|
 |**2022-03-13**|**Secret-to-Image Reversible Transformation for Generative Steganography**|Zhili Zhou et.al.|[2203.06598v1](http://arxiv.org/abs/2203.06598v1)|null|
