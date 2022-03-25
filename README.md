@@ -438,7 +438,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2022-03-24**|**Direct parsing to sentiment graphs**|David Samuel et.al.|[2203.13209v1](http://arxiv.org/abs/2203.13209v1)|**[link](https://github.com/jerbarnes/direct_parsing_to_sent_graph)**|
-|**2022-03-23**|**M-SENA: An Integrated Platform for Multimodal Sentiment Analysis**|Huisheng Mao et.al.|[2203.12441v1](http://arxiv.org/abs/2203.12441v1)|**[link](https://github.com/thuiar/M-SENA)**|
+|**2022-03-23**|**M-SENA: An Integrated Platform for Multimodal Sentiment Analysis**|Huisheng Mao et.al.|[2203.12441v1](http://arxiv.org/abs/2203.12441v1)|**[link](https://github.com/thuiar/mmsa-fet)**|
 |**2022-03-23**|**A Framework for Fast Polarity Labelling of Massive Data Streams**|Huilin Wu et.al.|[2203.12368v1](http://arxiv.org/abs/2203.12368v1)|**[link](https://github.com/huilinwu2/plstream)**|
 |**2022-03-22**|**BERT-ASC: Auxiliary-Sentence Construction for Implicit Aspect Learning in Sentiment Analysis**|Ahmed Murtadha et.al.|[2203.11702v1](http://arxiv.org/abs/2203.11702v1)|**[link](https://github.com/amurtadha/bert-asc)**|
 |**2022-03-21**|**Effective Token Graph Modeling using a Novel Labeling Strategy for Structured Sentiment Analysis**|Wenxuan Shi et.al.|[2203.10796v1](http://arxiv.org/abs/2203.10796v1)|null|
