@@ -6,7 +6,7 @@
 |---|---|---|---|---|
 |**2022-03-24**|**Multi-armed bandits for online optimization of language model pre-training: the use case of dynamic masking**|Iñigo Urteaga et.al.|[2203.13151v1](http://arxiv.org/abs/2203.13151v1)|null|
 |**2022-03-24**|**Probing for Labeled Dependency Trees**|Max Müller-Eberstein et.al.|[2203.12971v1](http://arxiv.org/abs/2203.12971v1)|**[link](https://github.com/personads/depprobe)**|
-|**2022-03-24**|**Generating Data to Mitigate Spurious Correlations in Natural Language Inference Datasets**|Yuxiang Wu et.al.|[2203.12942v1](http://arxiv.org/abs/2203.12942v1)|null|
+|**2022-03-24**|**Generating Data to Mitigate Spurious Correlations in Natural Language Inference Datasets**|Yuxiang Wu et.al.|[2203.12942v1](http://arxiv.org/abs/2203.12942v1)|**[link](https://github.com/jimmycode/gen-debiased-nli)**|
 |**2022-03-24**|**k-Rater Reliability: The Correct Unit of Reliability for Aggregated Human Annotations**|Ka Wong et.al.|[2203.12913v1](http://arxiv.org/abs/2203.12913v1)|null|
 |**2022-03-24**|**Classifying Cyber-Risky Clinical Notes by Employing Natural Language Processing**|Suzanna Schmeelk et.al.|[2203.12781v1](http://arxiv.org/abs/2203.12781v1)|null|
 |**2022-03-23**|**Mokey: Enabling Narrow Fixed-Point Inference for Out-of-the-Box Floating-Point Transformer Models**|Ali Hadi Zadeh et.al.|[2203.12758v1](http://arxiv.org/abs/2203.12758v1)|null|
@@ -324,7 +324,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2022-03-24**|**Generating Data to Mitigate Spurious Correlations in Natural Language Inference Datasets**|Yuxiang Wu et.al.|[2203.12942v1](http://arxiv.org/abs/2203.12942v1)|null|
+|**2022-03-24**|**Generating Data to Mitigate Spurious Correlations in Natural Language Inference Datasets**|Yuxiang Wu et.al.|[2203.12942v1](http://arxiv.org/abs/2203.12942v1)|**[link](https://github.com/jimmycode/gen-debiased-nli)**|
 |**2022-03-23**|**Adversarial Training for Improving Model Robustness? Look at Both Prediction and Interpretation**|Hanjie Chen et.al.|[2203.12709v1](http://arxiv.org/abs/2203.12709v1)|**[link](https://github.com/uva-nlp/flat)**|
 |**2022-03-23**|**ERNIE-SPARSE: Learning Hierarchical Efficient Transformer Through Regularized Self-Attention**|Yang Liu et.al.|[2203.12276v1](http://arxiv.org/abs/2203.12276v1)|null|
 |**2022-03-22**|**Improving Meta-learning for Low-resource Text Classification and Generation via Memory Imitation**|Yingxiu Zhao et.al.|[2203.11670v1](http://arxiv.org/abs/2203.11670v1)|null|
