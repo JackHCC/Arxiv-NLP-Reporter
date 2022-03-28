@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.03.27
+## Updated on 2022.03.28
 
 ## NLP
 
@@ -739,7 +739,7 @@ layout: default
 |**2022-03-23**|**Privacy-Preserving Personalized Fitness Recommender System (P3FitRec): A Multi-level Deep Learning Approach**|Xiao Liu et.al.|[2203.12200v1](http://arxiv.org/abs/2203.12200v1)|null|
 |**2022-03-22**|**Explainability in reinforcement learning: perspective and position**|Agneza Krajna et.al.|[2203.11547v1](http://arxiv.org/abs/2203.11547v1)|null|
 |**2022-03-22**|**Making Recommender Systems Forget: Learning and Unlearning for Erasable Recommendation**|Yuyuan Li et.al.|[2203.11491v1](http://arxiv.org/abs/2203.11491v1)|null|
-|**2022-03-20**|**YouTube, The Great Radicalizer? Auditing and Mitigating Ideological Biases in YouTube Recommendations**|Muhammad Haroon et.al.|[2203.10666v1](http://arxiv.org/abs/2203.10666v1)|null|
+|**2022-03-25**|**YouTube, The Great Radicalizer? Auditing and Mitigating Ideological Biases in YouTube Recommendations**|Muhammad Haroon et.al.|[2203.10666v2](http://arxiv.org/abs/2203.10666v2)|null|
 |**2022-03-20**|**Explicit User Manipulation in Reinforcement Learning Based Recommender Systems**|Matthew Sparr et.al.|[2203.10629v1](http://arxiv.org/abs/2203.10629v1)|null|
 |**2022-03-20**|**Recognising the importance of preference change: A call for a coordinated multidisciplinary research effort in the age of AI**|Matija Franklin et.al.|[2203.10525v1](http://arxiv.org/abs/2203.10525v1)|null|
 |**2022-03-19**|**Meta-Learning for Online Update of Recommender Systems**|Minseok Kim et.al.|[2203.10354v1](http://arxiv.org/abs/2203.10354v1)|**[link](https://github.com/kaist-dmlab/MeLON)**|
