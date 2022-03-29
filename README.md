@@ -501,7 +501,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2022-03-25**|**UKP-SQUARE: An Online Platform for Question Answering Research**|Tim Baumgärtner et.al.|[2203.13693v1](http://arxiv.org/abs/2203.13693v1)|**[link](https://github.com/ukp-square/square-core)**|
+|**2022-03-28**|**UKP-SQUARE: An Online Platform for Question Answering Research**|Tim Baumgärtner et.al.|[2203.13693v2](http://arxiv.org/abs/2203.13693v2)|**[link](https://github.com/ukp-square/square-core)**|
 |**2022-03-25**|**Improving Question Answering over Knowledge Graphs Using Graph Summarization**|Sirui Li et.al.|[2203.13570v1](http://arxiv.org/abs/2203.13570v1)|null|
 |**2022-03-24**|**Gender and Racial Stereotype Detection in Legal Opinion Word Embeddings**|Sean Matthews et.al.|[2203.13369v1](http://arxiv.org/abs/2203.13369v1)|null|
 |**2022-03-24**|**Towards Escaping from Language Bias and OCR Error: Semantics-Centered Text Visual Question Answering**|Chengyang Fang et.al.|[2203.12929v1](http://arxiv.org/abs/2203.12929v1)|null|
@@ -665,7 +665,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2022-03-25**|**ZS4IE: A toolkit for Zero-Shot Information Extraction with simple Verbalizations**|Oscar Sainz et.al.|[2203.13602v1](http://arxiv.org/abs/2203.13602v1)|null|
+|**2022-03-28**|**ZS4IE: A toolkit for Zero-Shot Information Extraction with simple Verbalizations**|Oscar Sainz et.al.|[2203.13602v2](http://arxiv.org/abs/2203.13602v2)|**[link](https://github.com/bbn-e/zs4ie)**|
 |**2022-03-24**|**Gender and Racial Stereotype Detection in Legal Opinion Word Embeddings**|Sean Matthews et.al.|[2203.13369v1](http://arxiv.org/abs/2203.13369v1)|null|
 |**2022-03-23**|**Reflectivity spectra as absorption ones -- is it correct ?**|Marina Andreeva et.al.|[2203.12649v1](http://arxiv.org/abs/2203.12649v1)|null|
 |**2022-03-23**|**Unified Structure Generation for Universal Information Extraction**|Yaojie Lu et.al.|[2203.12277v1](http://arxiv.org/abs/2203.12277v1)|null|
