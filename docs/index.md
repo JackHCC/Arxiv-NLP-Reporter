@@ -2,19 +2,19 @@
 layout: default
 ---
 
-## Updated on 2022.03.29
+## Updated on 2022.03.30
 
 ## NLP
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2022-03-28**|**Using Domain Knowledge for Low Resource Named Entity Recognition**|Yuan Shi et.al.|[2203.14738v1](http://arxiv.org/abs/2203.14738v1)|null|
-|**2022-03-28**|**Hierarchical Transformer Model for Scientific Named Entity Recognition**|Urchade Zaratiana et.al.|[2203.14710v1](http://arxiv.org/abs/2203.14710v1)|null|
+|**2022-03-28**|**Hierarchical Transformer Model for Scientific Named Entity Recognition**|Urchade Zaratiana et.al.|[2203.14710v1](http://arxiv.org/abs/2203.14710v1)|**[link](https://github.com/urchade/hner)**|
 |**2022-03-28**|**Automatic Debate Evaluation with Argumentation Semantics and Natural Language Argument Graph Networks**|Ramon Ruiz-Dolz et.al.|[2203.14647v1](http://arxiv.org/abs/2203.14647v1)|null|
 |**2022-03-28**|**ANNA: Enhanced Language Representation for Question Answering**|Changwook Jun et.al.|[2203.14507v1](http://arxiv.org/abs/2203.14507v1)|null|
 |**2022-03-28**|**EnCBP: A New Benchmark Dataset for Finer-Grained Cultural Background Prediction in English**|Weicheng Ma et.al.|[2203.14498v1](http://arxiv.org/abs/2203.14498v1)|null|
 |**2022-03-27**|**Example-based Hypernetworks for Out-of-Distribution Generalization**|Tomer Volk et.al.|[2203.14276v1](http://arxiv.org/abs/2203.14276v1)|**[link](https://github.com/tomervolk/hyper-pada)**|
-|**2022-03-27**|**bitsa_nlp@LT-EDI-ACL2022: Leveraging Pretrained Language Models for Detecting Homophobia and Transphobia in Social Media Comments**|Vitthal Bhandari et.al.|[2203.14267v1](http://arxiv.org/abs/2203.14267v1)|null|
+|**2022-03-27**|**bitsa_nlp@LT-EDI-ACL2022: Leveraging Pretrained Language Models for Detecting Homophobia and Transphobia in Social Media Comments**|Vitthal Bhandari et.al.|[2203.14267v1](http://arxiv.org/abs/2203.14267v1)|**[link](https://github.com/vitthal-bhandari/homophobia-transphobia-detection)**|
 |**2022-03-26**|**Autoregressive Linguistic Steganography Based on BERT and Consistency Coding**|Xiaoyan Zheng et.al.|[2203.13972v1](http://arxiv.org/abs/2203.13972v1)|null|
 |**2022-03-25**|**On the Intrinsic and Extrinsic Fairness Evaluation Metrics for Contextualized Language Representations**|Yang Trista Cao et.al.|[2203.13928v1](http://arxiv.org/abs/2203.13928v1)|null|
 |**2022-03-25**|**Gransformer: Transformer-based Graph Generation**|Ahmad Khajenezhad et.al.|[2203.13655v1](http://arxiv.org/abs/2203.13655v1)|null|
@@ -291,7 +291,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2022-03-28**|**Using Domain Knowledge for Low Resource Named Entity Recognition**|Yuan Shi et.al.|[2203.14738v1](http://arxiv.org/abs/2203.14738v1)|null|
-|**2022-03-28**|**Hierarchical Transformer Model for Scientific Named Entity Recognition**|Urchade Zaratiana et.al.|[2203.14710v1](http://arxiv.org/abs/2203.14710v1)|null|
+|**2022-03-28**|**Hierarchical Transformer Model for Scientific Named Entity Recognition**|Urchade Zaratiana et.al.|[2203.14710v1](http://arxiv.org/abs/2203.14710v1)|**[link](https://github.com/urchade/hner)**|
 |**2022-03-28**|**Computer Science Named Entity Recognition in the Open Research Knowledge Graph**|Jennifer D'Souza et.al.|[2203.14579v1](http://arxiv.org/abs/2203.14579v1)|**[link](https://github.com/jd-coderepos/contributions-ner-cs)**|
 |**2022-03-24**|**Mono vs Multilingual BERT: A Case Study in Hindi and Marathi Named Entity Recognition**|Onkar Litake et.al.|[2203.12907v1](http://arxiv.org/abs/2203.12907v1)|null|
 |**2022-03-23**|**Few-shot Named Entity Recognition with Self-describing Networks**|Jiawei Chen et.al.|[2203.12252v1](http://arxiv.org/abs/2203.12252v1)|**[link](https://github.com/chen700564/sdnet)**|
@@ -524,7 +524,7 @@ layout: default
 |**2022-03-28**|**STaR: Bootstrapping Reasoning With Reasoning**|Eric Zelikman et.al.|[2203.14465v1](http://arxiv.org/abs/2203.14465v1)|null|
 |**2022-03-27**|**MedMCQA : A Large-scale Multi-Subject Multi-Choice Dataset for Medical domain Question Answering**|Ankit Pal et.al.|[2203.14371v1](http://arxiv.org/abs/2203.14371v1)|**[link](https://github.com/MedMCQA/MedMCQA)**|
 |**2022-03-27**|**Educational Question Generation of Children Storybooks via Question Type Distribution Learning and Event-Centric Summarization**|Zhenjie Zhao et.al.|[2203.14187v1](http://arxiv.org/abs/2203.14187v1)|null|
-|**2022-03-26**|**MQDD -- Pre-training of Multimodal Question Duplicity Detection for Software Engineering Domain**|Jan Pašek et.al.|[2203.14093v1](http://arxiv.org/abs/2203.14093v1)|**[link](https://github.com/kiv-air/stackoverflowdataset)**|
+|**2022-03-26**|**MQDD -- Pre-training of Multimodal Question Duplicity Detection for Software Engineering Domain**|Jan Pašek et.al.|[2203.14093v1](http://arxiv.org/abs/2203.14093v1)|**[link](https://github.com/kiv-air/mqdd)**|
 |**2022-03-26**|**Learning to Answer Questions in Dynamic Audio-Visual Scenarios**|Guangyao Li et.al.|[2203.14072v1](http://arxiv.org/abs/2203.14072v1)|null|
 |**2022-03-26**|**Fantastic Questions and Where to Find Them: FairytaleQA -- An Authentic Dataset for Narrative Comprehension**|Ying Xu et.al.|[2203.13947v1](http://arxiv.org/abs/2203.13947v1)|null|
 |**2022-03-28**|**UKP-SQUARE: An Online Platform for Question Answering Research**|Tim Baumgärtner et.al.|[2203.13693v2](http://arxiv.org/abs/2203.13693v2)|**[link](https://github.com/ukp-square/square-core)**|
@@ -949,7 +949,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2022-03-28**|**WawPart: Workload-Aware Partitioning of Knowledge Graphs**|Amitabh Priyadarshi et.al.|[2203.14888v1](http://arxiv.org/abs/2203.14888v1)|null|
 |**2022-03-28**|**AWAPart: Adaptive Workload-Aware Partitioning of Knowledge Graphs**|Amitabh Priyadarshi et.al.|[2203.14884v1](http://arxiv.org/abs/2203.14884v1)|null|
-|**2022-03-28**|**Hierarchical Transformer Model for Scientific Named Entity Recognition**|Urchade Zaratiana et.al.|[2203.14710v1](http://arxiv.org/abs/2203.14710v1)|null|
+|**2022-03-28**|**Hierarchical Transformer Model for Scientific Named Entity Recognition**|Urchade Zaratiana et.al.|[2203.14710v1](http://arxiv.org/abs/2203.14710v1)|**[link](https://github.com/urchade/hner)**|
 |**2022-03-28**|**Enriching Scholarly Knowledge with Context**|Muhammad Haris et.al.|[2203.14617v1](http://arxiv.org/abs/2203.14617v1)|null|
 |**2022-03-28**|**Computer Science Named Entity Recognition in the Open Research Knowledge Graph**|Jennifer D'Souza et.al.|[2203.14579v1](http://arxiv.org/abs/2203.14579v1)|**[link](https://github.com/jd-coderepos/contributions-ner-cs)**|
 |**2022-03-28**|**The Digitalization of Bioassays in the Open Research Knowledge Graph**|Jennifer D'Souza et.al.|[2203.14574v1](http://arxiv.org/abs/2203.14574v1)|null|
