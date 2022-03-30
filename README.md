@@ -4,6 +4,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-29**|**Few-shot Structured Radiology Report Generation Using Natural Language Prompts**|Matthias Keicher et.al.|[2203.15723v1](http://arxiv.org/abs/2203.15723v1)|null|
+|**2022-03-29**|**Quality Assurance of Generative Dialog Models in an Evolving Conversational Agent Used for Swedish Language Practice**|Markus Borg et.al.|[2203.15414v1](http://arxiv.org/abs/2203.15414v1)|null|
+|**2022-03-29**|**LDKP: A Dataset for Identifying Keyphrases from Long Scientific Documents**|Debanjan Mahata et.al.|[2203.15349v1](http://arxiv.org/abs/2203.15349v1)|null|
+|**2022-03-29**|**Improving Persian Relation Extraction Models by Data Augmentation**|Moein Salimi Sartakhti et.al.|[2203.15323v1](http://arxiv.org/abs/2203.15323v1)|null|
+|**2022-03-29**|**An Evaluation Dataset for Legal Word Embedding: A Case Study On Chinese Codex**|Chun-Hsien Lin et.al.|[2203.15173v1](http://arxiv.org/abs/2203.15173v1)|null|
+|**2022-03-28**|**Federated Named Entity Recognition**|Joel Mathew et.al.|[2203.15101v1](http://arxiv.org/abs/2203.15101v1)|null|
+|**2022-03-28**|**Comparing in context: Improving cosine similarity measures with a metric tensor**|Isa M. Apallius de Vos et.al.|[2203.14996v1](http://arxiv.org/abs/2203.14996v1)|null|
 |**2022-03-28**|**Using Domain Knowledge for Low Resource Named Entity Recognition**|Yuan Shi et.al.|[2203.14738v1](http://arxiv.org/abs/2203.14738v1)|null|
 |**2022-03-28**|**Hierarchical Transformer Model for Scientific Named Entity Recognition**|Urchade Zaratiana et.al.|[2203.14710v1](http://arxiv.org/abs/2203.14710v1)|**[link](https://github.com/urchade/hner)**|
 |**2022-03-28**|**Automatic Debate Evaluation with Argumentation Semantics and Natural Language Argument Graph Networks**|Ramon Ruiz-Dolz et.al.|[2203.14647v1](http://arxiv.org/abs/2203.14647v1)|null|
@@ -286,6 +293,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-28**|**Federated Named Entity Recognition**|Joel Mathew et.al.|[2203.15101v1](http://arxiv.org/abs/2203.15101v1)|null|
 |**2022-03-28**|**Using Domain Knowledge for Low Resource Named Entity Recognition**|Yuan Shi et.al.|[2203.14738v1](http://arxiv.org/abs/2203.14738v1)|null|
 |**2022-03-28**|**Hierarchical Transformer Model for Scientific Named Entity Recognition**|Urchade Zaratiana et.al.|[2203.14710v1](http://arxiv.org/abs/2203.14710v1)|**[link](https://github.com/urchade/hner)**|
 |**2022-03-28**|**Computer Science Named Entity Recognition in the Open Research Knowledge Graph**|Jennifer D'Souza et.al.|[2203.14579v1](http://arxiv.org/abs/2203.14579v1)|**[link](https://github.com/jd-coderepos/contributions-ner-cs)**|
@@ -455,6 +463,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-29**|**Forecasting with Economic News**|Luca Barbaglia et.al.|[2203.15686v1](http://arxiv.org/abs/2203.15686v1)|null|
+|**2022-03-29**|**Comparative Evaluations of Visualization Onboarding Methods**|Christina Stoiber et.al.|[2203.15418v1](http://arxiv.org/abs/2203.15418v1)|null|
 |**2022-03-27**|**A Survey on Aspect-Based Sentiment Classification**|Gianni Brauwers et.al.|[2203.14266v1](http://arxiv.org/abs/2203.14266v1)|null|
 |**2022-03-24**|**Direct parsing to sentiment graphs**|David Samuel et.al.|[2203.13209v1](http://arxiv.org/abs/2203.13209v1)|**[link](https://github.com/jerbarnes/direct_parsing_to_sent_graph)**|
 |**2022-03-23**|**M-SENA: An Integrated Platform for Multimodal Sentiment Analysis**|Huisheng Mao et.al.|[2203.12441v1](http://arxiv.org/abs/2203.12441v1)|**[link](https://github.com/thuiar/mmsa-fet)**|
@@ -762,6 +772,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-29**|**StyleT2I: Toward Compositional and High-Fidelity Text-to-Image Synthesis**|Zhiheng Li et.al.|[2203.15799v1](http://arxiv.org/abs/2203.15799v1)|**[link](https://github.com/zhihengli-UR/StyleT2I)**|
+|**2022-03-29**|**Revisiting Neighborhood-based Link Prediction for Collaborative Filtering**|Hao-Ming Fu et.al.|[2203.15789v1](http://arxiv.org/abs/2203.15789v1)|null|
 |**2022-03-28**|**Specialized Document Embeddings for Aspect-based Similarity of Research Papers**|Malte Ostendorff et.al.|[2203.14541v1](http://arxiv.org/abs/2203.14541v1)|**[link](https://github.com/malteos/aspect-document-embeddings)**|
 |**2022-03-27**|**Budget-Constrained Reinforcement of Ranked Objects**|Amir Ban et.al.|[2203.14305v1](http://arxiv.org/abs/2203.14305v1)|null|
 |**2022-03-27**|**BARCOR: Towards A Unified Framework for Conversational Recommendation Systems**|Ting-Chun Wang et.al.|[2203.14257v1](http://arxiv.org/abs/2203.14257v1)|null|
@@ -943,6 +955,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-28**|**Multilingual Knowledge Graph Completion with Self-Supervised Adaptive Graph Alignment**|Zijie Huang et.al.|[2203.14987v1](http://arxiv.org/abs/2203.14987v1)|null|
 |**2022-03-28**|**WawPart: Workload-Aware Partitioning of Knowledge Graphs**|Amitabh Priyadarshi et.al.|[2203.14888v1](http://arxiv.org/abs/2203.14888v1)|null|
 |**2022-03-28**|**AWAPart: Adaptive Workload-Aware Partitioning of Knowledge Graphs**|Amitabh Priyadarshi et.al.|[2203.14884v1](http://arxiv.org/abs/2203.14884v1)|null|
 |**2022-03-28**|**Hierarchical Transformer Model for Scientific Named Entity Recognition**|Urchade Zaratiana et.al.|[2203.14710v1](http://arxiv.org/abs/2203.14710v1)|**[link](https://github.com/urchade/hner)**|
@@ -1087,6 +1100,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-29**|**Revisiting Neighborhood-based Link Prediction for Collaborative Filtering**|Hao-Ming Fu et.al.|[2203.15789v1](http://arxiv.org/abs/2203.15789v1)|null|
+|**2022-03-29**|**Graph Neural Networks are Dynamic Programmers**|Andrew Dudzik et.al.|[2203.15544v1](http://arxiv.org/abs/2203.15544v1)|null|
+|**2022-03-29**|**Graph similarity learning for change-point detection in dynamic networks**|Deborah Sulem et.al.|[2203.15470v1](http://arxiv.org/abs/2203.15470v1)|null|
+|**2022-03-29**|**OrphicX: A Causality-Inspired Latent Variable Model for Interpreting Graph Neural Networks**|Wanyu Lin et.al.|[2203.15209v1](http://arxiv.org/abs/2203.15209v1)|**[link](https://github.com/wanyugroup/cvpr2022-orphicx)**|
+|**2022-03-29**|**Long-term Visual Map Sparsification with Heterogeneous GNN**|Ming-Fang Chang et.al.|[2203.15182v1](http://arxiv.org/abs/2203.15182v1)|null|
+|**2022-03-29**|**Learning to Synthesize Volumetric Meshes from Vision-based Tactile Imprints**|Xinghao Zhu et.al.|[2203.15155v1](http://arxiv.org/abs/2203.15155v1)|null|
+|**2022-03-28**|**Solving Disjunctive Temporal Networks with Uncertainty under Restricted Time-Based Controllability using Tree Search and Graph Neural Networks**|Kevin Osanlou et.al.|[2203.15030v1](http://arxiv.org/abs/2203.15030v1)|null|
+|**2022-03-28**|**DAMNETS: A Deep Autoregressive Model for Generating Markovian Network Time Series**|Jase Clarkson et.al.|[2203.15009v1](http://arxiv.org/abs/2203.15009v1)|**[link](https://github.com/damnets/damnets_icml_2022)**|
+|**2022-03-28**|**Offline-Online Learning of Deformation Model for Cable Manipulation with Graph Neural Networks**|Changhao Wang et.al.|[2203.15004v1](http://arxiv.org/abs/2203.15004v1)|null|
 |**2022-03-28**|**Learning What You Need from What You Did: Product Taxonomy Expansion with User Behaviors Supervision**|Sijie Cheng et.al.|[2203.14921v1](http://arxiv.org/abs/2203.14921v1)|**[link](https://github.com/adacheng/product_taxonomy_expansion)**|
 |**2022-03-28**|**TGL: A General Framework for Temporal GNN Training on Billion-Scale Graphs**|Hongkuan Zhou et.al.|[2203.14883v1](http://arxiv.org/abs/2203.14883v1)|null|
 |**2022-03-28**|**Discovering dynamic laws from observations with Graph Neural Networks: the case of self-propelled, interacting colloids**|Miguel Ruiz-Garcia et.al.|[2203.14846v1](http://arxiv.org/abs/2203.14846v1)|null|
