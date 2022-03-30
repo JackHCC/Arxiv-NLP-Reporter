@@ -524,7 +524,7 @@ layout: default
 |**2022-03-28**|**STaR: Bootstrapping Reasoning With Reasoning**|Eric Zelikman et.al.|[2203.14465v1](http://arxiv.org/abs/2203.14465v1)|null|
 |**2022-03-27**|**MedMCQA : A Large-scale Multi-Subject Multi-Choice Dataset for Medical domain Question Answering**|Ankit Pal et.al.|[2203.14371v1](http://arxiv.org/abs/2203.14371v1)|**[link](https://github.com/MedMCQA/MedMCQA)**|
 |**2022-03-27**|**Educational Question Generation of Children Storybooks via Question Type Distribution Learning and Event-Centric Summarization**|Zhenjie Zhao et.al.|[2203.14187v1](http://arxiv.org/abs/2203.14187v1)|null|
-|**2022-03-26**|**MQDD -- Pre-training of Multimodal Question Duplicity Detection for Software Engineering Domain**|Jan Pašek et.al.|[2203.14093v1](http://arxiv.org/abs/2203.14093v1)|**[link](https://github.com/kiv-air/mqdd)**|
+|**2022-03-29**|**MQDD: Pre-training of Multimodal Question Duplicity Detection for Software Engineering Domain**|Jan Pašek et.al.|[2203.14093v2](http://arxiv.org/abs/2203.14093v2)|**[link](https://github.com/kiv-air/mqdd)**|
 |**2022-03-26**|**Learning to Answer Questions in Dynamic Audio-Visual Scenarios**|Guangyao Li et.al.|[2203.14072v1](http://arxiv.org/abs/2203.14072v1)|null|
 |**2022-03-26**|**Fantastic Questions and Where to Find Them: FairytaleQA -- An Authentic Dataset for Narrative Comprehension**|Ying Xu et.al.|[2203.13947v1](http://arxiv.org/abs/2203.13947v1)|null|
 |**2022-03-28**|**UKP-SQUARE: An Online Platform for Question Answering Research**|Tim Baumgärtner et.al.|[2203.13693v2](http://arxiv.org/abs/2203.13693v2)|**[link](https://github.com/ukp-square/square-core)**|
