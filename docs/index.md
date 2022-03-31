@@ -1110,7 +1110,7 @@ layout: default
 |**2022-03-29**|**OrphicX: A Causality-Inspired Latent Variable Model for Interpreting Graph Neural Networks**|Wanyu Lin et.al.|[2203.15209v1](http://arxiv.org/abs/2203.15209v1)|**[link](https://github.com/wanyugroup/cvpr2022-orphicx)**|
 |**2022-03-29**|**Long-term Visual Map Sparsification with Heterogeneous GNN**|Ming-Fang Chang et.al.|[2203.15182v1](http://arxiv.org/abs/2203.15182v1)|null|
 |**2022-03-29**|**Learning to Synthesize Volumetric Meshes from Vision-based Tactile Imprints**|Xinghao Zhu et.al.|[2203.15155v1](http://arxiv.org/abs/2203.15155v1)|null|
-|**2022-03-28**|**Solving Disjunctive Temporal Networks with Uncertainty under Restricted Time-Based Controllability using Tree Search and Graph Neural Networks**|Kevin Osanlou et.al.|[2203.15030v1](http://arxiv.org/abs/2203.15030v1)|null|
+|**2022-03-30**|**Solving Disjunctive Temporal Networks with Uncertainty under Restricted Time-Based Controllability using Tree Search and Graph Neural Networks**|Kevin Osanlou et.al.|[2203.15030v2](http://arxiv.org/abs/2203.15030v2)|null|
 |**2022-03-28**|**DAMNETS: A Deep Autoregressive Model for Generating Markovian Network Time Series**|Jase Clarkson et.al.|[2203.15009v1](http://arxiv.org/abs/2203.15009v1)|**[link](https://github.com/damnets/damnets_icml_2022)**|
 |**2022-03-28**|**Offline-Online Learning of Deformation Model for Cable Manipulation with Graph Neural Networks**|Changhao Wang et.al.|[2203.15004v1](http://arxiv.org/abs/2203.15004v1)|null|
 |**2022-03-28**|**Learning What You Need from What You Did: Product Taxonomy Expansion with User Behaviors Supervision**|Sijie Cheng et.al.|[2203.14921v1](http://arxiv.org/abs/2203.14921v1)|**[link](https://github.com/adacheng/product_taxonomy_expansion)**|
