@@ -302,7 +302,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2022-03-31**|**$k$NN-NER: Named Entity Recognition with Nearest Neighbor Search**|Shuhe Wang et.al.|[2203.17103v1](http://arxiv.org/abs/2203.17103v1)|null|
+|**2022-03-31**|**$k$NN-NER: Named Entity Recognition with Nearest Neighbor Search**|Shuhe Wang et.al.|[2203.17103v1](http://arxiv.org/abs/2203.17103v1)|**[link](https://github.com/shannonai/knn-ner)**|
 |**2022-03-31**|**Scientific and Technological Text Knowledge Extraction Method of based on Word Mixing and GRU**|Suyu Ouyang et.al.|[2203.17079v1](http://arxiv.org/abs/2203.17079v1)|null|
 |**2022-03-28**|**Federated Named Entity Recognition**|Joel Mathew et.al.|[2203.15101v1](http://arxiv.org/abs/2203.15101v1)|null|
 |**2022-03-28**|**Using Domain Knowledge for Low Resource Named Entity Recognition**|Yuan Shi et.al.|[2203.14738v1](http://arxiv.org/abs/2203.14738v1)|null|
@@ -477,7 +477,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2022-03-31**|**indic-punct: An automatic punctuation restoration and inverse text normalization framework for Indic languages**|Anirudh Gupta et.al.|[2203.16825v1](http://arxiv.org/abs/2203.16825v1)|null|
+|**2022-03-31**|**indic-punct: An automatic punctuation restoration and inverse text normalization framework for Indic languages**|Anirudh Gupta et.al.|[2203.16825v1](http://arxiv.org/abs/2203.16825v1)|**[link](https://github.com/open-speech-ekstep/indic-punct)**|
 |**2022-03-30**|**Incorporating Dynamic Semantics into Pre-Trained Language Model for Aspect-based Sentiment Analysis**|Kai Zhang et.al.|[2203.16369v1](http://arxiv.org/abs/2203.16369v1)|null|
 |**2022-03-29**|**Forecasting with Economic News**|Luca Barbaglia et.al.|[2203.15686v1](http://arxiv.org/abs/2203.15686v1)|null|
 |**2022-03-29**|**Comparative Evaluations of Visualization Onboarding Methods**|Christina Stoiber et.al.|[2203.15418v1](http://arxiv.org/abs/2203.15418v1)|null|
@@ -796,7 +796,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2022-03-31**|**A Rich Recipe Representation as Plan to Support Expressive Multi Modal Queries on Recipe Content and Preparation Process**|Vishal Pallagani et.al.|[2203.17109v1](http://arxiv.org/abs/2203.17109v1)|null|
-|**2022-03-31**|**Cross-Domain Recommendation to Cold-Start Users via Variational Information Bottleneck**|Jiangxia Cao et.al.|[2203.16863v1](http://arxiv.org/abs/2203.16863v1)|null|
+|**2022-03-31**|**Cross-Domain Recommendation to Cold-Start Users via Variational Information Bottleneck**|Jiangxia Cao et.al.|[2203.16863v1](http://arxiv.org/abs/2203.16863v1)|**[link](https://github.com/cjx96/cdrib)**|
 |**2022-03-30**|**Long-term Dynamics of Fairness Intervention in Connection Recommender Systems**|Nil-Jana Akpinar et.al.|[2203.16432v1](http://arxiv.org/abs/2203.16432v1)|null|
 |**2022-03-29**|**Self-Supervised Learning for Recommender Systems: A Survey**|Junliang Yu et.al.|[2203.15876v1](http://arxiv.org/abs/2203.15876v1)|null|
 |**2022-03-29**|**Near-optimality for infinite-horizon restless bandits with many arms**|Xiangyu Zhang et.al.|[2203.15853v1](http://arxiv.org/abs/2203.15853v1)|null|
