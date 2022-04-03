@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.04.02
+## Updated on 2022.04.03
 
 ## NLP
 
@@ -14,7 +14,7 @@ layout: default
 |**2022-03-30**|**Towards Interpretable Deep Reinforcement Learning Models via Inverse Reinforcement Learning**|Yuansheng Xie et.al.|[2203.16464v1](http://arxiv.org/abs/2203.16464v1)|null|
 |**2022-03-30**|**Automatic generation of semantic corpora for improving intent estimation of taxonomy-driven search engines**|Lorenzo Massai et.al.|[2203.16230v1](http://arxiv.org/abs/2203.16230v1)|null|
 |**2022-03-30**|**Auto-MLM: Improved Contrastive Learning for Self-supervised Multi-lingual Knowledge Retrieval**|Wenshen Xu et.al.|[2203.16187v1](http://arxiv.org/abs/2203.16187v1)|null|
-|**2022-03-30**|**Understanding Graph Convolutional Networks for Text Classification**|Soyeon Caren Han et.al.|[2203.16060v1](http://arxiv.org/abs/2203.16060v1)|null|
+|**2022-03-30**|**Understanding Graph Convolutional Networks for Text Classification**|Soyeon Caren Han et.al.|[2203.16060v1](http://arxiv.org/abs/2203.16060v1)|**[link](https://github.com/usydnlp/TextGCN_analysis)**|
 |**2022-03-30**|**TextPruner: A Model Pruning Toolkit for Pre-Trained Language Models**|Ziqing Yang et.al.|[2203.15996v1](http://arxiv.org/abs/2203.15996v1)|null|
 |**2022-03-29**|**Few-shot Structured Radiology Report Generation Using Natural Language Prompts**|Matthias Keicher et.al.|[2203.15723v1](http://arxiv.org/abs/2203.15723v1)|null|
 |**2022-03-29**|**Quality Assurance of Generative Dialog Models in an Evolving Conversational Agent Used for Swedish Language Practice**|Markus Borg et.al.|[2203.15414v1](http://arxiv.org/abs/2203.15414v1)|null|
@@ -365,7 +365,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2022-03-31**|**Open Source MagicData-RAMC: A Rich Annotated Mandarin Conversational(RAMC) Speech Dataset**|Zehui Yang et.al.|[2203.16844v1](http://arxiv.org/abs/2203.16844v1)|null|
 |**2022-03-30**|**Combination of Time-domain, Frequency-domain, and Cepstral-domain Acoustic Features for Speech Commands Classification**|Yikang Wang et.al.|[2203.16085v1](http://arxiv.org/abs/2203.16085v1)|null|
-|**2022-03-30**|**Understanding Graph Convolutional Networks for Text Classification**|Soyeon Caren Han et.al.|[2203.16060v1](http://arxiv.org/abs/2203.16060v1)|null|
+|**2022-03-30**|**Understanding Graph Convolutional Networks for Text Classification**|Soyeon Caren Han et.al.|[2203.16060v1](http://arxiv.org/abs/2203.16060v1)|**[link](https://github.com/usydnlp/TextGCN_analysis)**|
 |**2022-03-28**|**Few-Shot Learning with Siamese Networks and Label Tuning**|Thomas Müller et.al.|[2203.14655v1](http://arxiv.org/abs/2203.14655v1)|null|
 |**2022-03-27**|**Example-based Hypernetworks for Out-of-Distribution Generalization**|Tomer Volk et.al.|[2203.14276v1](http://arxiv.org/abs/2203.14276v1)|**[link](https://github.com/tomervolk/hyper-pada)**|
 |**2022-03-24**|**Generating Data to Mitigate Spurious Correlations in Natural Language Inference Datasets**|Yuxiang Wu et.al.|[2203.12942v1](http://arxiv.org/abs/2203.12942v1)|**[link](https://github.com/jimmycode/gen-debiased-nli)**|
