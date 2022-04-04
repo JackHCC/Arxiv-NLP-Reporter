@@ -4,6 +4,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-04-01**|**Learning Disentangled Representations of Negation and Uncertainty**|Jake Vasilakes et.al.|[2204.00511v1](http://arxiv.org/abs/2204.00511v1)|**[link](https://github.com/jvasilakes/disentanglement-vae)**|
+|**2022-04-01**|**Uncertainty Determines the Adequacy of the Mode and the Tractability of Decoding in Sequence-to-Sequence Models**|Felix Stahlberg et.al.|[2204.00471v1](http://arxiv.org/abs/2204.00471v1)|null|
+|**2022-04-01**|**Transformers for 1D Signals in Parkinson's Disease Detection from Gait**|Duc Minh Dimitri Nguyen et.al.|[2204.00423v1](http://arxiv.org/abs/2204.00423v1)|null|
+|**2022-04-01**|**A Large-scale Dataset of (Open Source) License Text Variants**|Stefano Zacchiroli et.al.|[2204.00256v1](http://arxiv.org/abs/2204.00256v1)|null|
+|**2022-03-30**|**Reproducibility Issues for BERT-based Evaluation Metrics**|Yanran Chen et.al.|[2204.00004v1](http://arxiv.org/abs/2204.00004v1)|**[link](https://github.com/cyr19/reproducibility)**|
 |**2022-03-31**|**Deep Hyperspectral Unmixing using Transformer Network**|Preetam Ghosh et.al.|[2203.17076v1](http://arxiv.org/abs/2203.17076v1)|null|
 |**2022-03-31**|**An Exploration of Prompt Tuning on Generative Spoken Language Model for Speech Processing Tasks**|Kai-Wei Chang et.al.|[2203.16773v1](http://arxiv.org/abs/2203.16773v1)|null|
 |**2022-03-30**|**Generating Scientific Articles with Machine Learning**|Eliot H. Ayache et.al.|[2203.16569v1](http://arxiv.org/abs/2203.16569v1)|null|
@@ -477,6 +482,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-31**|**Dynamic Multimodal Fusion**|Zihui Xue et.al.|[2204.00102v1](http://arxiv.org/abs/2204.00102v1)|null|
 |**2022-03-31**|**indic-punct: An automatic punctuation restoration and inverse text normalization framework for Indic languages**|Anirudh Gupta et.al.|[2203.16825v1](http://arxiv.org/abs/2203.16825v1)|**[link](https://github.com/open-speech-ekstep/indic-punct)**|
 |**2022-03-30**|**Incorporating Dynamic Semantics into Pre-Trained Language Model for Aspect-based Sentiment Analysis**|Kai Zhang et.al.|[2203.16369v1](http://arxiv.org/abs/2203.16369v1)|null|
 |**2022-03-29**|**Forecasting with Economic News**|Luca Barbaglia et.al.|[2203.15686v1](http://arxiv.org/abs/2203.15686v1)|null|
@@ -542,6 +548,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-04-01**|**Multifaceted Improvements for Conversational Open-Domain Question Answering**|Tingting Liang et.al.|[2204.00266v1](http://arxiv.org/abs/2204.00266v1)|null|
 |**2022-03-30**|**VL-InterpreT: An Interactive Visualization Tool for Interpreting Vision-Language Transformers**|Estelle Aflalo et.al.|[2203.17247v1](http://arxiv.org/abs/2203.17247v1)|null|
 |**2022-03-31**|**SimVQA: Exploring Simulated Environments for Visual Question Answering**|Paola Cascante-Bonilla et.al.|[2203.17219v1](http://arxiv.org/abs/2203.17219v1)|null|
 |**2022-03-30**|**End-to-End Table Question Answering via Retrieval-Augmented Generation**|Feifei Pan et.al.|[2203.16714v1](http://arxiv.org/abs/2203.16714v1)|null|
@@ -719,6 +726,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-04-01**|**Repeated Extraction of Scrambled Quantum Data: Sustainability of the Hayden-Preskill Type Protocols**|Seok Hyung Lie et.al.|[2204.00374v1](http://arxiv.org/abs/2204.00374v1)|null|
 |**2022-03-31**|**CREATE: A Benchmark for Chinese Short Video Retrieval and Title Generation**|Ziqi Zhang et.al.|[2203.16763v1](http://arxiv.org/abs/2203.16763v1)|null|
 |**2022-03-28**|**Computer Science Named Entity Recognition in the Open Research Knowledge Graph**|Jennifer D'Souza et.al.|[2203.14579v1](http://arxiv.org/abs/2203.14579v1)|**[link](https://github.com/jd-coderepos/contributions-ner-cs)**|
 |**2022-03-26**|**Near-Infrared Depth-Independent Image Dehazing using Haar Wavelets**|Sumit Laha et.al.|[2203.14085v1](http://arxiv.org/abs/2203.14085v1)|null|
@@ -795,6 +803,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-04-01**|**i-Razor: A Neural Input Razor for Feature Selection and Dimension Search in Large-Scale Recommender Systems**|Yao Yao et.al.|[2204.00281v1](http://arxiv.org/abs/2204.00281v1)|null|
+|**2022-04-01**|**Proactively Control Privacy in Recommender Systems**|Ziqian Chen et.al.|[2204.00279v1](http://arxiv.org/abs/2204.00279v1)|null|
+|**2022-04-01**|**Sequential Recommendation with Causal Behavior Discovery**|Zhenlei Wang et.al.|[2204.00216v1](http://arxiv.org/abs/2204.00216v1)|null|
+|**2022-04-01**|**Leveraging Privacy Profiles to Empower Users in the Digital Society**|Davide Di Ruscio et.al.|[2204.00011v1](http://arxiv.org/abs/2204.00011v1)|null|
 |**2022-03-31**|**A Rich Recipe Representation as Plan to Support Expressive Multi Modal Queries on Recipe Content and Preparation Process**|Vishal Pallagani et.al.|[2203.17109v1](http://arxiv.org/abs/2203.17109v1)|null|
 |**2022-03-31**|**Cross-Domain Recommendation to Cold-Start Users via Variational Information Bottleneck**|Jiangxia Cao et.al.|[2203.16863v1](http://arxiv.org/abs/2203.16863v1)|**[link](https://github.com/cjx96/cdrib)**|
 |**2022-03-30**|**Long-term Dynamics of Fairness Intervention in Connection Recommender Systems**|Nil-Jana Akpinar et.al.|[2203.16432v1](http://arxiv.org/abs/2203.16432v1)|null|
@@ -984,6 +996,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-04-01**|**From Data to Knowledge Graphs: A Multi-Layered Method to Model User's Visual Analytics Workflow for Analytical Purposes**|Leonardo Christino et.al.|[2204.00585v1](http://arxiv.org/abs/2204.00585v1)|null|
+|**2022-04-01**|**Automatic Biomedical Term Clustering by Learning Fine-grained Term Representations**|Sihang Zeng et.al.|[2204.00391v1](http://arxiv.org/abs/2204.00391v1)|null|
 |**2022-03-28**|**Multilingual Knowledge Graph Completion with Self-Supervised Adaptive Graph Alignment**|Zijie Huang et.al.|[2203.14987v1](http://arxiv.org/abs/2203.14987v1)|null|
 |**2022-03-28**|**WawPart: Workload-Aware Partitioning of Knowledge Graphs**|Amitabh Priyadarshi et.al.|[2203.14888v1](http://arxiv.org/abs/2203.14888v1)|null|
 |**2022-03-28**|**AWAPart: Adaptive Workload-Aware Partitioning of Knowledge Graphs**|Amitabh Priyadarshi et.al.|[2203.14884v1](http://arxiv.org/abs/2203.14884v1)|null|
@@ -1129,6 +1143,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-04-01**|**NC-DRE: Leveraging Non-entity Clue Information for Document-level Relation Extraction**|Liang Zhang et.al.|[2204.00255v1](http://arxiv.org/abs/2204.00255v1)|null|
+|**2022-04-01**|**Graph Enhanced Contrastive Learning for Radiology Findings Summarization**|Jinpeng Hu et.al.|[2204.00203v1](http://arxiv.org/abs/2204.00203v1)|**[link](https://github.com/jinpeng01/aig_cl)**|
 |**2022-03-31**|**AEGNN: Asynchronous Event-based Graph Neural Networks**|Simon Schaefer et.al.|[2203.17149v1](http://arxiv.org/abs/2203.17149v1)|null|
 |**2022-03-31**|**Message Passing Neural Networks for Hypergraphs**|Sajjad Heydari et.al.|[2203.16995v1](http://arxiv.org/abs/2203.16995v1)|null|
 |**2022-03-30**|**Physics-constrained Unsupervised Learning of Partial Differential Equations using Meshes**|Mike Y. Michelis et.al.|[2203.16628v1](http://arxiv.org/abs/2203.16628v1)|null|
