@@ -1136,12 +1136,12 @@ layout: default
 |**2022-03-31**|**AEGNN: Asynchronous Event-based Graph Neural Networks**|Simon Schaefer et.al.|[2203.17149v1](http://arxiv.org/abs/2203.17149v1)|null|
 |**2022-03-31**|**Message Passing Neural Networks for Hypergraphs**|Sajjad Heydari et.al.|[2203.16995v1](http://arxiv.org/abs/2203.16995v1)|null|
 |**2022-03-30**|**Physics-constrained Unsupervised Learning of Partial Differential Equations using Meshes**|Mike Y. Michelis et.al.|[2203.16628v1](http://arxiv.org/abs/2203.16628v1)|null|
-|**2022-03-30**|**Multi-Robot Active Mapping via Neural Bipartite Graph Matching**|Kai Ye et.al.|[2203.16319v1](http://arxiv.org/abs/2203.16319v1)|null|
+|**2022-04-01**|**Multi-Robot Active Mapping via Neural Bipartite Graph Matching**|Kai Ye et.al.|[2203.16319v2](http://arxiv.org/abs/2203.16319v2)|null|
 |**2022-03-30**|**CMMD: Cross-Metric Multi-Dimensional Root Cause Analysis**|Shifu Yan et.al.|[2203.16280v1](http://arxiv.org/abs/2203.16280v1)|null|
 |**2022-03-30**|**AdaGrid: Adaptive Grid Search for Link Prediction Training Objective**|Tim Poštuvan et.al.|[2203.16162v1](http://arxiv.org/abs/2203.16162v1)|null|
 |**2022-03-29**|**A Simple Yet Effective Pretraining Strategy for Graph Few-shot Learning**|Zhen Tan et.al.|[2203.15936v1](http://arxiv.org/abs/2203.15936v1)|null|
 |**2022-03-31**|**Graph Neural Networks in IoT: A Survey**|Guimin Dong et.al.|[2203.15935v2](http://arxiv.org/abs/2203.15935v2)|**[link](https://github.com/guimindong/gnn4iot)**|
-|**2022-03-29**|**Pretraining Graph Neural Networks for few-shot Analog Circuit Modeling and Design**|Kourosh Hakhamaneshi et.al.|[2203.15913v1](http://arxiv.org/abs/2203.15913v1)|**[link](https://github.com/kouroshhakha/circuit-fewshot-code)**|
+|**2022-04-01**|**Pretraining Graph Neural Networks for few-shot Analog Circuit Modeling and Design**|Kourosh Hakhamaneshi et.al.|[2203.15913v2](http://arxiv.org/abs/2203.15913v2)|**[link](https://github.com/kouroshhakha/circuit-fewshot-code)**|
 |**2022-03-29**|**Semi-supervised Graph Neural Networks for Pileup Noise Removal**|Tianchun Li et.al.|[2203.15823v1](http://arxiv.org/abs/2203.15823v1)|null|
 |**2022-03-29**|**Revisiting Neighborhood-based Link Prediction for Collaborative Filtering**|Hao-Ming Fu et.al.|[2203.15789v1](http://arxiv.org/abs/2203.15789v1)|null|
 |**2022-03-29**|**Graph Neural Networks are Dynamic Programmers**|Andrew Dudzik et.al.|[2203.15544v1](http://arxiv.org/abs/2203.15544v1)|null|
