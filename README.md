@@ -555,7 +555,7 @@
 |**2022-03-30**|**Towards Differential Relational Privacy and its use in Question Answering**|Simone Bombari et.al.|[2203.16701v1](http://arxiv.org/abs/2203.16701v1)|null|
 |**2022-03-30**|**Auto-MLM: Improved Contrastive Learning for Self-supervised Multi-lingual Knowledge Retrieval**|Wenshen Xu et.al.|[2203.16187v1](http://arxiv.org/abs/2203.16187v1)|null|
 |**2022-03-29**|**LinkBERT: Pretraining Language Models with Document Links**|Michihiro Yasunaga et.al.|[2203.15827v1](http://arxiv.org/abs/2203.15827v1)|**[link](https://github.com/michiyasunaga/LinkBERT)**|
-|**2022-03-28**|**ANNA: Enhanced Language Representation for Question Answering**|Changwook Jun et.al.|[2203.14507v1](http://arxiv.org/abs/2203.14507v1)|null|
+|**2022-04-04**|**ANNA: Enhanced Language Representation for Question Answering**|Changwook Jun et.al.|[2203.14507v2](http://arxiv.org/abs/2203.14507v2)|null|
 |**2022-03-28**|**STaR: Bootstrapping Reasoning With Reasoning**|Eric Zelikman et.al.|[2203.14465v1](http://arxiv.org/abs/2203.14465v1)|null|
 |**2022-03-27**|**MedMCQA : A Large-scale Multi-Subject Multi-Choice Dataset for Medical domain Question Answering**|Ankit Pal et.al.|[2203.14371v1](http://arxiv.org/abs/2203.14371v1)|**[link](https://github.com/MedMCQA/MedMCQA)**|
 |**2022-03-27**|**Educational Question Generation of Children Storybooks via Question Type Distribution Learning and Event-Centric Summarization**|Zhenjie Zhao et.al.|[2203.14187v1](http://arxiv.org/abs/2203.14187v1)|null|
