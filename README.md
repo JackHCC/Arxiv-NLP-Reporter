@@ -4,6 +4,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-04-06**|**Paying More Attention to Self-attention: Improving Pre-trained Language Models via Attention Guiding**|Shanshan Wang et.al.|[2204.02922v1](http://arxiv.org/abs/2204.02922v1)|null|
+|**2022-04-06**|**A survey on recently proposed activation functions for Deep Learning**|Murilo Gustineli et.al.|[2204.02921v1](http://arxiv.org/abs/2204.02921v1)|null|
+|**2022-04-06**|**Sub-Task Decomposition Enables Learning in Sequence to Sequence Tasks**|Noam Wies et.al.|[2204.02892v1](http://arxiv.org/abs/2204.02892v1)|null|
+|**2022-04-06**|**Improving Multi-task Generalization Ability for Neural Text Matching via Prompt Learning**|Shicheng Xu et.al.|[2204.02725v1](http://arxiv.org/abs/2204.02725v1)|null|
+|**2022-04-06**|**A New Dataset for Topic-Based Paragraph Classification in Genocide-Related Court Transcripts**|Miriam Schirmer et.al.|[2204.02712v1](http://arxiv.org/abs/2204.02712v1)|**[link](https://github.com/miriamschirmer/genocide-transcript-corpus)**|
+|**2022-04-06**|**Using Synthetic Data for Conversational Response Generation in Low-resource Settings**|Gabriel Louis Tan et.al.|[2204.02653v1](http://arxiv.org/abs/2204.02653v1)|null|
+|**2022-04-06**|**DAGAM: Data Augmentation with Generation And Modification**|Byeong-Cheol Jo et.al.|[2204.02633v1](http://arxiv.org/abs/2204.02633v1)|null|
 |**2022-04-05**|**Design considerations for a hierarchical semantic compositional framework for medical natural language understanding**|Ricky K. Taira et.al.|[2204.02067v1](http://arxiv.org/abs/2204.02067v1)|null|
 |**2022-04-04**|**Product Market Demand Analysis Using NLP in Banglish Text with Sentiment Analysis and Named Entity Recognition**|Md Sabbir Hossain et.al.|[2204.01827v1](http://arxiv.org/abs/2204.01827v1)|null|
 |**2022-04-04**|**MetaAID: A Flexible Framework for Developing Metaverse Applications via AI Technology and Human Editing**|Hongyin Zhu et.al.|[2204.01614v1](http://arxiv.org/abs/2204.01614v1)|null|
@@ -377,6 +384,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-04-06**|**A New Dataset for Topic-Based Paragraph Classification in Genocide-Related Court Transcripts**|Miriam Schirmer et.al.|[2204.02712v1](http://arxiv.org/abs/2204.02712v1)|**[link](https://github.com/miriamschirmer/genocide-transcript-corpus)**|
+|**2022-04-06**|**Learning to Adapt Clinical Sequences with Residual Mixture of Experts**|Jeong Min Lee et.al.|[2204.02687v1](http://arxiv.org/abs/2204.02687v1)|**[link](https://github.com/leej35/residual-moe)**|
+|**2022-04-06**|**DAGAM: Data Augmentation with Generation And Modification**|Byeong-Cheol Jo et.al.|[2204.02633v1](http://arxiv.org/abs/2204.02633v1)|null|
 |**2022-04-02**|**Long-tailed Extreme Multi-label Text Classification with Generated Pseudo Label Descriptions**|Ruohong Zhang et.al.|[2204.00958v1](http://arxiv.org/abs/2204.00958v1)|null|
 |**2022-04-02**|**Exploiting Local and Global Features in Transformer-based Extreme Multi-label Text Classification**|Ruohong Zhang et.al.|[2204.00933v1](http://arxiv.org/abs/2204.00933v1)|null|
 |**2022-04-02**|**Constrained Sequence-to-Tree Generation for Hierarchical Text Classification**|Chao Yu et.al.|[2204.00811v1](http://arxiv.org/abs/2204.00811v1)|null|
@@ -566,6 +576,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-04-06**|**Knowledge Base Index Compression via Dimensionality and Precision Reduction**|Vilém Zouhar et.al.|[2204.02906v1](http://arxiv.org/abs/2204.02906v1)|null|
+|**2022-04-06**|**Improving Multi-task Generalization Ability for Neural Text Matching via Prompt Learning**|Shicheng Xu et.al.|[2204.02725v1](http://arxiv.org/abs/2204.02725v1)|null|
+|**2022-04-06**|**Improving Zero-Shot Event Extraction via Sentence Simplification**|Sneha Mehta et.al.|[2204.02531v1](http://arxiv.org/abs/2204.02531v1)|null|
 |**2022-04-05**|**CLEVR-X: A Visual Reasoning Dataset for Natural Language Explanations**|Leonard Salewski et.al.|[2204.02380v1](http://arxiv.org/abs/2204.02380v1)|**[link](https://github.com/explainableml/clevr-x)**|
 |**2022-04-05**|**SwapMix: Diagnosing and Regularizing the Over-Reliance on Visual Context in Visual Question Answering**|Vipul Gupta et.al.|[2204.02285v1](http://arxiv.org/abs/2204.02285v1)|**[link](https://github.com/vipulgupta1011/swapmix)**|
 |**2022-04-05**|**Improved and Efficient Conversational Slot Labeling through Question Answering**|Gabor Fuisz et.al.|[2204.02123v1](http://arxiv.org/abs/2204.02123v1)|null|
@@ -750,6 +763,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-04-06**|**Hammer PDF: An Intelligent PDF Reader for Scientific Papers**|Sheng-Fu Wang et.al.|[2204.02809v1](http://arxiv.org/abs/2204.02809v1)|null|
+|**2022-04-06**|**Improving Zero-Shot Event Extraction via Sentence Simplification**|Sneha Mehta et.al.|[2204.02531v1](http://arxiv.org/abs/2204.02531v1)|null|
 |**2022-04-04**|**Modern Views of Machine Learning for Precision Psychiatry**|Zhe Sage Chen et.al.|[2204.01607v1](http://arxiv.org/abs/2204.01607v1)|null|
 |**2022-04-03**|**Automatic Dialect Density Estimation for African American English**|Alexander Johnson et.al.|[2204.00967v1](http://arxiv.org/abs/2204.00967v1)|null|
 |**2022-04-01**|**Repeated Extraction of Scrambled Quantum Data: Sustainability of the Hayden-Preskill Type Protocols**|Seok Hyung Lie et.al.|[2204.00374v1](http://arxiv.org/abs/2204.00374v1)|null|
@@ -829,6 +844,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-04-06**|**Global Readiness of Language Technology for Healthcare: What would it Take to Combat the Next Pandemic?**|Ishani Mondal et.al.|[2204.02790v1](http://arxiv.org/abs/2204.02790v1)|null|
+|**2022-04-06**|**Improving Multi-task Generalization Ability for Neural Text Matching via Prompt Learning**|Shicheng Xu et.al.|[2204.02725v1](http://arxiv.org/abs/2204.02725v1)|null|
+|**2022-04-06**|**There Are a Thousand Hamlets in a Thousand People's Eyes: Enhancing Knowledge-grounded Dialogue with Personal Memory**|Tingchen Fu et.al.|[2204.02624v1](http://arxiv.org/abs/2204.02624v1)|**[link](https://github.com/lucasftc/personakgc)**|
 |**2022-04-05**|**MGDCF: Distance Learning via Markov Graph Diffusion for Neural Collaborative Filtering**|Jun Hu et.al.|[2204.02338v1](http://arxiv.org/abs/2204.02338v1)|**[link](https://github.com/hujunxianligong/MGDCF)**|
 |**2022-04-04**|**A Unit-Consistent Tensor Completion with Applications in Recommender Systems**|Tung Nguyen et.al.|[2204.01815v1](http://arxiv.org/abs/2204.01815v1)|null|
 |**2022-04-04**|**GWA: A Large High-Quality Acoustic Dataset for Audio Processing**|Zhenyu Tang et.al.|[2204.01787v1](http://arxiv.org/abs/2204.01787v1)|null|
@@ -1034,6 +1052,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-04-05**|**Walk this Way! Entity Walks and Property Walks for RDF2vec**|Jan Portisch et.al.|[2204.02777v1](http://arxiv.org/abs/2204.02777v1)|null|
+|**2022-04-06**|**C3KG: A Chinese Commonsense Conversation Knowledge Graph**|Dawei Li et.al.|[2204.02549v1](http://arxiv.org/abs/2204.02549v1)|null|
 |**2022-04-04**|**MetaAID: A Flexible Framework for Developing Metaverse Applications via AI Technology and Human Editing**|Hongyin Zhu et.al.|[2204.01614v1](http://arxiv.org/abs/2204.01614v1)|null|
 |**2022-04-03**|**Virtual Relational Knowledge Graphs for Recommendation**|Lingyun Lu et.al.|[2204.01089v1](http://arxiv.org/abs/2204.01089v1)|null|
 |**2022-04-02**|**Transformer-Empowered Content-Aware Collaborative Filtering**|Weizhe Lin et.al.|[2204.00849v1](http://arxiv.org/abs/2204.00849v1)|null|
@@ -1184,6 +1204,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-04-06**|**"The Pedestrian next to the Lamppost" Adaptive Object Graphs for Better Instantaneous Mapping**|Avishkar Saha et.al.|[2204.02944v1](http://arxiv.org/abs/2204.02944v1)|null|
+|**2022-04-06**|**How Do Graph Networks Generalize to Large and Diverse Molecular Systems?**|Johannes Gasteiger et.al.|[2204.02782v1](http://arxiv.org/abs/2204.02782v1)|null|
+|**2022-04-06**|**Bridging the Gap of AutoGraph between Academia and Industry: Analysing AutoGraph Challenge at KDD Cup 2020**|Zhen Xu et.al.|[2204.02625v1](http://arxiv.org/abs/2204.02625v1)|**[link](https://github.com/unkrible/autograph2020)**|
 |**2022-04-05**|**MGDCF: Distance Learning via Markov Graph Diffusion for Neural Collaborative Filtering**|Jun Hu et.al.|[2204.02338v1](http://arxiv.org/abs/2204.02338v1)|**[link](https://github.com/hujunxianligong/MGDCF)**|
 |**2022-04-05**|**Transition Information Enhanced Disentangled Graph Neural Networks for Session-based Recommendation**|Ansong Li et.al.|[2204.02119v1](http://arxiv.org/abs/2204.02119v1)|**[link](https://github.com/AnsongLi/TIE-DGNN)**|
 |**2022-04-05**|**Micro-Behavior Encoding for Session-based Recommendation**|Jiahao Yuan et.al.|[2204.02002v1](http://arxiv.org/abs/2204.02002v1)|null|
