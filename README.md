@@ -4,6 +4,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-04-07**|**Mapping the Multilingual Margins: Intersectional Biases of Sentiment Analysis Systems in English, Spanish, and Arabic**|António Câmara et.al.|[2204.03558v1](http://arxiv.org/abs/2204.03558v1)|null|
+|**2022-04-07**|**A Survey of Multi-task Learning in Natural Language Processing: Regarding Task Relatedness and Training Methods**|Zhihan Zhang et.al.|[2204.03508v1](http://arxiv.org/abs/2204.03508v1)|null|
+|**2022-04-07**|**BERTuit: Understanding Spanish language in Twitter through a native transformer**|Javier Huertas-Tato et.al.|[2204.03465v1](http://arxiv.org/abs/2204.03465v1)|null|
+|**2022-04-07**|**Accelerating Attention through Gradient-Based Learned Runtime Pruning**|Zhenge Li et.al.|[2204.03227v1](http://arxiv.org/abs/2204.03227v1)|null|
+|**2022-04-07**|**Transformer-Based Language Models for Software Vulnerability Detection: Performance, Model's Security and Platforms**|Chandra Thapa et.al.|[2204.03214v1](http://arxiv.org/abs/2204.03214v1)|null|
+|**2022-04-06**|**Hierarchical Annotation for Building A Suite of Clinical Natural Language Processing Tasks: Progress Note Understanding**|Yanjun Gao et.al.|[2204.03035v1](http://arxiv.org/abs/2204.03035v1)|null|
 |**2022-04-06**|**Paying More Attention to Self-attention: Improving Pre-trained Language Models via Attention Guiding**|Shanshan Wang et.al.|[2204.02922v1](http://arxiv.org/abs/2204.02922v1)|null|
 |**2022-04-07**|**A survey on recently proposed activation functions for Deep Learning**|Murilo Gustineli et.al.|[2204.02921v2](http://arxiv.org/abs/2204.02921v2)|null|
 |**2022-04-06**|**Sub-Task Decomposition Enables Learning in Sequence to Sequence Tasks**|Noam Wies et.al.|[2204.02892v1](http://arxiv.org/abs/2204.02892v1)|null|
@@ -508,6 +514,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-04-07**|**Mapping the Multilingual Margins: Intersectional Biases of Sentiment Analysis Systems in English, Spanish, and Arabic**|António Câmara et.al.|[2204.03558v1](http://arxiv.org/abs/2204.03558v1)|null|
+|**2022-04-06**|**BiSyn-GAT+: Bi-Syntax Aware Graph Attention Network for Aspect-based Sentiment Analysis**|Shuo Liang et.al.|[2204.03117v1](http://arxiv.org/abs/2204.03117v1)|null|
 |**2022-04-04**|**Product Market Demand Analysis Using NLP in Banglish Text with Sentiment Analysis and Named Entity Recognition**|Md Sabbir Hossain et.al.|[2204.01827v1](http://arxiv.org/abs/2204.01827v1)|null|
 |**2022-04-02**|**CL-XABSA: Contrastive Learning for Cross-lingual Aspect-based Sentiment Analysis**|Nankai Lin et.al.|[2204.00791v1](http://arxiv.org/abs/2204.00791v1)|null|
 |**2022-03-31**|**Dynamic Multimodal Fusion**|Zihui Xue et.al.|[2204.00102v1](http://arxiv.org/abs/2204.00102v1)|null|
@@ -576,6 +584,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-04-07**|**Parameter-Efficient Abstractive Question Answering over Tables or Text**|Vaishali Pal et.al.|[2204.03357v1](http://arxiv.org/abs/2204.03357v1)|**[link](https://github.com/kolk/pea-qa)**|
+|**2022-04-06**|**Using Interactive Feedback to Improve the Accuracy and Explainability of Question Answering Systems Post-Deployment**|Zichao Li et.al.|[2204.03025v1](http://arxiv.org/abs/2204.03025v1)|null|
 |**2022-04-06**|**Knowledge Base Index Compression via Dimensionality and Precision Reduction**|Vilém Zouhar et.al.|[2204.02906v1](http://arxiv.org/abs/2204.02906v1)|null|
 |**2022-04-06**|**Improving Multi-task Generalization Ability for Neural Text Matching via Prompt Learning**|Shicheng Xu et.al.|[2204.02725v1](http://arxiv.org/abs/2204.02725v1)|null|
 |**2022-04-06**|**Improving Zero-Shot Event Extraction via Sentence Simplification**|Sneha Mehta et.al.|[2204.02531v1](http://arxiv.org/abs/2204.02531v1)|null|
@@ -763,6 +773,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-31**|**Leveraging pre-trained language models for conversational information seeking from text**|Patrizio Bellan et.al.|[2204.03542v1](http://arxiv.org/abs/2204.03542v1)|null|
+|**2022-04-07**|**Musical Information Extraction from the Singing Voice**|Preeti Rao et.al.|[2204.03166v1](http://arxiv.org/abs/2204.03166v1)|null|
 |**2022-04-06**|**Hammer PDF: An Intelligent PDF Reader for Scientific Papers**|Sheng-Fu Wang et.al.|[2204.02809v1](http://arxiv.org/abs/2204.02809v1)|null|
 |**2022-04-06**|**Improving Zero-Shot Event Extraction via Sentence Simplification**|Sneha Mehta et.al.|[2204.02531v1](http://arxiv.org/abs/2204.02531v1)|null|
 |**2022-04-04**|**Modern Views of Machine Learning for Precision Psychiatry**|Zhe Sage Chen et.al.|[2204.01607v1](http://arxiv.org/abs/2204.01607v1)|null|
@@ -844,6 +856,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-04-07**|**Single-shot Embedding Dimension Search in Recommender System**|Liang Qu et.al.|[2204.03281v1](http://arxiv.org/abs/2204.03281v1)|null|
+|**2022-04-07**|**Musical Information Extraction from the Singing Voice**|Preeti Rao et.al.|[2204.03166v1](http://arxiv.org/abs/2204.03166v1)|null|
+|**2022-04-06**|**Effective Exposure Amortizing for Fair Top-k Recommendation**|Tao Yang et.al.|[2204.03046v1](http://arxiv.org/abs/2204.03046v1)|null|
+|**2022-04-06**|**The Moral Integrity Corpus: A Benchmark for Ethical Dialogue Systems**|Caleb Ziems et.al.|[2204.03021v1](http://arxiv.org/abs/2204.03021v1)|**[link](https://github.com/gt-salt/mic)**|
 |**2022-04-06**|**Global Readiness of Language Technology for Healthcare: What would it Take to Combat the Next Pandemic?**|Ishani Mondal et.al.|[2204.02790v1](http://arxiv.org/abs/2204.02790v1)|null|
 |**2022-04-06**|**Improving Multi-task Generalization Ability for Neural Text Matching via Prompt Learning**|Shicheng Xu et.al.|[2204.02725v1](http://arxiv.org/abs/2204.02725v1)|null|
 |**2022-04-06**|**There Are a Thousand Hamlets in a Thousand People's Eyes: Enhancing Knowledge-grounded Dialogue with Personal Memory**|Tingchen Fu et.al.|[2204.02624v1](http://arxiv.org/abs/2204.02624v1)|**[link](https://github.com/lucasftc/personakgc)**|
@@ -1204,9 +1220,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-04-07**|**Explicit Feature Interaction-aware Graph Neural Networks**|Minkyu Kim et.al.|[2204.03225v1](http://arxiv.org/abs/2204.03225v1)|null|
+|**2022-04-06**|**BiSyn-GAT+: Bi-Syntax Aware Graph Attention Network for Aspect-based Sentiment Analysis**|Shuo Liang et.al.|[2204.03117v1](http://arxiv.org/abs/2204.03117v1)|null|
+|**2022-04-06**|**Graph Neural Networks Designed for Different Graph Types: A Survey**|Josephine M. Thomas et.al.|[2204.03080v1](http://arxiv.org/abs/2204.03080v1)|null|
 |**2022-04-06**|**"The Pedestrian next to the Lamppost" Adaptive Object Graphs for Better Instantaneous Mapping**|Avishkar Saha et.al.|[2204.02944v1](http://arxiv.org/abs/2204.02944v1)|null|
 |**2022-04-06**|**How Do Graph Networks Generalize to Large and Diverse Molecular Systems?**|Johannes Gasteiger et.al.|[2204.02782v1](http://arxiv.org/abs/2204.02782v1)|null|
-|**2022-04-06**|**Bridging the Gap of AutoGraph between Academia and Industry: Analysing AutoGraph Challenge at KDD Cup 2020**|Zhen Xu et.al.|[2204.02625v1](http://arxiv.org/abs/2204.02625v1)|**[link](https://github.com/unkrible/autograph2020)**|
+|**2022-04-06**|**Bridging the Gap of AutoGraph between Academia and Industry: Analysing AutoGraph Challenge at KDD Cup 2020**|Zhen Xu et.al.|[2204.02625v1](http://arxiv.org/abs/2204.02625v1)|**[link](https://github.com/automl-research/autograph-kddcup2020)**|
 |**2022-04-05**|**MGDCF: Distance Learning via Markov Graph Diffusion for Neural Collaborative Filtering**|Jun Hu et.al.|[2204.02338v1](http://arxiv.org/abs/2204.02338v1)|**[link](https://github.com/hujunxianligong/MGDCF)**|
 |**2022-04-05**|**Transition Information Enhanced Disentangled Graph Neural Networks for Session-based Recommendation**|Ansong Li et.al.|[2204.02119v1](http://arxiv.org/abs/2204.02119v1)|**[link](https://github.com/AnsongLi/TIE-DGNN)**|
 |**2022-04-05**|**Micro-Behavior Encoding for Session-based Recommendation**|Jiahao Yuan et.al.|[2204.02002v1](http://arxiv.org/abs/2204.02002v1)|null|
