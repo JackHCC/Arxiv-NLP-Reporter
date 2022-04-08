@@ -2,14 +2,14 @@
 layout: default
 ---
 
-## Updated on 2022.04.07
+## Updated on 2022.04.08
 
 ## NLP
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2022-04-06**|**Paying More Attention to Self-attention: Improving Pre-trained Language Models via Attention Guiding**|Shanshan Wang et.al.|[2204.02922v1](http://arxiv.org/abs/2204.02922v1)|null|
-|**2022-04-06**|**A survey on recently proposed activation functions for Deep Learning**|Murilo Gustineli et.al.|[2204.02921v1](http://arxiv.org/abs/2204.02921v1)|null|
+|**2022-04-07**|**A survey on recently proposed activation functions for Deep Learning**|Murilo Gustineli et.al.|[2204.02921v2](http://arxiv.org/abs/2204.02921v2)|null|
 |**2022-04-06**|**Sub-Task Decomposition Enables Learning in Sequence to Sequence Tasks**|Noam Wies et.al.|[2204.02892v1](http://arxiv.org/abs/2204.02892v1)|null|
 |**2022-04-06**|**Improving Multi-task Generalization Ability for Neural Text Matching via Prompt Learning**|Shicheng Xu et.al.|[2204.02725v1](http://arxiv.org/abs/2204.02725v1)|null|
 |**2022-04-06**|**A New Dataset for Topic-Based Paragraph Classification in Genocide-Related Court Transcripts**|Miriam Schirmer et.al.|[2204.02712v1](http://arxiv.org/abs/2204.02712v1)|**[link](https://github.com/miriamschirmer/genocide-transcript-corpus)**|
