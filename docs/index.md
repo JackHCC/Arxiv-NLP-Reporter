@@ -8,6 +8,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-04-08**|**Identifying Experts in Question \& Answer Portals: A Case Study on Data Science Competencies in Reddit**|Sofia Strukova et.al.|[2204.04098v1](http://arxiv.org/abs/2204.04098v1)|null|
+|**2022-04-08**|**Checking HateCheck: a cross-functional analysis of behaviour-aware learning for hate speech detection**|Pedro Henrique Luz de Araujo et.al.|[2204.04042v1](http://arxiv.org/abs/2204.04042v1)|**[link](https://github.com/peluz/checking-hatecheck-code)**|
+|**2022-04-08**|**BioBART: Pretraining and Evaluation of A Biomedical Generative Language Model**|Hongyi Yuan et.al.|[2204.03905v1](http://arxiv.org/abs/2204.03905v1)|**[link](https://github.com/GanjinZero/BioBART)**|
+|**2022-04-07**|**T4PdM: a Deep Neural Network based on the Transformer Architecture for Fault Diagnosis of Rotating Machinery**|Erick Giovani Sperandio Nascimento et.al.|[2204.03725v1](http://arxiv.org/abs/2204.03725v1)|null|
 |**2022-04-07**|**Mapping the Multilingual Margins: Intersectional Biases of Sentiment Analysis Systems in English, Spanish, and Arabic**|António Câmara et.al.|[2204.03558v1](http://arxiv.org/abs/2204.03558v1)|null|
 |**2022-04-07**|**A Survey of Multi-task Learning in Natural Language Processing: Regarding Task Relatedness and Training Methods**|Zhihan Zhang et.al.|[2204.03508v1](http://arxiv.org/abs/2204.03508v1)|null|
 |**2022-04-07**|**BERTuit: Understanding Spanish language in Twitter through a native transformer**|Javier Huertas-Tato et.al.|[2204.03465v1](http://arxiv.org/abs/2204.03465v1)|null|
@@ -334,6 +338,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-04-08**|**RuBioRoBERTa: a pre-trained biomedical language model for Russian language biomedical text mining**|Alexander Yalunin et.al.|[2204.03951v1](http://arxiv.org/abs/2204.03951v1)|null|
+|**2022-04-08**|**BioBART: Pretraining and Evaluation of A Biomedical Generative Language Model**|Hongyi Yuan et.al.|[2204.03905v1](http://arxiv.org/abs/2204.03905v1)|**[link](https://github.com/GanjinZero/BioBART)**|
 |**2022-04-04**|**Product Market Demand Analysis Using NLP in Banglish Text with Sentiment Analysis and Named Entity Recognition**|Md Sabbir Hossain et.al.|[2204.01827v1](http://arxiv.org/abs/2204.01827v1)|null|
 |**2022-04-02**|**End-to-end model for named entity recognition from speech without paired training data**|Salima Mdhaffar et.al.|[2204.00803v1](http://arxiv.org/abs/2204.00803v1)|null|
 |**2022-04-02**|**A Dual-Contrastive Framework for Low-Resource Cross-Lingual Named Entity Recognition**|Yingwen Fu et.al.|[2204.00796v1](http://arxiv.org/abs/2204.00796v1)|null|
@@ -394,6 +400,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-04-08**|**Bag-of-Words vs. Sequence vs. Graph vs. Hierarchy for Single- and Multi-Label Text Classification**|Andor Diera et.al.|[2204.03954v1](http://arxiv.org/abs/2204.03954v1)|null|
+|**2022-04-08**|**RuBioRoBERTa: a pre-trained biomedical language model for Russian language biomedical text mining**|Alexander Yalunin et.al.|[2204.03951v1](http://arxiv.org/abs/2204.03951v1)|null|
 |**2022-04-06**|**A New Dataset for Topic-Based Paragraph Classification in Genocide-Related Court Transcripts**|Miriam Schirmer et.al.|[2204.02712v1](http://arxiv.org/abs/2204.02712v1)|**[link](https://github.com/miriamschirmer/genocide-transcript-corpus)**|
 |**2022-04-06**|**Learning to Adapt Clinical Sequences with Residual Mixture of Experts**|Jeong Min Lee et.al.|[2204.02687v1](http://arxiv.org/abs/2204.02687v1)|**[link](https://github.com/leej35/residual-moe)**|
 |**2022-04-06**|**DAGAM: Data Augmentation with Generation And Modification**|Byeong-Cheol Jo et.al.|[2204.02633v1](http://arxiv.org/abs/2204.02633v1)|null|
@@ -588,6 +596,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-04-08**|**Identifying Experts in Question \& Answer Portals: A Case Study on Data Science Competencies in Reddit**|Sofia Strukova et.al.|[2204.04098v1](http://arxiv.org/abs/2204.04098v1)|null|
+|**2022-04-08**|**Gone Quishing: A Field Study of Phishing with Malicious QR Codes**|Filipo Sharevski et.al.|[2204.04086v1](http://arxiv.org/abs/2204.04086v1)|null|
+|**2022-04-08**|**KGI: An Integrated Framework for Knowledge Intensive Language Tasks**|Md Faisal Mahbub Chowdhury et.al.|[2204.03985v1](http://arxiv.org/abs/2204.03985v1)|null|
+|**2022-04-08**|**RuBioRoBERTa: a pre-trained biomedical language model for Russian language biomedical text mining**|Alexander Yalunin et.al.|[2204.03951v1](http://arxiv.org/abs/2204.03951v1)|null|
+|**2022-04-08**|**From Rewriting to Remembering: Common Ground for Conversational QA Models**|Marco Del Tredici et.al.|[2204.03930v1](http://arxiv.org/abs/2204.03930v1)|null|
 |**2022-04-07**|**Parameter-Efficient Abstractive Question Answering over Tables or Text**|Vaishali Pal et.al.|[2204.03357v1](http://arxiv.org/abs/2204.03357v1)|**[link](https://github.com/kolk/pea-qa)**|
 |**2022-04-06**|**Using Interactive Feedback to Improve the Accuracy and Explainability of Question Answering Systems Post-Deployment**|Zichao Li et.al.|[2204.03025v1](http://arxiv.org/abs/2204.03025v1)|null|
 |**2022-04-06**|**Knowledge Base Index Compression via Dimensionality and Precision Reduction**|Vilém Zouhar et.al.|[2204.02906v1](http://arxiv.org/abs/2204.02906v1)|null|
@@ -777,6 +790,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-04-08**|**Predicting Berth Stay for Tanker Terminals: A Systematic and Dynamic Approach**|Deqing Zhai et.al.|[2204.04085v1](http://arxiv.org/abs/2204.04085v1)|null|
+|**2022-04-08**|**CrudeOilNews: An Annotated Crude Oil News Corpus for Event Extraction**|Meisin Lee et.al.|[2204.03871v1](http://arxiv.org/abs/2204.03871v1)|**[link](https://github.com/meisin/crudeoilnews-corpus)**|
 |**2022-03-31**|**Leveraging pre-trained language models for conversational information seeking from text**|Patrizio Bellan et.al.|[2204.03542v1](http://arxiv.org/abs/2204.03542v1)|null|
 |**2022-04-07**|**Musical Information Extraction from the Singing Voice**|Preeti Rao et.al.|[2204.03166v1](http://arxiv.org/abs/2204.03166v1)|null|
 |**2022-04-06**|**Hammer PDF: An Intelligent PDF Reader for Scientific Papers**|Sheng-Fu Wang et.al.|[2204.02809v1](http://arxiv.org/abs/2204.02809v1)|null|
@@ -860,6 +875,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-04-08**|**Identifying Ambiguous Similarity Conditions via Semantic Matching**|Han-Jia Ye et.al.|[2204.04053v1](http://arxiv.org/abs/2204.04053v1)|null|
+|**2022-04-08**|**IA-GCN: Interactive Graph Convolutional Network for Recommendation**|Yinan Zhang et.al.|[2204.03827v1](http://arxiv.org/abs/2204.03827v1)|null|
+|**2022-04-07**|**Introducing a Framework and a Decision Protocol to Calibrate Recommender Systems**|Diego Corrêa da Silva et.al.|[2204.03706v1](http://arxiv.org/abs/2204.03706v1)|null|
 |**2022-04-07**|**Single-shot Embedding Dimension Search in Recommender System**|Liang Qu et.al.|[2204.03281v1](http://arxiv.org/abs/2204.03281v1)|null|
 |**2022-04-07**|**Musical Information Extraction from the Singing Voice**|Preeti Rao et.al.|[2204.03166v1](http://arxiv.org/abs/2204.03166v1)|null|
 |**2022-04-06**|**Effective Exposure Amortizing for Fair Top-k Recommendation**|Tao Yang et.al.|[2204.03046v1](http://arxiv.org/abs/2204.03046v1)|null|
@@ -1072,6 +1090,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-04-08**|**KCD: Knowledge Walks and Textual Cues Enhanced Political Perspective Detection in News Media**|Wenqian Zhang et.al.|[2204.04046v1](http://arxiv.org/abs/2204.04046v1)|null|
+|**2022-04-08**|**Ontology Matching Through Absolute Orientation of Embedding Spaces**|Jan Portisch et.al.|[2204.04040v1](http://arxiv.org/abs/2204.04040v1)|**[link](https://github.com/guilhermesfc/ontology-matching-absolute-orientation)**|
+|**2022-04-08**|**Blockchain as an Enabler for Transfer Learning in Smart Environments**|Amin Anjomshoaa et.al.|[2204.03959v1](http://arxiv.org/abs/2204.03959v1)|null|
 |**2022-04-05**|**Walk this Way! Entity Walks and Property Walks for RDF2vec**|Jan Portisch et.al.|[2204.02777v1](http://arxiv.org/abs/2204.02777v1)|null|
 |**2022-04-06**|**C3KG: A Chinese Commonsense Conversation Knowledge Graph**|Dawei Li et.al.|[2204.02549v1](http://arxiv.org/abs/2204.02549v1)|null|
 |**2022-04-04**|**MetaAID: A Flexible Framework for Developing Metaverse Applications via AI Technology and Human Editing**|Hongyin Zhu et.al.|[2204.01614v1](http://arxiv.org/abs/2204.01614v1)|null|
@@ -1224,6 +1245,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-04-08**|**KCD: Knowledge Walks and Textual Cues Enhanced Political Perspective Detection in News Media**|Wenqian Zhang et.al.|[2204.04046v1](http://arxiv.org/abs/2204.04046v1)|null|
+|**2022-04-08**|**Bag-of-Words vs. Sequence vs. Graph vs. Hierarchy for Single- and Multi-Label Text Classification**|Andor Diera et.al.|[2204.03954v1](http://arxiv.org/abs/2204.03954v1)|null|
 |**2022-04-07**|**Explicit Feature Interaction-aware Graph Neural Networks**|Minkyu Kim et.al.|[2204.03225v1](http://arxiv.org/abs/2204.03225v1)|null|
 |**2022-04-06**|**BiSyn-GAT+: Bi-Syntax Aware Graph Attention Network for Aspect-based Sentiment Analysis**|Shuo Liang et.al.|[2204.03117v1](http://arxiv.org/abs/2204.03117v1)|null|
 |**2022-04-06**|**Graph Neural Networks Designed for Different Graph Types: A Survey**|Josephine M. Thomas et.al.|[2204.03080v1](http://arxiv.org/abs/2204.03080v1)|null|
