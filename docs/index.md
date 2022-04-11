@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.04.10
+## Updated on 2022.04.11
 
 ## NLP
 
@@ -11,7 +11,7 @@ layout: default
 |**2022-04-07**|**Mapping the Multilingual Margins: Intersectional Biases of Sentiment Analysis Systems in English, Spanish, and Arabic**|António Câmara et.al.|[2204.03558v1](http://arxiv.org/abs/2204.03558v1)|null|
 |**2022-04-07**|**A Survey of Multi-task Learning in Natural Language Processing: Regarding Task Relatedness and Training Methods**|Zhihan Zhang et.al.|[2204.03508v1](http://arxiv.org/abs/2204.03508v1)|null|
 |**2022-04-07**|**BERTuit: Understanding Spanish language in Twitter through a native transformer**|Javier Huertas-Tato et.al.|[2204.03465v1](http://arxiv.org/abs/2204.03465v1)|null|
-|**2022-04-07**|**Accelerating Attention through Gradient-Based Learned Runtime Pruning**|Zhenge Li et.al.|[2204.03227v1](http://arxiv.org/abs/2204.03227v1)|null|
+|**2022-04-08**|**Accelerating Attention through Gradient-Based Learned Runtime Pruning**|Zheng Li et.al.|[2204.03227v2](http://arxiv.org/abs/2204.03227v2)|null|
 |**2022-04-07**|**Transformer-Based Language Models for Software Vulnerability Detection: Performance, Model's Security and Platforms**|Chandra Thapa et.al.|[2204.03214v1](http://arxiv.org/abs/2204.03214v1)|null|
 |**2022-04-06**|**Hierarchical Annotation for Building A Suite of Clinical Natural Language Processing Tasks: Progress Note Understanding**|Yanjun Gao et.al.|[2204.03035v1](http://arxiv.org/abs/2204.03035v1)|null|
 |**2022-04-06**|**Paying More Attention to Self-attention: Improving Pre-trained Language Models via Attention Guiding**|Shanshan Wang et.al.|[2204.02922v1](http://arxiv.org/abs/2204.02922v1)|null|
