@@ -1088,7 +1088,7 @@
 |---|---|---|---|---|
 |**2022-04-08**|**KCD: Knowledge Walks and Textual Cues Enhanced Political Perspective Detection in News Media**|Wenqian Zhang et.al.|[2204.04046v1](http://arxiv.org/abs/2204.04046v1)|null|
 |**2022-04-08**|**Ontology Matching Through Absolute Orientation of Embedding Spaces**|Jan Portisch et.al.|[2204.04040v1](http://arxiv.org/abs/2204.04040v1)|**[link](https://github.com/guilhermesfc/ontology-matching-absolute-orientation)**|
-|**2022-04-08**|**Blockchain as an Enabler for Transfer Learning in Smart Environments**|Amin Anjomshoaa et.al.|[2204.03959v1](http://arxiv.org/abs/2204.03959v1)|null|
+|**2022-04-11**|**Blockchain as an Enabler for Transfer Learning in Smart Environments**|Amin Anjomshoaa et.al.|[2204.03959v2](http://arxiv.org/abs/2204.03959v2)|null|
 |**2022-04-05**|**Walk this Way! Entity Walks and Property Walks for RDF2vec**|Jan Portisch et.al.|[2204.02777v1](http://arxiv.org/abs/2204.02777v1)|null|
 |**2022-04-06**|**C3KG: A Chinese Commonsense Conversation Knowledge Graph**|Dawei Li et.al.|[2204.02549v1](http://arxiv.org/abs/2204.02549v1)|null|
 |**2022-04-04**|**MetaAID: A Flexible Framework for Developing Metaverse Applications via AI Technology and Human Editing**|Hongyin Zhu et.al.|[2204.01614v1](http://arxiv.org/abs/2204.01614v1)|null|
