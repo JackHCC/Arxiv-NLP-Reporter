@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-04-11**|**Survey of Aspect-based Sentiment Analysis Datasets**|Siva Uday Sampreeth Chebolu et.al.|[2204.05232v1](http://arxiv.org/abs/2204.05232v1)|null|
+|**2022-04-11**|**"FIJO": a French Insurance Soft Skill Detection Dataset**|David Beauchemin et.al.|[2204.05208v1](http://arxiv.org/abs/2204.05208v1)|**[link](https://github.com/iid-ulaval/fijo-code)**|
+|**2022-04-11**|**Resources for Turkish Natural Language Processing: A critical survey**|Çağrı Çöltekin et.al.|[2204.05042v1](http://arxiv.org/abs/2204.05042v1)|null|
+|**2022-04-11**|**A Survey on Legal Judgment Prediction: Datasets, Metrics, Models and Challenges**|Junyun Cui et.al.|[2204.04859v1](http://arxiv.org/abs/2204.04859v1)|null|
+|**2022-04-10**|**Fake news detection using parallel BERT deep neural networks**|Mahmood Farokhian et.al.|[2204.04793v1](http://arxiv.org/abs/2204.04793v1)|null|
+|**2022-04-10**|**ClioQuery: Interactive Query-Oriented Text Analytics for Comprehensive Investigation of Historical News Archives**|Abram Handler et.al.|[2204.04694v1](http://arxiv.org/abs/2204.04694v1)|null|
+|**2022-04-10**|**"That Is a Suspicious Reaction!": Interpreting Logits Variation to Detect NLP Adversarial Attacks**|Edoardo Mosca et.al.|[2204.04636v1](http://arxiv.org/abs/2204.04636v1)|null|
+|**2022-04-09**|**KOBEST: Korean Balanced Evaluation of Significant Tasks**|Dohyeong Kim et.al.|[2204.04541v1](http://arxiv.org/abs/2204.04541v1)|null|
+|**2022-04-09**|**Uninformative Input Features and Counterfactual Invariance: Two Perspectives on Spurious Correlations in Natural Language**|Jacob Eisenstein et.al.|[2204.04487v1](http://arxiv.org/abs/2204.04487v1)|null|
+|**2022-04-09**|**Modeling Multi-Granularity Hierarchical Features for Relation Extraction**|Xinnian Liang et.al.|[2204.04437v1](http://arxiv.org/abs/2204.04437v1)|**[link](https://github.com/xnliang98/sms)**|
 |**2022-04-08**|**Identifying Experts in Question \& Answer Portals: A Case Study on Data Science Competencies in Reddit**|Sofia Strukova et.al.|[2204.04098v1](http://arxiv.org/abs/2204.04098v1)|null|
 |**2022-04-08**|**Checking HateCheck: a cross-functional analysis of behaviour-aware learning for hate speech detection**|Pedro Henrique Luz de Araujo et.al.|[2204.04042v1](http://arxiv.org/abs/2204.04042v1)|**[link](https://github.com/peluz/checking-hatecheck-code)**|
 |**2022-04-08**|**BioBART: Pretraining and Evaluation of A Biomedical Generative Language Model**|Hongyi Yuan et.al.|[2204.03905v1](http://arxiv.org/abs/2204.03905v1)|**[link](https://github.com/GanjinZero/BioBART)**|
@@ -321,6 +331,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-04-09**|**A dataset of ant colonies motion trajectories in indoor and outdoor scenes for social cluster behavior study**|Meihong Wu et.al.|[2204.04380v1](http://arxiv.org/abs/2204.04380v1)|null|
 |**2022-04-04**|**LISA: Learning Implicit Shape and Appearance of Hands**|Enric Corona et.al.|[2204.01695v1](http://arxiv.org/abs/2204.01695v1)|null|
 |**2022-03-31**|**Scientific and Technological Text Knowledge Extraction Method of based on Word Mixing and GRU**|Suyu Ouyang et.al.|[2203.17079v1](http://arxiv.org/abs/2203.17079v1)|null|
 |**2020-06-14**|**A group-theoretic approach to elimination measurements of qubit sequences**|Mark Hillery et.al.|[2002.02055v2](http://arxiv.org/abs/2002.02055v2)|null|
@@ -338,6 +349,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-04-11**|**Entities, Dates, and Languages: Zero-Shot on Historical Texts with T0**|Francesco De Toni et.al.|[2204.05211v1](http://arxiv.org/abs/2204.05211v1)|null|
+|**2022-04-11**|**"FIJO": a French Insurance Soft Skill Detection Dataset**|David Beauchemin et.al.|[2204.05208v1](http://arxiv.org/abs/2204.05208v1)|**[link](https://github.com/iid-ulaval/fijo-code)**|
+|**2022-04-11**|**A Comparative Study of Pre-trained Encoders for Low-Resource Named Entity Recognition**|Yuxuan Chen et.al.|[2204.04980v1](http://arxiv.org/abs/2204.04980v1)|**[link](https://github.com/dfki-nlp/fewie)**|
+|**2022-04-10**|**Few-Shot Cross-lingual Transfer for Coarse-grained De-identification of Code-Mixed Clinical Texts**|Saadullah Amin et.al.|[2204.04775v1](http://arxiv.org/abs/2204.04775v1)|**[link](https://github.com/suamin/t2ner)**|
+|**2022-04-10**|**Breaking Character: Are Subwords Good Enough for MRLs After All?**|Omri Keren et.al.|[2204.04748v1](http://arxiv.org/abs/2204.04748v1)|null|
+|**2022-04-09**|**MINER: Improving Out-of-Vocabulary Named Entity Recognition from an Information Theoretic Perspective**|Xiao Wang et.al.|[2204.04391v1](http://arxiv.org/abs/2204.04391v1)|null|
+|**2022-04-08**|**BioRED: A Comprehensive Biomedical Relation Extraction Dataset**|Ling Luo et.al.|[2204.04263v1](http://arxiv.org/abs/2204.04263v1)|null|
 |**2022-04-08**|**RuBioRoBERTa: a pre-trained biomedical language model for Russian language biomedical text mining**|Alexander Yalunin et.al.|[2204.03951v1](http://arxiv.org/abs/2204.03951v1)|null|
 |**2022-04-08**|**BioBART: Pretraining and Evaluation of A Biomedical Generative Language Model**|Hongyi Yuan et.al.|[2204.03905v1](http://arxiv.org/abs/2204.03905v1)|**[link](https://github.com/GanjinZero/BioBART)**|
 |**2022-04-04**|**Product Market Demand Analysis Using NLP in Banglish Text with Sentiment Analysis and Named Entity Recognition**|Md Sabbir Hossain et.al.|[2204.01827v1](http://arxiv.org/abs/2204.01827v1)|null|
@@ -400,6 +418,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-04-11**|**MGIMN: Multi-Grained Interactive Matching Network for Few-shot Text Classification**|Jianhai Zhang et.al.|[2204.04952v1](http://arxiv.org/abs/2204.04952v1)|null|
+|**2022-04-10**|**Multi-Label Clinical Time-Series Generation via Conditional GAN**|Chang Lu et.al.|[2204.04797v1](http://arxiv.org/abs/2204.04797v1)|**[link](https://github.com/luchang-cs/mtgan)**|
+|**2022-04-10**|**ME-GCN: Multi-dimensional Edge-Embedded Graph Convolutional Networks for Semi-supervised Text Classification**|Kunze Wang et.al.|[2204.04618v1](http://arxiv.org/abs/2204.04618v1)|null|
+|**2022-04-09**|**Understanding, Detecting, and Separating Out-of-Distribution Samples and Adversarial Samples in Text Classification**|Cheng-Han Chiang et.al.|[2204.04458v1](http://arxiv.org/abs/2204.04458v1)|null|
 |**2022-04-08**|**Bag-of-Words vs. Sequence vs. Graph vs. Hierarchy for Single- and Multi-Label Text Classification**|Andor Diera et.al.|[2204.03954v1](http://arxiv.org/abs/2204.03954v1)|null|
 |**2022-04-08**|**RuBioRoBERTa: a pre-trained biomedical language model for Russian language biomedical text mining**|Alexander Yalunin et.al.|[2204.03951v1](http://arxiv.org/abs/2204.03951v1)|null|
 |**2022-04-06**|**A New Dataset for Topic-Based Paragraph Classification in Genocide-Related Court Transcripts**|Miriam Schirmer et.al.|[2204.02712v1](http://arxiv.org/abs/2204.02712v1)|**[link](https://github.com/miriamschirmer/genocide-transcript-corpus)**|
@@ -526,6 +548,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-04-11**|**Survey of Aspect-based Sentiment Analysis Datasets**|Siva Uday Sampreeth Chebolu et.al.|[2204.05232v1](http://arxiv.org/abs/2204.05232v1)|null|
+|**2022-04-11**|**Assessment of Massively Multilingual Sentiment Classifiers**|Krzysztof Rajda et.al.|[2204.04937v1](http://arxiv.org/abs/2204.04937v1)|null|
 |**2022-04-07**|**Mapping the Multilingual Margins: Intersectional Biases of Sentiment Analysis Systems in English, Spanish, and Arabic**|António Câmara et.al.|[2204.03558v1](http://arxiv.org/abs/2204.03558v1)|null|
 |**2022-04-06**|**BiSyn-GAT+: Bi-Syntax Aware Graph Attention Network for Aspect-based Sentiment Analysis**|Shuo Liang et.al.|[2204.03117v1](http://arxiv.org/abs/2204.03117v1)|null|
 |**2022-04-04**|**Product Market Demand Analysis Using NLP in Banglish Text with Sentiment Analysis and Named Entity Recognition**|Md Sabbir Hossain et.al.|[2204.01827v1](http://arxiv.org/abs/2204.01827v1)|null|
@@ -596,6 +620,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-04-11**|**Single-Turn Debate Does Not Help Humans Answer Hard Reading-Comprehension Questions**|Alicia Parrish et.al.|[2204.05212v1](http://arxiv.org/abs/2204.05212v1)|null|
+|**2022-04-11**|**Metaethical Perspectives on 'Benchmarking' AI Ethics**|Travis LaCroix et.al.|[2204.05151v1](http://arxiv.org/abs/2204.05151v1)|null|
+|**2022-04-11**|**Answering Count Queries with Explanatory Evidence**|Shrestha Ghosh et.al.|[2204.05039v1](http://arxiv.org/abs/2204.05039v1)|null|
+|**2022-04-10**|**Breaking Character: Are Subwords Good Enough for MRLs After All?**|Omri Keren et.al.|[2204.04748v1](http://arxiv.org/abs/2204.04748v1)|null|
+|**2022-04-10**|**Data Augmentation for Biomedical Factoid Question Answering**|Dimitris Pappas et.al.|[2204.04711v1](http://arxiv.org/abs/2204.04711v1)|null|
+|**2022-04-10**|**Coreset of Hyperspectral Images on Small Quantum Computer**|Soronzonbold Otgonbaatar et.al.|[2204.04691v1](http://arxiv.org/abs/2204.04691v1)|null|
+|**2022-04-10**|**Augmenting Pre-trained Language Models with QA-Memory for Open-Domain Question Answering**|Wenhu Chen et.al.|[2204.04581v1](http://arxiv.org/abs/2204.04581v1)|null|
+|**2022-04-09**|**Extending the Scope of Out-of-Domain: Examining QA models in multiple subdomains**|Chenyang Lyu et.al.|[2204.04534v1](http://arxiv.org/abs/2204.04534v1)|**[link](https://github.com/lyuchenyang/analysing-question-answering-data)**|
 |**2022-04-08**|**Identifying Experts in Question \& Answer Portals: A Case Study on Data Science Competencies in Reddit**|Sofia Strukova et.al.|[2204.04098v1](http://arxiv.org/abs/2204.04098v1)|null|
 |**2022-04-08**|**Gone Quishing: A Field Study of Phishing with Malicious QR Codes**|Filipo Sharevski et.al.|[2204.04086v1](http://arxiv.org/abs/2204.04086v1)|null|
 |**2022-04-08**|**KGI: An Integrated Framework for Knowledge Intensive Language Tasks**|Md Faisal Mahbub Chowdhury et.al.|[2204.03985v1](http://arxiv.org/abs/2204.03985v1)|null|
@@ -790,6 +822,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-04-11**|**Semantic Information Market For The Metaverse: An Auction Based Approach**|Lotfi Ismail et.al.|[2204.04878v1](http://arxiv.org/abs/2204.04878v1)|null|
+|**2022-04-10**|**Few-Shot Cross-lingual Transfer for Coarse-grained De-identification of Code-Mixed Clinical Texts**|Saadullah Amin et.al.|[2204.04775v1](http://arxiv.org/abs/2204.04775v1)|**[link](https://github.com/suamin/t2ner)**|
+|**2022-04-10**|**A review of knowledge graph application scenarios in cyber security**|Kai Liu et.al.|[2204.04769v1](http://arxiv.org/abs/2204.04769v1)|null|
 |**2022-04-08**|**Predicting Berth Stay for Tanker Terminals: A Systematic and Dynamic Approach**|Deqing Zhai et.al.|[2204.04085v1](http://arxiv.org/abs/2204.04085v1)|null|
 |**2022-04-08**|**CrudeOilNews: An Annotated Crude Oil News Corpus for Event Extraction**|Meisin Lee et.al.|[2204.03871v1](http://arxiv.org/abs/2204.03871v1)|**[link](https://github.com/meisin/crudeoilnews-corpus)**|
 |**2022-03-31**|**Leveraging pre-trained language models for conversational information seeking from text**|Patrizio Bellan et.al.|[2204.03542v1](http://arxiv.org/abs/2204.03542v1)|null|
@@ -875,6 +910,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-04-11**|**Reinforcement Re-ranking with 2D Grid-based Recommendation Panels**|Sirui Chen et.al.|[2204.04954v1](http://arxiv.org/abs/2204.04954v1)|null|
+|**2022-04-11**|**PICASSO: Unleashing the Potential of GPU-centric Training for Wide-and-deep Recommender Systems**|Yuanxing Zhang et.al.|[2204.04903v1](http://arxiv.org/abs/2204.04903v1)|null|
+|**2022-04-10**|**Temporal Knowledge Graph Reasoning with Low-rank and Model-agnostic Representations**|Ioannis Dikeoulias et.al.|[2204.04783v1](http://arxiv.org/abs/2204.04783v1)|**[link](https://github.com/iodike/chronokge)**|
+|**2022-04-10**|**A Distributed Real-Time Recommender System for Big Data Streams**|Heidy Hazem et.al.|[2204.04633v1](http://arxiv.org/abs/2204.04633v1)|null|
 |**2022-04-08**|**Identifying Ambiguous Similarity Conditions via Semantic Matching**|Han-Jia Ye et.al.|[2204.04053v1](http://arxiv.org/abs/2204.04053v1)|null|
 |**2022-04-08**|**IA-GCN: Interactive Graph Convolutional Network for Recommendation**|Yinan Zhang et.al.|[2204.03827v1](http://arxiv.org/abs/2204.03827v1)|null|
 |**2022-04-07**|**Introducing a Framework and a Decision Protocol to Calibrate Recommender Systems**|Diego Corrêa da Silva et.al.|[2204.03706v1](http://arxiv.org/abs/2204.03706v1)|null|
@@ -1090,6 +1129,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-04-11**|**HAKG: Hierarchy-Aware Knowledge Gated Network for Recommendation**|Yuntao Du et.al.|[2204.04959v1](http://arxiv.org/abs/2204.04959v1)|**[link](https://github.com/scottdyt/hakg)**|
+|**2022-04-11**|**Knowledge Graph and Accurate Portrait Construction of Scientific and Technological Academic Conferences**|Runyu Yu et.al.|[2204.04888v1](http://arxiv.org/abs/2204.04888v1)|null|
+|**2022-04-11**|**Accurate Portraits of Scientific Resources and Knowledge Service Components**|Yue Wang et.al.|[2204.04883v1](http://arxiv.org/abs/2204.04883v1)|null|
+|**2022-04-10**|**Temporal Knowledge Graph Reasoning with Low-rank and Model-agnostic Representations**|Ioannis Dikeoulias et.al.|[2204.04783v1](http://arxiv.org/abs/2204.04783v1)|**[link](https://github.com/iodike/chronokge)**|
+|**2022-04-10**|**MedDistant19: A Challenging Benchmark for Distantly Supervised Biomedical Relation Extraction**|Saadullah Amin et.al.|[2204.04779v1](http://arxiv.org/abs/2204.04779v1)|**[link](https://github.com/suamin/meddistant19)**|
+|**2022-04-10**|**A review of knowledge graph application scenarios in cyber security**|Kai Liu et.al.|[2204.04769v1](http://arxiv.org/abs/2204.04769v1)|null|
+|**2022-04-09**|**Modeling Multi-Granularity Hierarchical Features for Relation Extraction**|Xinnian Liang et.al.|[2204.04437v1](http://arxiv.org/abs/2204.04437v1)|**[link](https://github.com/xnliang98/sms)**|
 |**2022-04-08**|**KCD: Knowledge Walks and Textual Cues Enhanced Political Perspective Detection in News Media**|Wenqian Zhang et.al.|[2204.04046v1](http://arxiv.org/abs/2204.04046v1)|null|
 |**2022-04-08**|**Ontology Matching Through Absolute Orientation of Embedding Spaces**|Jan Portisch et.al.|[2204.04040v1](http://arxiv.org/abs/2204.04040v1)|**[link](https://github.com/guilhermesfc/ontology-matching-absolute-orientation)**|
 |**2022-04-11**|**Blockchain as an Enabler for Transfer Learning in Smart Environments**|Amin Anjomshoaa et.al.|[2204.03959v2](http://arxiv.org/abs/2204.03959v2)|null|
@@ -1245,6 +1291,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-04-11**|**Multi-view graph structure learning using subspace merging on Grassmann manifold**|Razieh Ghiasi et.al.|[2204.05258v1](http://arxiv.org/abs/2204.05258v1)|null|
+|**2022-04-11**|**Learning Object-Centered Autotelic Behaviors with Graph Neural Networks**|Ahmed Akakzia et.al.|[2204.05141v1](http://arxiv.org/abs/2204.05141v1)|null|
+|**2022-04-08**|**Self-Supervised Graph Neural Network for Multi-Source Domain Adaptation**|Jin Yuan et.al.|[2204.05104v1](http://arxiv.org/abs/2204.05104v1)|null|
+|**2022-04-11**|**How to Find Your Friendly Neighborhood: Graph Attention Design with Self-Supervision**|Dongkwan Kim et.al.|[2204.04879v1](http://arxiv.org/abs/2204.04879v1)|**[link](https://github.com/dongkwan-kim/SuperGAT)**|
+|**2022-04-11**|**Augmentation-Free Graph Contrastive Learning**|Haonan Wang et.al.|[2204.04874v1](http://arxiv.org/abs/2204.04874v1)|null|
+|**2022-04-10**|**Melting temperature prediction via first principles and deep learning**|Qi-Jun Hong et.al.|[2204.04740v1](http://arxiv.org/abs/2204.04740v1)|null|
+|**2022-04-10**|**Expressiveness and Approximation Properties of Graph Neural Networks**|Floris Geerts et.al.|[2204.04661v1](http://arxiv.org/abs/2204.04661v1)|null|
 |**2022-04-08**|**KCD: Knowledge Walks and Textual Cues Enhanced Political Perspective Detection in News Media**|Wenqian Zhang et.al.|[2204.04046v1](http://arxiv.org/abs/2204.04046v1)|null|
 |**2022-04-08**|**Bag-of-Words vs. Sequence vs. Graph vs. Hierarchy for Single- and Multi-Label Text Classification**|Andor Diera et.al.|[2204.03954v1](http://arxiv.org/abs/2204.03954v1)|null|
 |**2022-04-07**|**Explicit Feature Interaction-aware Graph Neural Networks**|Minkyu Kim et.al.|[2204.03225v1](http://arxiv.org/abs/2204.03225v1)|null|
